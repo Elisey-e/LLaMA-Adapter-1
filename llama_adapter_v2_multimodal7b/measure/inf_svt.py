@@ -26,12 +26,12 @@ def load_icdar2015_test_data(gt_dir, image_dir):
     word_count = 0
     
     # Get all ground truth files
-    gt_files = sorted(glob.glob(os.path.join(gt_dir, "gt_img_*.txt")))
+    gt_files = sorted(glob.glob(os.path.join(gt_dir, "*.txt")))
     
     for gt_file in gt_files:
         # Extract image ID from ground truth filename
-        img_id = os.path.basename(gt_file).replace("gt_img_", "").replace(".txt", "")
-        img_name = f"img_{img_id}.jpg"
+        img_id = os.path.basename(gt_file).replace(".txt", "")
+        img_name = f"{img_id}.jpg"
         img_path = os.path.join(image_dir, img_name)
         
         # Check if image exists
@@ -50,13 +50,10 @@ def load_icdar2015_test_data(gt_dir, image_dir):
                 continue
                 
             # Parse line: x1,y1,x2,y2,x3,y3,x4,y4,text
-            parts = line.split(',')
-            if len(parts) < 9:  # Need at least 8 coordinates + text
-                print(f"Warning: Skipping malformed line: {line}")
-                continue
+            parts = line
                 
             # Extract text (everything after the 8 coordinates, joined by commas if text contains commas)
-            text = ','.join(parts[8:])
+            text = ','.join(parts)
             words.append(text)
             word_count += 1
         
@@ -188,11 +185,11 @@ def main():
     print(f"Using device: {device}")
     
     # Define paths
-    dataset_dir = "../datasets/icdar2015"
+    dataset_dir = "../datasets/cute80"
     llama_dir = "../LLaMA-7B"
     model_name = "CAPTION-7B"  # choose from BIAS-7B, LORA-BIAS-7B, CAPTION-7B.pth
-    res_json = "../datasets/icdar2015/generate_markup_adv.json"
-    stat_json = "../datasets/icdar2015/statistic_adv.json"
+    res_json = "../datasets/cute80/generate_markup_adv.json"
+    stat_json = "../datasets/cute80/statistic_adv.json"
     
     # Load model
     print(f"Loading model: {model_name}...")

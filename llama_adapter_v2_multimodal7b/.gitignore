@@ -1,18 +1,25 @@
 .denv
-datasets/icdar2013/images/*
-datasets/icdar2015/images/*
+datasets/icdar2013/images/*.png
+datasets/icdar2015/images/*.jpg
 
-datasets/icdar2013/gt/*
-datasets/icdar2015/gt/*
+datasets/icdar2013/gt/*.txt
+datasets/icdar2015/gt/*.txt
 
-datasets/IIIT5K/test/*
-datasets/IIIT5K/train/*
+datasets/IIIT5K/test/*.png
+datasets/IIIT5K/train/*.png
 
 *ckpts
 
-datasets/cute80/CUTE80/*
+datasets/cute80/gt/*.txt
+datasets/cute80/images/*.jpg
 
-datasets/WordArt/images/*
+datasets/WordArt/images/*.png
+
+datasets/svt/gt/*.txt
+datasets/svt/images/*.jpg
+
+datasets/svtp/gt/*.txt
+datasets/svtp/images/*.jpg
 
 *.mat
 LLaMA-7B/*

@@ -1,21 +1,19 @@
 import sys
 from pathlib import Path
-
-# Получаем путь к родительской директории текущего файла
-parent_dir = str(Path(__file__).parent.parent)  # На два уровня выше: .parent.parent
-
-# Добавляем путь в sys.path
-sys.path.append(parent_dir)
-
-
 import os
-import cv2
-import llama
 import torch
 import numpy as np
 from PIL import Image
 from tqdm import tqdm
+import json
+from transformers import Blip2Processor, Blip2ForConditionalGeneration
 import glob
+
+# Установка пользовательской директории для кеша Hugging Face
+cache_dir = '/beta/projects/hyperflex/code/zhdanov/llm_test/LLaMA-Adapter/llama_adapter_v2_multimodal7b/measure/huggingface_cache'
+os.environ['HF_HOME'] = cache_dir
+os.environ['TRANSFORMERS_CACHE'] = os.path.join(cache_dir, 'transformers')
+
 
 def load_icdar2015_test_data(gt_dir, image_dir):
     """
@@ -63,28 +61,15 @@ def load_icdar2015_test_data(gt_dir, image_dir):
         entry = {
             'img_name': img_name,
             'img_path': img_path,
-            'words': words  # All words in this image
+            'ground_truth': words  # All words in this image
         }
         dataset.append(entry)
     
     print(f"Loaded {len(dataset)} images with {word_count} total words")
     return dataset
 
-def run_inference_on_icdar2015(dataset_dir, model, preprocess, device, num_samples=None):
-    """
-    Run inference on the ICDAR2015 dataset - whole images
-    
-    Args:
-        dataset_dir (str): Directory containing the dataset
-        model: The LLaMA model
-        preprocess: Image preprocessing function
-        device: Device to run inference on
-        num_samples (int, optional): Number of samples to process. If None, process all.
-    
-    Returns:
-        list: Results containing image paths, ground truths, and model predictions
-    """
-    # Load test data
+def run_inference_on_icdar2015(dataset_dir, processor, model, device, num_samples=None):
+    """Инференс на данных ICDAR2013 с модификациями для OCR"""
     gt_dir = os.path.join(dataset_dir, "gt")
     image_dir = os.path.join(dataset_dir, "images")
     test_data = load_icdar2015_test_data(gt_dir, image_dir)
@@ -95,63 +80,51 @@ def run_inference_on_icdar2015(dataset_dir, model, preprocess, device, num_sampl
     results = []
     
     for sample in tqdm(test_data, desc="Running inference"):
+        img_path = os.path.join(image_dir, sample['img_name'])
+        
         try:
-            # Read and preprocess the entire image
-            img = Image.fromarray(cv2.imread(sample['img_path']))
-            img_tensor = preprocess(img).unsqueeze(0).to(device)
+            image = Image.open(img_path).convert("RGB")
             
-            # Create prompt for the model
-            prompt = llama.format_prompt('Extract and transcribe all visible text from this image exactly as it appears.  \
-- Include all words, numbers, and symbols in their original form.  \
-- Preserve line breaks and spacing where relevant.  \
-- Skip any non-text elements, artifacts, or image noise. - Output only the extracted text, without additional comments or formatting.  ')
-
-            # Generate prediction
-            prediction = model.generate(img_tensor, [prompt])[0]
+            # Модифицируем промпт для получения только текста
+            prompt = "Question: What is the written word. Answer:"
             
-            # Store results
+            inputs = processor(image, text=prompt, return_tensors="pt").to(device)
+            
+            # Генерация с ограничением длины и температурой
+            with torch.no_grad():
+                output = model.generate(
+                    **inputs,
+                    max_new_tokens=20,  # Ограничиваем длину вывода
+                    num_beams=3,         # Используем beam search
+                    temperature=0.1,     # Понижаем температуру для детерминированности
+                    early_stopping=True
+                )
+                
+            prediction = processor.decode(output[0], skip_special_tokens=True)
+            
+            # Удаляем промпт из ответа
+            prediction = prediction.replace(prompt, "").strip()
+            
             results.append({
-                'img_path': sample['img_path'],
-                'ground_truth': sample['words'],
+                'img_path': img_path,
+                'ground_truth': sample['ground_truth'],
                 'prediction': prediction
             })
             
         except Exception as e:
-            print(f"Error processing {sample['img_path']}: {e}")
+            print(f"Error processing {img_path}: {e}")
     
     return results
 
 def clean_prediction(prediction):
-    """
-    Extract the actual word from the model's prediction
-    """
-    # First try to find the word directly
-    pred_words = prediction.strip().split()
-    if not pred_words:
-        return ""
-    
-    candidate_words = [word.strip(',.?!:;"\'()[]{}') for word in pred_words]
-    candidate_words = [word for word in candidate_words if word]  # Remove empty strings
-    
-    
-    return ' '.join(candidate_words)
-
+    """Очистка предсказания для сравнения с GT"""
+    # Удаляем пунктуацию и лишние пробелы
+    prediction = prediction.strip().lower()
+    for punc in ',.?!:;"\'()[]{}':
+        prediction = prediction.replace(punc, '')
+    return ' '.join(prediction.split())
 
 def calculate_word_accuracy(results):
-    # total_words = 0
-    # correct_words = 0
-    
-    # for result in results:
-    #     gt = result['ground_truth'].strip()
-    #     pred = clean_prediction(result['prediction'])
-        
-    #     print(gt.lower(), pred.lower(), sep='//')
-    #     pred = pred.lower().split()
-    #     total_words += len(gt.lower().split())
-    #     for i in gt.lower().split():
-    #         if i in pred:
-    #             correct_words += 1
-
     total_words = len(results)
     correct_words = 0
     
@@ -159,11 +132,10 @@ def calculate_word_accuracy(results):
         gt = clean_prediction(' '.join(result['ground_truth']))
         pred = clean_prediction(result['prediction'])
         
-        print(gt.lower(), pred.lower(), sep='//')
         if gt.lower() == pred.lower():
             correct_words += 1
     
-    word_accuracy = correct_words / total_words
+    word_accuracy = correct_words / total_words if total_words > 0 else 0
     
     return {
         'total_words': total_words,
@@ -183,35 +155,42 @@ def evaluate_results(results):
     return metrics
 
 def main():
-    # Set device
-    device = "cuda" if torch.cuda.is_available() else "cpu"
+    os.makedirs(cache_dir, exist_ok=True)
+    os.makedirs(os.path.join(cache_dir, 'transformers'), exist_ok=True)
+    
+    device = "cuda:1" if torch.cuda.is_available() else "cpu"
     print(f"Using device: {device}")
     
-    # Define paths
     dataset_dir = "../datasets/icdar2015"
-    llama_dir = "../LLaMA-7B"
-    model_name = "CAPTION-7B"  # choose from BIAS-7B, LORA-BIAS-7B, CAPTION-7B.pth
-    res_json = "../datasets/icdar2015/generate_markup_adv.json"
-    stat_json = "../datasets/icdar2015/statistic_adv.json"
+    res_json = os.path.join(dataset_dir, "blip_results_advanced.json")
+    stat_json = os.path.join(dataset_dir, "blip_statistics_advanced.json")
     
-    # Load model
-    print(f"Loading model: {model_name}...")
-    model, preprocess = llama.load(model_name, llama_dir, device)
-    model.eval()
+    os.makedirs(dataset_dir, exist_ok=True)
     
-    # Run inference
-    print("Running inference on IIIT5K dataset...")
-    results = run_inference_on_icdar2015(dataset_dir, model, preprocess, device)
+    print("Loading BLIP model...")
+    model_name = "Salesforce/blip2-opt-2.7b"
+    
+    processor = Blip2Processor.from_pretrained(model_name, cache_dir=cache_dir)
+    
+    model = Blip2ForConditionalGeneration.from_pretrained(
+        model_name,
+        torch_dtype=torch.float16 if device == "cuda" else torch.float32,
+        cache_dir=cache_dir
+    ).to(device)
+    
+    print("Running inference on WordArt dataset...")
+    results = run_inference_on_icdar2015(dataset_dir, processor, model, device)
+    
     metrics = evaluate_results(results)
     word_acc = metrics['word_accuracy_metrics']
 
-    print("\nBasic Results:")
+    print("\nResults Summary:")
     print(f"Total samples: {metrics['total_samples']}")
     print("\nWord Accuracy Metrics:")
     print(f"Total words: {word_acc['total_words']}")
+    print(f"Correct words: {word_acc['correct_words']}")
     print(f"Word accuracy: {word_acc['word_accuracy']:.4f}")
     
-    import json
     output_results = [{
         'img_path': r['img_path'],
         'ground_truth': r['ground_truth'],

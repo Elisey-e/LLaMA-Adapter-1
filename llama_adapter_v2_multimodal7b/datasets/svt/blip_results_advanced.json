@@ -1,0 +1,5180 @@
+{
+  "results": [
+    {
+      "img_path": "../datasets/svt/images/1.jpg",
+      "ground_truth": [
+        "d,o,o,r"
+      ],
+      "prediction": "door",
+      "cleaned_prediction": "door"
+    },
+    {
+      "img_path": "../datasets/svt/images/10.jpg",
+      "ground_truth": [
+        "S,O,U,T,H"
+      ],
+      "prediction": "south",
+      "cleaned_prediction": "south"
+    },
+    {
+      "img_path": "../datasets/svt/images/100.jpg",
+      "ground_truth": [
+        "S,h,e,l,l"
+      ],
+      "prediction": "Shell",
+      "cleaned_prediction": "shell"
+    },
+    {
+      "img_path": "../datasets/svt/images/101.jpg",
+      "ground_truth": [
+        "S,H,O,G,U,N"
+      ],
+      "prediction": "shogun",
+      "cleaned_prediction": "shogun"
+    },
+    {
+      "img_path": "../datasets/svt/images/102.jpg",
+      "ground_truth": [
+        "S,H,O,G,U,N"
+      ],
+      "prediction": "shogun",
+      "cleaned_prediction": "shogun"
+    },
+    {
+      "img_path": "../datasets/svt/images/103.jpg",
+      "ground_truth": [
+        "S,U,S,H,I"
+      ],
+      "prediction": "sushi",
+      "cleaned_prediction": "sushi"
+    },
+    {
+      "img_path": "../datasets/svt/images/104.jpg",
+      "ground_truth": [
+        "S,U,S,H,I"
+      ],
+      "prediction": "sushi",
+      "cleaned_prediction": "sushi"
+    },
+    {
+      "img_path": "../datasets/svt/images/105.jpg",
+      "ground_truth": [
+        "P,I,O,N,E,E,R"
+      ],
+      "prediction": "pioneer",
+      "cleaned_prediction": "pioneer"
+    },
+    {
+      "img_path": "../datasets/svt/images/106.jpg",
+      "ground_truth": [
+        "P,L,A,C,E"
+      ],
+      "prediction": "Place",
+      "cleaned_prediction": "place"
+    },
+    {
+      "img_path": "../datasets/svt/images/107.jpg",
+      "ground_truth": [
+        "S,A,K,S"
+      ],
+      "prediction": "saks",
+      "cleaned_prediction": "saks"
+    },
+    {
+      "img_path": "../datasets/svt/images/108.jpg",
+      "ground_truth": [
+        "F,I,F,T,H"
+      ],
+      "prediction": "it is the name of the movie",
+      "cleaned_prediction": "it is the name of the movie"
+    },
+    {
+      "img_path": "../datasets/svt/images/109.jpg",
+      "ground_truth": [
+        "A,V,E,N,U,E"
+      ],
+      "prediction": "avenue",
+      "cleaned_prediction": "avenue"
+    },
+    {
+      "img_path": "../datasets/svt/images/11.jpg",
+      "ground_truth": [
+        "M,A,R,K,E,T"
+      ],
+      "prediction": "market",
+      "cleaned_prediction": "market"
+    },
+    {
+      "img_path": "../datasets/svt/images/110.jpg",
+      "ground_truth": [
+        "G,R,A,N,D"
+      ],
+      "prediction": "grand",
+      "cleaned_prediction": "grand"
+    },
+    {
+      "img_path": "../datasets/svt/images/111.jpg",
+      "ground_truth": [
+        "H,O,R,T,O,N"
+      ],
+      "prediction": "horton",
+      "cleaned_prediction": "horton"
+    },
+    {
+      "img_path": "../datasets/svt/images/112.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "hotel",
+      "cleaned_prediction": "hotel"
+    },
+    {
+      "img_path": "../datasets/svt/images/113.jpg",
+      "ground_truth": [
+        "Z,u,l,a"
+      ],
+      "prediction": "ZULA",
+      "cleaned_prediction": "zula"
+    },
+    {
+      "img_path": "../datasets/svt/images/114.jpg",
+      "ground_truth": [
+        "Z,u,l,a"
+      ],
+      "prediction": "The word is the word",
+      "cleaned_prediction": "the word is the word"
+    },
+    {
+      "img_path": "../datasets/svt/images/115.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "Hotel",
+      "cleaned_prediction": "hotel"
+    },
+    {
+      "img_path": "../datasets/svt/images/116.jpg",
+      "ground_truth": [
+        "L,I,O,N"
+      ],
+      "prediction": "lion",
+      "cleaned_prediction": "lion"
+    },
+    {
+      "img_path": "../datasets/svt/images/117.jpg",
+      "ground_truth": [
+        "R,E,D"
+      ],
+      "prediction": "red",
+      "cleaned_prediction": "red"
+    },
+    {
+      "img_path": "../datasets/svt/images/118.jpg",
+      "ground_truth": [
+        "R,E,D"
+      ],
+      "prediction": "red",
+      "cleaned_prediction": "red"
+    },
+    {
+      "img_path": "../datasets/svt/images/119.jpg",
+      "ground_truth": [
+        "S,Q,U,A,R,E"
+      ],
+      "prediction": "square",
+      "cleaned_prediction": "square"
+    },
+    {
+      "img_path": "../datasets/svt/images/12.jpg",
+      "ground_truth": [
+        "M,E,A,T"
+      ],
+      "prediction": "meat",
+      "cleaned_prediction": "meat"
+    },
+    {
+      "img_path": "../datasets/svt/images/120.jpg",
+      "ground_truth": [
+        "B,E,L,V,E,D,E,R,E"
+      ],
+      "prediction": "Belvedere",
+      "cleaned_prediction": "belvedere"
+    },
+    {
+      "img_path": "../datasets/svt/images/121.jpg",
+      "ground_truth": [
+        "O,r,l,a,n,d,o"
+      ],
+      "prediction": "orlando",
+      "cleaned_prediction": "orlando"
+    },
+    {
+      "img_path": "../datasets/svt/images/122.jpg",
+      "ground_truth": [
+        "S,e,n,t,i,n,e,l"
+      ],
+      "prediction": "Sentinel",
+      "cleaned_prediction": "sentinel"
+    },
+    {
+      "img_path": "../datasets/svt/images/123.jpg",
+      "ground_truth": [
+        "c,i,r,c,l,e,s"
+      ],
+      "prediction": "circle",
+      "cleaned_prediction": "circle"
+    },
+    {
+      "img_path": "../datasets/svt/images/124.jpg",
+      "ground_truth": [
+        "t,a,p,e,s"
+      ],
+      "prediction": "Tapes",
+      "cleaned_prediction": "tapes"
+    },
+    {
+      "img_path": "../datasets/svt/images/125.jpg",
+      "ground_truth": [
+        "c,i,t,y,a,r,t,s"
+      ],
+      "prediction": "city artists",
+      "cleaned_prediction": "city artists"
+    },
+    {
+      "img_path": "../datasets/svt/images/126.jpg",
+      "ground_truth": [
+        "f,a,c,t,o,r,y"
+      ],
+      "prediction": "sfactory",
+      "cleaned_prediction": "sfactory"
+    },
+    {
+      "img_path": "../datasets/svt/images/127.jpg",
+      "ground_truth": [
+        "H,u,t"
+      ],
+      "prediction": "hutt",
+      "cleaned_prediction": "hutt"
+    },
+    {
+      "img_path": "../datasets/svt/images/128.jpg",
+      "ground_truth": [
+        "p,i,z,z,a"
+      ],
+      "prediction": "pizza",
+      "cleaned_prediction": "pizza"
+    },
+    {
+      "img_path": "../datasets/svt/images/129.jpg",
+      "ground_truth": [
+        "G,A,R,A,G,E"
+      ],
+      "prediction": "garage",
+      "cleaned_prediction": "garage"
+    },
+    {
+      "img_path": "../datasets/svt/images/13.jpg",
+      "ground_truth": [
+        "M,I,C,H,O,A,C,A,N,A"
+      ],
+      "prediction": "michigan",
+      "cleaned_prediction": "michigan"
+    },
+    {
+      "img_path": "../datasets/svt/images/130.jpg",
+      "ground_truth": [
+        "e,y,e"
+      ],
+      "prediction": "eye",
+      "cleaned_prediction": "eye"
+    },
+    {
+      "img_path": "../datasets/svt/images/131.jpg",
+      "ground_truth": [
+        "l,o,u,n,g,e"
+      ],
+      "prediction": "lounge",
+      "cleaned_prediction": "lounge"
+    },
+    {
+      "img_path": "../datasets/svt/images/132.jpg",
+      "ground_truth": [
+        "J,O,B,S,I,T,E"
+      ],
+      "prediction": "Jobite",
+      "cleaned_prediction": "jobite"
+    },
+    {
+      "img_path": "../datasets/svt/images/133.jpg",
+      "ground_truth": [
+        "S,U,P,P,L,Y"
+      ],
+      "prediction": "Job Supply",
+      "cleaned_prediction": "job supply"
+    },
+    {
+      "img_path": "../datasets/svt/images/134.jpg",
+      "ground_truth": [
+        "W,O,R,K"
+      ],
+      "prediction": "work",
+      "cleaned_prediction": "work"
+    },
+    {
+      "img_path": "../datasets/svt/images/135.jpg",
+      "ground_truth": [
+        "C,H,A,S,E"
+      ],
+      "prediction": "Chase",
+      "cleaned_prediction": "chase"
+    },
+    {
+      "img_path": "../datasets/svt/images/136.jpg",
+      "ground_truth": [
+        "C,H,A,S,E"
+      ],
+      "prediction": "chase bank",
+      "cleaned_prediction": "chase bank"
+    },
+    {
+      "img_path": "../datasets/svt/images/137.jpg",
+      "ground_truth": [
+        "F,I,R,E,P,L,A,C,E"
+      ],
+      "prediction": "fireplace",
+      "cleaned_prediction": "fireplace"
+    },
+    {
+      "img_path": "../datasets/svt/images/138.jpg",
+      "ground_truth": [
+        "B,O,X"
+      ],
+      "prediction": "box",
+      "cleaned_prediction": "box"
+    },
+    {
+      "img_path": "../datasets/svt/images/139.jpg",
+      "ground_truth": [
+        "J,E,W,E,L"
+      ],
+      "prediction": "Jewel",
+      "cleaned_prediction": "jewel"
+    },
+    {
+      "img_path": "../datasets/svt/images/14.jpg",
+      "ground_truth": [
+        "T,A,Q,U,E,R,I,A"
+      ],
+      "prediction": "taqueria",
+      "cleaned_prediction": "taqueria"
+    },
+    {
+      "img_path": "../datasets/svt/images/140.jpg",
+      "ground_truth": [
+        "T,I,N,Y"
+      ],
+      "prediction": "Tiny",
+      "cleaned_prediction": "tiny"
+    },
+    {
+      "img_path": "../datasets/svt/images/141.jpg",
+      "ground_truth": [
+        "N,A,P,A,S,O,R,N"
+      ],
+      "prediction": "NAPASORN",
+      "cleaned_prediction": "napasorn"
+    },
+    {
+      "img_path": "../datasets/svt/images/142.jpg",
+      "ground_truth": [
+        "P,.,A,.,R,.,C"
+      ],
+      "prediction": "Parc",
+      "cleaned_prediction": "parc"
+    },
+    {
+      "img_path": "../datasets/svt/images/143.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "hotel",
+      "cleaned_prediction": "hotel"
+    },
+    {
+      "img_path": "../datasets/svt/images/144.jpg",
+      "ground_truth": [
+        "W,A,R,W,I,C,K"
+      ],
+      "prediction": "WARWICK",
+      "cleaned_prediction": "warwick"
+    },
+    {
+      "img_path": "../datasets/svt/images/145.jpg",
+      "ground_truth": [
+        "s,c,o,o,t,e,r,s"
+      ],
+      "prediction": "scooters",
+      "cleaned_prediction": "scooters"
+    },
+    {
+      "img_path": "../datasets/svt/images/146.jpg",
+      "ground_truth": [
+        "S,p,o,r,t,i,q,u,e"
+      ],
+      "prediction": "sportique",
+      "cleaned_prediction": "sportique"
+    },
+    {
+      "img_path": "../datasets/svt/images/147.jpg",
+      "ground_truth": [
+        "S,P,R,U,C,E"
+      ],
+      "prediction": "spruce",
+      "cleaned_prediction": "spruce"
+    },
+    {
+      "img_path": "../datasets/svt/images/148.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "hotel",
+      "cleaned_prediction": "hotel"
+    },
+    {
+      "img_path": "../datasets/svt/images/149.jpg",
+      "ground_truth": [
+        "W,Y,N,D,H,A,M"
+      ],
+      "prediction": "wyndham",
+      "cleaned_prediction": "wyndham"
+    },
+    {
+      "img_path": "../datasets/svt/images/15.jpg",
+      "ground_truth": [
+        "T,A,Q,U,E,R,I,A"
+      ],
+      "prediction": "taquer\u00eda",
+      "cleaned_prediction": "taquer\u00eda"
+    },
+    {
+      "img_path": "../datasets/svt/images/150.jpg",
+      "ground_truth": [
+        "J,E,R,O,M,E"
+      ],
+      "prediction": "JEROME",
+      "cleaned_prediction": "jerome"
+    },
+    {
+      "img_path": "../datasets/svt/images/151.jpg",
+      "ground_truth": [
+        "S,C,H,O,O,L"
+      ],
+      "prediction": "school",
+      "cleaned_prediction": "school"
+    },
+    {
+      "img_path": "../datasets/svt/images/152.jpg",
+      "ground_truth": [
+        "L,E,N,S,C,R,A,F,T,E,R,S"
+      ],
+      "prediction": "lenscrafters",
+      "cleaned_prediction": "lenscrafters"
+    },
+    {
+      "img_path": "../datasets/svt/images/153.jpg",
+      "ground_truth": [
+        "F,i,f,t,h"
+      ],
+      "prediction": "fifth",
+      "cleaned_prediction": "fifth"
+    },
+    {
+      "img_path": "../datasets/svt/images/154.jpg",
+      "ground_truth": [
+        "A,v,e"
+      ],
+      "prediction": "AVE",
+      "cleaned_prediction": "ave"
+    },
+    {
+      "img_path": "../datasets/svt/images/155.jpg",
+      "ground_truth": [
+        "P,I,K,E"
+      ],
+      "prediction": "pike",
+      "cleaned_prediction": "pike"
+    },
+    {
+      "img_path": "../datasets/svt/images/156.jpg",
+      "ground_truth": [
+        "W,E,S,T,E,R,N"
+      ],
+      "prediction": "western union",
+      "cleaned_prediction": "western union"
+    },
+    {
+      "img_path": "../datasets/svt/images/157.jpg",
+      "ground_truth": [
+        "W,I,N,E"
+      ],
+      "prediction": "wine",
+      "cleaned_prediction": "wine"
+    },
+    {
+      "img_path": "../datasets/svt/images/158.jpg",
+      "ground_truth": [
+        "D,o,m,i,n,o"
+      ],
+      "prediction": "domino",
+      "cleaned_prediction": "domino"
+    },
+    {
+      "img_path": "../datasets/svt/images/159.jpg",
+      "ground_truth": [
+        "K,Y,R,O"
+      ],
+      "prediction": "KRYO",
+      "cleaned_prediction": "kryo"
+    },
+    {
+      "img_path": "../datasets/svt/images/16.jpg",
+      "ground_truth": [
+        "M,O,T,I,F"
+      ],
+      "prediction": "motif",
+      "cleaned_prediction": "motif"
+    },
+    {
+      "img_path": "../datasets/svt/images/160.jpg",
+      "ground_truth": [
+        "P,I,Z,Z,A"
+      ],
+      "prediction": "pizza",
+      "cleaned_prediction": "pizza"
+    },
+    {
+      "img_path": "../datasets/svt/images/161.jpg",
+      "ground_truth": [
+        "H,I,G,H"
+      ],
+      "prediction": "high",
+      "cleaned_prediction": "high"
+    },
+    {
+      "img_path": "../datasets/svt/images/162.jpg",
+      "ground_truth": [
+        "L,I,N,C,O,L,N"
+      ],
+      "prediction": "lincoln",
+      "cleaned_prediction": "lincoln"
+    },
+    {
+      "img_path": "../datasets/svt/images/163.jpg",
+      "ground_truth": [
+        "S,C,H,O,O,L"
+      ],
+      "prediction": "school",
+      "cleaned_prediction": "school"
+    },
+    {
+      "img_path": "../datasets/svt/images/164.jpg",
+      "ground_truth": [
+        "S,C,H,O,O,L"
+      ],
+      "prediction": "school",
+      "cleaned_prediction": "school"
+    },
+    {
+      "img_path": "../datasets/svt/images/165.jpg",
+      "ground_truth": [
+        "C,A,L,I,F,O,R,N,I,A"
+      ],
+      "prediction": "california",
+      "cleaned_prediction": "california"
+    },
+    {
+      "img_path": "../datasets/svt/images/166.jpg",
+      "ground_truth": [
+        "E,Y,E,S"
+      ],
+      "prediction": "eyes",
+      "cleaned_prediction": "eyes"
+    },
+    {
+      "img_path": "../datasets/svt/images/167.jpg",
+      "ground_truth": [
+        "F,O,R"
+      ],
+      "prediction": "for",
+      "cleaned_prediction": "for"
+    },
+    {
+      "img_path": "../datasets/svt/images/168.jpg",
+      "ground_truth": [
+        "S,H,E,A"
+      ],
+      "prediction": "Shea's",
+      "cleaned_prediction": "sheas"
+    },
+    {
+      "img_path": "../datasets/svt/images/169.jpg",
+      "ground_truth": [
+        "C,H,I,N,E,S,E"
+      ],
+      "prediction": "chinese",
+      "cleaned_prediction": "chinese"
+    },
+    {
+      "img_path": "../datasets/svt/images/17.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "restaurant",
+      "cleaned_prediction": "restaurant"
+    },
+    {
+      "img_path": "../datasets/svt/images/170.jpg",
+      "ground_truth": [
+        "G,R,E,A,T"
+      ],
+      "prediction": "great",
+      "cleaned_prediction": "great"
+    },
+    {
+      "img_path": "../datasets/svt/images/171.jpg",
+      "ground_truth": [
+        "W,A,L,L"
+      ],
+      "prediction": "Wall",
+      "cleaned_prediction": "wall"
+    },
+    {
+      "img_path": "../datasets/svt/images/172.jpg",
+      "ground_truth": [
+        "O,r,t,l,i,e,b"
+      ],
+      "prediction": "Ortlieb",
+      "cleaned_prediction": "ortlieb"
+    },
+    {
+      "img_path": "../datasets/svt/images/173.jpg",
+      "ground_truth": [
+        "P,O,L,I,S,H"
+      ],
+      "prediction": "polish",
+      "cleaned_prediction": "polish"
+    },
+    {
+      "img_path": "../datasets/svt/images/174.jpg",
+      "ground_truth": [
+        "S,A,L,L,E"
+      ],
+      "prediction": "salle",
+      "cleaned_prediction": "salle"
+    },
+    {
+      "img_path": "../datasets/svt/images/175.jpg",
+      "ground_truth": [
+        "F,O,R,T,U,N,E"
+      ],
+      "prediction": "fortune",
+      "cleaned_prediction": "fortune"
+    },
+    {
+      "img_path": "../datasets/svt/images/176.jpg",
+      "ground_truth": [
+        "L,U,C,K,Y"
+      ],
+      "prediction": "lucky",
+      "cleaned_prediction": "lucky"
+    },
+    {
+      "img_path": "../datasets/svt/images/177.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "restaurant",
+      "cleaned_prediction": "restaurant"
+    },
+    {
+      "img_path": "../datasets/svt/images/178.jpg",
+      "ground_truth": [
+        "B,R,A,S,S,E,R,I,E"
+      ],
+      "prediction": "dressere",
+      "cleaned_prediction": "dressere"
+    },
+    {
+      "img_path": "../datasets/svt/images/179.jpg",
+      "ground_truth": [
+        "T,E,N"
+      ],
+      "prediction": "ten",
+      "cleaned_prediction": "ten"
+    },
+    {
+      "img_path": "../datasets/svt/images/18.jpg",
+      "ground_truth": [
+        "C,L,U,B"
+      ],
+      "prediction": "club",
+      "cleaned_prediction": "club"
+    },
+    {
+      "img_path": "../datasets/svt/images/180.jpg",
+      "ground_truth": [
+        "T,E,N"
+      ],
+      "prediction": "ten",
+      "cleaned_prediction": "ten"
+    },
+    {
+      "img_path": "../datasets/svt/images/181.jpg",
+      "ground_truth": [
+        "T,E,N"
+      ],
+      "prediction": "ten",
+      "cleaned_prediction": "ten"
+    },
+    {
+      "img_path": "../datasets/svt/images/182.jpg",
+      "ground_truth": [
+        "B,o,o,t"
+      ],
+      "prediction": "boot",
+      "cleaned_prediction": "boot"
+    },
+    {
+      "img_path": "../datasets/svt/images/183.jpg",
+      "ground_truth": [
+        "F,i,t,t,i,n,g"
+      ],
+      "prediction": "fitting",
+      "cleaned_prediction": "fitting"
+    },
+    {
+      "img_path": "../datasets/svt/images/184.jpg",
+      "ground_truth": [
+        "L,a,r,r,y,'"
+      ],
+      "prediction": "larry's books",
+      "cleaned_prediction": "larrys books"
+    },
+    {
+      "img_path": "../datasets/svt/images/185.jpg",
+      "ground_truth": [
+        "F,O,S,S,I,L"
+      ],
+      "prediction": "fossil",
+      "cleaned_prediction": "fossil"
+    },
+    {
+      "img_path": "../datasets/svt/images/186.jpg",
+      "ground_truth": [
+        "F,O,S,S,I,L"
+      ],
+      "prediction": "fossil",
+      "cleaned_prediction": "fossil"
+    },
+    {
+      "img_path": "../datasets/svt/images/187.jpg",
+      "ground_truth": [
+        "M,a,r,t"
+      ],
+      "prediction": "The written word is the name of the store",
+      "cleaned_prediction": "the written word is the name of the store"
+    },
+    {
+      "img_path": "../datasets/svt/images/188.jpg",
+      "ground_truth": [
+        "M,o,b,i,l"
+      ],
+      "prediction": "Mobil",
+      "cleaned_prediction": "mobil"
+    },
+    {
+      "img_path": "../datasets/svt/images/189.jpg",
+      "ground_truth": [
+        "M,o,b,i,l"
+      ],
+      "prediction": "mobile phone",
+      "cleaned_prediction": "mobile phone"
+    },
+    {
+      "img_path": "../datasets/svt/images/19.jpg",
+      "ground_truth": [
+        "A,N,D"
+      ],
+      "prediction": "the word and",
+      "cleaned_prediction": "the word and"
+    },
+    {
+      "img_path": "../datasets/svt/images/190.jpg",
+      "ground_truth": [
+        "c,i,n,e,r,a,m,a"
+      ],
+      "prediction": "Cinema",
+      "cleaned_prediction": "cinema"
+    },
+    {
+      "img_path": "../datasets/svt/images/191.jpg",
+      "ground_truth": [
+        "C,I,N,E,R,A,M,A"
+      ],
+      "prediction": "cinema",
+      "cleaned_prediction": "cinema"
+    },
+    {
+      "img_path": "../datasets/svt/images/192.jpg",
+      "ground_truth": [
+        "D,O,N,G"
+      ],
+      "prediction": "dong",
+      "cleaned_prediction": "dong"
+    },
+    {
+      "img_path": "../datasets/svt/images/193.jpg",
+      "ground_truth": [
+        "M,A,R,K,E,T"
+      ],
+      "prediction": "market",
+      "cleaned_prediction": "market"
+    },
+    {
+      "img_path": "../datasets/svt/images/194.jpg",
+      "ground_truth": [
+        "Y,M,C,A"
+      ],
+      "prediction": "YMCA",
+      "cleaned_prediction": "ymca"
+    },
+    {
+      "img_path": "../datasets/svt/images/195.jpg",
+      "ground_truth": [
+        "B,E,A,D,S"
+      ],
+      "prediction": "beads",
+      "cleaned_prediction": "beads"
+    },
+    {
+      "img_path": "../datasets/svt/images/196.jpg",
+      "ground_truth": [
+        "B,E,A,D,S"
+      ],
+      "prediction": "beads",
+      "cleaned_prediction": "beads"
+    },
+    {
+      "img_path": "../datasets/svt/images/197.jpg",
+      "ground_truth": [
+        "B,E,A,D,S"
+      ],
+      "prediction": "beads",
+      "cleaned_prediction": "beads"
+    },
+    {
+      "img_path": "../datasets/svt/images/198.jpg",
+      "ground_truth": [
+        "F,O,X"
+      ],
+      "prediction": "fox",
+      "cleaned_prediction": "fox"
+    },
+    {
+      "img_path": "../datasets/svt/images/199.jpg",
+      "ground_truth": [
+        "C,L,E,A,N,E,R,S"
+      ],
+      "prediction": "Cleaners",
+      "cleaned_prediction": "cleaners"
+    },
+    {
+      "img_path": "../datasets/svt/images/2.jpg",
+      "ground_truth": [
+        "T,H,E"
+      ],
+      "prediction": "the word the",
+      "cleaned_prediction": "the word the"
+    },
+    {
+      "img_path": "../datasets/svt/images/20.jpg",
+      "ground_truth": [
+        "S,o,u,t,h"
+      ],
+      "prediction": "south",
+      "cleaned_prediction": "south"
+    },
+    {
+      "img_path": "../datasets/svt/images/200.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "Hotel",
+      "cleaned_prediction": "hotel"
+    },
+    {
+      "img_path": "../datasets/svt/images/201.jpg",
+      "ground_truth": [
+        "M,A,X"
+      ],
+      "prediction": "max",
+      "cleaned_prediction": "max"
+    },
+    {
+      "img_path": "../datasets/svt/images/202.jpg",
+      "ground_truth": [
+        "H,A,H,M"
+      ],
+      "prediction": "moham",
+      "cleaned_prediction": "moham"
+    },
+    {
+      "img_path": "../datasets/svt/images/203.jpg",
+      "ground_truth": [
+        "M,O,T,O,R,S,P,O,R,T,S"
+      ],
+      "prediction": "motorsports",
+      "cleaned_prediction": "motorsports"
+    },
+    {
+      "img_path": "../datasets/svt/images/204.jpg",
+      "ground_truth": [
+        "M,O,T,O,R,S,P,O,R,T,S"
+      ],
+      "prediction": "motorsports",
+      "cleaned_prediction": "motorsports"
+    },
+    {
+      "img_path": "../datasets/svt/images/205.jpg",
+      "ground_truth": [
+        "H,A,H,M"
+      ],
+      "prediction": "maha",
+      "cleaned_prediction": "maha"
+    },
+    {
+      "img_path": "../datasets/svt/images/206.jpg",
+      "ground_truth": [
+        "J,O,E"
+      ],
+      "prediction": "joe",
+      "cleaned_prediction": "joe"
+    },
+    {
+      "img_path": "../datasets/svt/images/207.jpg",
+      "ground_truth": [
+        "T,R,A,D,E,R"
+      ],
+      "prediction": "trader",
+      "cleaned_prediction": "trader"
+    },
+    {
+      "img_path": "../datasets/svt/images/208.jpg",
+      "ground_truth": [
+        "B,O,D,Y"
+      ],
+      "prediction": "body shop",
+      "cleaned_prediction": "body shop"
+    },
+    {
+      "img_path": "../datasets/svt/images/209.jpg",
+      "ground_truth": [
+        "S,H,O,P"
+      ],
+      "prediction": "The written word is the name of the store",
+      "cleaned_prediction": "the written word is the name of the store"
+    },
+    {
+      "img_path": "../datasets/svt/images/21.jpg",
+      "ground_truth": [
+        "F,i,r,s,t"
+      ],
+      "prediction": "The written word is the word first",
+      "cleaned_prediction": "the written word is the word first"
+    },
+    {
+      "img_path": "../datasets/svt/images/210.jpg",
+      "ground_truth": [
+        "L,i,n,e"
+      ],
+      "prediction": "The word \"line\"",
+      "cleaned_prediction": "the word line"
+    },
+    {
+      "img_path": "../datasets/svt/images/211.jpg",
+      "ground_truth": [
+        "B,u,d,g,e,t"
+      ],
+      "prediction": "budget",
+      "cleaned_prediction": "budget"
+    },
+    {
+      "img_path": "../datasets/svt/images/212.jpg",
+      "ground_truth": [
+        "T,R,I,B,U,N,A,L,I"
+      ],
+      "prediction": "tribunali",
+      "cleaned_prediction": "tribunali"
+    },
+    {
+      "img_path": "../datasets/svt/images/213.jpg",
+      "ground_truth": [
+        "V,I,A"
+      ],
+      "prediction": "viva",
+      "cleaned_prediction": "viva"
+    },
+    {
+      "img_path": "../datasets/svt/images/214.jpg",
+      "ground_truth": [
+        "A,n,g,e,l,a"
+      ],
+      "prediction": "angela",
+      "cleaned_prediction": "angela"
+    },
+    {
+      "img_path": "../datasets/svt/images/215.jpg",
+      "ground_truth": [
+        "H,A,M,B,U,R,G,E,R,S"
+      ],
+      "prediction": "hamburger",
+      "cleaned_prediction": "hamburger"
+    },
+    {
+      "img_path": "../datasets/svt/images/216.jpg",
+      "ground_truth": [
+        "F,o,x"
+      ],
+      "prediction": "7x",
+      "cleaned_prediction": "7x"
+    },
+    {
+      "img_path": "../datasets/svt/images/217.jpg",
+      "ground_truth": [
+        "G,a,m,e,S,t,o,p"
+      ],
+      "prediction": "gamestop",
+      "cleaned_prediction": "gamestop"
+    },
+    {
+      "img_path": "../datasets/svt/images/218.jpg",
+      "ground_truth": [
+        "F,A,B,R,I,C,S"
+      ],
+      "prediction": "fabrics",
+      "cleaned_prediction": "fabrics"
+    },
+    {
+      "img_path": "../datasets/svt/images/219.jpg",
+      "ground_truth": [
+        "F,i,s,h,m,a,n"
+      ],
+      "prediction": "FISHMAN'S",
+      "cleaned_prediction": "fishmans"
+    },
+    {
+      "img_path": "../datasets/svt/images/22.jpg",
+      "ground_truth": [
+        "C,o,l,o,r,a,d,o"
+      ],
+      "prediction": "colorado",
+      "cleaned_prediction": "colorado"
+    },
+    {
+      "img_path": "../datasets/svt/images/220.jpg",
+      "ground_truth": [
+        "I,n,c"
+      ],
+      "prediction": "Onc",
+      "cleaned_prediction": "onc"
+    },
+    {
+      "img_path": "../datasets/svt/images/221.jpg",
+      "ground_truth": [
+        "I,n,c"
+      ],
+      "prediction": "It is the word \u201cI\u201d",
+      "cleaned_prediction": "it is the word \u201ci\u201d"
+    },
+    {
+      "img_path": "../datasets/svt/images/222.jpg",
+      "ground_truth": [
+        "F,L,A,T,S, ,b,u,r,r,i,t,o, ,c,o,."
+      ],
+      "prediction": "Flats burrito co",
+      "cleaned_prediction": "flats burrito co"
+    },
+    {
+      "img_path": "../datasets/svt/images/223.jpg",
+      "ground_truth": [
+        "T,I,J,U,A,N,A"
+      ],
+      "prediction": "TIJUANA",
+      "cleaned_prediction": "tijuana"
+    },
+    {
+      "img_path": "../datasets/svt/images/224.jpg",
+      "ground_truth": [
+        "Z,O,U"
+      ],
+      "prediction": "zou",
+      "cleaned_prediction": "zou"
+    },
+    {
+      "img_path": "../datasets/svt/images/225.jpg",
+      "ground_truth": [
+        "Z,O,U"
+      ],
+      "prediction": "zou",
+      "cleaned_prediction": "zou"
+    },
+    {
+      "img_path": "../datasets/svt/images/226.jpg",
+      "ground_truth": [
+        "Z,O,U"
+      ],
+      "prediction": "zou",
+      "cleaned_prediction": "zou"
+    },
+    {
+      "img_path": "../datasets/svt/images/227.jpg",
+      "ground_truth": [
+        "D,O,D,G,E"
+      ],
+      "prediction": "Dodge",
+      "cleaned_prediction": "dodge"
+    },
+    {
+      "img_path": "../datasets/svt/images/228.jpg",
+      "ground_truth": [
+        "P,H,E,L,P,S"
+      ],
+      "prediction": "pellis",
+      "cleaned_prediction": "pellis"
+    },
+    {
+      "img_path": "../datasets/svt/images/229.jpg",
+      "ground_truth": [
+        "T,O,W,E,R"
+      ],
+      "prediction": "tower",
+      "cleaned_prediction": "tower"
+    },
+    {
+      "img_path": "../datasets/svt/images/23.jpg",
+      "ground_truth": [
+        "D,a,i,l,y"
+      ],
+      "prediction": "daily",
+      "cleaned_prediction": "daily"
+    },
+    {
+      "img_path": "../datasets/svt/images/230.jpg",
+      "ground_truth": [
+        "E,R,N,S,T"
+      ],
+      "prediction": "ernst",
+      "cleaned_prediction": "ernst"
+    },
+    {
+      "img_path": "../datasets/svt/images/231.jpg",
+      "ground_truth": [
+        "Y,O,U,N,G"
+      ],
+      "prediction": "young",
+      "cleaned_prediction": "young"
+    },
+    {
+      "img_path": "../datasets/svt/images/232.jpg",
+      "ground_truth": [
+        "S,a,n"
+      ],
+      "prediction": "san francisco",
+      "cleaned_prediction": "san francisco"
+    },
+    {
+      "img_path": "../datasets/svt/images/233.jpg",
+      "ground_truth": [
+        "P,O,M,P,E,I"
+      ],
+      "prediction": "pompeii",
+      "cleaned_prediction": "pompeii"
+    },
+    {
+      "img_path": "../datasets/svt/images/234.jpg",
+      "ground_truth": [
+        "D,o,n,a,l,d,'"
+      ],
+      "prediction": "mcdonalds",
+      "cleaned_prediction": "mcdonalds"
+    },
+    {
+      "img_path": "../datasets/svt/images/235.jpg",
+      "ground_truth": [
+        "D,o,n,a,l,d,'"
+      ],
+      "prediction": "donalds",
+      "cleaned_prediction": "donalds"
+    },
+    {
+      "img_path": "../datasets/svt/images/236.jpg",
+      "ground_truth": [
+        "R,A,M,A,D,A"
+      ],
+      "prediction": "ramada",
+      "cleaned_prediction": "ramada"
+    },
+    {
+      "img_path": "../datasets/svt/images/237.jpg",
+      "ground_truth": [
+        "C,L,E,A,N,E,R,S"
+      ],
+      "prediction": "Cleaners",
+      "cleaned_prediction": "cleaners"
+    },
+    {
+      "img_path": "../datasets/svt/images/238.jpg",
+      "ground_truth": [
+        "F,i,v,e"
+      ],
+      "prediction": "five",
+      "cleaned_prediction": "five"
+    },
+    {
+      "img_path": "../datasets/svt/images/239.jpg",
+      "ground_truth": [
+        "S,t,a,r"
+      ],
+      "prediction": "the word star",
+      "cleaned_prediction": "the word star"
+    },
+    {
+      "img_path": "../datasets/svt/images/24.jpg",
+      "ground_truth": [
+        "C,O,L,L,E,G,E"
+      ],
+      "prediction": "college",
+      "cleaned_prediction": "college"
+    },
+    {
+      "img_path": "../datasets/svt/images/240.jpg",
+      "ground_truth": [
+        "G,R,A,N,D,S,T,A,N,D"
+      ],
+      "prediction": "Grandstand",
+      "cleaned_prediction": "grandstand"
+    },
+    {
+      "img_path": "../datasets/svt/images/241.jpg",
+      "ground_truth": [
+        "G,R,A,N,D,S,T,A,N,D"
+      ],
+      "prediction": "grandstand",
+      "cleaned_prediction": "grandstand"
+    },
+    {
+      "img_path": "../datasets/svt/images/242.jpg",
+      "ground_truth": [
+        "L,i,t,t,l,e"
+      ],
+      "prediction": "Little",
+      "cleaned_prediction": "little"
+    },
+    {
+      "img_path": "../datasets/svt/images/243.jpg",
+      "ground_truth": [
+        "S,A,I,G,O,N"
+      ],
+      "prediction": "Saigon",
+      "cleaned_prediction": "saigon"
+    },
+    {
+      "img_path": "../datasets/svt/images/244.jpg",
+      "ground_truth": [
+        "C,A,P,I,T,O,L"
+      ],
+      "prediction": "capitol",
+      "cleaned_prediction": "capitol"
+    },
+    {
+      "img_path": "../datasets/svt/images/245.jpg",
+      "ground_truth": [
+        "C,U,S,T,O,M"
+      ],
+      "prediction": "city custom",
+      "cleaned_prediction": "city custom"
+    },
+    {
+      "img_path": "../datasets/svt/images/246.jpg",
+      "ground_truth": [
+        "T,A,I,L,O,R,S"
+      ],
+      "prediction": "The name of the company",
+      "cleaned_prediction": "the name of the company"
+    },
+    {
+      "img_path": "../datasets/svt/images/247.jpg",
+      "ground_truth": [
+        "J,E,W,E,L,R,Y"
+      ],
+      "prediction": "Jewelry",
+      "cleaned_prediction": "jewelry"
+    },
+    {
+      "img_path": "../datasets/svt/images/248.jpg",
+      "ground_truth": [
+        "B,A,K,E,R,Y"
+      ],
+      "prediction": "bakery",
+      "cleaned_prediction": "bakery"
+    },
+    {
+      "img_path": "../datasets/svt/images/249.jpg",
+      "ground_truth": [
+        "W,A,T,E,R,C,O,U,R,S,E"
+      ],
+      "prediction": "watercourse reserve",
+      "cleaned_prediction": "watercourse reserve"
+    },
+    {
+      "img_path": "../datasets/svt/images/25.jpg",
+      "ground_truth": [
+        "E,V,E,R,E,S,T"
+      ],
+      "prediction": "everest",
+      "cleaned_prediction": "everest"
+    },
+    {
+      "img_path": "../datasets/svt/images/250.jpg",
+      "ground_truth": [
+        "T,O,W,N"
+      ],
+      "prediction": "town",
+      "cleaned_prediction": "town"
+    },
+    {
+      "img_path": "../datasets/svt/images/251.jpg",
+      "ground_truth": [
+        "B,L,A,C,K"
+      ],
+      "prediction": "black",
+      "cleaned_prediction": "black"
+    },
+    {
+      "img_path": "../datasets/svt/images/252.jpg",
+      "ground_truth": [
+        "B,O,T,T,L,E"
+      ],
+      "prediction": "bottle",
+      "cleaned_prediction": "bottle"
+    },
+    {
+      "img_path": "../datasets/svt/images/253.jpg",
+      "ground_truth": [
+        "V,i,n,e"
+      ],
+      "prediction": "Vine",
+      "cleaned_prediction": "vine"
+    },
+    {
+      "img_path": "../datasets/svt/images/254.jpg",
+      "ground_truth": [
+        "E,c,o,n,o"
+      ],
+      "prediction": "ECONOMICS",
+      "cleaned_prediction": "economics"
+    },
+    {
+      "img_path": "../datasets/svt/images/255.jpg",
+      "ground_truth": [
+        "L,o,d,g,e"
+      ],
+      "prediction": "lodge",
+      "cleaned_prediction": "lodge"
+    },
+    {
+      "img_path": "../datasets/svt/images/256.jpg",
+      "ground_truth": [
+        "A,V,E,N,U,E"
+      ],
+      "prediction": "avenue",
+      "cleaned_prediction": "avenue"
+    },
+    {
+      "img_path": "../datasets/svt/images/257.jpg",
+      "ground_truth": [
+        "t,h,e,a,t,e,r"
+      ],
+      "prediction": "The written word",
+      "cleaned_prediction": "the written word"
+    },
+    {
+      "img_path": "../datasets/svt/images/258.jpg",
+      "ground_truth": [
+        "C,L,E,A,N,E,R,S"
+      ],
+      "prediction": "Cleaners",
+      "cleaned_prediction": "cleaners"
+    },
+    {
+      "img_path": "../datasets/svt/images/259.jpg",
+      "ground_truth": [
+        "C,L,E,A,N,E,R,S"
+      ],
+      "prediction": "Cleaners",
+      "cleaned_prediction": "cleaners"
+    },
+    {
+      "img_path": "../datasets/svt/images/26.jpg",
+      "ground_truth": [
+        "A,l,l,e,n"
+      ],
+      "prediction": "allen",
+      "cleaned_prediction": "allen"
+    },
+    {
+      "img_path": "../datasets/svt/images/260.jpg",
+      "ground_truth": [
+        "G,L,E,N,O,A,K,S"
+      ],
+      "prediction": "glenoak",
+      "cleaned_prediction": "glenoak"
+    },
+    {
+      "img_path": "../datasets/svt/images/261.jpg",
+      "ground_truth": [
+        "A, ,R, ,T"
+      ],
+      "prediction": "art",
+      "cleaned_prediction": "art"
+    },
+    {
+      "img_path": "../datasets/svt/images/262.jpg",
+      "ground_truth": [
+        "J,O,S,E"
+      ],
+      "prediction": "jose",
+      "cleaned_prediction": "jose"
+    },
+    {
+      "img_path": "../datasets/svt/images/263.jpg",
+      "ground_truth": [
+        "M,U,S,E,U,M"
+      ],
+      "prediction": "museum",
+      "cleaned_prediction": "museum"
+    },
+    {
+      "img_path": "../datasets/svt/images/264.jpg",
+      "ground_truth": [
+        "S,A,N"
+      ],
+      "prediction": "san",
+      "cleaned_prediction": "san"
+    },
+    {
+      "img_path": "../datasets/svt/images/265.jpg",
+      "ground_truth": [
+        "D,a,v,i,d"
+      ],
+      "prediction": "david",
+      "cleaned_prediction": "david"
+    },
+    {
+      "img_path": "../datasets/svt/images/266.jpg",
+      "ground_truth": [
+        "J,e,a,n"
+      ],
+      "prediction": "JEAN",
+      "cleaned_prediction": "jean"
+    },
+    {
+      "img_path": "../datasets/svt/images/267.jpg",
+      "ground_truth": [
+        "L,o,u,i,s"
+      ],
+      "prediction": "louisville",
+      "cleaned_prediction": "louisville"
+    },
+    {
+      "img_path": "../datasets/svt/images/268.jpg",
+      "ground_truth": [
+        "M,O,S,S,E,R"
+      ],
+      "prediction": "mosseer",
+      "cleaned_prediction": "mosseer"
+    },
+    {
+      "img_path": "../datasets/svt/images/269.jpg",
+      "ground_truth": [
+        "T,h,e"
+      ],
+      "prediction": "the word the",
+      "cleaned_prediction": "the word the"
+    },
+    {
+      "img_path": "../datasets/svt/images/27.jpg",
+      "ground_truth": [
+        "H,E,S,S"
+      ],
+      "prediction": "HESS",
+      "cleaned_prediction": "hess"
+    },
+    {
+      "img_path": "../datasets/svt/images/270.jpg",
+      "ground_truth": [
+        "c,a,f,e"
+      ],
+      "prediction": "cafe",
+      "cleaned_prediction": "cafe"
+    },
+    {
+      "img_path": "../datasets/svt/images/271.jpg",
+      "ground_truth": [
+        "m,e,t"
+      ],
+      "prediction": "MET",
+      "cleaned_prediction": "met"
+    },
+    {
+      "img_path": "../datasets/svt/images/272.jpg",
+      "ground_truth": [
+        "M,a,r,r,i,o,t,t"
+      ],
+      "prediction": "marriott",
+      "cleaned_prediction": "marriott"
+    },
+    {
+      "img_path": "../datasets/svt/images/273.jpg",
+      "ground_truth": [
+        "S,A,N,D,W,I,C,H"
+      ],
+      "prediction": "sandwich",
+      "cleaned_prediction": "sandwich"
+    },
+    {
+      "img_path": "../datasets/svt/images/274.jpg",
+      "ground_truth": [
+        "S,H,O,P"
+      ],
+      "prediction": "shop",
+      "cleaned_prediction": "shop"
+    },
+    {
+      "img_path": "../datasets/svt/images/275.jpg",
+      "ground_truth": [
+        "Z,E,R,O"
+      ],
+      "prediction": "zero",
+      "cleaned_prediction": "zero"
+    },
+    {
+      "img_path": "../datasets/svt/images/276.jpg",
+      "ground_truth": [
+        "H,A,P,P,I,N,E,S,S"
+      ],
+      "prediction": "Happiness",
+      "cleaned_prediction": "happiness"
+    },
+    {
+      "img_path": "../datasets/svt/images/277.jpg",
+      "ground_truth": [
+        "T,H,R,E,E"
+      ],
+      "prediction": "The word three",
+      "cleaned_prediction": "the word three"
+    },
+    {
+      "img_path": "../datasets/svt/images/278.jpg",
+      "ground_truth": [
+        "C,H,I,N,A,T,O,W,N"
+      ],
+      "prediction": "The written word is the word.",
+      "cleaned_prediction": "the written word is the word"
+    },
+    {
+      "img_path": "../datasets/svt/images/279.jpg",
+      "ground_truth": [
+        "P,L,A,Z,A"
+      ],
+      "prediction": "plaza",
+      "cleaned_prediction": "plaza"
+    },
+    {
+      "img_path": "../datasets/svt/images/28.jpg",
+      "ground_truth": [
+        "C,e,n,t,e,r"
+      ],
+      "prediction": "center",
+      "cleaned_prediction": "center"
+    },
+    {
+      "img_path": "../datasets/svt/images/280.jpg",
+      "ground_truth": [
+        "S,H,E,L,L"
+      ],
+      "prediction": "shell",
+      "cleaned_prediction": "shell"
+    },
+    {
+      "img_path": "../datasets/svt/images/281.jpg",
+      "ground_truth": [
+        "T,W,O"
+      ],
+      "prediction": "two",
+      "cleaned_prediction": "two"
+    },
+    {
+      "img_path": "../datasets/svt/images/282.jpg",
+      "ground_truth": [
+        "M,o,b,i,l,e"
+      ],
+      "prediction": "mobile phone",
+      "cleaned_prediction": "mobile phone"
+    },
+    {
+      "img_path": "../datasets/svt/images/283.jpg",
+      "ground_truth": [
+        "M,a,r,r,i,o,t,t"
+      ],
+      "prediction": "marriott",
+      "cleaned_prediction": "marriott"
+    },
+    {
+      "img_path": "../datasets/svt/images/284.jpg",
+      "ground_truth": [
+        "M,a,r,r,i,o,t,t"
+      ],
+      "prediction": "marriott",
+      "cleaned_prediction": "marriott"
+    },
+    {
+      "img_path": "../datasets/svt/images/285.jpg",
+      "ground_truth": [
+        "H,I,G,G,I,N,S"
+      ],
+      "prediction": "HIGGINS",
+      "cleaned_prediction": "higgins"
+    },
+    {
+      "img_path": "../datasets/svt/images/286.jpg",
+      "ground_truth": [
+        "B,r,e,x,t,o,n"
+      ],
+      "prediction": "BREXTON",
+      "cleaned_prediction": "brexton"
+    },
+    {
+      "img_path": "../datasets/svt/images/287.jpg",
+      "ground_truth": [
+        "C,h,a,s,e"
+      ],
+      "prediction": "Chase",
+      "cleaned_prediction": "chase"
+    },
+    {
+      "img_path": "../datasets/svt/images/288.jpg",
+      "ground_truth": [
+        "H,e,a,l,t,h"
+      ],
+      "prediction": "health",
+      "cleaned_prediction": "health"
+    },
+    {
+      "img_path": "../datasets/svt/images/289.jpg",
+      "ground_truth": [
+        "S,e,r,v,i,c,e,s"
+      ],
+      "prediction": "services",
+      "cleaned_prediction": "services"
+    },
+    {
+      "img_path": "../datasets/svt/images/29.jpg",
+      "ground_truth": [
+        "J,A,P,A,N,E,S,E"
+      ],
+      "prediction": "japanese",
+      "cleaned_prediction": "japanese"
+    },
+    {
+      "img_path": "../datasets/svt/images/290.jpg",
+      "ground_truth": [
+        "I,n,c,."
+      ],
+      "prediction": "inc",
+      "cleaned_prediction": "inc"
+    },
+    {
+      "img_path": "../datasets/svt/images/291.jpg",
+      "ground_truth": [
+        "F,E,E,T"
+      ],
+      "prediction": "feet",
+      "cleaned_prediction": "feet"
+    },
+    {
+      "img_path": "../datasets/svt/images/292.jpg",
+      "ground_truth": [
+        "S,I,X"
+      ],
+      "prediction": "six",
+      "cleaned_prediction": "six"
+    },
+    {
+      "img_path": "../datasets/svt/images/293.jpg",
+      "ground_truth": [
+        "U,N,D,E,R"
+      ],
+      "prediction": "thunder",
+      "cleaned_prediction": "thunder"
+    },
+    {
+      "img_path": "../datasets/svt/images/294.jpg",
+      "ground_truth": [
+        "A,R,M,Y"
+      ],
+      "prediction": "army",
+      "cleaned_prediction": "army"
+    },
+    {
+      "img_path": "../datasets/svt/images/295.jpg",
+      "ground_truth": [
+        "S,T,O,R,E"
+      ],
+      "prediction": "store",
+      "cleaned_prediction": "store"
+    },
+    {
+      "img_path": "../datasets/svt/images/296.jpg",
+      "ground_truth": [
+        "F,R,A,N,C,I,S"
+      ],
+      "prediction": "francis",
+      "cleaned_prediction": "francis"
+    },
+    {
+      "img_path": "../datasets/svt/images/297.jpg",
+      "ground_truth": [
+        "H,O,S,P,T,A,L"
+      ],
+      "prediction": "hospital",
+      "cleaned_prediction": "hospital"
+    },
+    {
+      "img_path": "../datasets/svt/images/298.jpg",
+      "ground_truth": [
+        "M,E,M,O,R,I,A,L"
+      ],
+      "prediction": "memorial",
+      "cleaned_prediction": "memorial"
+    },
+    {
+      "img_path": "../datasets/svt/images/299.jpg",
+      "ground_truth": [
+        "S,A,I,N,T"
+      ],
+      "prediction": "Saint",
+      "cleaned_prediction": "saint"
+    },
+    {
+      "img_path": "../datasets/svt/images/3.jpg",
+      "ground_truth": [
+        "T,H,E"
+      ],
+      "prediction": "the",
+      "cleaned_prediction": "the"
+    },
+    {
+      "img_path": "../datasets/svt/images/30.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "restaurant",
+      "cleaned_prediction": "restaurant"
+    },
+    {
+      "img_path": "../datasets/svt/images/300.jpg",
+      "ground_truth": [
+        "C,R,U,S,H"
+      ],
+      "prediction": "crush",
+      "cleaned_prediction": "crush"
+    },
+    {
+      "img_path": "../datasets/svt/images/301.jpg",
+      "ground_truth": [
+        "F,I,R,S,T"
+      ],
+      "prediction": "first",
+      "cleaned_prediction": "first"
+    },
+    {
+      "img_path": "../datasets/svt/images/302.jpg",
+      "ground_truth": [
+        "M,A,G,N,O,L,I,A"
+      ],
+      "prediction": "magnolia",
+      "cleaned_prediction": "magnolia"
+    },
+    {
+      "img_path": "../datasets/svt/images/303.jpg",
+      "ground_truth": [
+        "D,U,N,B,A,R"
+      ],
+      "prediction": "dunbar",
+      "cleaned_prediction": "dunbar"
+    },
+    {
+      "img_path": "../datasets/svt/images/304.jpg",
+      "ground_truth": [
+        "H,I,G,H"
+      ],
+      "prediction": "high",
+      "cleaned_prediction": "high"
+    },
+    {
+      "img_path": "../datasets/svt/images/305.jpg",
+      "ground_truth": [
+        "L,A,U,R,E,N,C,E"
+      ],
+      "prediction": "laurence",
+      "cleaned_prediction": "laurence"
+    },
+    {
+      "img_path": "../datasets/svt/images/306.jpg",
+      "ground_truth": [
+        "P,A,U,L"
+      ],
+      "prediction": "paul",
+      "cleaned_prediction": "paul"
+    },
+    {
+      "img_path": "../datasets/svt/images/307.jpg",
+      "ground_truth": [
+        "S,C,H,O,O,L"
+      ],
+      "prediction": "school",
+      "cleaned_prediction": "school"
+    },
+    {
+      "img_path": "../datasets/svt/images/308.jpg",
+      "ground_truth": [
+        "O,R,L,E,A,N,S"
+      ],
+      "prediction": "Orleans",
+      "cleaned_prediction": "orleans"
+    },
+    {
+      "img_path": "../datasets/svt/images/309.jpg",
+      "ground_truth": [
+        "A,N,O,D,I,Z,I,N,G"
+      ],
+      "prediction": "Anodizing",
+      "cleaned_prediction": "anodizing"
+    },
+    {
+      "img_path": "../datasets/svt/images/31.jpg",
+      "ground_truth": [
+        "S,A,K,A,N,A"
+      ],
+      "prediction": "sakana",
+      "cleaned_prediction": "sakana"
+    },
+    {
+      "img_path": "../datasets/svt/images/310.jpg",
+      "ground_truth": [
+        "I,N,D,U,S,T,R,I,A,L"
+      ],
+      "prediction": "industrial",
+      "cleaned_prediction": "industrial"
+    },
+    {
+      "img_path": "../datasets/svt/images/311.jpg",
+      "ground_truth": [
+        "D,A,L,L,A,S"
+      ],
+      "prediction": "dallas",
+      "cleaned_prediction": "dallas"
+    },
+    {
+      "img_path": "../datasets/svt/images/312.jpg",
+      "ground_truth": [
+        "S,E,M,I,N,A,R,Y"
+      ],
+      "prediction": "Seminary",
+      "cleaned_prediction": "seminary"
+    },
+    {
+      "img_path": "../datasets/svt/images/313.jpg",
+      "ground_truth": [
+        "T,H,E,O,L,O,G,I,C,A,L"
+      ],
+      "prediction": "Theological",
+      "cleaned_prediction": "theological"
+    },
+    {
+      "img_path": "../datasets/svt/images/314.jpg",
+      "ground_truth": [
+        "P,u,b,l,i,c"
+      ],
+      "prediction": "public",
+      "cleaned_prediction": "public"
+    },
+    {
+      "img_path": "../datasets/svt/images/315.jpg",
+      "ground_truth": [
+        "S,t,o,r,a,g,e"
+      ],
+      "prediction": "storage",
+      "cleaned_prediction": "storage"
+    },
+    {
+      "img_path": "../datasets/svt/images/316.jpg",
+      "ground_truth": [
+        "A,m,e,r,i,c,a"
+      ],
+      "prediction": "america",
+      "cleaned_prediction": "america"
+    },
+    {
+      "img_path": "../datasets/svt/images/317.jpg",
+      "ground_truth": [
+        "A,M,E,R,I,C,A"
+      ],
+      "prediction": "america",
+      "cleaned_prediction": "america"
+    },
+    {
+      "img_path": "../datasets/svt/images/318.jpg",
+      "ground_truth": [
+        "B,o,o,k,s"
+      ],
+      "prediction": "Books",
+      "cleaned_prediction": "books"
+    },
+    {
+      "img_path": "../datasets/svt/images/319.jpg",
+      "ground_truth": [
+        "B,O,O,K,S"
+      ],
+      "prediction": "books",
+      "cleaned_prediction": "books"
+    },
+    {
+      "img_path": "../datasets/svt/images/32.jpg",
+      "ground_truth": [
+        "T,H,E, ,I,C,E,B,O,X"
+      ],
+      "prediction": "the icebox",
+      "cleaned_prediction": "the icebox"
+    },
+    {
+      "img_path": "../datasets/svt/images/320.jpg",
+      "ground_truth": [
+        "f,o,r"
+      ],
+      "prediction": "for",
+      "cleaned_prediction": "for"
+    },
+    {
+      "img_path": "../datasets/svt/images/321.jpg",
+      "ground_truth": [
+        "F,O,R"
+      ],
+      "prediction": "the word for sale",
+      "cleaned_prediction": "the word for sale"
+    },
+    {
+      "img_path": "../datasets/svt/images/322.jpg",
+      "ground_truth": [
+        "M,I,N,T"
+      ],
+      "prediction": "mint",
+      "cleaned_prediction": "mint"
+    },
+    {
+      "img_path": "../datasets/svt/images/323.jpg",
+      "ground_truth": [
+        "S,T,A,T,E,S"
+      ],
+      "prediction": "state",
+      "cleaned_prediction": "state"
+    },
+    {
+      "img_path": "../datasets/svt/images/324.jpg",
+      "ground_truth": [
+        "U,N,I,T,E,D"
+      ],
+      "prediction": "united",
+      "cleaned_prediction": "united"
+    },
+    {
+      "img_path": "../datasets/svt/images/325.jpg",
+      "ground_truth": [
+        "C,R,E,S,T"
+      ],
+      "prediction": "The name of the company",
+      "cleaned_prediction": "the name of the company"
+    },
+    {
+      "img_path": "../datasets/svt/images/326.jpg",
+      "ground_truth": [
+        "P,I,N,E"
+      ],
+      "prediction": "PINE",
+      "cleaned_prediction": "pine"
+    },
+    {
+      "img_path": "../datasets/svt/images/327.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "restaurant",
+      "cleaned_prediction": "restaurant"
+    },
+    {
+      "img_path": "../datasets/svt/images/328.jpg",
+      "ground_truth": [
+        "F,o,r,d"
+      ],
+      "prediction": "ford",
+      "cleaned_prediction": "ford"
+    },
+    {
+      "img_path": "../datasets/svt/images/329.jpg",
+      "ground_truth": [
+        "M,I,L,L,S"
+      ],
+      "prediction": "mills",
+      "cleaned_prediction": "mills"
+    },
+    {
+      "img_path": "../datasets/svt/images/33.jpg",
+      "ground_truth": [
+        "T,H,E"
+      ],
+      "prediction": "the word",
+      "cleaned_prediction": "the word"
+    },
+    {
+      "img_path": "../datasets/svt/images/330.jpg",
+      "ground_truth": [
+        "A,V,E,N,U,E"
+      ],
+      "prediction": "avenue",
+      "cleaned_prediction": "avenue"
+    },
+    {
+      "img_path": "../datasets/svt/images/331.jpg",
+      "ground_truth": [
+        "S,I,X,T,H"
+      ],
+      "prediction": "Sixth Street",
+      "cleaned_prediction": "sixth street"
+    },
+    {
+      "img_path": "../datasets/svt/images/332.jpg",
+      "ground_truth": [
+        "B,A,R"
+      ],
+      "prediction": "bar",
+      "cleaned_prediction": "bar"
+    },
+    {
+      "img_path": "../datasets/svt/images/333.jpg",
+      "ground_truth": [
+        "G,R,I,L,L"
+      ],
+      "prediction": "grill",
+      "cleaned_prediction": "grill"
+    },
+    {
+      "img_path": "../datasets/svt/images/334.jpg",
+      "ground_truth": [
+        "S,I,X,T,H"
+      ],
+      "prediction": "sixth avenue",
+      "cleaned_prediction": "sixth avenue"
+    },
+    {
+      "img_path": "../datasets/svt/images/335.jpg",
+      "ground_truth": [
+        "G,R,I,L,L"
+      ],
+      "prediction": "grill",
+      "cleaned_prediction": "grill"
+    },
+    {
+      "img_path": "../datasets/svt/images/336.jpg",
+      "ground_truth": [
+        "A,V,E,N,U,E"
+      ],
+      "prediction": "avenue",
+      "cleaned_prediction": "avenue"
+    },
+    {
+      "img_path": "../datasets/svt/images/337.jpg",
+      "ground_truth": [
+        "B,A,R"
+      ],
+      "prediction": "bar & grill",
+      "cleaned_prediction": "bar & grill"
+    },
+    {
+      "img_path": "../datasets/svt/images/338.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "restaurant",
+      "cleaned_prediction": "restaurant"
+    },
+    {
+      "img_path": "../datasets/svt/images/339.jpg",
+      "ground_truth": [
+        "S,t,e,w,a,r,t"
+      ],
+      "prediction": "stewart",
+      "cleaned_prediction": "stewart"
+    },
+    {
+      "img_path": "../datasets/svt/images/34.jpg",
+      "ground_truth": [
+        "C,L,A,I,R,E"
+      ],
+      "prediction": "claire",
+      "cleaned_prediction": "claire"
+    },
+    {
+      "img_path": "../datasets/svt/images/340.jpg",
+      "ground_truth": [
+        "F,O,R,U,M"
+      ],
+      "prediction": "forum",
+      "cleaned_prediction": "forum"
+    },
+    {
+      "img_path": "../datasets/svt/images/341.jpg",
+      "ground_truth": [
+        "F,O,R,U,M"
+      ],
+      "prediction": "heritage forum",
+      "cleaned_prediction": "heritage forum"
+    },
+    {
+      "img_path": "../datasets/svt/images/342.jpg",
+      "ground_truth": [
+        "H,E,R,I,T,A,G,E"
+      ],
+      "prediction": "heritage",
+      "cleaned_prediction": "heritage"
+    },
+    {
+      "img_path": "../datasets/svt/images/343.jpg",
+      "ground_truth": [
+        "H,E,R,I,T,A,G,E"
+      ],
+      "prediction": "heritage forum",
+      "cleaned_prediction": "heritage forum"
+    },
+    {
+      "img_path": "../datasets/svt/images/344.jpg",
+      "ground_truth": [
+        "B,A,R"
+      ],
+      "prediction": "mr",
+      "cleaned_prediction": "mr"
+    },
+    {
+      "img_path": "../datasets/svt/images/345.jpg",
+      "ground_truth": [
+        "G,R,I,L,L"
+      ],
+      "prediction": "grill",
+      "cleaned_prediction": "grill"
+    },
+    {
+      "img_path": "../datasets/svt/images/346.jpg",
+      "ground_truth": [
+        "J,O,I,N,T"
+      ],
+      "prediction": "joint stock footage",
+      "cleaned_prediction": "joint stock footage"
+    },
+    {
+      "img_path": "../datasets/svt/images/347.jpg",
+      "ground_truth": [
+        "J,U,K,E"
+      ],
+      "prediction": "Jukebox",
+      "cleaned_prediction": "jukebox"
+    },
+    {
+      "img_path": "../datasets/svt/images/348.jpg",
+      "ground_truth": [
+        "H,O,M,E,W,O,O,D"
+      ],
+      "prediction": "homewood",
+      "cleaned_prediction": "homewood"
+    },
+    {
+      "img_path": "../datasets/svt/images/349.jpg",
+      "ground_truth": [
+        "S,U,I,T,E,S"
+      ],
+      "prediction": "suites of canada",
+      "cleaned_prediction": "suites of canada"
+    },
+    {
+      "img_path": "../datasets/svt/images/35.jpg",
+      "ground_truth": [
+        "S,A,I,N,T,E"
+      ],
+      "prediction": "Saint",
+      "cleaned_prediction": "saint"
+    },
+    {
+      "img_path": "../datasets/svt/images/350.jpg",
+      "ground_truth": [
+        "K,i,t,c,h,e,n"
+      ],
+      "prediction": "kitchen",
+      "cleaned_prediction": "kitchen"
+    },
+    {
+      "img_path": "../datasets/svt/images/351.jpg",
+      "ground_truth": [
+        "P,a,r,k"
+      ],
+      "prediction": "park",
+      "cleaned_prediction": "park"
+    },
+    {
+      "img_path": "../datasets/svt/images/352.jpg",
+      "ground_truth": [
+        "T,A,V,E,R,N"
+      ],
+      "prediction": "tavern",
+      "cleaned_prediction": "tavern"
+    },
+    {
+      "img_path": "../datasets/svt/images/353.jpg",
+      "ground_truth": [
+        "T,A,V,E,R,N"
+      ],
+      "prediction": "tavern",
+      "cleaned_prediction": "tavern"
+    },
+    {
+      "img_path": "../datasets/svt/images/354.jpg",
+      "ground_truth": [
+        "W,I,L,L,I,A,M,S"
+      ],
+      "prediction": "williams",
+      "cleaned_prediction": "williams"
+    },
+    {
+      "img_path": "../datasets/svt/images/355.jpg",
+      "ground_truth": [
+        "C,H,I,N,A"
+      ],
+      "prediction": "china",
+      "cleaned_prediction": "china"
+    },
+    {
+      "img_path": "../datasets/svt/images/356.jpg",
+      "ground_truth": [
+        "D,O,L,L,A,R"
+      ],
+      "prediction": "dollar store",
+      "cleaned_prediction": "dollar store"
+    },
+    {
+      "img_path": "../datasets/svt/images/357.jpg",
+      "ground_truth": [
+        "I,N,C"
+      ],
+      "prediction": "inc",
+      "cleaned_prediction": "inc"
+    },
+    {
+      "img_path": "../datasets/svt/images/358.jpg",
+      "ground_truth": [
+        "T,O,W,N"
+      ],
+      "prediction": "The written word is the name of the city",
+      "cleaned_prediction": "the written word is the name of the city"
+    },
+    {
+      "img_path": "../datasets/svt/images/359.jpg",
+      "ground_truth": [
+        "D,I,N,G"
+      ],
+      "prediction": "DING",
+      "cleaned_prediction": "ding"
+    },
+    {
+      "img_path": "../datasets/svt/images/36.jpg",
+      "ground_truth": [
+        "T,H,E"
+      ],
+      "prediction": "the",
+      "cleaned_prediction": "the"
+    },
+    {
+      "img_path": "../datasets/svt/images/360.jpg",
+      "ground_truth": [
+        "C,i,n,e,m,a"
+      ],
+      "prediction": "cinema",
+      "cleaned_prediction": "cinema"
+    },
+    {
+      "img_path": "../datasets/svt/images/361.jpg",
+      "ground_truth": [
+        "S,U,B"
+      ],
+      "prediction": "SUB",
+      "cleaned_prediction": "sub"
+    },
+    {
+      "img_path": "../datasets/svt/images/362.jpg",
+      "ground_truth": [
+        "C,H,U,R,C,H"
+      ],
+      "prediction": "church",
+      "cleaned_prediction": "church"
+    },
+    {
+      "img_path": "../datasets/svt/images/363.jpg",
+      "ground_truth": [
+        "F,I,R,S,T"
+      ],
+      "prediction": "first",
+      "cleaned_prediction": "first"
+    },
+    {
+      "img_path": "../datasets/svt/images/364.jpg",
+      "ground_truth": [
+        "M,E,T,H,O,D,I,S,T"
+      ],
+      "prediction": "Methodist",
+      "cleaned_prediction": "methodist"
+    },
+    {
+      "img_path": "../datasets/svt/images/365.jpg",
+      "ground_truth": [
+        "U,N,I,T,E,D"
+      ],
+      "prediction": "united",
+      "cleaned_prediction": "united"
+    },
+    {
+      "img_path": "../datasets/svt/images/366.jpg",
+      "ground_truth": [
+        "S,T,A,R,B,U,C,K,S"
+      ],
+      "prediction": "starbucks",
+      "cleaned_prediction": "starbucks"
+    },
+    {
+      "img_path": "../datasets/svt/images/367.jpg",
+      "ground_truth": [
+        "S,T,A,R,B,U,C,K,S"
+      ],
+      "prediction": "starbucks",
+      "cleaned_prediction": "starbucks"
+    },
+    {
+      "img_path": "../datasets/svt/images/368.jpg",
+      "ground_truth": [
+        "C,O,F,F,E,E"
+      ],
+      "prediction": "coffee",
+      "cleaned_prediction": "coffee"
+    },
+    {
+      "img_path": "../datasets/svt/images/369.jpg",
+      "ground_truth": [
+        "C,O,F,F,E,E"
+      ],
+      "prediction": "coffee",
+      "cleaned_prediction": "coffee"
+    },
+    {
+      "img_path": "../datasets/svt/images/37.jpg",
+      "ground_truth": [
+        "M,I,S,S,I,O,N"
+      ],
+      "prediction": "mission",
+      "cleaned_prediction": "mission"
+    },
+    {
+      "img_path": "../datasets/svt/images/370.jpg",
+      "ground_truth": [
+        "T,H,E, ,C,a,s,b,a,h"
+      ],
+      "prediction": "the casbah",
+      "cleaned_prediction": "the casbah"
+    },
+    {
+      "img_path": "../datasets/svt/images/371.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "restaurant",
+      "cleaned_prediction": "restaurant"
+    },
+    {
+      "img_path": "../datasets/svt/images/372.jpg",
+      "ground_truth": [
+        "T,A,R,A"
+      ],
+      "prediction": "Taba",
+      "cleaned_prediction": "taba"
+    },
+    {
+      "img_path": "../datasets/svt/images/373.jpg",
+      "ground_truth": [
+        "B,r,a,s,i,l"
+      ],
+      "prediction": "brazil",
+      "cleaned_prediction": "brazil"
+    },
+    {
+      "img_path": "../datasets/svt/images/374.jpg",
+      "ground_truth": [
+        "C,a,n,t,o"
+      ],
+      "prediction": "CANTO",
+      "cleaned_prediction": "canto"
+    },
+    {
+      "img_path": "../datasets/svt/images/375.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "restaurant",
+      "cleaned_prediction": "restaurant"
+    },
+    {
+      "img_path": "../datasets/svt/images/376.jpg",
+      "ground_truth": [
+        "B,I,C,Y,C,L,E"
+      ],
+      "prediction": "bicycle",
+      "cleaned_prediction": "bicycle"
+    },
+    {
+      "img_path": "../datasets/svt/images/377.jpg",
+      "ground_truth": [
+        "E,X,P,R,E,S,S, ,."
+      ],
+      "prediction": "express",
+      "cleaned_prediction": "express"
+    },
+    {
+      "img_path": "../datasets/svt/images/378.jpg",
+      "ground_truth": [
+        "c,a,r"
+      ],
+      "prediction": "car",
+      "cleaned_prediction": "car"
+    },
+    {
+      "img_path": "../datasets/svt/images/379.jpg",
+      "ground_truth": [
+        "E,n,t,e,r,p,r,i,s,e"
+      ],
+      "prediction": "enterprise",
+      "cleaned_prediction": "enterprise"
+    },
+    {
+      "img_path": "../datasets/svt/images/38.jpg",
+      "ground_truth": [
+        "W,H,E,E,L,E,R"
+      ],
+      "prediction": "Wheeler",
+      "cleaned_prediction": "wheeler"
+    },
+    {
+      "img_path": "../datasets/svt/images/380.jpg",
+      "ground_truth": [
+        "E,n,t,e,r,p,r,i,s,e"
+      ],
+      "prediction": "enterprise",
+      "cleaned_prediction": "enterprise"
+    },
+    {
+      "img_path": "../datasets/svt/images/381.jpg",
+      "ground_truth": [
+        "r,e,n,t"
+      ],
+      "prediction": "the word rent",
+      "cleaned_prediction": "the word rent"
+    },
+    {
+      "img_path": "../datasets/svt/images/382.jpg",
+      "ground_truth": [
+        "H,o,u,s,e"
+      ],
+      "prediction": "House",
+      "cleaned_prediction": "house"
+    },
+    {
+      "img_path": "../datasets/svt/images/383.jpg",
+      "ground_truth": [
+        "P,a,r,l,i,a,m,e,n,t"
+      ],
+      "prediction": "parliament",
+      "cleaned_prediction": "parliament"
+    },
+    {
+      "img_path": "../datasets/svt/images/384.jpg",
+      "ground_truth": [
+        "R,E,S,O,R,T"
+      ],
+      "prediction": "resort",
+      "cleaned_prediction": "resort"
+    },
+    {
+      "img_path": "../datasets/svt/images/385.jpg",
+      "ground_truth": [
+        "A,G,E,N,C,Y"
+      ],
+      "prediction": "agency",
+      "cleaned_prediction": "agency"
+    },
+    {
+      "img_path": "../datasets/svt/images/386.jpg",
+      "ground_truth": [
+        "l,i,q,u,i,d"
+      ],
+      "prediction": "Liquid",
+      "cleaned_prediction": "liquid"
+    },
+    {
+      "img_path": "../datasets/svt/images/387.jpg",
+      "ground_truth": [
+        "L,I,Q,U,I,D"
+      ],
+      "prediction": "Liquid",
+      "cleaned_prediction": "liquid"
+    },
+    {
+      "img_path": "../datasets/svt/images/388.jpg",
+      "ground_truth": [
+        "J,O,N,E,S"
+      ],
+      "prediction": "JONES",
+      "cleaned_prediction": "jones"
+    },
+    {
+      "img_path": "../datasets/svt/images/389.jpg",
+      "ground_truth": [
+        "M,i,s,s,i,o,n"
+      ],
+      "prediction": "mission",
+      "cleaned_prediction": "mission"
+    },
+    {
+      "img_path": "../datasets/svt/images/39.jpg",
+      "ground_truth": [
+        "G,I,F,T,S"
+      ],
+      "prediction": "gifts",
+      "cleaned_prediction": "gifts"
+    },
+    {
+      "img_path": "../datasets/svt/images/390.jpg",
+      "ground_truth": [
+        "P,u,b"
+      ],
+      "prediction": "pub",
+      "cleaned_prediction": "pub"
+    },
+    {
+      "img_path": "../datasets/svt/images/391.jpg",
+      "ground_truth": [
+        "T,h,e,a,t,e,r"
+      ],
+      "prediction": "theater",
+      "cleaned_prediction": "theater"
+    },
+    {
+      "img_path": "../datasets/svt/images/392.jpg",
+      "ground_truth": [
+        "S,T,A,R,B,U,C,K,S"
+      ],
+      "prediction": "starbucks",
+      "cleaned_prediction": "starbucks"
+    },
+    {
+      "img_path": "../datasets/svt/images/393.jpg",
+      "ground_truth": [
+        "C,H,E,R,R,Y"
+      ],
+      "prediction": "cherry",
+      "cleaned_prediction": "cherry"
+    },
+    {
+      "img_path": "../datasets/svt/images/394.jpg",
+      "ground_truth": [
+        "C,H,E,R,R,Y"
+      ],
+      "prediction": "cherry",
+      "cleaned_prediction": "cherry"
+    },
+    {
+      "img_path": "../datasets/svt/images/395.jpg",
+      "ground_truth": [
+        "C,H,I,N,E,S,E"
+      ],
+      "prediction": "chinese",
+      "cleaned_prediction": "chinese"
+    },
+    {
+      "img_path": "../datasets/svt/images/396.jpg",
+      "ground_truth": [
+        "V,E,G,E,T,A,R,I,A,N"
+      ],
+      "prediction": "chinese vegetarian",
+      "cleaned_prediction": "chinese vegetarian"
+    },
+    {
+      "img_path": "../datasets/svt/images/397.jpg",
+      "ground_truth": [
+        "S,T,R,E,E,T"
+      ],
+      "prediction": "street",
+      "cleaned_prediction": "street"
+    },
+    {
+      "img_path": "../datasets/svt/images/398.jpg",
+      "ground_truth": [
+        "S,T,R,E,E,T"
+      ],
+      "prediction": "street",
+      "cleaned_prediction": "street"
+    },
+    {
+      "img_path": "../datasets/svt/images/399.jpg",
+      "ground_truth": [
+        "C,H,E,R,R,Y"
+      ],
+      "prediction": "cherries",
+      "cleaned_prediction": "cherries"
+    },
+    {
+      "img_path": "../datasets/svt/images/4.jpg",
+      "ground_truth": [
+        "t,r,i,p,l,e"
+      ],
+      "prediction": "triple",
+      "cleaned_prediction": "triple"
+    },
+    {
+      "img_path": "../datasets/svt/images/40.jpg",
+      "ground_truth": [
+        "J,A,S"
+      ],
+      "prediction": "JAS",
+      "cleaned_prediction": "jas"
+    },
+    {
+      "img_path": "../datasets/svt/images/400.jpg",
+      "ground_truth": [
+        "C,H,I,N,E,S,E"
+      ],
+      "prediction": "CHINESE",
+      "cleaned_prediction": "chinese"
+    },
+    {
+      "img_path": "../datasets/svt/images/401.jpg",
+      "ground_truth": [
+        "V,E,G,E,T,A,R,I,A,N"
+      ],
+      "prediction": "chinese vegetarian",
+      "cleaned_prediction": "chinese vegetarian"
+    },
+    {
+      "img_path": "../datasets/svt/images/402.jpg",
+      "ground_truth": [
+        "F,U,J,I"
+      ],
+      "prediction": "FUJI",
+      "cleaned_prediction": "fuji"
+    },
+    {
+      "img_path": "../datasets/svt/images/403.jpg",
+      "ground_truth": [
+        "M,A,S,S,A,G,E"
+      ],
+      "prediction": "massage",
+      "cleaned_prediction": "massage"
+    },
+    {
+      "img_path": "../datasets/svt/images/404.jpg",
+      "ground_truth": [
+        "H,a,r,d"
+      ],
+      "prediction": "Hardee's",
+      "cleaned_prediction": "hardees"
+    },
+    {
+      "img_path": "../datasets/svt/images/405.jpg",
+      "ground_truth": [
+        "H,a,r,d"
+      ],
+      "prediction": "hard to tell",
+      "cleaned_prediction": "hard to tell"
+    },
+    {
+      "img_path": "../datasets/svt/images/406.jpg",
+      "ground_truth": [
+        "R,o,c,k"
+      ],
+      "prediction": "rock n roll cafe",
+      "cleaned_prediction": "rock n roll cafe"
+    },
+    {
+      "img_path": "../datasets/svt/images/407.jpg",
+      "ground_truth": [
+        "R,o,c,k"
+      ],
+      "prediction": "Hard Rock Cafe",
+      "cleaned_prediction": "hard rock cafe"
+    },
+    {
+      "img_path": "../datasets/svt/images/408.jpg",
+      "ground_truth": [
+        "C,A,F,E"
+      ],
+      "prediction": "The written word is the word",
+      "cleaned_prediction": "the written word is the word"
+    },
+    {
+      "img_path": "../datasets/svt/images/409.jpg",
+      "ground_truth": [
+        "C,A,F,E"
+      ],
+      "prediction": "cafe",
+      "cleaned_prediction": "cafe"
+    },
+    {
+      "img_path": "../datasets/svt/images/41.jpg",
+      "ground_truth": [
+        "P,i,z,z,a"
+      ],
+      "prediction": "pizza",
+      "cleaned_prediction": "pizza"
+    },
+    {
+      "img_path": "../datasets/svt/images/410.jpg",
+      "ground_truth": [
+        "N,E,U,M,O,S"
+      ],
+      "prediction": "REUMS",
+      "cleaned_prediction": "reums"
+    },
+    {
+      "img_path": "../datasets/svt/images/411.jpg",
+      "ground_truth": [
+        "N,E,U,M,O,S"
+      ],
+      "prediction": "Neumos",
+      "cleaned_prediction": "neumos"
+    },
+    {
+      "img_path": "../datasets/svt/images/412.jpg",
+      "ground_truth": [
+        "C,E,N,T,R,A,L"
+      ],
+      "prediction": "central",
+      "cleaned_prediction": "central"
+    },
+    {
+      "img_path": "../datasets/svt/images/413.jpg",
+      "ground_truth": [
+        "G,R,A,N,D"
+      ],
+      "prediction": "Grand",
+      "cleaned_prediction": "grand"
+    },
+    {
+      "img_path": "../datasets/svt/images/414.jpg",
+      "ground_truth": [
+        "E,A,G,E,R"
+      ],
+      "prediction": "EAGER",
+      "cleaned_prediction": "eager"
+    },
+    {
+      "img_path": "../datasets/svt/images/415.jpg",
+      "ground_truth": [
+        "I,m,p,o,r,t,s"
+      ],
+      "prediction": "Imports",
+      "cleaned_prediction": "imports"
+    },
+    {
+      "img_path": "../datasets/svt/images/416.jpg",
+      "ground_truth": [
+        "P,h,i,l"
+      ],
+      "prediction": "phillies",
+      "cleaned_prediction": "phillies"
+    },
+    {
+      "img_path": "../datasets/svt/images/417.jpg",
+      "ground_truth": [
+        "C,e,n,t,e,r"
+      ],
+      "prediction": "center",
+      "cleaned_prediction": "center"
+    },
+    {
+      "img_path": "../datasets/svt/images/418.jpg",
+      "ground_truth": [
+        "C,o,n,v,e,n,t,i,o,n"
+      ],
+      "prediction": "convention",
+      "cleaned_prediction": "convention"
+    },
+    {
+      "img_path": "../datasets/svt/images/419.jpg",
+      "ground_truth": [
+        "G,A,R,F,I,E,L,D"
+      ],
+      "prediction": "garfield",
+      "cleaned_prediction": "garfield"
+    },
+    {
+      "img_path": "../datasets/svt/images/42.jpg",
+      "ground_truth": [
+        "M, ,a, ,n"
+      ],
+      "prediction": "man",
+      "cleaned_prediction": "man"
+    },
+    {
+      "img_path": "../datasets/svt/images/420.jpg",
+      "ground_truth": [
+        "H,I,G,H"
+      ],
+      "prediction": "GARAGE HIGH",
+      "cleaned_prediction": "garage high"
+    },
+    {
+      "img_path": "../datasets/svt/images/421.jpg",
+      "ground_truth": [
+        "S,C,H,O,O,L"
+      ],
+      "prediction": "school",
+      "cleaned_prediction": "school"
+    },
+    {
+      "img_path": "../datasets/svt/images/422.jpg",
+      "ground_truth": [
+        "T,r,a,v,e,l,o,d,g,e"
+      ],
+      "prediction": "Travelodge",
+      "cleaned_prediction": "travelodge"
+    },
+    {
+      "img_path": "../datasets/svt/images/423.jpg",
+      "ground_truth": [
+        "G,O,O,D,W,I,L,L"
+      ],
+      "prediction": "Goodwill",
+      "cleaned_prediction": "goodwill"
+    },
+    {
+      "img_path": "../datasets/svt/images/424.jpg",
+      "ground_truth": [
+        "S,P,E,E,D"
+      ],
+      "prediction": "speedzone",
+      "cleaned_prediction": "speedzone"
+    },
+    {
+      "img_path": "../datasets/svt/images/425.jpg",
+      "ground_truth": [
+        "Z,O,N,E"
+      ],
+      "prediction": "azone",
+      "cleaned_prediction": "azone"
+    },
+    {
+      "img_path": "../datasets/svt/images/426.jpg",
+      "ground_truth": [
+        "A,U,T,O"
+      ],
+      "prediction": "auto",
+      "cleaned_prediction": "auto"
+    },
+    {
+      "img_path": "../datasets/svt/images/427.jpg",
+      "ground_truth": [
+        "S,U,P,P,L,Y"
+      ],
+      "prediction": "supply",
+      "cleaned_prediction": "supply"
+    },
+    {
+      "img_path": "../datasets/svt/images/428.jpg",
+      "ground_truth": [
+        "L,O,C,K,S,M,I,T,H"
+      ],
+      "prediction": "locksmith",
+      "cleaned_prediction": "locksmith"
+    },
+    {
+      "img_path": "../datasets/svt/images/429.jpg",
+      "ground_truth": [
+        "F,A,H,R,E,N,H,E,I,T"
+      ],
+      "prediction": "fahrenet",
+      "cleaned_prediction": "fahrenet"
+    },
+    {
+      "img_path": "../datasets/svt/images/43.jpg",
+      "ground_truth": [
+        "S,o,p,r,a"
+      ],
+      "prediction": "SOPRA",
+      "cleaned_prediction": "sopra"
+    },
+    {
+      "img_path": "../datasets/svt/images/430.jpg",
+      "ground_truth": [
+        "L,O,U,N,G,E"
+      ],
+      "prediction": "The word is the written word",
+      "cleaned_prediction": "the word is the written word"
+    },
+    {
+      "img_path": "../datasets/svt/images/431.jpg",
+      "ground_truth": [
+        "c,a,p, ,G,I,R,O"
+      ],
+      "prediction": "cappuccino",
+      "cleaned_prediction": "cappuccino"
+    },
+    {
+      "img_path": "../datasets/svt/images/432.jpg",
+      "ground_truth": [
+        "T,A,R,G,E,T"
+      ],
+      "prediction": "target",
+      "cleaned_prediction": "target"
+    },
+    {
+      "img_path": "../datasets/svt/images/433.jpg",
+      "ground_truth": [
+        "O,R,P,H,E,U,M"
+      ],
+      "prediction": "Orphium",
+      "cleaned_prediction": "orphium"
+    },
+    {
+      "img_path": "../datasets/svt/images/434.jpg",
+      "ground_truth": [
+        "T,H,E,A,T,R,E"
+      ],
+      "prediction": "theatre",
+      "cleaned_prediction": "theatre"
+    },
+    {
+      "img_path": "../datasets/svt/images/435.jpg",
+      "ground_truth": [
+        "R,E,D,W,O,O,D"
+      ],
+      "prediction": "redwood",
+      "cleaned_prediction": "redwood"
+    },
+    {
+      "img_path": "../datasets/svt/images/436.jpg",
+      "ground_truth": [
+        "R,E,D,W,D"
+      ],
+      "prediction": "redwood",
+      "cleaned_prediction": "redwood"
+    },
+    {
+      "img_path": "../datasets/svt/images/437.jpg",
+      "ground_truth": [
+        "A,P,A,R,T,M,E,N,T,S"
+      ],
+      "prediction": "Antennas",
+      "cleaned_prediction": "antennas"
+    },
+    {
+      "img_path": "../datasets/svt/images/438.jpg",
+      "ground_truth": [
+        "B,O,H,E,M,I,A,N"
+      ],
+      "prediction": "bohemian",
+      "cleaned_prediction": "bohemian"
+    },
+    {
+      "img_path": "../datasets/svt/images/439.jpg",
+      "ground_truth": [
+        "G,R,A,N,D"
+      ],
+      "prediction": "Grand",
+      "cleaned_prediction": "grand"
+    },
+    {
+      "img_path": "../datasets/svt/images/44.jpg",
+      "ground_truth": [
+        "S,o,t,t,o"
+      ],
+      "prediction": "Sotto",
+      "cleaned_prediction": "sotto"
+    },
+    {
+      "img_path": "../datasets/svt/images/440.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "hotel",
+      "cleaned_prediction": "hotel"
+    },
+    {
+      "img_path": "../datasets/svt/images/441.jpg",
+      "ground_truth": [
+        "S,U,P,E,R"
+      ],
+      "prediction": "Supermarket",
+      "cleaned_prediction": "supermarket"
+    },
+    {
+      "img_path": "../datasets/svt/images/442.jpg",
+      "ground_truth": [
+        "R,a,d,i,o"
+      ],
+      "prediction": "radio station",
+      "cleaned_prediction": "radio station"
+    },
+    {
+      "img_path": "../datasets/svt/images/443.jpg",
+      "ground_truth": [
+        "S,h,a,c,k"
+      ],
+      "prediction": "shack",
+      "cleaned_prediction": "shack"
+    },
+    {
+      "img_path": "../datasets/svt/images/444.jpg",
+      "ground_truth": [
+        "C,H,A,N,T,E,R,E,L,L,E"
+      ],
+      "prediction": "Chanterelle",
+      "cleaned_prediction": "chanterelle"
+    },
+    {
+      "img_path": "../datasets/svt/images/445.jpg",
+      "ground_truth": [
+        "D,o,n,a,l,d"
+      ],
+      "prediction": "mcdonalds",
+      "cleaned_prediction": "mcdonalds"
+    },
+    {
+      "img_path": "../datasets/svt/images/446.jpg",
+      "ground_truth": [
+        "H,I,G,H"
+      ],
+      "prediction": "high",
+      "cleaned_prediction": "high"
+    },
+    {
+      "img_path": "../datasets/svt/images/447.jpg",
+      "ground_truth": [
+        "L,I,N,C,O,L,N"
+      ],
+      "prediction": "lincoln",
+      "cleaned_prediction": "lincoln"
+    },
+    {
+      "img_path": "../datasets/svt/images/448.jpg",
+      "ground_truth": [
+        "S,C,H,O,O,L"
+      ],
+      "prediction": "school",
+      "cleaned_prediction": "school"
+    },
+    {
+      "img_path": "../datasets/svt/images/449.jpg",
+      "ground_truth": [
+        "H,o,t,e,l"
+      ],
+      "prediction": "hotel de la ville",
+      "cleaned_prediction": "hotel de la ville"
+    },
+    {
+      "img_path": "../datasets/svt/images/45.jpg",
+      "ground_truth": [
+        "A,I,R,W,A,Y,S"
+      ],
+      "prediction": "airways",
+      "cleaned_prediction": "airways"
+    },
+    {
+      "img_path": "../datasets/svt/images/450.jpg",
+      "ground_truth": [
+        "V,e,r,n,o,n"
+      ],
+      "prediction": "venon",
+      "cleaned_prediction": "venon"
+    },
+    {
+      "img_path": "../datasets/svt/images/451.jpg",
+      "ground_truth": [
+        "F,I,R,S,T"
+      ],
+      "prediction": "the first word in a sentence",
+      "cleaned_prediction": "the first word in a sentence"
+    },
+    {
+      "img_path": "../datasets/svt/images/452.jpg",
+      "ground_truth": [
+        "F,I,R,S,T"
+      ],
+      "prediction": "The word is first.",
+      "cleaned_prediction": "the word is first"
+    },
+    {
+      "img_path": "../datasets/svt/images/453.jpg",
+      "ground_truth": [
+        "C,H,I,R,O,P,R,A,C,T,I,C"
+      ],
+      "prediction": "chiropractic",
+      "cleaned_prediction": "chiropractic"
+    },
+    {
+      "img_path": "../datasets/svt/images/454.jpg",
+      "ground_truth": [
+        "G,I,U,L,I,O"
+      ],
+      "prediction": "guilio",
+      "cleaned_prediction": "guilio"
+    },
+    {
+      "img_path": "../datasets/svt/images/455.jpg",
+      "ground_truth": [
+        "D,E,L,I"
+      ],
+      "prediction": "DELI",
+      "cleaned_prediction": "deli"
+    },
+    {
+      "img_path": "../datasets/svt/images/456.jpg",
+      "ground_truth": [
+        "D,E,L,I"
+      ],
+      "prediction": "DELI",
+      "cleaned_prediction": "deli"
+    },
+    {
+      "img_path": "../datasets/svt/images/457.jpg",
+      "ground_truth": [
+        "G,A,R,N,Y"
+      ],
+      "prediction": "GARRY",
+      "cleaned_prediction": "garry"
+    },
+    {
+      "img_path": "../datasets/svt/images/458.jpg",
+      "ground_truth": [
+        "R,o,o,t,s"
+      ],
+      "prediction": "roots",
+      "cleaned_prediction": "roots"
+    },
+    {
+      "img_path": "../datasets/svt/images/459.jpg",
+      "ground_truth": [
+        "A,I,R"
+      ],
+      "prediction": "air",
+      "cleaned_prediction": "air"
+    },
+    {
+      "img_path": "../datasets/svt/images/46.jpg",
+      "ground_truth": [
+        "C,E,N,T,E,R"
+      ],
+      "prediction": "center",
+      "cleaned_prediction": "center"
+    },
+    {
+      "img_path": "../datasets/svt/images/460.jpg",
+      "ground_truth": [
+        "M,U,S,E,U,M"
+      ],
+      "prediction": "museum",
+      "cleaned_prediction": "museum"
+    },
+    {
+      "img_path": "../datasets/svt/images/461.jpg",
+      "ground_truth": [
+        "S,P,A,C,E"
+      ],
+      "prediction": "space",
+      "cleaned_prediction": "space"
+    },
+    {
+      "img_path": "../datasets/svt/images/462.jpg",
+      "ground_truth": [
+        "L,E,O,N"
+      ],
+      "prediction": "leon",
+      "cleaned_prediction": "leon"
+    },
+    {
+      "img_path": "../datasets/svt/images/463.jpg",
+      "ground_truth": [
+        "P,L,A,Z,A"
+      ],
+      "prediction": "plaza",
+      "cleaned_prediction": "plaza"
+    },
+    {
+      "img_path": "../datasets/svt/images/464.jpg",
+      "ground_truth": [
+        "A,M,E,R,I,C,A"
+      ],
+      "prediction": "america",
+      "cleaned_prediction": "america"
+    },
+    {
+      "img_path": "../datasets/svt/images/465.jpg",
+      "ground_truth": [
+        "I,N,N"
+      ],
+      "prediction": "inn",
+      "cleaned_prediction": "inn"
+    },
+    {
+      "img_path": "../datasets/svt/images/466.jpg",
+      "ground_truth": [
+        "S,Q,U,A,R,E"
+      ],
+      "prediction": "square",
+      "cleaned_prediction": "square"
+    },
+    {
+      "img_path": "../datasets/svt/images/467.jpg",
+      "ground_truth": [
+        "W,A,S,H,I,N,G,T,O,N"
+      ],
+      "prediction": "washington",
+      "cleaned_prediction": "washington"
+    },
+    {
+      "img_path": "../datasets/svt/images/468.jpg",
+      "ground_truth": [
+        "E,M,B,A,S,S,Y"
+      ],
+      "prediction": "Embassy",
+      "cleaned_prediction": "embassy"
+    },
+    {
+      "img_path": "../datasets/svt/images/469.jpg",
+      "ground_truth": [
+        "S,U,I,T,E,S"
+      ],
+      "prediction": "Suites",
+      "cleaned_prediction": "suites"
+    },
+    {
+      "img_path": "../datasets/svt/images/47.jpg",
+      "ground_truth": [
+        "C,A,R,R,O,L,L"
+      ],
+      "prediction": "carroll",
+      "cleaned_prediction": "carroll"
+    },
+    {
+      "img_path": "../datasets/svt/images/470.jpg",
+      "ground_truth": [
+        "P,A,R,K,I,N,G"
+      ],
+      "prediction": "parking",
+      "cleaned_prediction": "parking"
+    },
+    {
+      "img_path": "../datasets/svt/images/471.jpg",
+      "ground_truth": [
+        "C,e,n,t,e,r"
+      ],
+      "prediction": "The written word",
+      "cleaned_prediction": "the written word"
+    },
+    {
+      "img_path": "../datasets/svt/images/472.jpg",
+      "ground_truth": [
+        "C,i,t,y"
+      ],
+      "prediction": "city",
+      "cleaned_prediction": "city"
+    },
+    {
+      "img_path": "../datasets/svt/images/473.jpg",
+      "ground_truth": [
+        "C,o,r,n,e,r"
+      ],
+      "prediction": "CORNER",
+      "cleaned_prediction": "corner"
+    },
+    {
+      "img_path": "../datasets/svt/images/474.jpg",
+      "ground_truth": [
+        "M,a,r,t,i,n,'"
+      ],
+      "prediction": "martin's",
+      "cleaned_prediction": "martins"
+    },
+    {
+      "img_path": "../datasets/svt/images/475.jpg",
+      "ground_truth": [
+        "B,a,r"
+      ],
+      "prediction": "bar",
+      "cleaned_prediction": "bar"
+    },
+    {
+      "img_path": "../datasets/svt/images/476.jpg",
+      "ground_truth": [
+        "Q,u,i,z,n,o,s"
+      ],
+      "prediction": "Quiznos",
+      "cleaned_prediction": "quiznos"
+    },
+    {
+      "img_path": "../datasets/svt/images/477.jpg",
+      "ground_truth": [
+        "a,r,t,s"
+      ],
+      "prediction": "arts",
+      "cleaned_prediction": "arts"
+    },
+    {
+      "img_path": "../datasets/svt/images/478.jpg",
+      "ground_truth": [
+        "m,o,d,i,f,i,e,d"
+      ],
+      "prediction": "Modified",
+      "cleaned_prediction": "modified"
+    },
+    {
+      "img_path": "../datasets/svt/images/479.jpg",
+      "ground_truth": [
+        "B,r,o,t,h,e,r,s"
+      ],
+      "prediction": "zoe brothers",
+      "cleaned_prediction": "zoe brothers"
+    },
+    {
+      "img_path": "../datasets/svt/images/48.jpg",
+      "ground_truth": [
+        "S,T,R,E,E,T"
+      ],
+      "prediction": "street",
+      "cleaned_prediction": "street"
+    },
+    {
+      "img_path": "../datasets/svt/images/480.jpg",
+      "ground_truth": [
+        "P,R,O,D,U,C,T,S"
+      ],
+      "prediction": "products",
+      "cleaned_prediction": "products"
+    },
+    {
+      "img_path": "../datasets/svt/images/481.jpg",
+      "ground_truth": [
+        "Z,E,S,C,O"
+      ],
+      "prediction": "zesco",
+      "cleaned_prediction": "zesco"
+    },
+    {
+      "img_path": "../datasets/svt/images/482.jpg",
+      "ground_truth": [
+        "Z,O,L,L"
+      ],
+      "prediction": "zoll",
+      "cleaned_prediction": "zoll"
+    },
+    {
+      "img_path": "../datasets/svt/images/483.jpg",
+      "ground_truth": [
+        "G,O,O,D,W,I,L,L"
+      ],
+      "prediction": "Goodwill",
+      "cleaned_prediction": "goodwill"
+    },
+    {
+      "img_path": "../datasets/svt/images/484.jpg",
+      "ground_truth": [
+        "F,r,a,n,k,l,y"
+      ],
+      "prediction": "Frankly, I don't know",
+      "cleaned_prediction": "frankly i dont know"
+    },
+    {
+      "img_path": "../datasets/svt/images/485.jpg",
+      "ground_truth": [
+        "W,i,n,e,s"
+      ],
+      "prediction": "my wines",
+      "cleaned_prediction": "my wines"
+    },
+    {
+      "img_path": "../datasets/svt/images/486.jpg",
+      "ground_truth": [
+        "H,o,l,i,d,a,y"
+      ],
+      "prediction": "Holiday Inn Express",
+      "cleaned_prediction": "holiday inn express"
+    },
+    {
+      "img_path": "../datasets/svt/images/487.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "hotel",
+      "cleaned_prediction": "hotel"
+    },
+    {
+      "img_path": "../datasets/svt/images/488.jpg",
+      "ground_truth": [
+        "I,n,n"
+      ],
+      "prediction": "inn",
+      "cleaned_prediction": "inn"
+    },
+    {
+      "img_path": "../datasets/svt/images/489.jpg",
+      "ground_truth": [
+        "B,I,K,E"
+      ],
+      "prediction": "Bike",
+      "cleaned_prediction": "bike"
+    },
+    {
+      "img_path": "../datasets/svt/images/49.jpg",
+      "ground_truth": [
+        "I,n,d,i,a,n,a"
+      ],
+      "prediction": "indiana",
+      "cleaned_prediction": "indiana"
+    },
+    {
+      "img_path": "../datasets/svt/images/490.jpg",
+      "ground_truth": [
+        "K,Y,L,E"
+      ],
+      "prediction": "kyle",
+      "cleaned_prediction": "kyle"
+    },
+    {
+      "img_path": "../datasets/svt/images/491.jpg",
+      "ground_truth": [
+        "S,H,O,P"
+      ],
+      "prediction": "Shop",
+      "cleaned_prediction": "shop"
+    },
+    {
+      "img_path": "../datasets/svt/images/492.jpg",
+      "ground_truth": [
+        "D,E,L,I"
+      ],
+      "prediction": "The word is \"dell\"",
+      "cleaned_prediction": "the word is dell"
+    },
+    {
+      "img_path": "../datasets/svt/images/493.jpg",
+      "ground_truth": [
+        "D,E,L,I"
+      ],
+      "prediction": "deli",
+      "cleaned_prediction": "deli"
+    },
+    {
+      "img_path": "../datasets/svt/images/494.jpg",
+      "ground_truth": [
+        "K,A,B,O,B"
+      ],
+      "prediction": "kabob",
+      "cleaned_prediction": "kabob"
+    },
+    {
+      "img_path": "../datasets/svt/images/495.jpg",
+      "ground_truth": [
+        "K,O,T,A,Y,K"
+      ],
+      "prediction": "kotayk",
+      "cleaned_prediction": "kotayk"
+    },
+    {
+      "img_path": "../datasets/svt/images/496.jpg",
+      "ground_truth": [
+        "G,R,O,C,E,R,Y"
+      ],
+      "prediction": "Grocery",
+      "cleaned_prediction": "grocery"
+    },
+    {
+      "img_path": "../datasets/svt/images/497.jpg",
+      "ground_truth": [
+        "C,A,R,L,T,O,N"
+      ],
+      "prediction": "carlton",
+      "cleaned_prediction": "carlton"
+    },
+    {
+      "img_path": "../datasets/svt/images/498.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "hotel",
+      "cleaned_prediction": "hotel"
+    },
+    {
+      "img_path": "../datasets/svt/images/499.jpg",
+      "ground_truth": [
+        "S,A,T,Y,R,I,C,O,N"
+      ],
+      "prediction": "SATYRICON",
+      "cleaned_prediction": "satyricon"
+    },
+    {
+      "img_path": "../datasets/svt/images/5.jpg",
+      "ground_truth": [
+        "T,H,E"
+      ],
+      "prediction": "the word",
+      "cleaned_prediction": "the word"
+    },
+    {
+      "img_path": "../datasets/svt/images/50.jpg",
+      "ground_truth": [
+        "R,e,p,e,r,t,o,r,y"
+      ],
+      "prediction": "Repository",
+      "cleaned_prediction": "repository"
+    },
+    {
+      "img_path": "../datasets/svt/images/500.jpg",
+      "ground_truth": [
+        "A,N,A,H,E,I,M"
+      ],
+      "prediction": "anahiem",
+      "cleaned_prediction": "anahiem"
+    },
+    {
+      "img_path": "../datasets/svt/images/501.jpg",
+      "ground_truth": [
+        "B,A,N,D"
+      ],
+      "prediction": "band",
+      "cleaned_prediction": "band"
+    },
+    {
+      "img_path": "../datasets/svt/images/502.jpg",
+      "ground_truth": [
+        "I,N,S,T,R,U,M,E,N,T,S"
+      ],
+      "prediction": "instruments",
+      "cleaned_prediction": "instruments"
+    },
+    {
+      "img_path": "../datasets/svt/images/503.jpg",
+      "ground_truth": [
+        "B,A,R"
+      ],
+      "prediction": "The word is the word.",
+      "cleaned_prediction": "the word is the word"
+    },
+    {
+      "img_path": "../datasets/svt/images/504.jpg",
+      "ground_truth": [
+        "D,A,N"
+      ],
+      "prediction": "dan",
+      "cleaned_prediction": "dan"
+    },
+    {
+      "img_path": "../datasets/svt/images/505.jpg",
+      "ground_truth": [
+        "L,O,U,I,S"
+      ],
+      "prediction": "louis",
+      "cleaned_prediction": "louis"
+    },
+    {
+      "img_path": "../datasets/svt/images/506.jpg",
+      "ground_truth": [
+        "O,Y,S,T,E,R"
+      ],
+      "prediction": "oyster",
+      "cleaned_prediction": "oyster"
+    },
+    {
+      "img_path": "../datasets/svt/images/507.jpg",
+      "ground_truth": [
+        "C,a,s,t,l,e"
+      ],
+      "prediction": "castle",
+      "cleaned_prediction": "castle"
+    },
+    {
+      "img_path": "../datasets/svt/images/508.jpg",
+      "ground_truth": [
+        "W,h,i,t,e"
+      ],
+      "prediction": "it is the word \"white\"",
+      "cleaned_prediction": "it is the word white"
+    },
+    {
+      "img_path": "../datasets/svt/images/509.jpg",
+      "ground_truth": [
+        "F,O,O,D"
+      ],
+      "prediction": "food",
+      "cleaned_prediction": "food"
+    },
+    {
+      "img_path": "../datasets/svt/images/51.jpg",
+      "ground_truth": [
+        "T,h,e,a,t,r,e"
+      ],
+      "prediction": "Theatre",
+      "cleaned_prediction": "theatre"
+    },
+    {
+      "img_path": "../datasets/svt/images/510.jpg",
+      "ground_truth": [
+        "J,I,M,M,Y"
+      ],
+      "prediction": "immy",
+      "cleaned_prediction": "immy"
+    },
+    {
+      "img_path": "../datasets/svt/images/511.jpg",
+      "ground_truth": [
+        "S,T,O,R,E"
+      ],
+      "prediction": "store",
+      "cleaned_prediction": "store"
+    },
+    {
+      "img_path": "../datasets/svt/images/512.jpg",
+      "ground_truth": [
+        "H,O,L,L,Y,W,O,O,D"
+      ],
+      "prediction": "hollywood",
+      "cleaned_prediction": "hollywood"
+    },
+    {
+      "img_path": "../datasets/svt/images/513.jpg",
+      "ground_truth": [
+        "P,O,S,T,E,R,S"
+      ],
+      "prediction": "Posters",
+      "cleaned_prediction": "posters"
+    },
+    {
+      "img_path": "../datasets/svt/images/514.jpg",
+      "ground_truth": [
+        "P,A,L,A,C,E"
+      ],
+      "prediction": "palace",
+      "cleaned_prediction": "palace"
+    },
+    {
+      "img_path": "../datasets/svt/images/515.jpg",
+      "ground_truth": [
+        "W,H,I,T,E"
+      ],
+      "prediction": "white",
+      "cleaned_prediction": "white"
+    },
+    {
+      "img_path": "../datasets/svt/images/516.jpg",
+      "ground_truth": [
+        "W,H,I,T"
+      ],
+      "prediction": "white",
+      "cleaned_prediction": "white"
+    },
+    {
+      "img_path": "../datasets/svt/images/517.jpg",
+      "ground_truth": [
+        "A,m,e,r,i,c,a"
+      ],
+      "prediction": "america",
+      "cleaned_prediction": "america"
+    },
+    {
+      "img_path": "../datasets/svt/images/518.jpg",
+      "ground_truth": [
+        "C,o,m,f,o,r,t"
+      ],
+      "prediction": "comfort inn",
+      "cleaned_prediction": "comfort inn"
+    },
+    {
+      "img_path": "../datasets/svt/images/519.jpg",
+      "ground_truth": [
+        "I,N,N"
+      ],
+      "prediction": "The word inn",
+      "cleaned_prediction": "the word inn"
+    },
+    {
+      "img_path": "../datasets/svt/images/52.jpg",
+      "ground_truth": [
+        "I,n,d,i,a,n,a"
+      ],
+      "prediction": "indiana",
+      "cleaned_prediction": "indiana"
+    },
+    {
+      "img_path": "../datasets/svt/images/520.jpg",
+      "ground_truth": [
+        "S,C,I,E,N,T,O,L,O,G,Y"
+      ],
+      "prediction": "science",
+      "cleaned_prediction": "science"
+    },
+    {
+      "img_path": "../datasets/svt/images/521.jpg",
+      "ground_truth": [
+        "C,H,U,R,C,H"
+      ],
+      "prediction": "church",
+      "cleaned_prediction": "church"
+    },
+    {
+      "img_path": "../datasets/svt/images/522.jpg",
+      "ground_truth": [
+        "J,o,s,e"
+      ],
+      "prediction": "jose",
+      "cleaned_prediction": "jose"
+    },
+    {
+      "img_path": "../datasets/svt/images/523.jpg",
+      "ground_truth": [
+        "M,u,s,e,u,m"
+      ],
+      "prediction": "The word museum",
+      "cleaned_prediction": "the word museum"
+    },
+    {
+      "img_path": "../datasets/svt/images/524.jpg",
+      "ground_truth": [
+        "Q,u,i,l,t,s"
+      ],
+      "prediction": "Quilts",
+      "cleaned_prediction": "quilts"
+    },
+    {
+      "img_path": "../datasets/svt/images/525.jpg",
+      "ground_truth": [
+        "S,a,n"
+      ],
+      "prediction": "san jose",
+      "cleaned_prediction": "san jose"
+    },
+    {
+      "img_path": "../datasets/svt/images/526.jpg",
+      "ground_truth": [
+        "T,e,x,t,i,l,e,s"
+      ],
+      "prediction": "Textiles",
+      "cleaned_prediction": "textiles"
+    },
+    {
+      "img_path": "../datasets/svt/images/527.jpg",
+      "ground_truth": [
+        "H,O,U,S,E"
+      ],
+      "prediction": "house",
+      "cleaned_prediction": "house"
+    },
+    {
+      "img_path": "../datasets/svt/images/528.jpg",
+      "ground_truth": [
+        "T,E,A"
+      ],
+      "prediction": "tea",
+      "cleaned_prediction": "tea"
+    },
+    {
+      "img_path": "../datasets/svt/images/529.jpg",
+      "ground_truth": [
+        "P,A,K"
+      ],
+      "prediction": "Pak",
+      "cleaned_prediction": "pak"
+    },
+    {
+      "img_path": "../datasets/svt/images/53.jpg",
+      "ground_truth": [
+        "I,N,N"
+      ],
+      "prediction": "inn",
+      "cleaned_prediction": "inn"
+    },
+    {
+      "img_path": "../datasets/svt/images/530.jpg",
+      "ground_truth": [
+        "S,T,A,R,B,U,C,K,S"
+      ],
+      "prediction": "starbucks",
+      "cleaned_prediction": "starbucks"
+    },
+    {
+      "img_path": "../datasets/svt/images/531.jpg",
+      "ground_truth": [
+        "B,U,R,B,A,N,K"
+      ],
+      "prediction": "BURBANK",
+      "cleaned_prediction": "burbank"
+    },
+    {
+      "img_path": "../datasets/svt/images/532.jpg",
+      "ground_truth": [
+        "B,U,R,B,A,N,K"
+      ],
+      "prediction": "BURBANK",
+      "cleaned_prediction": "burbank"
+    },
+    {
+      "img_path": "../datasets/svt/images/533.jpg",
+      "ground_truth": [
+        "F,L,O,R,I,S,T"
+      ],
+      "prediction": "florist",
+      "cleaned_prediction": "florist"
+    },
+    {
+      "img_path": "../datasets/svt/images/534.jpg",
+      "ground_truth": [
+        "G,I,F,T,S"
+      ],
+      "prediction": "Gift",
+      "cleaned_prediction": "gift"
+    },
+    {
+      "img_path": "../datasets/svt/images/535.jpg",
+      "ground_truth": [
+        "C,H,E,C,K"
+      ],
+      "prediction": "check",
+      "cleaned_prediction": "check"
+    },
+    {
+      "img_path": "../datasets/svt/images/536.jpg",
+      "ground_truth": [
+        "B,a,n,k"
+      ],
+      "prediction": "bank",
+      "cleaned_prediction": "bank"
+    },
+    {
+      "img_path": "../datasets/svt/images/537.jpg",
+      "ground_truth": [
+        "T,a,b,u"
+      ],
+      "prediction": "TABU",
+      "cleaned_prediction": "tabu"
+    },
+    {
+      "img_path": "../datasets/svt/images/538.jpg",
+      "ground_truth": [
+        "s,p,a,c,e"
+      ],
+      "prediction": "space",
+      "cleaned_prediction": "space"
+    },
+    {
+      "img_path": "../datasets/svt/images/539.jpg",
+      "ground_truth": [
+        "M,A,R,L,B,O,R,O"
+      ],
+      "prediction": "marlboro",
+      "cleaned_prediction": "marlboro"
+    },
+    {
+      "img_path": "../datasets/svt/images/54.jpg",
+      "ground_truth": [
+        "L,O,Y,A,L"
+      ],
+      "prediction": "Loyalty",
+      "cleaned_prediction": "loyalty"
+    },
+    {
+      "img_path": "../datasets/svt/images/540.jpg",
+      "ground_truth": [
+        "H,O,U,L,I,H,A,N,'"
+      ],
+      "prediction": "Houlihan's",
+      "cleaned_prediction": "houlihans"
+    },
+    {
+      "img_path": "../datasets/svt/images/541.jpg",
+      "ground_truth": [
+        "H,O,U,L,I,H,A"
+      ],
+      "prediction": "Houlihan's",
+      "cleaned_prediction": "houlihans"
+    },
+    {
+      "img_path": "../datasets/svt/images/542.jpg",
+      "ground_truth": [
+        "S,h,e,r,a,t,o,n"
+      ],
+      "prediction": "sheraton",
+      "cleaned_prediction": "sheraton"
+    },
+    {
+      "img_path": "../datasets/svt/images/543.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "restaurant",
+      "cleaned_prediction": "restaurant"
+    },
+    {
+      "img_path": "../datasets/svt/images/544.jpg",
+      "ground_truth": [
+        "c,e,l,l,a,r,s"
+      ],
+      "prediction": "Cellars",
+      "cleaned_prediction": "cellars"
+    },
+    {
+      "img_path": "../datasets/svt/images/545.jpg",
+      "ground_truth": [
+        "t,e,n"
+      ],
+      "prediction": "tenn",
+      "cleaned_prediction": "tenn"
+    },
+    {
+      "img_path": "../datasets/svt/images/546.jpg",
+      "ground_truth": [
+        "t,i,m,e,s"
+      ],
+      "prediction": "Times",
+      "cleaned_prediction": "times"
+    },
+    {
+      "img_path": "../datasets/svt/images/547.jpg",
+      "ground_truth": [
+        "A,C,C,O,U,N,T,A,N,C,Y"
+      ],
+      "prediction": "Accountancy",
+      "cleaned_prediction": "accountancy"
+    },
+    {
+      "img_path": "../datasets/svt/images/548.jpg",
+      "ground_truth": [
+        "Q,u,i,z,n,o,s"
+      ],
+      "prediction": "Quiznos",
+      "cleaned_prediction": "quiznos"
+    },
+    {
+      "img_path": "../datasets/svt/images/549.jpg",
+      "ground_truth": [
+        "S,a,l,a,d,s"
+      ],
+      "prediction": "SALADS",
+      "cleaned_prediction": "salads"
+    },
+    {
+      "img_path": "../datasets/svt/images/55.jpg",
+      "ground_truth": [
+        "W,e,s,t,e,r,n"
+      ],
+      "prediction": "best western",
+      "cleaned_prediction": "best western"
+    },
+    {
+      "img_path": "../datasets/svt/images/550.jpg",
+      "ground_truth": [
+        "S,u,b,s"
+      ],
+      "prediction": "It is the word \"the\"",
+      "cleaned_prediction": "it is the word the"
+    },
+    {
+      "img_path": "../datasets/svt/images/551.jpg",
+      "ground_truth": [
+        "J,e,w,e,l"
+      ],
+      "prediction": "Jewel",
+      "cleaned_prediction": "jewel"
+    },
+    {
+      "img_path": "../datasets/svt/images/552.jpg",
+      "ground_truth": [
+        "O,s,c,o"
+      ],
+      "prediction": "osso",
+      "cleaned_prediction": "osso"
+    },
+    {
+      "img_path": "../datasets/svt/images/553.jpg",
+      "ground_truth": [
+        "P,I,C,K,L,E,S"
+      ],
+      "prediction": "Pickles",
+      "cleaned_prediction": "pickles"
+    },
+    {
+      "img_path": "../datasets/svt/images/554.jpg",
+      "ground_truth": [
+        "P,U,B"
+      ],
+      "prediction": "pub",
+      "cleaned_prediction": "pub"
+    },
+    {
+      "img_path": "../datasets/svt/images/555.jpg",
+      "ground_truth": [
+        "P,I,C,K,L,E,S"
+      ],
+      "prediction": "pickles",
+      "cleaned_prediction": "pickles"
+    },
+    {
+      "img_path": "../datasets/svt/images/556.jpg",
+      "ground_truth": [
+        "P,U,B"
+      ],
+      "prediction": "pub",
+      "cleaned_prediction": "pub"
+    },
+    {
+      "img_path": "../datasets/svt/images/557.jpg",
+      "ground_truth": [
+        "S,P,A,G,H,E,T,T,I"
+      ],
+      "prediction": "Spaghetti",
+      "cleaned_prediction": "spaghetti"
+    },
+    {
+      "img_path": "../datasets/svt/images/558.jpg",
+      "ground_truth": [
+        "W,A,R,E,H,O,U,S,E"
+      ],
+      "prediction": "Warehouse",
+      "cleaned_prediction": "warehouse"
+    },
+    {
+      "img_path": "../datasets/svt/images/559.jpg",
+      "ground_truth": [
+        "B,R,E,W,E,R,Y"
+      ],
+      "prediction": "brewery",
+      "cleaned_prediction": "brewery"
+    },
+    {
+      "img_path": "../datasets/svt/images/56.jpg",
+      "ground_truth": [
+        "B,e,s,t"
+      ],
+      "prediction": "best weather",
+      "cleaned_prediction": "best weather"
+    },
+    {
+      "img_path": "../datasets/svt/images/560.jpg",
+      "ground_truth": [
+        "P,U,B"
+      ],
+      "prediction": "pub",
+      "cleaned_prediction": "pub"
+    },
+    {
+      "img_path": "../datasets/svt/images/561.jpg",
+      "ground_truth": [
+        "S,U,N"
+      ],
+      "prediction": "sun",
+      "cleaned_prediction": "sun"
+    },
+    {
+      "img_path": "../datasets/svt/images/562.jpg",
+      "ground_truth": [
+        "M,O,U,N,T,A,I,N"
+      ],
+      "prediction": "mountain",
+      "cleaned_prediction": "mountain"
+    },
+    {
+      "img_path": "../datasets/svt/images/563.jpg",
+      "ground_truth": [
+        "S,I,M,O,N"
+      ],
+      "prediction": "simon",
+      "cleaned_prediction": "simon"
+    },
+    {
+      "img_path": "../datasets/svt/images/564.jpg",
+      "ground_truth": [
+        "G,A,L,L,E,R,Y"
+      ],
+      "prediction": "gallery",
+      "cleaned_prediction": "gallery"
+    },
+    {
+      "img_path": "../datasets/svt/images/565.jpg",
+      "ground_truth": [
+        "S,T,R,E,E,T"
+      ],
+      "prediction": "street",
+      "cleaned_prediction": "street"
+    },
+    {
+      "img_path": "../datasets/svt/images/566.jpg",
+      "ground_truth": [
+        "A,V,I,S"
+      ],
+      "prediction": "avis",
+      "cleaned_prediction": "avis"
+    },
+    {
+      "img_path": "../datasets/svt/images/567.jpg",
+      "ground_truth": [
+        "H,I,M,A,l,A,Y,A,S"
+      ],
+      "prediction": "Himalayas",
+      "cleaned_prediction": "himalayas"
+    },
+    {
+      "img_path": "../datasets/svt/images/568.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "restaurant",
+      "cleaned_prediction": "restaurant"
+    },
+    {
+      "img_path": "../datasets/svt/images/569.jpg",
+      "ground_truth": [
+        "S,T,R,E,E,T"
+      ],
+      "prediction": "street",
+      "cleaned_prediction": "street"
+    },
+    {
+      "img_path": "../datasets/svt/images/57.jpg",
+      "ground_truth": [
+        "P,A,R,A,M,O,U,N,T"
+      ],
+      "prediction": "Paramount Pictures",
+      "cleaned_prediction": "paramount pictures"
+    },
+    {
+      "img_path": "../datasets/svt/images/570.jpg",
+      "ground_truth": [
+        "C,E,N,T,E,R"
+      ],
+      "prediction": "center",
+      "cleaned_prediction": "center"
+    },
+    {
+      "img_path": "../datasets/svt/images/571.jpg",
+      "ground_truth": [
+        "U,N,I,V,E,R,S,I,T,Y"
+      ],
+      "prediction": "university",
+      "cleaned_prediction": "university"
+    },
+    {
+      "img_path": "../datasets/svt/images/572.jpg",
+      "ground_truth": [
+        "A,S,U"
+      ],
+      "prediction": "The word is \"the\"",
+      "cleaned_prediction": "the word is the"
+    },
+    {
+      "img_path": "../datasets/svt/images/573.jpg",
+      "ground_truth": [
+        "D,a,y,s"
+      ],
+      "prediction": "days",
+      "cleaned_prediction": "days"
+    },
+    {
+      "img_path": "../datasets/svt/images/574.jpg",
+      "ground_truth": [
+        "I,n,n"
+      ],
+      "prediction": "linkedin",
+      "cleaned_prediction": "linkedin"
+    },
+    {
+      "img_path": "../datasets/svt/images/575.jpg",
+      "ground_truth": [
+        "S,h,e,r,a,t,o,n"
+      ],
+      "prediction": "sheraton",
+      "cleaned_prediction": "sheraton"
+    },
+    {
+      "img_path": "../datasets/svt/images/576.jpg",
+      "ground_truth": [
+        "A,v,a,n,t,e"
+      ],
+      "prediction": "Avante",
+      "cleaned_prediction": "avante"
+    },
+    {
+      "img_path": "../datasets/svt/images/577.jpg",
+      "ground_truth": [
+        "F,L,O,R,I,S,T"
+      ],
+      "prediction": "florist",
+      "cleaned_prediction": "florist"
+    },
+    {
+      "img_path": "../datasets/svt/images/578.jpg",
+      "ground_truth": [
+        "G,a,r,d,e,n,s"
+      ],
+      "prediction": "gardens",
+      "cleaned_prediction": "gardens"
+    },
+    {
+      "img_path": "../datasets/svt/images/579.jpg",
+      "ground_truth": [
+        "S,C,H,O,O,L"
+      ],
+      "prediction": "school",
+      "cleaned_prediction": "school"
+    },
+    {
+      "img_path": "../datasets/svt/images/58.jpg",
+      "ground_truth": [
+        "K,F,C"
+      ],
+      "prediction": "KFC",
+      "cleaned_prediction": "kfc"
+    },
+    {
+      "img_path": "../datasets/svt/images/580.jpg",
+      "ground_truth": [
+        "F,L,O,R,A,L"
+      ],
+      "prediction": "floral",
+      "cleaned_prediction": "floral"
+    },
+    {
+      "img_path": "../datasets/svt/images/581.jpg",
+      "ground_truth": [
+        "D,E,S,I,G,N"
+      ],
+      "prediction": "design",
+      "cleaned_prediction": "design"
+    },
+    {
+      "img_path": "../datasets/svt/images/582.jpg",
+      "ground_truth": [
+        "S,T,A,R,B,U,C,K,S"
+      ],
+      "prediction": "starbucks",
+      "cleaned_prediction": "starbucks"
+    },
+    {
+      "img_path": "../datasets/svt/images/583.jpg",
+      "ground_truth": [
+        "S,T,A,R,B,U,C,K,S"
+      ],
+      "prediction": "starbucks",
+      "cleaned_prediction": "starbucks"
+    },
+    {
+      "img_path": "../datasets/svt/images/584.jpg",
+      "ground_truth": [
+        "C,V,S"
+      ],
+      "prediction": "cvs",
+      "cleaned_prediction": "cvs"
+    },
+    {
+      "img_path": "../datasets/svt/images/585.jpg",
+      "ground_truth": [
+        "C,V,S"
+      ],
+      "prediction": "cvs",
+      "cleaned_prediction": "cvs"
+    },
+    {
+      "img_path": "../datasets/svt/images/586.jpg",
+      "ground_truth": [
+        "C,V,S"
+      ],
+      "prediction": "cvs",
+      "cleaned_prediction": "cvs"
+    },
+    {
+      "img_path": "../datasets/svt/images/587.jpg",
+      "ground_truth": [
+        "C,V,S,/"
+      ],
+      "prediction": "cvs",
+      "cleaned_prediction": "cvs"
+    },
+    {
+      "img_path": "../datasets/svt/images/588.jpg",
+      "ground_truth": [
+        "p,h,a,r,m,a,c,y"
+      ],
+      "prediction": "pharmacy",
+      "cleaned_prediction": "pharmacy"
+    },
+    {
+      "img_path": "../datasets/svt/images/589.jpg",
+      "ground_truth": [
+        "C,V,S"
+      ],
+      "prediction": "cvs",
+      "cleaned_prediction": "cvs"
+    },
+    {
+      "img_path": "../datasets/svt/images/59.jpg",
+      "ground_truth": [
+        "M,U,Z,E,O"
+      ],
+      "prediction": "Muzio",
+      "cleaned_prediction": "muzio"
+    },
+    {
+      "img_path": "../datasets/svt/images/590.jpg",
+      "ground_truth": [
+        "c,v,s"
+      ],
+      "prediction": "The word is \"coca cola\"",
+      "cleaned_prediction": "the word is coca cola"
+    },
+    {
+      "img_path": "../datasets/svt/images/591.jpg",
+      "ground_truth": [
+        "B,A,R,N,S,L,E,Y"
+      ],
+      "prediction": "barnsley",
+      "cleaned_prediction": "barnsley"
+    },
+    {
+      "img_path": "../datasets/svt/images/592.jpg",
+      "ground_truth": [
+        "T,I,R,E"
+      ],
+      "prediction": "tire",
+      "cleaned_prediction": "tire"
+    },
+    {
+      "img_path": "../datasets/svt/images/593.jpg",
+      "ground_truth": [
+        "C,a,f,e"
+      ],
+      "prediction": "cafe sign",
+      "cleaned_prediction": "cafe sign"
+    },
+    {
+      "img_path": "../datasets/svt/images/594.jpg",
+      "ground_truth": [
+        "S,o,l,e,i,l"
+      ],
+      "prediction": "Soliel",
+      "cleaned_prediction": "soliel"
+    },
+    {
+      "img_path": "../datasets/svt/images/595.jpg",
+      "ground_truth": [
+        "B,a,r"
+      ],
+      "prediction": "bar",
+      "cleaned_prediction": "bar"
+    },
+    {
+      "img_path": "../datasets/svt/images/596.jpg",
+      "ground_truth": [
+        "R,e,s,t,a,u,r,a,n,t"
+      ],
+      "prediction": "restaurant",
+      "cleaned_prediction": "restaurant"
+    },
+    {
+      "img_path": "../datasets/svt/images/597.jpg",
+      "ground_truth": [
+        "C,E,N,T,R,E"
+      ],
+      "prediction": "centre",
+      "cleaned_prediction": "centre"
+    },
+    {
+      "img_path": "../datasets/svt/images/598.jpg",
+      "ground_truth": [
+        "C,I,R,C,L,E"
+      ],
+      "prediction": "circle",
+      "cleaned_prediction": "circle"
+    },
+    {
+      "img_path": "../datasets/svt/images/599.jpg",
+      "ground_truth": [
+        "A,u,t,o,m,a,t,i,v,e"
+      ],
+      "prediction": "Automotive",
+      "cleaned_prediction": "automotive"
+    },
+    {
+      "img_path": "../datasets/svt/images/6.jpg",
+      "ground_truth": [
+        "A,U,T,O"
+      ],
+      "prediction": "auto",
+      "cleaned_prediction": "auto"
+    },
+    {
+      "img_path": "../datasets/svt/images/60.jpg",
+      "ground_truth": [
+        "P,U,B,L,I,C"
+      ],
+      "prediction": "The written word is the written word",
+      "cleaned_prediction": "the written word is the written word"
+    },
+    {
+      "img_path": "../datasets/svt/images/600.jpg",
+      "ground_truth": [
+        "D,i,e,g,o"
+      ],
+      "prediction": "diego",
+      "cleaned_prediction": "diego"
+    },
+    {
+      "img_path": "../datasets/svt/images/601.jpg",
+      "ground_truth": [
+        "M,u,s,e,u,m"
+      ],
+      "prediction": "museum",
+      "cleaned_prediction": "museum"
+    },
+    {
+      "img_path": "../datasets/svt/images/602.jpg",
+      "ground_truth": [
+        "S,a,n"
+      ],
+      "prediction": "SIN",
+      "cleaned_prediction": "sin"
+    },
+    {
+      "img_path": "../datasets/svt/images/603.jpg",
+      "ground_truth": [
+        "C,O,M,M,O,N"
+      ],
+      "prediction": "COMMON",
+      "cleaned_prediction": "common"
+    },
+    {
+      "img_path": "../datasets/svt/images/604.jpg",
+      "ground_truth": [
+        "T,H,R,E,A,D,S"
+      ],
+      "prediction": "Threads",
+      "cleaned_prediction": "threads"
+    },
+    {
+      "img_path": "../datasets/svt/images/605.jpg",
+      "ground_truth": [
+        "H,A,T,S,U"
+      ],
+      "prediction": "HATSU",
+      "cleaned_prediction": "hatsu"
+    },
+    {
+      "img_path": "../datasets/svt/images/606.jpg",
+      "ground_truth": [
+        "S,U,S,H,I"
+      ],
+      "prediction": "Sushi",
+      "cleaned_prediction": "sushi"
+    },
+    {
+      "img_path": "../datasets/svt/images/607.jpg",
+      "ground_truth": [
+        "A,r,t"
+      ],
+      "prediction": "The written word",
+      "cleaned_prediction": "the written word"
+    },
+    {
+      "img_path": "../datasets/svt/images/608.jpg",
+      "ground_truth": [
+        "A,r,t"
+      ],
+      "prediction": "The written word is the name of the person",
+      "cleaned_prediction": "the written word is the name of the person"
+    },
+    {
+      "img_path": "../datasets/svt/images/609.jpg",
+      "ground_truth": [
+        "A,R,T"
+      ],
+      "prediction": "The written word is the word \u201cthe\u201d",
+      "cleaned_prediction": "the written word is the word \u201cthe\u201d"
+    },
+    {
+      "img_path": "../datasets/svt/images/61.jpg",
+      "ground_truth": [
+        "A,N,A,H,E,I,M"
+      ],
+      "prediction": "The written word is the word",
+      "cleaned_prediction": "the written word is the word"
+    },
+    {
+      "img_path": "../datasets/svt/images/610.jpg",
+      "ground_truth": [
+        "M,u,s,e,u,m"
+      ],
+      "prediction": "museum",
+      "cleaned_prediction": "museum"
+    },
+    {
+      "img_path": "../datasets/svt/images/611.jpg",
+      "ground_truth": [
+        "M,U,S,E,U,M"
+      ],
+      "prediction": "The written word is the written word",
+      "cleaned_prediction": "the written word is the written word"
+    },
+    {
+      "img_path": "../datasets/svt/images/612.jpg",
+      "ground_truth": [
+        "T,i,m,k,e,n"
+      ],
+      "prediction": "Timken",
+      "cleaned_prediction": "timken"
+    },
+    {
+      "img_path": "../datasets/svt/images/613.jpg",
+      "ground_truth": [
+        "T,I,M,K,E,N"
+      ],
+      "prediction": "The written word is the written word",
+      "cleaned_prediction": "the written word is the written word"
+    },
+    {
+      "img_path": "../datasets/svt/images/614.jpg",
+      "ground_truth": [
+        "B,A,R"
+      ],
+      "prediction": "bar",
+      "cleaned_prediction": "bar"
+    },
+    {
+      "img_path": "../datasets/svt/images/615.jpg",
+      "ground_truth": [
+        "B,A,R"
+      ],
+      "prediction": "bar",
+      "cleaned_prediction": "bar"
+    },
+    {
+      "img_path": "../datasets/svt/images/616.jpg",
+      "ground_truth": [
+        "C,E,N,T,R,A,L"
+      ],
+      "prediction": "central",
+      "cleaned_prediction": "central"
+    },
+    {
+      "img_path": "../datasets/svt/images/617.jpg",
+      "ground_truth": [
+        "C,E,N,T,R,A,L"
+      ],
+      "prediction": "central park",
+      "cleaned_prediction": "central park"
+    },
+    {
+      "img_path": "../datasets/svt/images/618.jpg",
+      "ground_truth": [
+        "S,T,A,T,I,O,N"
+      ],
+      "prediction": "station",
+      "cleaned_prediction": "station"
+    },
+    {
+      "img_path": "../datasets/svt/images/619.jpg",
+      "ground_truth": [
+        "S,T,A,T,I,O,N"
+      ],
+      "prediction": "station bar",
+      "cleaned_prediction": "station bar"
+    },
+    {
+      "img_path": "../datasets/svt/images/62.jpg",
+      "ground_truth": [
+        "T,R,I,D,E,N,T"
+      ],
+      "prediction": "Trident",
+      "cleaned_prediction": "trident"
+    },
+    {
+      "img_path": "../datasets/svt/images/620.jpg",
+      "ground_truth": [
+        "P,A,S,A,D,A"
+      ],
+      "prediction": "pasada",
+      "cleaned_prediction": "pasada"
+    },
+    {
+      "img_path": "../datasets/svt/images/621.jpg",
+      "ground_truth": [
+        "U,P,T,O,W,N"
+      ],
+      "prediction": "uptown",
+      "cleaned_prediction": "uptown"
+    },
+    {
+      "img_path": "../datasets/svt/images/622.jpg",
+      "ground_truth": [
+        "V,I,L,L,A,G,E"
+      ],
+      "prediction": "village",
+      "cleaned_prediction": "village"
+    },
+    {
+      "img_path": "../datasets/svt/images/623.jpg",
+      "ground_truth": [
+        "M,A,S,S,A"
+      ],
+      "prediction": "Massage",
+      "cleaned_prediction": "massage"
+    },
+    {
+      "img_path": "../datasets/svt/images/624.jpg",
+      "ground_truth": [
+        "H,e,r,t,z"
+      ],
+      "prediction": "hertz",
+      "cleaned_prediction": "hertz"
+    },
+    {
+      "img_path": "../datasets/svt/images/625.jpg",
+      "ground_truth": [
+        "C,O,U,R,T,Y,A,R,D"
+      ],
+      "prediction": "courtyard",
+      "cleaned_prediction": "courtyard"
+    },
+    {
+      "img_path": "../datasets/svt/images/626.jpg",
+      "ground_truth": [
+        "J,I,M,M,Y"
+      ],
+      "prediction": "jimmy",
+      "cleaned_prediction": "jimmy"
+    },
+    {
+      "img_path": "../datasets/svt/images/627.jpg",
+      "ground_truth": [
+        "J,O,H,N"
+      ],
+      "prediction": "John",
+      "cleaned_prediction": "john"
+    },
+    {
+      "img_path": "../datasets/svt/images/628.jpg",
+      "ground_truth": [
+        "C,H,O,C,O,L,A,T,E"
+      ],
+      "prediction": "chocolate",
+      "cleaned_prediction": "chocolate"
+    },
+    {
+      "img_path": "../datasets/svt/images/629.jpg",
+      "ground_truth": [
+        "M,O,O,S,E"
+      ],
+      "prediction": "moose",
+      "cleaned_prediction": "moose"
+    },
+    {
+      "img_path": "../datasets/svt/images/63.jpg",
+      "ground_truth": [
+        "W,I,N,B,R,O"
+      ],
+      "prediction": "WINBRO",
+      "cleaned_prediction": "winbro"
+    },
+    {
+      "img_path": "../datasets/svt/images/630.jpg",
+      "ground_truth": [
+        "L,O,U,N,I,E"
+      ],
+      "prediction": "LOUNGE",
+      "cleaned_prediction": "lounge"
+    },
+    {
+      "img_path": "../datasets/svt/images/631.jpg",
+      "ground_truth": [
+        "A,N,T,H,R,O,P,O,L,O,G,I,E"
+      ],
+      "prediction": "anthropologie",
+      "cleaned_prediction": "anthropologie"
+    },
+    {
+      "img_path": "../datasets/svt/images/632.jpg",
+      "ground_truth": [
+        "C,O,L,O,N,I,A,L"
+      ],
+      "prediction": "colonial",
+      "cleaned_prediction": "colonial"
+    },
+    {
+      "img_path": "../datasets/svt/images/633.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "restaurant",
+      "cleaned_prediction": "restaurant"
+    },
+    {
+      "img_path": "../datasets/svt/images/634.jpg",
+      "ground_truth": [
+        "B,O,O,K,S,T,O,R,E"
+      ],
+      "prediction": "Bookstore",
+      "cleaned_prediction": "bookstore"
+    },
+    {
+      "img_path": "../datasets/svt/images/635.jpg",
+      "ground_truth": [
+        "C,I,T,Y"
+      ],
+      "prediction": "city",
+      "cleaned_prediction": "city"
+    },
+    {
+      "img_path": "../datasets/svt/images/636.jpg",
+      "ground_truth": [
+        "C,I,T,Y"
+      ],
+      "prediction": "city",
+      "cleaned_prediction": "city"
+    },
+    {
+      "img_path": "../datasets/svt/images/637.jpg",
+      "ground_truth": [
+        "L, ,I, ,G, ,H, ,T, ,S"
+      ],
+      "prediction": "Lights",
+      "cleaned_prediction": "lights"
+    },
+    {
+      "img_path": "../datasets/svt/images/638.jpg",
+      "ground_truth": [
+        "L,I,G,H,T,S"
+      ],
+      "prediction": "lights",
+      "cleaned_prediction": "lights"
+    },
+    {
+      "img_path": "../datasets/svt/images/639.jpg",
+      "ground_truth": [
+        "E,n,t,e,r,p,r,i,s,e"
+      ],
+      "prediction": "enterprise",
+      "cleaned_prediction": "enterprise"
+    },
+    {
+      "img_path": "../datasets/svt/images/64.jpg",
+      "ground_truth": [
+        "G,R,A,N,T"
+      ],
+      "prediction": "grant",
+      "cleaned_prediction": "grant"
+    },
+    {
+      "img_path": "../datasets/svt/images/640.jpg",
+      "ground_truth": [
+        "E, ,M, ,B, ,A, ,S, ,S, ,Y"
+      ],
+      "prediction": "embassy",
+      "cleaned_prediction": "embassy"
+    },
+    {
+      "img_path": "../datasets/svt/images/641.jpg",
+      "ground_truth": [
+        "C,H,E,U,V,R,O,N,T"
+      ],
+      "prediction": "chevrolet",
+      "cleaned_prediction": "chevrolet"
+    },
+    {
+      "img_path": "../datasets/svt/images/642.jpg",
+      "ground_truth": [
+        "C,H,E,U,V,R,O,N,T"
+      ],
+      "prediction": "chevrolet",
+      "cleaned_prediction": "chevrolet"
+    },
+    {
+      "img_path": "../datasets/svt/images/643.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "restaurant",
+      "cleaned_prediction": "restaurant"
+    },
+    {
+      "img_path": "../datasets/svt/images/644.jpg",
+      "ground_truth": [
+        "E,A,G,L,E"
+      ],
+      "prediction": "eagle",
+      "cleaned_prediction": "eagle"
+    },
+    {
+      "img_path": "../datasets/svt/images/645.jpg",
+      "ground_truth": [
+        "E,A,G,L,E"
+      ],
+      "prediction": "eagle",
+      "cleaned_prediction": "eagle"
+    },
+    {
+      "img_path": "../datasets/svt/images/646.jpg",
+      "ground_truth": [
+        "M,E,D,I,C,A,L"
+      ],
+      "prediction": "medical",
+      "cleaned_prediction": "medical"
+    },
+    {
+      "img_path": "../datasets/svt/images/647.jpg",
+      "ground_truth": [
+        "M,E,D,I,C,A,L"
+      ],
+      "prediction": "medical",
+      "cleaned_prediction": "medical"
+    },
+    {
+      "img_path": "../datasets/svt/images/65.jpg",
+      "ground_truth": [
+        "O,L,I,N"
+      ],
+      "prediction": "olin",
+      "cleaned_prediction": "olin"
+    },
+    {
+      "img_path": "../datasets/svt/images/66.jpg",
+      "ground_truth": [
+        "B,e,s,t"
+      ],
+      "prediction": "best of the best",
+      "cleaned_prediction": "best of the best"
+    },
+    {
+      "img_path": "../datasets/svt/images/67.jpg",
+      "ground_truth": [
+        "E,X,E,C,U,T,I,V,E"
+      ],
+      "prediction": "executive suite",
+      "cleaned_prediction": "executive suite"
+    },
+    {
+      "img_path": "../datasets/svt/images/68.jpg",
+      "ground_truth": [
+        "I,N,N"
+      ],
+      "prediction": "The written word is the name of the hotel",
+      "cleaned_prediction": "the written word is the name of the hotel"
+    },
+    {
+      "img_path": "../datasets/svt/images/69.jpg",
+      "ground_truth": [
+        "W,e,s,t,e,r,n"
+      ],
+      "prediction": "best western",
+      "cleaned_prediction": "best western"
+    },
+    {
+      "img_path": "../datasets/svt/images/7.jpg",
+      "ground_truth": [
+        "M,A,G,I,C"
+      ],
+      "prediction": "magic",
+      "cleaned_prediction": "magic"
+    },
+    {
+      "img_path": "../datasets/svt/images/70.jpg",
+      "ground_truth": [
+        "D,I,E,G,O"
+      ],
+      "prediction": "Diego",
+      "cleaned_prediction": "diego"
+    },
+    {
+      "img_path": "../datasets/svt/images/71.jpg",
+      "ground_truth": [
+        "E,X,C,U,R,S,I,O,N"
+      ],
+      "prediction": "Excursion",
+      "cleaned_prediction": "excursion"
+    },
+    {
+      "img_path": "../datasets/svt/images/72.jpg",
+      "ground_truth": [
+        "H,A,R,B,O,R"
+      ],
+      "prediction": "harbor",
+      "cleaned_prediction": "harbor"
+    },
+    {
+      "img_path": "../datasets/svt/images/73.jpg",
+      "ground_truth": [
+        "S,A,N"
+      ],
+      "prediction": "san",
+      "cleaned_prediction": "san"
+    },
+    {
+      "img_path": "../datasets/svt/images/74.jpg",
+      "ground_truth": [
+        "C,O,R,T,E,Z"
+      ],
+      "prediction": "cortez",
+      "cleaned_prediction": "cortez"
+    },
+    {
+      "img_path": "../datasets/svt/images/75.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "hotel",
+      "cleaned_prediction": "hotel"
+    },
+    {
+      "img_path": "../datasets/svt/images/76.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "hotel",
+      "cleaned_prediction": "hotel"
+    },
+    {
+      "img_path": "../datasets/svt/images/77.jpg",
+      "ground_truth": [
+        "M,O,O,R,E"
+      ],
+      "prediction": "moore",
+      "cleaned_prediction": "moore"
+    },
+    {
+      "img_path": "../datasets/svt/images/78.jpg",
+      "ground_truth": [
+        "M,O,O,R,E"
+      ],
+      "prediction": "moore",
+      "cleaned_prediction": "moore"
+    },
+    {
+      "img_path": "../datasets/svt/images/79.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "hotel",
+      "cleaned_prediction": "hotel"
+    },
+    {
+      "img_path": "../datasets/svt/images/8.jpg",
+      "ground_truth": [
+        "B,I,L,L,I,A,R,D,S"
+      ],
+      "prediction": "billiards",
+      "cleaned_prediction": "billiards"
+    },
+    {
+      "img_path": "../datasets/svt/images/80.jpg",
+      "ground_truth": [
+        "W,H,I,T,C,O,M,B"
+      ],
+      "prediction": "whitcomb",
+      "cleaned_prediction": "whitcomb"
+    },
+    {
+      "img_path": "../datasets/svt/images/81.jpg",
+      "ground_truth": [
+        "F,U,D,D,R,U,C,K,E,R,S"
+      ],
+      "prediction": "Fuddruckers",
+      "cleaned_prediction": "fuddruckers"
+    },
+    {
+      "img_path": "../datasets/svt/images/82.jpg",
+      "ground_truth": [
+        "T,H,E"
+      ],
+      "prediction": "the",
+      "cleaned_prediction": "the"
+    },
+    {
+      "img_path": "../datasets/svt/images/83.jpg",
+      "ground_truth": [
+        "Q,u,i,z,n,o,',s"
+      ],
+      "prediction": "Quizno's",
+      "cleaned_prediction": "quiznos"
+    },
+    {
+      "img_path": "../datasets/svt/images/84.jpg",
+      "ground_truth": [
+        "Q,u,i,z,n,o,s"
+      ],
+      "prediction": "Quiznos",
+      "cleaned_prediction": "quiznos"
+    },
+    {
+      "img_path": "../datasets/svt/images/85.jpg",
+      "ground_truth": [
+        "M,U,R,P,H,Y"
+      ],
+      "prediction": "murphy",
+      "cleaned_prediction": "murphy"
+    },
+    {
+      "img_path": "../datasets/svt/images/86.jpg",
+      "ground_truth": [
+        "M,o,o,n"
+      ],
+      "prediction": "moon",
+      "cleaned_prediction": "moon"
+    },
+    {
+      "img_path": "../datasets/svt/images/87.jpg",
+      "ground_truth": [
+        "P,a,l,a,c,e"
+      ],
+      "prediction": "palace",
+      "cleaned_prediction": "palace"
+    },
+    {
+      "img_path": "../datasets/svt/images/88.jpg",
+      "ground_truth": [
+        "c,o,l,o,n,i,a,l"
+      ],
+      "prediction": "colonial",
+      "cleaned_prediction": "colonial"
+    },
+    {
+      "img_path": "../datasets/svt/images/89.jpg",
+      "ground_truth": [
+        "H,O,B,B,Y"
+      ],
+      "prediction": "Hobby Lobby",
+      "cleaned_prediction": "hobby lobby"
+    },
+    {
+      "img_path": "../datasets/svt/images/9.jpg",
+      "ground_truth": [
+        "F,I,R,S,T"
+      ],
+      "prediction": "first",
+      "cleaned_prediction": "first"
+    },
+    {
+      "img_path": "../datasets/svt/images/90.jpg",
+      "ground_truth": [
+        "I,N,C,."
+      ],
+      "prediction": "inc",
+      "cleaned_prediction": "inc"
+    },
+    {
+      "img_path": "../datasets/svt/images/91.jpg",
+      "ground_truth": [
+        "P,H,O,T,O"
+      ],
+      "prediction": "photo",
+      "cleaned_prediction": "photo"
+    },
+    {
+      "img_path": "../datasets/svt/images/92.jpg",
+      "ground_truth": [
+        "P,U,F,F"
+      ],
+      "prediction": "Puff",
+      "cleaned_prediction": "puff"
+    },
+    {
+      "img_path": "../datasets/svt/images/93.jpg",
+      "ground_truth": [
+        "S,T,U,F,F"
+      ],
+      "prediction": "Stuff",
+      "cleaned_prediction": "stuff"
+    },
+    {
+      "img_path": "../datasets/svt/images/94.jpg",
+      "ground_truth": [
+        "M,i,c,h,a,e,l"
+      ],
+      "prediction": "michael's",
+      "cleaned_prediction": "michaels"
+    },
+    {
+      "img_path": "../datasets/svt/images/95.jpg",
+      "ground_truth": [
+        "A,R,T,S"
+      ],
+      "prediction": "art's",
+      "cleaned_prediction": "arts"
+    },
+    {
+      "img_path": "../datasets/svt/images/96.jpg",
+      "ground_truth": [
+        "C,R,A,F,T,S"
+      ],
+      "prediction": "Crafts",
+      "cleaned_prediction": "crafts"
+    },
+    {
+      "img_path": "../datasets/svt/images/97.jpg",
+      "ground_truth": [
+        "W,O,R,L,D"
+      ],
+      "prediction": "world",
+      "cleaned_prediction": "world"
+    },
+    {
+      "img_path": "../datasets/svt/images/98.jpg",
+      "ground_truth": [
+        "M,A,R,K,E,T"
+      ],
+      "prediction": "market",
+      "cleaned_prediction": "market"
+    },
+    {
+      "img_path": "../datasets/svt/images/99.jpg",
+      "ground_truth": [
+        "F,I,T,N,E,S,S"
+      ],
+      "prediction": "Fitness",
+      "cleaned_prediction": "fitness"
+    }
+  ]
+}

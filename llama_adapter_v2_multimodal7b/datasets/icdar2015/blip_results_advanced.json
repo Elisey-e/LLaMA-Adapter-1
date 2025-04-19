@@ -1,0 +1,3062 @@
+{
+  "results": [
+    {
+      "img_path": "../datasets/icdar2015/images/img_1.jpg",
+      "ground_truth": [
+        "PROPER",
+        "FOOD",
+        "PRONTO"
+      ],
+      "prediction": "Proper Food Proprio",
+      "cleaned_prediction": "proper food proprio"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_10.jpg",
+      "ground_truth": [
+        "PROFESSIONAL",
+        "XML",
+        "2nd",
+        "Edition"
+      ],
+      "prediction": "professional xml 2nd edition",
+      "cleaned_prediction": "professional xml 2nd edition"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_100.jpg",
+      "ground_truth": [
+        "Verbandstoffe",
+        "HEPP"
+      ],
+      "prediction": "first aid",
+      "cleaned_prediction": "first aid"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_101.jpg",
+      "ground_truth": [
+        "WHSmith",
+        "Summer",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "WH Smith",
+      "cleaned_prediction": "wh smith"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_102.jpg",
+      "ground_truth": [
+        "ARENA",
+        "COLCHESTER",
+        "###",
+        "THE",
+        "HEART",
+        "###",
+        "THE",
+        "TOWN!"
+      ],
+      "prediction": "arena colchester",
+      "cleaned_prediction": "arena colchester"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_103.jpg",
+      "ground_truth": [
+        "Station",
+        "car",
+        "park"
+      ],
+      "prediction": "station car park",
+      "cleaned_prediction": "station car park"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_104.jpg",
+      "ground_truth": [
+        "CLOCK",
+        "MUSEUM",
+        "TYMPERLEYS",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Clock Museum",
+      "cleaned_prediction": "clock museum"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_105.jpg",
+      "ground_truth": [
+        "RESERVED",
+        "FOR",
+        "REGULAR",
+        "HIWIS",
+        "Thank",
+        "you!",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Reserved for regular hivis",
+      "cleaned_prediction": "reserved for regular hivis"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_106.jpg",
+      "ground_truth": [
+        "###",
+        "invent",
+        "###"
+      ],
+      "prediction": "Invent",
+      "cleaned_prediction": "invent"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_107.jpg",
+      "ground_truth": [
+        "###",
+        "Java",
+        "Language",
+        "Guide",
+        "###",
+        "Guy",
+        "Steele",
+        "###"
+      ],
+      "prediction": "Java",
+      "cleaned_prediction": "java"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_108.jpg",
+      "ground_truth": [
+        "DENTAL",
+        "SURGERY"
+      ],
+      "prediction": "Dental Surgery",
+      "cleaned_prediction": "dental surgery"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_109.jpg",
+      "ground_truth": [
+        "ARENA",
+        "LEISURE",
+        "SERVICES",
+        "LIMITED",
+        "Registered",
+        "Office"
+      ],
+      "prediction": "Arena Leisure Services Limited",
+      "cleaned_prediction": "arena leisure services limited"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_11.jpg",
+      "ground_truth": [
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "self-adhesive",
+        "address",
+        "labels",
+        "250",
+        "###",
+        "###",
+        "roll"
+      ],
+      "prediction": "self-adhesive address labels",
+      "cleaned_prediction": "self-adhesive address labels"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_110.jpg",
+      "ground_truth": [
+        "NHS"
+      ],
+      "prediction": "nhs",
+      "cleaned_prediction": "nhs"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_111.jpg",
+      "ground_truth": [
+        "Stationery",
+        "Box",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "stationery box",
+      "cleaned_prediction": "stationery box"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_112.jpg",
+      "ground_truth": [
+        "OPERATING",
+        "SYSTEM",
+        "Fifth",
+        "Edition",
+        "SILBERSCHATZ",
+        "GALVIN",
+        "###",
+        "ONCEPTS"
+      ],
+      "prediction": "Operating System Concept",
+      "cleaned_prediction": "operating system concept"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_113.jpg",
+      "ground_truth": [
+        "ORDER",
+        "YOUR",
+        "ISUZU"
+      ],
+      "prediction": "Isuzu",
+      "cleaned_prediction": "isuzu"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_114.jpg",
+      "ground_truth": [
+        "Constantine",
+        "Room"
+      ],
+      "prediction": "Constantine",
+      "cleaned_prediction": "constantine"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_115.jpg",
+      "ground_truth": [
+        "###",
+        "mobile",
+        "phones"
+      ],
+      "prediction": "No Mobile Phones",
+      "cleaned_prediction": "no mobile phones"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_116.jpg",
+      "ground_truth": [
+        "Need",
+        "###",
+        "Brolly?",
+        "###",
+        "Just",
+        "Ask!"
+      ],
+      "prediction": "Need a Brolly",
+      "cleaned_prediction": "need a brolly"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_117.jpg",
+      "ground_truth": [
+        "RESERVED",
+        "FOR",
+        "CLUB",
+        "SECRETARY"
+      ],
+      "prediction": "Reserved for club secretary",
+      "cleaned_prediction": "reserved for club secretary"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_118.jpg",
+      "ground_truth": [
+        "Miralejo"
+      ],
+      "prediction": "MIRALDO",
+      "cleaned_prediction": "miraldo"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_119.jpg",
+      "ground_truth": [
+        "NatWest"
+      ],
+      "prediction": "natwest",
+      "cleaned_prediction": "natwest"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_12.jpg",
+      "ground_truth": [
+        "###",
+        "###"
+      ],
+      "prediction": "Ouch",
+      "cleaned_prediction": "ouch"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_120.jpg",
+      "ground_truth": [
+        "HSBC",
+        "The",
+        "world's",
+        "local",
+        "bank"
+      ],
+      "prediction": "hsbc",
+      "cleaned_prediction": "hsbc"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_121.jpg",
+      "ground_truth": [
+        "Customer",
+        "Freephone",
+        "Private",
+        "Hire",
+        "Service"
+      ],
+      "prediction": "customer telephone private hire service",
+      "cleaned_prediction": "customer telephone private hire service"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_122.jpg",
+      "ground_truth": [
+        "PEDESTRIANS"
+      ],
+      "prediction": "Pedestrians",
+      "cleaned_prediction": "pedestrians"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_123.jpg",
+      "ground_truth": [
+        "SUMMER",
+        "2002"
+      ],
+      "prediction": "The word is summer 2002",
+      "cleaned_prediction": "the word is summer 2002"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_124.jpg",
+      "ground_truth": [
+        "HAIR",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Hair",
+      "cleaned_prediction": "hair"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_125.jpg",
+      "ground_truth": [
+        "###",
+        "Panaso",
+        "###"
+      ],
+      "prediction": "Microwave",
+      "cleaned_prediction": "microwave"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_126.jpg",
+      "ground_truth": [
+        "BEWARE",
+        "ALLIGATOR",
+        "TEETH"
+      ],
+      "prediction": "Alligator",
+      "cleaned_prediction": "alligator"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_127.jpg",
+      "ground_truth": [
+        "SORRY",
+        "TOILET",
+        "OUT",
+        "###",
+        "ORDER"
+      ],
+      "prediction": "Sorry toilet out of order",
+      "cleaned_prediction": "sorry toilet out of order"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_128.jpg",
+      "ground_truth": [
+        "genie"
+      ],
+      "prediction": "Genie",
+      "cleaned_prediction": "genie"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_129.jpg",
+      "ground_truth": [
+        "Essex",
+        "County",
+        "Council",
+        "Libraries"
+      ],
+      "prediction": "essex county council libraries",
+      "cleaned_prediction": "essex county council libraries"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_13.jpg",
+      "ground_truth": [
+        "J2SE",
+        "###",
+        "###"
+      ],
+      "prediction": "j2se",
+      "cleaned_prediction": "j2se"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_130.jpg",
+      "ground_truth": [
+        "LISTERINE",
+        "###",
+        "COOLMINT"
+      ],
+      "prediction": "Coolmint Listerine",
+      "cleaned_prediction": "coolmint listerine"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_131.jpg",
+      "ground_truth": [
+        "Time/system",
+        "2006",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "time system 2006",
+      "cleaned_prediction": "time system 2006"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_132.jpg",
+      "ground_truth": [
+        "###",
+        "###",
+        "Cable",
+        "DLR-3P",
+        "A4382",
+        "Nokia",
+        "6210",
+        "DLR-3P",
+        "Data",
+        "Cable",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "KIA",
+        "apter"
+      ],
+      "prediction": "nokia",
+      "cleaned_prediction": "nokia"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_133.jpg",
+      "ground_truth": [
+        "66/1E",
+        "ESSER"
+      ],
+      "prediction": "Fire alarm",
+      "cleaned_prediction": "fire alarm"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_134.jpg",
+      "ground_truth": [
+        "###",
+        "###",
+        "22.",
+        "03.",
+        "###",
+        "DFKI",
+        "###",
+        "###",
+        "Anrufliste",
+        "###",
+        "###"
+      ],
+      "prediction": "D.",
+      "cleaned_prediction": "d"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_135.jpg",
+      "ground_truth": [
+        "Rayleigh"
+      ],
+      "prediction": "rayleigh",
+      "cleaned_prediction": "rayleigh"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_136.jpg",
+      "ground_truth": [
+        "NEW",
+        "TRAFFIC",
+        "SIGNALS",
+        "AHEAD"
+      ],
+      "prediction": "new traffic signals ahead",
+      "cleaned_prediction": "new traffic signals ahead"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_137.jpg",
+      "ground_truth": [
+        "Leisure",
+        "Ipswich",
+        "Road",
+        "Greenstead",
+        "Centre"
+      ],
+      "prediction": "Leisure centre",
+      "cleaned_prediction": "leisure centre"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_138.jpg",
+      "ground_truth": [
+        "LOUNGE"
+      ],
+      "prediction": "LOUNGE",
+      "cleaned_prediction": "lounge"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_139.jpg",
+      "ground_truth": [
+        "ROYAL",
+        "MAIL",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "E11R",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Royal Mail",
+      "cleaned_prediction": "royal mail"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_14.jpg",
+      "ground_truth": [
+        "###",
+        "make",
+        "sure",
+        "nothing",
+        "###",
+        "###",
+        "and",
+        "the",
+        "equipment",
+        "you",
+        "need.",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "We make sure nothing stands between you and the equipment you need",
+      "cleaned_prediction": "we make sure nothing stands between you and the equipment you need"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_140.jpg",
+      "ground_truth": [
+        "Overseas",
+        "Relations",
+        "Office"
+      ],
+      "prediction": "Overseas Relations",
+      "cleaned_prediction": "overseas relations"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_141.jpg",
+      "ground_truth": [
+        "###",
+        "ENTRY",
+        "WHEN",
+        "RED",
+        "LIGHT",
+        "###",
+        "FLASHING",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "No entry when red light is flashing",
+      "cleaned_prediction": "no entry when red light is flashing"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_142.jpg",
+      "ground_truth": [
+        "BARCLAYS"
+      ],
+      "prediction": "barclays",
+      "cleaned_prediction": "barclays"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_143.jpg",
+      "ground_truth": [
+        "Building",
+        "Web",
+        "Services",
+        "with",
+        "Making",
+        "Sense",
+        "###",
+        "and",
+        "UDDI",
+        "Java",
+        "###",
+        "XML,",
+        "SOAP,",
+        "WSDL,"
+      ],
+      "prediction": "building web services with java",
+      "cleaned_prediction": "building web services with java"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_144.jpg",
+      "ground_truth": [
+        "HALL",
+        "###",
+        "HEROES"
+      ],
+      "prediction": "hall of heroes",
+      "cleaned_prediction": "hall of heroes"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_145.jpg",
+      "ground_truth": [
+        "###",
+        "###",
+        "TIFICIAL",
+        "NTELLIGENCE",
+        "###",
+        "MODERN",
+        "APPROACH",
+        "STUART",
+        "RUSSELL",
+        "PETER",
+        "NORVIG"
+      ],
+      "prediction": "Artificial intelligence a modern approach",
+      "cleaned_prediction": "artificial intelligence a modern approach"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_146.jpg",
+      "ground_truth": [
+        "SALOON"
+      ],
+      "prediction": "SALON",
+      "cleaned_prediction": "salon"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_147.jpg",
+      "ground_truth": [
+        "8000",
+        "DELL",
+        "INSPIRON",
+        "###"
+      ],
+      "prediction": "Inspiron",
+      "cleaned_prediction": "inspiron"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_148.jpg",
+      "ground_truth": [
+        "TESCO",
+        "RACE",
+        "FOR",
+        "LIFE",
+        "CANCER",
+        "RESEARCH",
+        "###"
+      ],
+      "prediction": "race for life",
+      "cleaned_prediction": "race for life"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_149.jpg",
+      "ground_truth": [
+        "TOYOTA"
+      ],
+      "prediction": "toyota",
+      "cleaned_prediction": "toyota"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_15.jpg",
+      "ground_truth": [
+        "###",
+        "###",
+        "WAVEDOM",
+        "###"
+      ],
+      "prediction": "Waveom",
+      "cleaned_prediction": "waveom"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_150.jpg",
+      "ground_truth": [
+        "LADIES"
+      ],
+      "prediction": "Ladies",
+      "cleaned_prediction": "ladies"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_151.jpg",
+      "ground_truth": [
+        "Canon",
+        "PowerShot"
+      ],
+      "prediction": "Canon Powershot",
+      "cleaned_prediction": "canon powershot"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_152.jpg",
+      "ground_truth": [
+        "WATERSTONE'S",
+        "The",
+        "last",
+        "word",
+        "###",
+        "books"
+      ],
+      "prediction": "Waterstones",
+      "cleaned_prediction": "waterstones"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_153.jpg",
+      "ground_truth": [
+        "Canon"
+      ],
+      "prediction": "Canon",
+      "cleaned_prediction": "canon"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_154.jpg",
+      "ground_truth": [
+        "Software",
+        "Design",
+        "for",
+        "Real-time",
+        "Systems",
+        "J.E.",
+        "COOLING"
+      ],
+      "prediction": "software design for real-time systems",
+      "cleaned_prediction": "software design for real-time systems"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_155.jpg",
+      "ground_truth": [
+        ":Hansol"
+      ],
+      "prediction": "hansol",
+      "cleaned_prediction": "hansol"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_156.jpg",
+      "ground_truth": [
+        "Infections",
+        "###",
+        "Africa",
+        "Hypertension:",
+        "who",
+        "###",
+        "###",
+        "risk?",
+        "Gut",
+        "genomics",
+        "International",
+        "Cooperation",
+        "###",
+        "EU-funded",
+        "Health",
+        "Research",
+        "###",
+        "###"
+      ],
+      "prediction": "International Cooperation",
+      "cleaned_prediction": "international cooperation"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_157.jpg",
+      "ground_truth": [
+        "Way",
+        "out"
+      ],
+      "prediction": "way out",
+      "cleaned_prediction": "way out"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_158.jpg",
+      "ground_truth": [
+        "Nightline"
+      ],
+      "prediction": "Nightline",
+      "cleaned_prediction": "nightline"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_159.jpg",
+      "ground_truth": [
+        "RAF",
+        "CAREERS"
+      ],
+      "prediction": "RAF Careers",
+      "cleaned_prediction": "raf careers"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_16.jpg",
+      "ground_truth": [
+        "WAVEDOM",
+        "###"
+      ],
+      "prediction": "microwave",
+      "cleaned_prediction": "microwave"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_160.jpg",
+      "ground_truth": [
+        "VINCES"
+      ],
+      "prediction": "VINCES",
+      "cleaned_prediction": "vinces"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_161.jpg",
+      "ground_truth": [
+        "###",
+        "4B.522",
+        "Marisa",
+        "Bostock",
+        "Jenny",
+        "Dixon",
+        "GRADUATE",
+        "OFFICE",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Graduate Office",
+      "cleaned_prediction": "graduate office"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_162.jpg",
+      "ground_truth": [
+        "Colchester"
+      ],
+      "prediction": "COLCHESTER",
+      "cleaned_prediction": "colchester"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_163.jpg",
+      "ground_truth": [
+        "FIVE",
+        "FOURS",
+        "544444",
+        "###",
+        "Arthur",
+        "###",
+        "Colchester",
+        "LICENSED",
+        "PRIVATE",
+        "HIRE",
+        "VEHICLE",
+        "###",
+        "###"
+      ],
+      "prediction": "Five Fours",
+      "cleaned_prediction": "five fours"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_164.jpg",
+      "ground_truth": [
+        "STOP",
+        "###"
+      ],
+      "prediction": "Stop",
+      "cleaned_prediction": "stop"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_165.jpg",
+      "ground_truth": [
+        "TAXI"
+      ],
+      "prediction": "Taxi",
+      "cleaned_prediction": "taxi"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_166.jpg",
+      "ground_truth": [
+        "PanaSyncE70"
+      ],
+      "prediction": "panasonic e70",
+      "cleaned_prediction": "panasonic e70"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_167.jpg",
+      "ground_truth": [
+        "Panasonic",
+        "NE-1027"
+      ],
+      "prediction": "panasonic ne-1017",
+      "cleaned_prediction": "panasonic ne-1017"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_168.jpg",
+      "ground_truth": [
+        "CONSTANTINE",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Constantine",
+      "cleaned_prediction": "constantine"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_169.jpg",
+      "ground_truth": [
+        "LLOYDS",
+        "BANK"
+      ],
+      "prediction": "lloyds bank",
+      "cleaned_prediction": "lloyds bank"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_17.jpg",
+      "ground_truth": [
+        "Footpath",
+        "###",
+        "Colchester",
+        "and",
+        "Greenstead"
+      ],
+      "prediction": "Footpath to Colchester and Greenstead",
+      "cleaned_prediction": "footpath to colchester and greenstead"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_170.jpg",
+      "ground_truth": [
+        "1.21",
+        "###",
+        "floor",
+        "RICOH",
+        "IESE",
+        "###"
+      ],
+      "prediction": "Ricoh",
+      "cleaned_prediction": "ricoh"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_171.jpg",
+      "ground_truth": [
+        "MultiSync",
+        "LCD2470WVX"
+      ],
+      "prediction": "Multisync",
+      "cleaned_prediction": "multisync"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_172.jpg",
+      "ground_truth": [
+        "Oleg",
+        "Rostanin",
+        "Asif",
+        "Shahab",
+        "2.10"
+      ],
+      "prediction": "oleg rostinin asf shabab",
+      "cleaned_prediction": "oleg rostinin asf shabab"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_173.jpg",
+      "ground_truth": [
+        "autumn/winter",
+        "2001",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "autumn/winter 2001",
+      "cleaned_prediction": "autumn/winter 2001"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_174.jpg",
+      "ground_truth": [
+        "WEST",
+        "BURNSIDE",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "The word is \"no\"",
+      "cleaned_prediction": "the word is no"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_175.jpg",
+      "ground_truth": [
+        "BAE",
+        "SYSTEMS"
+      ],
+      "prediction": "bae systems",
+      "cleaned_prediction": "bae systems"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_176.jpg",
+      "ground_truth": [
+        "GYM"
+      ],
+      "prediction": "Gym",
+      "cleaned_prediction": "gym"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_177.jpg",
+      "ground_truth": [
+        "School"
+      ],
+      "prediction": "School",
+      "cleaned_prediction": "school"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_178.jpg",
+      "ground_truth": [
+        "###",
+        "Health",
+        "Centre",
+        "Greenwood",
+        "House"
+      ],
+      "prediction": "health centre",
+      "cleaned_prediction": "health centre"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_179.jpg",
+      "ground_truth": [
+        "Henry"
+      ],
+      "prediction": "henry",
+      "cleaned_prediction": "henry"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_18.jpg",
+      "ground_truth": [
+        "DELL"
+      ],
+      "prediction": "dell",
+      "cleaned_prediction": "dell"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_180.jpg",
+      "ground_truth": [
+        "The",
+        "Photo",
+        "Specialists"
+      ],
+      "prediction": "the photo specialists",
+      "cleaned_prediction": "the photo specialists"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_181.jpg",
+      "ground_truth": [
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "STUDIO"
+      ],
+      "prediction": "STUDIO",
+      "cleaned_prediction": "studio"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_182.jpg",
+      "ground_truth": [
+        "plan",
+        "art",
+        "V03",
+        "###"
+      ],
+      "prediction": "Plan art",
+      "cleaned_prediction": "plan art"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_183.jpg",
+      "ground_truth": [
+        "Refill"
+      ],
+      "prediction": "Refill",
+      "cleaned_prediction": "refill"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_184.jpg",
+      "ground_truth": [
+        "WELCOME",
+        "###",
+        "MARKS",
+        "###",
+        "SPENCER",
+        "COLLECT",
+        "###",
+        "CAR"
+      ],
+      "prediction": "MARKS & SPENCER",
+      "cleaned_prediction": "marks & spencer"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_185.jpg",
+      "ground_truth": [
+        "###",
+        "###",
+        "CIGAR",
+        "###",
+        "PLEASE",
+        "###",
+        "PAPER"
+      ],
+      "prediction": "Cigarettes",
+      "cleaned_prediction": "cigarettes"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_186.jpg",
+      "ground_truth": [
+        "ASDA",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Asda",
+      "cleaned_prediction": "asda"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_187.jpg",
+      "ground_truth": [
+        "Constructa",
+        "Made",
+        "Germany",
+        "###"
+      ],
+      "prediction": "CONSTRUCTA",
+      "cleaned_prediction": "constructa"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_188.jpg",
+      "ground_truth": [
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "RESERVED",
+        "FOR",
+        "REGULAR",
+        "HIWIS",
+        "Thank",
+        "you!"
+      ],
+      "prediction": "Reserved for regular hiwis",
+      "cleaned_prediction": "reserved for regular hiwis"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_189.jpg",
+      "ground_truth": [
+        "Fire",
+        "alarm",
+        "call",
+        "point"
+      ],
+      "prediction": "Fire Alarm",
+      "cleaned_prediction": "fire alarm"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_19.jpg",
+      "ground_truth": [
+        "STIRLING",
+        "CASTLE",
+        "ARGYLL'S",
+        "LODGINGS"
+      ],
+      "prediction": "Stirling Castle",
+      "cleaned_prediction": "stirling castle"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_190.jpg",
+      "ground_truth": [
+        "###",
+        "###",
+        "###",
+        "process",
+        "your",
+        "process",
+        "Dez.",
+        "2010",
+        "Januar",
+        "Februar",
+        "###",
+        "###",
+        "###",
+        "Neujahr",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "b",
+      "cleaned_prediction": "b"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_191.jpg",
+      "ground_truth": [
+        "###",
+        "###",
+        "###",
+        "###",
+        "Homogenic"
+      ],
+      "prediction": "HOMOGENE",
+      "cleaned_prediction": "homogene"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_192.jpg",
+      "ground_truth": [
+        "Microsoft"
+      ],
+      "prediction": "microsoft",
+      "cleaned_prediction": "microsoft"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_193.jpg",
+      "ground_truth": [
+        "savers"
+      ],
+      "prediction": "savers",
+      "cleaned_prediction": "savers"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_194.jpg",
+      "ground_truth": [
+        "ZANUSSI"
+      ],
+      "prediction": "zanussi",
+      "cleaned_prediction": "zanussi"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_195.jpg",
+      "ground_truth": [
+        "TAN"
+      ],
+      "prediction": "tan",
+      "cleaned_prediction": "tan"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_196.jpg",
+      "ground_truth": [
+        "MultiSync",
+        "LCD2470WVX"
+      ],
+      "prediction": "Multisync",
+      "cleaned_prediction": "multisync"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_197.jpg",
+      "ground_truth": [
+        "BEER",
+        "GARDEN"
+      ],
+      "prediction": "Beer Garden",
+      "cleaned_prediction": "beer garden"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_198.jpg",
+      "ground_truth": [
+        "Cycleway",
+        "Closed",
+        "Ahead"
+      ],
+      "prediction": "CYCLEWAY",
+      "cleaned_prediction": "cycleway"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_199.jpg",
+      "ground_truth": [
+        "Boundary",
+        "Road"
+      ],
+      "prediction": "Boundary Road",
+      "cleaned_prediction": "boundary road"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_2.jpg",
+      "ground_truth": [
+        "professional",
+        "Java",
+        "Web",
+        "Services"
+      ],
+      "prediction": "professional java web services",
+      "cleaned_prediction": "professional java web services"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_20.jpg",
+      "ground_truth": [
+        "GOOD",
+        "HOME",
+        "MADE",
+        "FOOD",
+        "CASK",
+        "CONDITIONED",
+        "ALES",
+        "GARDEN"
+      ],
+      "prediction": "good home made food",
+      "cleaned_prediction": "good home made food"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_200.jpg",
+      "ground_truth": [
+        "HSBC"
+      ],
+      "prediction": "hsbc",
+      "cleaned_prediction": "hsbc"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_201.jpg",
+      "ground_truth": [
+        "DIGItaL",
+        "muLtImeDIa",
+        "Nigel",
+        "Chapman",
+        "and",
+        "Jenny",
+        "Chapman",
+        "WILEY",
+        "###",
+        "###"
+      ],
+      "prediction": "Digital Multimedia",
+      "cleaned_prediction": "digital multimedia"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_202.jpg",
+      "ground_truth": [
+        "###",
+        "wear.",
+        "###"
+      ],
+      "prediction": "Skin-wear",
+      "cleaned_prediction": "skin-wear"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_203.jpg",
+      "ground_truth": [
+        "Oleg",
+        "Rostanin",
+        "Asif",
+        "Shahab",
+        "2.10"
+      ],
+      "prediction": "asf shabab",
+      "cleaned_prediction": "asf shabab"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_204.jpg",
+      "ground_truth": [
+        "DOLLAR",
+        "GLEN",
+        "AND",
+        "CASTLE",
+        "CAMPBELL"
+      ],
+      "prediction": "dollar glen and castle campbell",
+      "cleaned_prediction": "dollar glen and castle campbell"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_205.jpg",
+      "ground_truth": [
+        "privileg",
+        "8017"
+      ],
+      "prediction": "Privigie 8007",
+      "cleaned_prediction": "privigie 8007"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_206.jpg",
+      "ground_truth": [
+        "Beardwell",
+        "Construction",
+        "Limited",
+        "construction",
+        "refurbishment",
+        "maintenance",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "beardwell construction limited",
+      "cleaned_prediction": "beardwell construction limited"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_207.jpg",
+      "ground_truth": [
+        "C.C.T.V.",
+        "###",
+        "OPERATION"
+      ],
+      "prediction": "cctv in operation",
+      "cleaned_prediction": "cctv in operation"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_208.jpg",
+      "ground_truth": [
+        "Sun",
+        "microsystems"
+      ],
+      "prediction": "sun microsystems",
+      "cleaned_prediction": "sun microsystems"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_209.jpg",
+      "ground_truth": [
+        "Connells"
+      ],
+      "prediction": "connells",
+      "cleaned_prediction": "connells"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_21.jpg",
+      "ground_truth": [
+        "SCOTTISH",
+        "NATIONAL",
+        "GALLERY",
+        "MODERN",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "National Gallery of Scotland",
+      "cleaned_prediction": "national gallery of scotland"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_210.jpg",
+      "ground_truth": [
+        "conditions"
+      ],
+      "prediction": "Conditions",
+      "cleaned_prediction": "conditions"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_211.jpg",
+      "ground_truth": [
+        "ntl:",
+        "###"
+      ],
+      "prediction": "ntl",
+      "cleaned_prediction": "ntl"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_212.jpg",
+      "ground_truth": [
+        "Osborne",
+        "Garages",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Osborne garage",
+      "cleaned_prediction": "osborne garage"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_213.jpg",
+      "ground_truth": [
+        "RED",
+        "LION",
+        "YARD",
+        "SHOPS",
+        "HIGH",
+        "STREET"
+      ],
+      "prediction": "red lion yard shops high street",
+      "cleaned_prediction": "red lion yard shops high street"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_214.jpg",
+      "ground_truth": [
+        "VOLVO",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "volvo",
+      "cleaned_prediction": "volvo"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_215.jpg",
+      "ground_truth": [
+        "GENTLEMEN"
+      ],
+      "prediction": "Gentlemen",
+      "cleaned_prediction": "gentlemen"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_216.jpg",
+      "ground_truth": [
+        "FAX"
+      ],
+      "prediction": "Fax",
+      "cleaned_prediction": "fax"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_217.jpg",
+      "ground_truth": [
+        "iMac",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "mac",
+      "cleaned_prediction": "mac"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_218.jpg",
+      "ground_truth": [
+        "Ford"
+      ],
+      "prediction": "ford",
+      "cleaned_prediction": "ford"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_219.jpg",
+      "ground_truth": [
+        "THE",
+        "DOLLAR",
+        "ARMS"
+      ],
+      "prediction": "The Dollar Arms",
+      "cleaned_prediction": "the dollar arms"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_22.jpg",
+      "ground_truth": [
+        "Information",
+        "Tickets",
+        "Trains"
+      ],
+      "prediction": "Information, tickets, trains",
+      "cleaned_prediction": "information tickets trains"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_220.jpg",
+      "ground_truth": [
+        "PULL"
+      ],
+      "prediction": "Pull",
+      "cleaned_prediction": "pull"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_221.jpg",
+      "ground_truth": [
+        "NIGHT",
+        "EXIT",
+        "###",
+        "FLOOR",
+        "###"
+      ],
+      "prediction": "\"night exit\"",
+      "cleaned_prediction": "night exit"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_222.jpg",
+      "ground_truth": [
+        "Sainsbury's",
+        "ECONOMY",
+        "LONG",
+        "LIFE",
+        "ORANGE",
+        "JUICE"
+      ],
+      "prediction": "economy long life orange juice",
+      "cleaned_prediction": "economy long life orange juice"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_223.jpg",
+      "ground_truth": [
+        "###",
+        "Park",
+        "###",
+        "Ride",
+        "Sats.",
+        "only"
+      ],
+      "prediction": "PARK & RIDE",
+      "cleaned_prediction": "park & ride"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_224.jpg",
+      "ground_truth": [
+        "Guidex",
+        "Folders"
+      ],
+      "prediction": "GUIDEX FOLDERS",
+      "cleaned_prediction": "guidex folders"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_225.jpg",
+      "ground_truth": [
+        "ANCIENT",
+        "MONUMENT",
+        "CASTLE",
+        "CAMPBELL",
+        "###",
+        "###"
+      ],
+      "prediction": "castle campbell",
+      "cleaned_prediction": "castle campbell"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_226.jpg",
+      "ground_truth": [
+        "FAIRY",
+        "EXPERT"
+      ],
+      "prediction": "fairy expert",
+      "cleaned_prediction": "fairy expert"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_227.jpg",
+      "ground_truth": [
+        "iiyama"
+      ],
+      "prediction": "amaya",
+      "cleaned_prediction": "amaya"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_228.jpg",
+      "ground_truth": [
+        "Canon",
+        "COMPACT",
+        "POWER",
+        "ADAPTER",
+        "CA-PS100"
+      ],
+      "prediction": "canon compact power adapter",
+      "cleaned_prediction": "canon compact power adapter"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_229.jpg",
+      "ground_truth": [
+        "Info@serviplus.de",
+        "www.serviplus.de",
+        "Geld",
+        "einwerfen",
+        "Betriebsbereit",
+        "###"
+      ],
+      "prediction": "\"Gold\"",
+      "cleaned_prediction": "gold"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_23.jpg",
+      "ground_truth": [
+        "DANGER",
+        "CONSTRUCTION",
+        "SITE",
+        "Risk",
+        "###",
+        "Serious",
+        "Injury",
+        "KEEP",
+        "OUT",
+        "AND",
+        "KEEP",
+        "YOUR",
+        "CHILDREN",
+        "OUT!",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Danger",
+      "cleaned_prediction": "danger"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_24.jpg",
+      "ground_truth": [
+        "###",
+        "arlboro",
+        "LIGHTS"
+      ],
+      "prediction": "marlboro lights",
+      "cleaned_prediction": "marlboro lights"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_25.jpg",
+      "ground_truth": [
+        "SyncMaster",
+        "213T"
+      ],
+      "prediction": "Syncmaster",
+      "cleaned_prediction": "syncmaster"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_26.jpg",
+      "ground_truth": [
+        "COLCHESTER"
+      ],
+      "prediction": "colchester",
+      "cleaned_prediction": "colchester"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_27.jpg",
+      "ground_truth": [
+        "###"
+      ],
+      "prediction": "d",
+      "cleaned_prediction": "d"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_28.jpg",
+      "ground_truth": [
+        "4B.528",
+        "4B.526",
+        "4B.524",
+        "4B.522",
+        "YOU",
+        "ARE",
+        "HERE"
+      ],
+      "prediction": "you are here",
+      "cleaned_prediction": "you are here"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_29.jpg",
+      "ground_truth": [
+        "CARLING"
+      ],
+      "prediction": "CARLING",
+      "cleaned_prediction": "carling"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_3.jpg",
+      "ground_truth": [
+        "###",
+        "SONY",
+        "create",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "go create sony",
+      "cleaned_prediction": "go create sony"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_30.jpg",
+      "ground_truth": [
+        "RYANAIR",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Ryanair",
+      "cleaned_prediction": "ryanair"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_31.jpg",
+      "ground_truth": [
+        "MultiSync",
+        "LCD2470WVX"
+      ],
+      "prediction": "Multisync",
+      "cleaned_prediction": "multisync"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_32.jpg",
+      "ground_truth": [
+        "CORAL"
+      ],
+      "prediction": "CORAL",
+      "cleaned_prediction": "coral"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_33.jpg",
+      "ground_truth": [
+        "Proceed",
+        "with",
+        "caution.",
+        "Height",
+        "when",
+        "raised",
+        "115mm",
+        "(412\")"
+      ],
+      "prediction": "PROCEED WITH CAUTION",
+      "cleaned_prediction": "proceed with caution"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_34.jpg",
+      "ground_truth": [
+        "USE",
+        "ONLY",
+        "DRI-WIPE",
+        "MARKERS",
+        "###",
+        "THESE",
+        "BOARDS"
+      ],
+      "prediction": "Use only dri-wipe markers on these boards",
+      "cleaned_prediction": "use only dri-wipe markers on these boards"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_35.jpg",
+      "ground_truth": [
+        "Central",
+        "Tyre",
+        "M.O.T.",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "central tire",
+      "cleaned_prediction": "central tire"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_36.jpg",
+      "ground_truth": [
+        "COLCHESTER",
+        "POST",
+        "OFFICE"
+      ],
+      "prediction": "Post Office",
+      "cleaned_prediction": "post office"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_37.jpg",
+      "ground_truth": [
+        "Knowledge",
+        "Management",
+        "(KM)",
+        "2.10",
+        "Oleg",
+        "Rostanin",
+        "Asif",
+        "Shahab"
+      ],
+      "prediction": "ole bostrann",
+      "cleaned_prediction": "ole bostrann"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_38.jpg",
+      "ground_truth": [
+        "INVESTMENTS",
+        "PENSIONS",
+        "MORTGAGES"
+      ],
+      "prediction": "investments pensions mortgages",
+      "cleaned_prediction": "investments pensions mortgages"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_39.jpg",
+      "ground_truth": [
+        "PUSH"
+      ],
+      "prediction": "Push",
+      "cleaned_prediction": "push"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_4.jpg",
+      "ground_truth": [
+        "Professional",
+        "Issues",
+        "###",
+        "Software",
+        "Engineering",
+        "frank",
+        "bott",
+        "allison",
+        "coleman",
+        "jack",
+        "eaton",
+        "diane",
+        "rowland",
+        "###"
+      ],
+      "prediction": "Professional sales and marketing engineering",
+      "cleaned_prediction": "professional sales and marketing engineering"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_40.jpg",
+      "ground_truth": [
+        "ESP",
+        "###",
+        "Experience",
+        "the",
+        "Revolution",
+        "with",
+        "Orange",
+        "###",
+        "order",
+        "your",
+        "v70e",
+        "###",
+        "Orange",
+        "please",
+        "call",
+        "150",
+        "and",
+        "press",
+        "###",
+        "###",
+        "###",
+        "###",
+        "orange",
+        "###"
+      ],
+      "prediction": "Espomoto",
+      "cleaned_prediction": "espomoto"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_41.jpg",
+      "ground_truth": [
+        "Philips",
+        "fisio",
+        "820e"
+      ],
+      "prediction": "philips fisso 800e",
+      "cleaned_prediction": "philips fisso 800e"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_42.jpg",
+      "ground_truth": [
+        "SyncMaster",
+        "213T"
+      ],
+      "prediction": "SYNCMAST",
+      "cleaned_prediction": "syncmast"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_43.jpg",
+      "ground_truth": [
+        "POCKET",
+        "FLASH",
+        "UPGRADE",
+        "YOUR",
+        "DIGITAL",
+        "LIFE!",
+        "SAMSUNG"
+      ],
+      "prediction": "Pocket Flash",
+      "cleaned_prediction": "pocket flash"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_44.jpg",
+      "ground_truth": [
+        "The",
+        "Albert",
+        "Beefeater"
+      ],
+      "prediction": "the albert",
+      "cleaned_prediction": "the albert"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_45.jpg",
+      "ground_truth": [
+        "###",
+        "make",
+        "sure",
+        "nothing",
+        "stands",
+        "and",
+        "the",
+        "equipment",
+        "you",
+        "need.",
+        "###"
+      ],
+      "prediction": "we make sure nothing stands in your way and the equipment you need",
+      "cleaned_prediction": "we make sure nothing stands in your way and the equipment you need"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_46.jpg",
+      "ground_truth": [
+        "Num",
+        "Lock",
+        "Caps",
+        "Lock",
+        "Scroll",
+        "Lock",
+        "Viglen"
+      ],
+      "prediction": "vistel",
+      "cleaned_prediction": "vistel"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_47.jpg",
+      "ground_truth": [
+        "Argos"
+      ],
+      "prediction": "Argo",
+      "cleaned_prediction": "argo"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_48.jpg",
+      "ground_truth": [
+        "FREEDOM",
+        "###"
+      ],
+      "prediction": "Freedom",
+      "cleaned_prediction": "freedom"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_49.jpg",
+      "ground_truth": [
+        "ESTATE",
+        "AGENTS",
+        "SAXONS",
+        "SAXONS",
+        "ESTATE",
+        "AGENTS",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "\"estate agents\"",
+      "cleaned_prediction": "estate agents"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_5.jpg",
+      "ground_truth": [
+        "ESPANOL-INGLES",
+        "INGLES-ESPANOL",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Espa\u00f1ol-Ingles",
+      "cleaned_prediction": "espa\u00f1ol-ingles"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_50.jpg",
+      "ground_truth": [
+        "SMIRNOFF",
+        "###"
+      ],
+      "prediction": "SINORFO",
+      "cleaned_prediction": "sinorfo"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_51.jpg",
+      "ground_truth": [
+        "###",
+        "ROUGH",
+        "GUIDE",
+        "Website",
+        "Directory",
+        "Angus",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "the rough guide to website directory",
+      "cleaned_prediction": "the rough guide to website directory"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_52.jpg",
+      "ground_truth": [
+        "FCA",
+        "Foster",
+        "Care",
+        "Associates",
+        "###"
+      ],
+      "prediction": "foster care associates",
+      "cleaned_prediction": "foster care associates"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_53.jpg",
+      "ground_truth": [
+        "Portakabin"
+      ],
+      "prediction": "Portakabin",
+      "cleaned_prediction": "portakabin"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_54.jpg",
+      "ground_truth": [
+        "15'",
+        "###"
+      ],
+      "prediction": "15 feet",
+      "cleaned_prediction": "15 feet"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_55.jpg",
+      "ground_truth": [
+        "2.17",
+        "Knowledge",
+        "Management",
+        "(KM)",
+        "Dr.",
+        "Faisal",
+        "Shafait",
+        "Multimedia",
+        "Analysis",
+        "and",
+        "Data",
+        "Mining",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Dr. Fauci",
+      "cleaned_prediction": "dr fauci"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_56.jpg",
+      "ground_truth": [
+        "Break",
+        "glass",
+        "###",
+        "case",
+        "###",
+        "fire"
+      ],
+      "prediction": "Break glass in case of fire",
+      "cleaned_prediction": "break glass in case of fire"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_57.jpg",
+      "ground_truth": [
+        "DISCOVER",
+        "THE",
+        "DARK",
+        "SIDE"
+      ],
+      "prediction": "DISCOVER THE DARK SIDE",
+      "cleaned_prediction": "discover the dark side"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_58.jpg",
+      "ground_truth": [
+        "iiyama"
+      ],
+      "prediction": "Amaya",
+      "cleaned_prediction": "amaya"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_59.jpg",
+      "ground_truth": [
+        "ZUBROWKA",
+        "BISON",
+        "VODKA",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "zubrowka",
+      "cleaned_prediction": "zubrowka"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_6.jpg",
+      "ground_truth": [
+        "Colgate",
+        "Fluoride",
+        "Toothpaste"
+      ],
+      "prediction": "colgate",
+      "cleaned_prediction": "colgate"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_60.jpg",
+      "ground_truth": [
+        "ASDA",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "asda",
+      "cleaned_prediction": "asda"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_61.jpg",
+      "ground_truth": [
+        "BAR"
+      ],
+      "prediction": "Bar",
+      "cleaned_prediction": "bar"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_62.jpg",
+      "ground_truth": [
+        "Drivers",
+        "stop",
+        "here",
+        "and",
+        "report",
+        "###",
+        "Warehouse",
+        "Office.",
+        "###"
+      ],
+      "prediction": "Driver stop here and report to warehouse office",
+      "cleaned_prediction": "driver stop here and report to warehouse office"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_63.jpg",
+      "ground_truth": [
+        "essence",
+        "###",
+        "computing",
+        "THE",
+        "ESSENCE",
+        "###",
+        "ARTIFICIAL",
+        "INTELLIGENCE"
+      ],
+      "prediction": "The essence of computing",
+      "cleaned_prediction": "the essence of computing"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_64.jpg",
+      "ground_truth": [
+        "213T",
+        "SyncMaster"
+      ],
+      "prediction": "Syncmaster",
+      "cleaned_prediction": "syncmaster"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_65.jpg",
+      "ground_truth": [
+        "British",
+        "Red",
+        "Cross",
+        "Shop",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "British Red Cross",
+      "cleaned_prediction": "british red cross"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_66.jpg",
+      "ground_truth": [
+        "BEAVER84",
+        "TEL:",
+        "01268",
+        "530888"
+      ],
+      "prediction": "beaver 84",
+      "cleaned_prediction": "beaver 84"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_67.jpg",
+      "ground_truth": [
+        "4.513B",
+        "###",
+        "Computing",
+        "Service",
+        "HELP",
+        "DESK"
+      ],
+      "prediction": "Help Desk",
+      "cleaned_prediction": "help desk"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_68.jpg",
+      "ground_truth": [
+        "Campus"
+      ],
+      "prediction": "campus",
+      "cleaned_prediction": "campus"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_69.jpg",
+      "ground_truth": [
+        "CASTLE",
+        "CAMPBELL",
+        "###"
+      ],
+      "prediction": "castle campbell",
+      "cleaned_prediction": "castle campbell"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_7.jpg",
+      "ground_truth": [
+        "###",
+        "FOSTER'S",
+        "FOSTER'S",
+        "FOSTER'S",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "FOSTER'S",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Foster's",
+      "cleaned_prediction": "fosters"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_70.jpg",
+      "ground_truth": [
+        "Accommodation",
+        "Office",
+        "Nightline"
+      ],
+      "prediction": "Accommodation Office",
+      "cleaned_prediction": "accommodation office"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_71.jpg",
+      "ground_truth": [
+        "B&H"
+      ],
+      "prediction": "b & h",
+      "cleaned_prediction": "b & h"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_72.jpg",
+      "ground_truth": [
+        "GEORGE",
+        "ORWELL",
+        "ANIMAL",
+        "FARM"
+      ],
+      "prediction": "Animal Farm",
+      "cleaned_prediction": "animal farm"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_73.jpg",
+      "ground_truth": [
+        "MIDDLEBOROUGH"
+      ],
+      "prediction": "Middleborough",
+      "cleaned_prediction": "middleborough"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_74.jpg",
+      "ground_truth": [
+        "###",
+        "admittance",
+        "Authorised",
+        "Personnel",
+        "only"
+      ],
+      "prediction": "No admittance authorized personnel only",
+      "cleaned_prediction": "no admittance authorized personnel only"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_75.jpg",
+      "ground_truth": [
+        "HEALTH"
+      ],
+      "prediction": "health",
+      "cleaned_prediction": "health"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_76.jpg",
+      "ground_truth": [
+        "Town",
+        "Centre",
+        "Clacton",
+        "133",
+        "London",
+        "Chelmsford",
+        "Ipswich",
+        "Gt.",
+        "Yarmouth",
+        "Harwich",
+        "###",
+        "Leisure",
+        "World",
+        "Rollerworld",
+        "(A120)",
+        "(A12)",
+        "(A12)"
+      ],
+      "prediction": "Clacton",
+      "cleaned_prediction": "clacton"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_77.jpg",
+      "ground_truth": [
+        "Electrolux"
+      ],
+      "prediction": "ELECTROLUX",
+      "cleaned_prediction": "electrolux"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_78.jpg",
+      "ground_truth": [
+        "Panasonic"
+      ],
+      "prediction": "panasonic",
+      "cleaned_prediction": "panasonic"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_79.jpg",
+      "ground_truth": [
+        "fresh",
+        "semi",
+        "skimmed",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "semislimmed",
+      "cleaned_prediction": "semislimmed"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_8.jpg",
+      "ground_truth": [
+        "The",
+        "SAD",
+        "SACK",
+        "Cafe",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Sad Sack",
+      "cleaned_prediction": "sad sack"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_80.jpg",
+      "ground_truth": [
+        "RENAULT"
+      ],
+      "prediction": "renault",
+      "cleaned_prediction": "renault"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_81.jpg",
+      "ground_truth": [
+        "HOTEL",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Hotel",
+      "cleaned_prediction": "hotel"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_82.jpg",
+      "ground_truth": [
+        "DOLLAR",
+        "GOLF",
+        "CLUB",
+        "###"
+      ],
+      "prediction": "dollar golf club",
+      "cleaned_prediction": "dollar golf club"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_83.jpg",
+      "ground_truth": [
+        "www.b4valu",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "b-value",
+      "cleaned_prediction": "b-value"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_84.jpg",
+      "ground_truth": [
+        "###",
+        "footway",
+        "for",
+        "450",
+        "yds"
+      ],
+      "prediction": "NO FOOTWAY",
+      "cleaned_prediction": "no footway"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_85.jpg",
+      "ground_truth": [
+        "Seatrade",
+        "House",
+        "Seatrade",
+        "Communications",
+        "Ltd",
+        "Registered",
+        "Office"
+      ],
+      "prediction": "SEATRADE HOUSE",
+      "cleaned_prediction": "seatrade house"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_86.jpg",
+      "ground_truth": [
+        "EXIT"
+      ],
+      "prediction": "Exit",
+      "cleaned_prediction": "exit"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_87.jpg",
+      "ground_truth": [
+        "WARNING!",
+        "LOW",
+        "FLYING",
+        "AND",
+        "AIRCRAFT",
+        "BLAST",
+        "CAUSE",
+        "PHYSICAL",
+        "INJURY",
+        "CAN",
+        "DEPARTING",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "warning",
+      "cleaned_prediction": "warning"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_88.jpg",
+      "ground_truth": [
+        "WHATEVER",
+        "THE",
+        "WEATHER",
+        "SUMMER",
+        "###"
+      ],
+      "prediction": "Summer whatever the weather",
+      "cleaned_prediction": "summer whatever the weather"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_89.jpg",
+      "ground_truth": [
+        "PLEASE",
+        "###",
+        "NOT",
+        "DISTURB",
+        "...IM",
+        "RECOVERING!!"
+      ],
+      "prediction": "please do not disturb",
+      "cleaned_prediction": "please do not disturb"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_9.jpg",
+      "ground_truth": [
+        "ACCESS",
+        "###",
+        "KNOW",
+        "BAGGAGE"
+      ],
+      "prediction": "access to know",
+      "cleaned_prediction": "access to know"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_90.jpg",
+      "ground_truth": [
+        "PROFESSIONAL",
+        "Java",
+        "SOAP",
+        "Henry",
+        "Bequet",
+        "###",
+        "###",
+        "###",
+        "wrox"
+      ],
+      "prediction": "Professional Java Soap",
+      "cleaned_prediction": "professional java soap"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_91.jpg",
+      "ground_truth": [
+        "YOU",
+        "ARE",
+        "HERE"
+      ],
+      "prediction": "you are here",
+      "cleaned_prediction": "you are here"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_92.jpg",
+      "ground_truth": [
+        "Unterschrift",
+        "Architekt",
+        "###",
+        "den",
+        "29.04.09",
+        "Kaiserslautern"
+      ],
+      "prediction": "Architektur",
+      "cleaned_prediction": "architektur"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_93.jpg",
+      "ground_truth": [
+        "PANTENE",
+        "PRO-V"
+      ],
+      "prediction": "Pantene Pro-v",
+      "cleaned_prediction": "pantene pro-v"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_94.jpg",
+      "ground_truth": [
+        "ESSEX"
+      ],
+      "prediction": "essex",
+      "cleaned_prediction": "essex"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_95.jpg",
+      "ground_truth": [
+        "FREE",
+        "DELIVERY"
+      ],
+      "prediction": "Free Delivery",
+      "cleaned_prediction": "free delivery"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_96.jpg",
+      "ground_truth": [
+        "Please",
+        "lock",
+        "the",
+        "gate"
+      ],
+      "prediction": "Please lock the gate",
+      "cleaned_prediction": "please lock the gate"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_97.jpg",
+      "ground_truth": [
+        "###",
+        "POCKET",
+        "FLASH"
+      ],
+      "prediction": "Pocket Flash",
+      "cleaned_prediction": "pocket flash"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_98.jpg",
+      "ground_truth": [
+        "WALLACE",
+        "MONUMENT"
+      ],
+      "prediction": "Wallace Monument",
+      "cleaned_prediction": "wallace monument"
+    },
+    {
+      "img_path": "../datasets/icdar2015/images/img_99.jpg",
+      "ground_truth": [
+        "SANYO",
+        "PROxtraX",
+        "MULTIMEDIA",
+        "PROJECTOR"
+      ],
+      "prediction": "sanyo pro xtra",
+      "cleaned_prediction": "sanyo pro xtra"
+    }
+  ]
+}
