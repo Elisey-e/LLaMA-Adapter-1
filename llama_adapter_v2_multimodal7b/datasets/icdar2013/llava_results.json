@@ -1,0 +1,6574 @@
+{
+  "results": [
+    {
+      "img_path": "../datasets/icdar2013/images/word_1.png",
+      "ground_truth": "Tiredness",
+      "prediction": "DMD",
+      "cleaned_prediction": "dmd"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_2.png",
+      "ground_truth": "kills",
+      "prediction": "KILL",
+      "cleaned_prediction": "kill"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_3.png",
+      "ground_truth": "A",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_4.png",
+      "ground_truth": "short",
+      "prediction": "HOME",
+      "cleaned_prediction": "home"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_5.png",
+      "ground_truth": "break",
+      "prediction": "Tea",
+      "cleaned_prediction": "tea"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_6.png",
+      "ground_truth": "could",
+      "prediction": "Soul",
+      "cleaned_prediction": "soul"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_7.png",
+      "ground_truth": "save",
+      "prediction": "Travel",
+      "cleaned_prediction": "travel"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_8.png",
+      "ground_truth": "your",
+      "prediction": "Out",
+      "cleaned_prediction": "out"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_9.png",
+      "ground_truth": "life",
+      "prediction": "Life",
+      "cleaned_prediction": "life"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_10.png",
+      "ground_truth": "8",
+      "prediction": "88",
+      "cleaned_prediction": "88"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_11.png",
+      "ground_truth": "H",
+      "prediction": "10",
+      "cleaned_prediction": "10"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_12.png",
+      "ground_truth": "319",
+      "prediction": "The exact text shown in this image is \"the dog is black\".",
+      "cleaned_prediction": "the exact text shown in this image is the dog is black"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_13.png",
+      "ground_truth": "10",
+      "prediction": "O",
+      "cleaned_prediction": "o"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_14.png",
+      "ground_truth": "Royal",
+      "prediction": "Joyoy",
+      "cleaned_prediction": "joyoy"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_15.png",
+      "ground_truth": "London",
+      "prediction": "Fandango",
+      "cleaned_prediction": "fandango"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_16.png",
+      "ground_truth": "Saeco",
+      "prediction": "Nee",
+      "cleaned_prediction": "nee"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_17.png",
+      "ground_truth": "R",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_18.png",
+      "ground_truth": "ENT",
+      "prediction": "NN",
+      "cleaned_prediction": "nn"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_19.png",
+      "ground_truth": "ESC",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_20.png",
+      "ground_truth": "Betriebsbereit",
+      "prediction": "JUBA",
+      "cleaned_prediction": "juba"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_21.png",
+      "ground_truth": "Produkt",
+      "prediction": "12:00:00",
+      "cleaned_prediction": "120000"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_22.png",
+      "ground_truth": "wahlen",
+      "prediction": "1111111111111111111",
+      "cleaned_prediction": "1111111111111111111"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_23.png",
+      "ground_truth": "hungry",
+      "prediction": "Young",
+      "cleaned_prediction": "young"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_24.png",
+      "ground_truth": "[falling",
+      "prediction": "Calling",
+      "cleaned_prediction": "calling"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_25.png",
+      "ground_truth": "on",
+      "prediction": "Conon",
+      "cleaned_prediction": "conon"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_26.png",
+      "ground_truth": "my",
+      "prediction": "Honey",
+      "cleaned_prediction": "honey"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_27.png",
+      "ground_truth": "knees]",
+      "prediction": "\"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "cleaned_prediction": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_28.png",
+      "ground_truth": "Campus",
+      "prediction": "MMP",
+      "cleaned_prediction": "mmp"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_29.png",
+      "ground_truth": "Shop",
+      "prediction": "HOPE",
+      "cleaned_prediction": "hope"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_30.png",
+      "ground_truth": "Gt.",
+      "prediction": "Gt",
+      "cleaned_prediction": "gt"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_31.png",
+      "ground_truth": "Yarmouth",
+      "prediction": "MAT",
+      "cleaned_prediction": "mat"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_32.png",
+      "ground_truth": "Ipswich",
+      "prediction": "W",
+      "cleaned_prediction": "w"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_33.png",
+      "ground_truth": "(A12)",
+      "prediction": "A12",
+      "cleaned_prediction": "a12"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_34.png",
+      "ground_truth": "Harwich",
+      "prediction": "WWW",
+      "cleaned_prediction": "www"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_35.png",
+      "ground_truth": "(A120)",
+      "prediction": "A12",
+      "cleaned_prediction": "a12"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_36.png",
+      "ground_truth": "Clacton",
+      "prediction": "ACT",
+      "cleaned_prediction": "act"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_37.png",
+      "ground_truth": "A133",
+      "prediction": "1313",
+      "cleaned_prediction": "1313"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_38.png",
+      "ground_truth": "GASTRONOMY",
+      "prediction": "H",
+      "cleaned_prediction": "h"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_39.png",
+      "ground_truth": "GREEK",
+      "prediction": "EE",
+      "cleaned_prediction": "ee"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_40.png",
+      "ground_truth": "COOKERY",
+      "prediction": "Book",
+      "cleaned_prediction": "book"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_41.png",
+      "ground_truth": "&",
+      "prediction": "A & A",
+      "cleaned_prediction": "a & a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_42.png",
+      "ground_truth": "WINES",
+      "prediction": "INDICA",
+      "cleaned_prediction": "indica"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_43.png",
+      "ground_truth": "LOCAL",
+      "prediction": "Local",
+      "cleaned_prediction": "local"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_44.png",
+      "ground_truth": "SPECIALTIES",
+      "prediction": "Social",
+      "cleaned_prediction": "social"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_45.png",
+      "ground_truth": "FESTIVE",
+      "prediction": "WEST",
+      "cleaned_prediction": "west"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_46.png",
+      "ground_truth": "RECIPES",
+      "prediction": "CIF",
+      "cleaned_prediction": "cif"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_47.png",
+      "ground_truth": "ILLUSTRATED",
+      "prediction": "TREAT",
+      "cleaned_prediction": "treat"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_48.png",
+      "ground_truth": "TOUBI'S",
+      "prediction": "DUBB",
+      "cleaned_prediction": "dubb"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_49.png",
+      "ground_truth": "e",
+      "prediction": "E",
+      "cleaned_prediction": "e"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_50.png",
+      "ground_truth": "g",
+      "prediction": "G",
+      "cleaned_prediction": "g"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_51.png",
+      "ground_truth": "intelligent",
+      "prediction": "Illuminated",
+      "cleaned_prediction": "illuminated"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_52.png",
+      "ground_truth": "inhabited",
+      "prediction": "Lab",
+      "cleaned_prediction": "lab"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_53.png",
+      "ground_truth": "environments",
+      "prediction": "Connecting",
+      "cleaned_prediction": "connecting"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_54.png",
+      "ground_truth": "group",
+      "prediction": "FROUW",
+      "cleaned_prediction": "frouw"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_55.png",
+      "ground_truth": "University",
+      "prediction": "Oververdien",
+      "cleaned_prediction": "oververdien"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_56.png",
+      "ground_truth": "of",
+      "prediction": "Of",
+      "cleaned_prediction": "of"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_57.png",
+      "ground_truth": "Essex",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_58.png",
+      "ground_truth": "Bernd",
+      "prediction": "\"Kernern\"",
+      "cleaned_prediction": "kernern"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_59.png",
+      "ground_truth": "Reuse",
+      "prediction": "EUSEUS",
+      "cleaned_prediction": "euseus"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_60.png",
+      "ground_truth": "Roland",
+      "prediction": "Solar",
+      "cleaned_prediction": "solar"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_61.png",
+      "ground_truth": "Vollmar",
+      "prediction": "Allmighty",
+      "cleaned_prediction": "allmighty"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_62.png",
+      "ground_truth": "(Hrsg.)",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_63.png",
+      "ground_truth": "Informatikforschung",
+      "prediction": "Tikkafors",
+      "cleaned_prediction": "tikkafors"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_64.png",
+      "ground_truth": "in",
+      "prediction": "Infinity",
+      "cleaned_prediction": "infinity"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_65.png",
+      "ground_truth": "Deutschland",
+      "prediction": "ASSCH",
+      "cleaned_prediction": "assch"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_66.png",
+      "ground_truth": "Springer",
+      "prediction": "Springing",
+      "cleaned_prediction": "springing"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_67.png",
+      "ground_truth": "M",
+      "prediction": "Mcdonald's",
+      "cleaned_prediction": "mcdonalds"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_68.png",
+      "ground_truth": "Summer's",
+      "prediction": "HAMMER HAMMER HAMMER HAMMER HAMMER",
+      "cleaned_prediction": "hammer hammer hammer hammer hammer"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_69.png",
+      "ground_truth": "Here!",
+      "prediction": "Superhero",
+      "cleaned_prediction": "superhero"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_70.png",
+      "ground_truth": "TM",
+      "prediction": "TT",
+      "cleaned_prediction": "tt"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_71.png",
+      "ground_truth": "CHECK",
+      "prediction": "NIE",
+      "cleaned_prediction": "nie"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_72.png",
+      "ground_truth": "SIGNAL",
+      "prediction": "GN",
+      "cleaned_prediction": "gn"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_73.png",
+      "ground_truth": "CABLE",
+      "prediction": "14:38",
+      "cleaned_prediction": "1438"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_74.png",
+      "ground_truth": "P",
+      "prediction": "P",
+      "cleaned_prediction": "p"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_75.png",
+      "ground_truth": "P",
+      "prediction": "P",
+      "cleaned_prediction": "p"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_76.png",
+      "ground_truth": "WARNING",
+      "prediction": "RN",
+      "cleaned_prediction": "rn"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_77.png",
+      "ground_truth": "Trespassing",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_78.png",
+      "ground_truth": "or",
+      "prediction": "ON",
+      "cleaned_prediction": "on"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_79.png",
+      "ground_truth": "causing",
+      "prediction": "Music",
+      "cleaned_prediction": "music"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_80.png",
+      "ground_truth": "nuisance",
+      "prediction": "ASSAN",
+      "cleaned_prediction": "assan"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_81.png",
+      "ground_truth": "on",
+      "prediction": "On",
+      "cleaned_prediction": "on"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_82.png",
+      "ground_truth": "a",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_83.png",
+      "ground_truth": "school",
+      "prediction": "Chocho",
+      "cleaned_prediction": "chocho"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_84.png",
+      "ground_truth": "site",
+      "prediction": "Website",
+      "cleaned_prediction": "website"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_85.png",
+      "ground_truth": "can",
+      "prediction": "Car",
+      "cleaned_prediction": "car"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_86.png",
+      "ground_truth": "lead",
+      "prediction": "Lead",
+      "cleaned_prediction": "lead"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_87.png",
+      "ground_truth": "to",
+      "prediction": "To",
+      "cleaned_prediction": "to"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_88.png",
+      "ground_truth": "a",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_89.png",
+      "ground_truth": "criminal",
+      "prediction": "MINIMUM",
+      "cleaned_prediction": "minimum"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_90.png",
+      "ground_truth": "conviction",
+      "prediction": "VIVID",
+      "cleaned_prediction": "vivid"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_91.png",
+      "ground_truth": "Under",
+      "prediction": "Understand",
+      "cleaned_prediction": "understand"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_92.png",
+      "ground_truth": "Section",
+      "prediction": "Selection",
+      "cleaned_prediction": "selection"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_93.png",
+      "ground_truth": "547",
+      "prediction": "567",
+      "cleaned_prediction": "567"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_94.png",
+      "ground_truth": "of",
+      "prediction": "Of",
+      "cleaned_prediction": "of"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_95.png",
+      "ground_truth": "the",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_96.png",
+      "ground_truth": "Education",
+      "prediction": "Educational",
+      "cleaned_prediction": "educational"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_97.png",
+      "ground_truth": "Act",
+      "prediction": "ACTIVATE",
+      "cleaned_prediction": "activate"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_98.png",
+      "ground_truth": "1996",
+      "prediction": "999",
+      "cleaned_prediction": "999"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_99.png",
+      "ground_truth": "Essex",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_100.png",
+      "ground_truth": "County",
+      "prediction": "Sound",
+      "cleaned_prediction": "sound"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_101.png",
+      "ground_truth": "Council",
+      "prediction": "Sound",
+      "cleaned_prediction": "sound"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_102.png",
+      "ground_truth": "Learning",
+      "prediction": "WARNING",
+      "cleaned_prediction": "warning"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_103.png",
+      "ground_truth": "Services",
+      "prediction": "Service",
+      "cleaned_prediction": "service"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_104.png",
+      "ground_truth": "Roland",
+      "prediction": "Play",
+      "cleaned_prediction": "play"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_105.png",
+      "ground_truth": "DIGITAL",
+      "prediction": "Git",
+      "cleaned_prediction": "git"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_106.png",
+      "ground_truth": "GROUP",
+      "prediction": "HERO",
+      "cleaned_prediction": "hero"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_107.png",
+      "ground_truth": "Lord",
+      "prediction": "AOR",
+      "cleaned_prediction": "aor"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_108.png",
+      "ground_truth": "Nelson",
+      "prediction": "CLOUD",
+      "cleaned_prediction": "cloud"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_109.png",
+      "ground_truth": "Servicemenu",
+      "prediction": "Ice",
+      "cleaned_prediction": "ice"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_110.png",
+      "ground_truth": "Wahlwiederh.",
+      "prediction": "Die",
+      "cleaned_prediction": "die"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_111.png",
+      "ground_truth": "Briefkasten",
+      "prediction": "FLK",
+      "cleaned_prediction": "flk"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_112.png",
+      "ground_truth": "Lautsprecher",
+      "prediction": "PPR",
+      "cleaned_prediction": "ppr"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_113.png",
+      "ground_truth": "Ubernahme",
+      "prediction": "18:00",
+      "cleaned_prediction": "1800"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_114.png",
+      "ground_truth": "abc",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_115.png",
+      "ground_truth": "2",
+      "prediction": "2",
+      "cleaned_prediction": "2"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_116.png",
+      "ground_truth": "1",
+      "prediction": "1",
+      "cleaned_prediction": "1"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_117.png",
+      "ground_truth": "3",
+      "prediction": "3",
+      "cleaned_prediction": "3"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_118.png",
+      "ground_truth": "def",
+      "prediction": "Det",
+      "cleaned_prediction": "det"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_119.png",
+      "ground_truth": "Anrufliste",
+      "prediction": "F11",
+      "cleaned_prediction": "f11"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_120.png",
+      "ground_truth": "NA",
+      "prediction": "NANA",
+      "cleaned_prediction": "nana"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_121.png",
+      "ground_truth": "NA",
+      "prediction": "MANA",
+      "cleaned_prediction": "mana"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_122.png",
+      "ground_truth": "NA",
+      "prediction": "NANA",
+      "cleaned_prediction": "nana"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_123.png",
+      "ground_truth": "IMPORTED",
+      "prediction": "Sport",
+      "cleaned_prediction": "sport"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_124.png",
+      "ground_truth": "BEER",
+      "prediction": "Beer",
+      "cleaned_prediction": "beer"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_125.png",
+      "ground_truth": "FROM",
+      "prediction": "ROMEO",
+      "cleaned_prediction": "romeo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_126.png",
+      "ground_truth": "MEXICO",
+      "prediction": "MEXICO",
+      "cleaned_prediction": "mexico"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_127.png",
+      "ground_truth": "WOLFGANG",
+      "prediction": "Facebook",
+      "cleaned_prediction": "facebook"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_128.png",
+      "ground_truth": "EMMERICH",
+      "prediction": "EE",
+      "cleaned_prediction": "ee"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_129.png",
+      "ground_truth": "Engin",
+      "prediction": "\"Fishing\"",
+      "cleaned_prediction": "fishing"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_130.png",
+      "ground_truth": "ing",
+      "prediction": "Angling",
+      "cleaned_prediction": "angling"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_131.png",
+      "ground_truth": "Distributed",
+      "prediction": "TRIBID",
+      "cleaned_prediction": "tribid"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_132.png",
+      "ground_truth": "Objects",
+      "prediction": "Jeje",
+      "cleaned_prediction": "jeje"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_133.png",
+      "ground_truth": "Gates",
+      "prediction": "GAT",
+      "cleaned_prediction": "gat"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_134.png",
+      "ground_truth": "30",
+      "prediction": "80",
+      "cleaned_prediction": "80"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_135.png",
+      "ground_truth": "&",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_136.png",
+      "ground_truth": "88",
+      "prediction": "888",
+      "cleaned_prediction": "888"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_137.png",
+      "ground_truth": "Emergency",
+      "prediction": "Emergency",
+      "cleaned_prediction": "emergency"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_138.png",
+      "ground_truth": "exit",
+      "prediction": "EXIT",
+      "cleaned_prediction": "exit"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_139.png",
+      "ground_truth": "No",
+      "prediction": "No",
+      "cleaned_prediction": "no"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_140.png",
+      "ground_truth": "unauthorised",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_141.png",
+      "ground_truth": "entry",
+      "prediction": "Entrance",
+      "cleaned_prediction": "entrance"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_142.png",
+      "ground_truth": "into",
+      "prediction": "Interent",
+      "cleaned_prediction": "interent"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_143.png",
+      "ground_truth": "this",
+      "prediction": "This is a red sign with white text.",
+      "cleaned_prediction": "this is a red sign with white text"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_144.png",
+      "ground_truth": "area!",
+      "prediction": "READ",
+      "cleaned_prediction": "read"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_145.png",
+      "ground_truth": "Permit",
+      "prediction": "\"TERMERMERMERMERMERMERMERMERMER",
+      "cleaned_prediction": "termermermermermermermermermer"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_146.png",
+      "ground_truth": "to",
+      "prediction": "Toto",
+      "cleaned_prediction": "toto"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_147.png",
+      "ground_truth": "work",
+      "prediction": "World",
+      "cleaned_prediction": "world"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_148.png",
+      "ground_truth": "system",
+      "prediction": "WESTERN",
+      "cleaned_prediction": "western"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_149.png",
+      "ground_truth": "in",
+      "prediction": "In",
+      "cleaned_prediction": "in"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_150.png",
+      "ground_truth": "operation",
+      "prediction": "Generator",
+      "cleaned_prediction": "generator"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_151.png",
+      "ground_truth": "Estates",
+      "prediction": "Stat",
+      "cleaned_prediction": "stat"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_152.png",
+      "ground_truth": "Management",
+      "prediction": "Change",
+      "cleaned_prediction": "change"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_153.png",
+      "ground_truth": "Section",
+      "prediction": "ACTIVITIES",
+      "cleaned_prediction": "activities"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_154.png",
+      "ground_truth": "Tetley",
+      "prediction": "Kettle",
+      "cleaned_prediction": "kettle"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_155.png",
+      "ground_truth": "To",
+      "prediction": "Too many requests in 1 hour. Try again later.",
+      "cleaned_prediction": "too many requests in 1 hour try again later"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_156.png",
+      "ground_truth": "find",
+      "prediction": "Find",
+      "cleaned_prediction": "find"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_157.png",
+      "ground_truth": "out",
+      "prediction": "Out",
+      "cleaned_prediction": "out"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_158.png",
+      "ground_truth": "just",
+      "prediction": "22 JUST JUST JUST JUST JUST JUST JUST JUST J",
+      "cleaned_prediction": "22 just just just just just just just just j"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_159.png",
+      "ground_truth": "how",
+      "prediction": "How",
+      "cleaned_prediction": "how"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_160.png",
+      "ground_truth": "much",
+      "prediction": "Muddle",
+      "cleaned_prediction": "muddle"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_161.png",
+      "ground_truth": "visit",
+      "prediction": "Visit",
+      "cleaned_prediction": "visit"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_162.png",
+      "ground_truth": "tetley.co.uk",
+      "prediction": "<|endoftext|>",
+      "cleaned_prediction": "<|endoftext|>"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_163.png",
+      "ground_truth": "U",
+      "prediction": "You",
+      "cleaned_prediction": "you"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_164.png",
+      "ground_truth": "Competence",
+      "prediction": "PET",
+      "cleaned_prediction": "pet"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_165.png",
+      "ground_truth": "Center",
+      "prediction": "\"entent\"",
+      "cleaned_prediction": "entent"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_166.png",
+      "ground_truth": "Virtual",
+      "prediction": "Urt",
+      "cleaned_prediction": "urt"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_167.png",
+      "ground_truth": "Office",
+      "prediction": "AFF",
+      "cleaned_prediction": "aff"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_168.png",
+      "ground_truth": "of",
+      "prediction": "Of",
+      "cleaned_prediction": "of"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_169.png",
+      "ground_truth": "the",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_170.png",
+      "ground_truth": "Future",
+      "prediction": "TU",
+      "cleaned_prediction": "tu"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_171.png",
+      "ground_truth": "Deutsches",
+      "prediction": "GUTS",
+      "cleaned_prediction": "guts"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_172.png",
+      "ground_truth": "Forschungszentrum",
+      "prediction": "Hungarian",
+      "cleaned_prediction": "hungarian"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_173.png",
+      "ground_truth": "fur",
+      "prediction": "FUNFUF",
+      "cleaned_prediction": "funfuf"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_174.png",
+      "ground_truth": "Kunstliche",
+      "prediction": "HISTORICAL",
+      "cleaned_prediction": "historical"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_175.png",
+      "ground_truth": "Intelligenz",
+      "prediction": "\"religious\"",
+      "cleaned_prediction": "religious"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_176.png",
+      "ground_truth": "GmbH",
+      "prediction": "gmb",
+      "cleaned_prediction": "gmb"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_177.png",
+      "ground_truth": "1st",
+      "prediction": "First",
+      "cleaned_prediction": "first"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_178.png",
+      "ground_truth": "floor",
+      "prediction": "OOO",
+      "cleaned_prediction": "ooo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_179.png",
+      "ground_truth": "1.21",
+      "prediction": "1.22",
+      "cleaned_prediction": "122"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_180.png",
+      "ground_truth": "FINAL",
+      "prediction": "NANA",
+      "cleaned_prediction": "nana"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_181.png",
+      "ground_truth": "clearance",
+      "prediction": "Parar",
+      "cleaned_prediction": "parar"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_182.png",
+      "ground_truth": "BURTON",
+      "prediction": "RT",
+      "cleaned_prediction": "rt"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_183.png",
+      "ground_truth": "GARNIER",
+      "prediction": "RN",
+      "cleaned_prediction": "rn"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_184.png",
+      "ground_truth": "LABORATOIRES",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_185.png",
+      "ground_truth": "2.17",
+      "prediction": "1.1",
+      "cleaned_prediction": "11"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_186.png",
+      "ground_truth": "Knowledge",
+      "prediction": "BOWLEW",
+      "cleaned_prediction": "bowlew"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_187.png",
+      "ground_truth": "Management",
+      "prediction": "\"mage\"",
+      "cleaned_prediction": "mage"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_188.png",
+      "ground_truth": "(KM)",
+      "prediction": "KMKM",
+      "cleaned_prediction": "kmkm"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_189.png",
+      "ground_truth": "Dr.",
+      "prediction": "Dr",
+      "cleaned_prediction": "dr"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_190.png",
+      "ground_truth": "Faisal",
+      "prediction": "ASSAIS",
+      "cleaned_prediction": "assais"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_191.png",
+      "ground_truth": "Shafait",
+      "prediction": "AFA",
+      "cleaned_prediction": "afa"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_192.png",
+      "ground_truth": "Multimedia",
+      "prediction": "Timim",
+      "cleaned_prediction": "timim"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_193.png",
+      "ground_truth": "and",
+      "prediction": "Land",
+      "cleaned_prediction": "land"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_194.png",
+      "ground_truth": "Data",
+      "prediction": "BATTERY",
+      "cleaned_prediction": "battery"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_195.png",
+      "ground_truth": "Mining",
+      "prediction": "Unimaginable",
+      "cleaned_prediction": "unimaginable"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_196.png",
+      "ground_truth": "2.05",
+      "prediction": "DD",
+      "cleaned_prediction": "dd"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_197.png",
+      "ground_truth": "Analysis",
+      "prediction": "Alys",
+      "cleaned_prediction": "alys"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_198.png",
+      "ground_truth": "Chocomel",
+      "prediction": "Cococ",
+      "cleaned_prediction": "cococ"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_199.png",
+      "ground_truth": "hot",
+      "prediction": "Hot",
+      "cleaned_prediction": "hot"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_200.png",
+      "ground_truth": "R",
+      "prediction": "R",
+      "cleaned_prediction": "r"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_201.png",
+      "ground_truth": "DE",
+      "prediction": "DED",
+      "cleaned_prediction": "ded"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_202.png",
+      "ground_truth": "ENIGE",
+      "prediction": "VICELIS",
+      "cleaned_prediction": "vicelis"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_203.png",
+      "ground_truth": "ECHTE",
+      "prediction": "CCH",
+      "cleaned_prediction": "cch"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_204.png",
+      "ground_truth": "4",
+      "prediction": "4",
+      "cleaned_prediction": "4"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_205.png",
+      "ground_truth": "5",
+      "prediction": "5",
+      "cleaned_prediction": "5"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_206.png",
+      "ground_truth": "Senseo",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_207.png",
+      "ground_truth": "padmachines",
+      "prediction": "CANAC",
+      "cleaned_prediction": "canac"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_208.png",
+      "ground_truth": "(ZIE",
+      "prediction": "ZIZI",
+      "cleaned_prediction": "zizi"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_209.png",
+      "ground_truth": "ACHTERZIJDE",
+      "prediction": "Zertzer",
+      "cleaned_prediction": "zertzer"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_210.png",
+      "ground_truth": "baby's",
+      "prediction": "RABBY",
+      "cleaned_prediction": "rabby"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_211.png",
+      "ground_truth": "animal",
+      "prediction": "I'm",
+      "cleaned_prediction": "im"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_212.png",
+      "ground_truth": "word",
+      "prediction": "O",
+      "cleaned_prediction": "o"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_213.png",
+      "ground_truth": "book",
+      "prediction": "OOOOOOOOOOOOOOOOOOOO",
+      "cleaned_prediction": "oooooooooooooooooooo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_214.png",
+      "ground_truth": "Senseo",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_215.png",
+      "ground_truth": "NEW",
+      "prediction": "EVEN",
+      "cleaned_prediction": "even"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_216.png",
+      "ground_truth": "GENERATION",
+      "prediction": "GERERA",
+      "cleaned_prediction": "gerera"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_217.png",
+      "ground_truth": "AUTO",
+      "prediction": "Auto",
+      "cleaned_prediction": "auto"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_218.png",
+      "ground_truth": "OFF",
+      "prediction": "Off",
+      "cleaned_prediction": "off"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_219.png",
+      "ground_truth": "D",
+      "prediction": "000",
+      "cleaned_prediction": "000"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_220.png",
+      "ground_truth": "DIESEL",
+      "prediction": "ASE",
+      "cleaned_prediction": "ase"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_221.png",
+      "ground_truth": "DENIM",
+      "prediction": "M",
+      "cleaned_prediction": "m"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_222.png",
+      "ground_truth": "DIVISION",
+      "prediction": "3",
+      "cleaned_prediction": "3"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_223.png",
+      "ground_truth": "2002",
+      "prediction": "1000000000000000000",
+      "cleaned_prediction": "1000000000000000000"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_224.png",
+      "ground_truth": "Manchester",
+      "prediction": "C202",
+      "cleaned_prediction": "c202"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_225.png",
+      "ground_truth": "THE",
+      "prediction": "The exact text shown in this image is \"The\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_226.png",
+      "ground_truth": "XVII",
+      "prediction": "Xv",
+      "cleaned_prediction": "xv"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_227.png",
+      "ground_truth": "COMMONWEALTH",
+      "prediction": "CONVENIENT",
+      "cleaned_prediction": "convenient"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_228.png",
+      "ground_truth": "GAMES",
+      "prediction": "AMA",
+      "cleaned_prediction": "ama"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_229.png",
+      "ground_truth": "FARNBOROUGH",
+      "prediction": "Of",
+      "cleaned_prediction": "of"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_230.png",
+      "ground_truth": "AIRSHOW",
+      "prediction": "FASHION",
+      "cleaned_prediction": "fashion"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_231.png",
+      "ground_truth": "28",
+      "prediction": "28",
+      "cleaned_prediction": "28"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_232.png",
+      "ground_truth": "JULY",
+      "prediction": "UUUUUUUUUUUUUUUUUUUU",
+      "cleaned_prediction": "uuuuuuuuuuuuuuuuuuuu"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_233.png",
+      "ground_truth": "2002",
+      "prediction": "00:00:00",
+      "cleaned_prediction": "000000"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_234.png",
+      "ground_truth": "daily",
+      "prediction": "HAI",
+      "cleaned_prediction": "hai"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_235.png",
+      "ground_truth": "flying",
+      "prediction": "HAVE YOU",
+      "cleaned_prediction": "have you"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_236.png",
+      "ground_truth": "programme",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_237.png",
+      "ground_truth": "R",
+      "prediction": "R",
+      "cleaned_prediction": "r"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_238.png",
+      "ground_truth": "17",
+      "prediction": "17",
+      "cleaned_prediction": "17"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_239.png",
+      "ground_truth": "59",
+      "prediction": "59",
+      "cleaned_prediction": "59"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_240.png",
+      "ground_truth": "TM",
+      "prediction": "TM",
+      "cleaned_prediction": "tm"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_241.png",
+      "ground_truth": "GUINNESS",
+      "prediction": "NN",
+      "cleaned_prediction": "nn"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_242.png",
+      "ground_truth": "DRAUGHT",
+      "prediction": "Gucci",
+      "cleaned_prediction": "gucci"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_243.png",
+      "ground_truth": "Kaffee",
+      "prediction": "Caffeine",
+      "cleaned_prediction": "caffeine"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_244.png",
+      "ground_truth": "Pads",
+      "prediction": "DAD",
+      "cleaned_prediction": "dad"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_245.png",
+      "ground_truth": "Extra",
+      "prediction": "Extra",
+      "cleaned_prediction": "extra"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_246.png",
+      "ground_truth": "30",
+      "prediction": "300",
+      "cleaned_prediction": "300"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_247.png",
+      "ground_truth": "'-6",
+      "prediction": "66",
+      "cleaned_prediction": "66"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_248.png",
+      "ground_truth": "THE",
+      "prediction": "The",
+      "cleaned_prediction": "the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_249.png",
+      "ground_truth": "WALLACE",
+      "prediction": "The exact text shown in this image is \"The\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_250.png",
+      "ground_truth": "SWORD",
+      "prediction": "World",
+      "cleaned_prediction": "world"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_251.png",
+      "ground_truth": "SoftWare",
+      "prediction": "WTW",
+      "cleaned_prediction": "wtw"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_252.png",
+      "ground_truth": "Engineering",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_253.png",
+      "ground_truth": "Ian",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_254.png",
+      "ground_truth": "Sommerville",
+      "prediction": "Home",
+      "cleaned_prediction": "home"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_255.png",
+      "ground_truth": "HEPP",
+      "prediction": "PEEP",
+      "cleaned_prediction": "peep"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_256.png",
+      "ground_truth": "Verbandstoffe",
+      "prediction": "Gardend",
+      "cleaned_prediction": "gardend"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_257.png",
+      "ground_truth": "Teer:",
+      "prediction": "GEEWEE",
+      "cleaned_prediction": "geewee"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_258.png",
+      "ground_truth": "7",
+      "prediction": "7",
+      "cleaned_prediction": "7"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_259.png",
+      "ground_truth": "mg",
+      "prediction": "MG",
+      "cleaned_prediction": "mg"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_260.png",
+      "ground_truth": "Nikotin:",
+      "prediction": "KOTKO",
+      "cleaned_prediction": "kotko"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_261.png",
+      "ground_truth": "0,6",
+      "prediction": "666",
+      "cleaned_prediction": "666"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_262.png",
+      "ground_truth": "mg",
+      "prediction": "MG",
+      "cleaned_prediction": "mg"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_263.png",
+      "ground_truth": "Kohlen-",
+      "prediction": "ATHLETIC",
+      "cleaned_prediction": "athletic"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_264.png",
+      "ground_truth": "monoxid:",
+      "prediction": "Nokia",
+      "cleaned_prediction": "nokia"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_265.png",
+      "ground_truth": "9",
+      "prediction": "9",
+      "cleaned_prediction": "9"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_266.png",
+      "ground_truth": "mg",
+      "prediction": "MG",
+      "cleaned_prediction": "mg"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_267.png",
+      "ground_truth": "AN",
+      "prediction": "MANA",
+      "cleaned_prediction": "mana"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_268.png",
+      "ground_truth": "INTRODUCTION",
+      "prediction": "DUOU",
+      "cleaned_prediction": "duou"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_269.png",
+      "ground_truth": "TO",
+      "prediction": "Toto",
+      "cleaned_prediction": "toto"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_270.png",
+      "ground_truth": "DATABASE",
+      "prediction": "ADA",
+      "cleaned_prediction": "ada"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_271.png",
+      "ground_truth": "SYSTEMS",
+      "prediction": "TI",
+      "cleaned_prediction": "ti"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_272.png",
+      "ground_truth": "C.",
+      "prediction": "CCC",
+      "cleaned_prediction": "ccc"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_273.png",
+      "ground_truth": "J.",
+      "prediction": "J",
+      "cleaned_prediction": "j"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_274.png",
+      "ground_truth": "DATE",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_275.png",
+      "ground_truth": "SIXTH",
+      "prediction": "X",
+      "cleaned_prediction": "x"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_276.png",
+      "ground_truth": "EDITION",
+      "prediction": "T",
+      "cleaned_prediction": "t"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_277.png",
+      "ground_truth": "RIVERSIDE",
+      "prediction": "Versers",
+      "cleaned_prediction": "versers"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_278.png",
+      "ground_truth": "WALK",
+      "prediction": "Walhalla",
+      "cleaned_prediction": "walhalla"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_279.png",
+      "ground_truth": "Diet",
+      "prediction": "Die",
+      "cleaned_prediction": "die"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_280.png",
+      "ground_truth": "Coke",
+      "prediction": "KODAK",
+      "cleaned_prediction": "kodak"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_281.png",
+      "ground_truth": "REGISTERED",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_282.png",
+      "ground_truth": "TRADE",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_283.png",
+      "ground_truth": "MARK",
+      "prediction": "Eyebrow",
+      "cleaned_prediction": "eyebrow"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_284.png",
+      "ground_truth": "intel",
+      "prediction": "Intel Inside",
+      "cleaned_prediction": "intel inside"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_285.png",
+      "ground_truth": "inside",
+      "prediction": "Wetter inside",
+      "cleaned_prediction": "wetter inside"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_286.png",
+      "ground_truth": "pentium",
+      "prediction": "Cententu",
+      "cleaned_prediction": "cententu"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_287.png",
+      "ground_truth": "4",
+      "prediction": "4",
+      "cleaned_prediction": "4"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_288.png",
+      "ground_truth": "hoss",
+      "prediction": "OSS",
+      "cleaned_prediction": "oss"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_289.png",
+      "ground_truth": "Standort",
+      "prediction": "Land",
+      "cleaned_prediction": "land"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_290.png",
+      "ground_truth": "Feuerloscher",
+      "prediction": "Carlos",
+      "cleaned_prediction": "carlos"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_291.png",
+      "ground_truth": "Rettungsweg/",
+      "prediction": "YOUNGSTERS",
+      "cleaned_prediction": "youngsters"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_292.png",
+      "ground_truth": "Notausgang",
+      "prediction": "NAUSG",
+      "cleaned_prediction": "nausg"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_293.png",
+      "ground_truth": "Brandmelder",
+      "prediction": "DMD",
+      "cleaned_prediction": "dmd"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_294.png",
+      "ground_truth": "Treppenraum",
+      "prediction": "Open",
+      "cleaned_prediction": "open"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_295.png",
+      "ground_truth": "Rettungsweg",
+      "prediction": "YOUNGSTERS",
+      "cleaned_prediction": "youngsters"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_296.png",
+      "ground_truth": "Richtungsangabe",
+      "prediction": "KINGSASSA",
+      "cleaned_prediction": "kingsassa"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_297.png",
+      "ground_truth": "EINWURF",
+      "prediction": "11:11:11",
+      "cleaned_prediction": "111111"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_298.png",
+      "ground_truth": "EURO",
+      "prediction": "LR",
+      "cleaned_prediction": "lr"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_299.png",
+      "ground_truth": "0.05-2.00",
+      "prediction": "5",
+      "cleaned_prediction": "5"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_300.png",
+      "ground_truth": "1)",
+      "prediction": "1",
+      "cleaned_prediction": "1"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_301.png",
+      "ground_truth": "GELD",
+      "prediction": "ELE",
+      "cleaned_prediction": "ele"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_302.png",
+      "ground_truth": "EINWERFEN",
+      "prediction": "WEVER",
+      "cleaned_prediction": "wever"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_303.png",
+      "ground_truth": "2)",
+      "prediction": "2",
+      "cleaned_prediction": "2"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_304.png",
+      "ground_truth": "NUMMER",
+      "prediction": "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
+      "cleaned_prediction": "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_305.png",
+      "ground_truth": "DES",
+      "prediction": "Jodes",
+      "cleaned_prediction": "jodes"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_306.png",
+      "ground_truth": "FACHES",
+      "prediction": "C",
+      "cleaned_prediction": "c"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_307.png",
+      "ground_truth": "WAHLEN",
+      "prediction": "HH",
+      "cleaned_prediction": "hh"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_308.png",
+      "ground_truth": "3)",
+      "prediction": "3",
+      "cleaned_prediction": "3"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_309.png",
+      "ground_truth": "GELDRUCKGABE",
+      "prediction": "UC",
+      "cleaned_prediction": "uc"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_310.png",
+      "ground_truth": ":",
+      "prediction": "The exact text shown in this image is \"The sky is blue\".",
+      "cleaned_prediction": "the exact text shown in this image is the sky is blue"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_311.png",
+      "ground_truth": "TASTERDRUCKEN",
+      "prediction": "DD",
+      "cleaned_prediction": "dd"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_312.png",
+      "ground_truth": "HEALTHY",
+      "prediction": "ALT",
+      "cleaned_prediction": "alt"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_313.png",
+      "ground_truth": "COLCHESTER",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_314.png",
+      "ground_truth": "2000",
+      "prediction": "1000",
+      "cleaned_prediction": "1000"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_315.png",
+      "ground_truth": "Communication",
+      "prediction": "Sun",
+      "cleaned_prediction": "sun"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_316.png",
+      "ground_truth": "for",
+      "prediction": "For",
+      "cleaned_prediction": "for"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_317.png",
+      "ground_truth": "E",
+      "prediction": "E",
+      "cleaned_prediction": "e"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_318.png",
+      "ground_truth": "ineering",
+      "prediction": "\"Uber\"",
+      "cleaned_prediction": "uber"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_319.png",
+      "ground_truth": "Students",
+      "prediction": "Code",
+      "cleaned_prediction": "code"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_320.png",
+      "ground_truth": "TESCO",
+      "prediction": "ASSO",
+      "cleaned_prediction": "asso"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_321.png",
+      "ground_truth": "VALUE",
+      "prediction": "AAL",
+      "cleaned_prediction": "aal"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_322.png",
+      "ground_truth": "Washing",
+      "prediction": "Bushi",
+      "cleaned_prediction": "bushi"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_323.png",
+      "ground_truth": "up",
+      "prediction": "Up",
+      "cleaned_prediction": "up"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_324.png",
+      "ground_truth": "liquid",
+      "prediction": "Juice",
+      "cleaned_prediction": "juice"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_325.png",
+      "ground_truth": "SOUNDS",
+      "prediction": "Unknown",
+      "cleaned_prediction": "unknown"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_326.png",
+      "ground_truth": "OF",
+      "prediction": "Of",
+      "cleaned_prediction": "of"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_327.png",
+      "ground_truth": "SUMMER",
+      "prediction": "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
+      "cleaned_prediction": "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_328.png",
+      "ground_truth": "The",
+      "prediction": "The",
+      "cleaned_prediction": "the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_329.png",
+      "ground_truth": "O",
+      "prediction": "G",
+      "cleaned_prediction": "g"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_330.png",
+      "ground_truth": "es",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_331.png",
+      "ground_truth": "best",
+      "prediction": "Best",
+      "cleaned_prediction": "best"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_332.png",
+      "ground_truth": "live",
+      "prediction": "Live",
+      "cleaned_prediction": "live"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_333.png",
+      "ground_truth": "music",
+      "prediction": "Musica",
+      "cleaned_prediction": "musica"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_334.png",
+      "ground_truth": "events",
+      "prediction": "Overview",
+      "cleaned_prediction": "overview"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_335.png",
+      "ground_truth": "orange",
+      "prediction": "Chang",
+      "cleaned_prediction": "chang"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_336.png",
+      "ground_truth": "TM",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_337.png",
+      "ground_truth": "Telephone",
+      "prediction": "Phosphor",
+      "cleaned_prediction": "phosphor"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_338.png",
+      "ground_truth": "FOCAL",
+      "prediction": "Local",
+      "cleaned_prediction": "local"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_339.png",
+      "ground_truth": "DISPLAYS",
+      "prediction": "Splasplas",
+      "cleaned_prediction": "splasplas"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_340.png",
+      "ground_truth": "016406821/2REF",
+      "prediction": "668",
+      "cleaned_prediction": "668"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_341.png",
+      "ground_truth": "A11",
+      "prediction": "A111",
+      "cleaned_prediction": "a111"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_342.png",
+      "ground_truth": "dvisory",
+      "prediction": "The exact text shown in this image is \"The\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_343.png",
+      "ground_truth": "Service",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_344.png",
+      "ground_truth": "Informat",
+      "prediction": "CORN",
+      "cleaned_prediction": "corn"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_345.png",
+      "ground_truth": "ESSEX",
+      "prediction": "SSS",
+      "cleaned_prediction": "sss"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_346.png",
+      "ground_truth": "SUMMER",
+      "prediction": "MMM",
+      "cleaned_prediction": "mmm"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_347.png",
+      "ground_truth": "SCHOOL",
+      "prediction": "HO",
+      "cleaned_prediction": "ho"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_348.png",
+      "ground_truth": "IN",
+      "prediction": "WINDOW",
+      "cleaned_prediction": "window"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_349.png",
+      "ground_truth": "DATA",
+      "prediction": "ATA",
+      "cleaned_prediction": "ata"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_350.png",
+      "ground_truth": "ANALYSIS",
+      "prediction": "ASSALY",
+      "cleaned_prediction": "assaly"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_351.png",
+      "ground_truth": "4.311",
+      "prediction": "131",
+      "cleaned_prediction": "131"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_352.png",
+      "ground_truth": "YOU",
+      "prediction": "You",
+      "cleaned_prediction": "you"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_353.png",
+      "ground_truth": "ARE",
+      "prediction": "AREA",
+      "cleaned_prediction": "area"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_354.png",
+      "ground_truth": "HERE",
+      "prediction": "WEAVER",
+      "cleaned_prediction": "weaver"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_355.png",
+      "ground_truth": "DEPARTMENT",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_356.png",
+      "ground_truth": "OF",
+      "prediction": "O",
+      "cleaned_prediction": "o"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_357.png",
+      "ground_truth": "GOVERNMENT",
+      "prediction": "RM",
+      "cleaned_prediction": "rm"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_358.png",
+      "ground_truth": "COURSES",
+      "prediction": "HOURS",
+      "cleaned_prediction": "hours"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_359.png",
+      "ground_truth": "FOR",
+      "prediction": "O",
+      "cleaned_prediction": "o"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_360.png",
+      "ground_truth": "STAFF",
+      "prediction": "STAR",
+      "cleaned_prediction": "star"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_361.png",
+      "ground_truth": "iiyama",
+      "prediction": "VANCOUVER",
+      "cleaned_prediction": "vancouver"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_362.png",
+      "ground_truth": "POCKET",
+      "prediction": "Rock",
+      "cleaned_prediction": "rock"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_363.png",
+      "ground_truth": "FLASH",
+      "prediction": "Glass",
+      "cleaned_prediction": "glass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_364.png",
+      "ground_truth": "READER",
+      "prediction": "Lead",
+      "cleaned_prediction": "lead"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_365.png",
+      "ground_truth": "Start",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_366.png",
+      "ground_truth": "WrM",
+      "prediction": "ASSISTT",
+      "cleaned_prediction": "assistt"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_367.png",
+      "ground_truth": "Technology",
+      "prediction": "No",
+      "cleaned_prediction": "no"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_368.png",
+      "ground_truth": "for",
+      "prediction": "Forward",
+      "cleaned_prediction": "forward"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_369.png",
+      "ground_truth": "life",
+      "prediction": "LIFE",
+      "cleaned_prediction": "life"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_370.png",
+      "ground_truth": "jungle",
+      "prediction": "Jungle.com",
+      "cleaned_prediction": "junglecom"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_371.png",
+      "ground_truth": ".com",
+      "prediction": "CORN",
+      "cleaned_prediction": "corn"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_372.png",
+      "ground_truth": "SNOUT",
+      "prediction": "O",
+      "cleaned_prediction": "o"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_373.png",
+      "ground_truth": "X",
+      "prediction": "The exact text shown in this image is \"The X Cross\".",
+      "cleaned_prediction": "the exact text shown in this image is the x cross"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_374.png",
+      "ground_truth": "graphic",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_375.png",
+      "ground_truth": "JAVA",
+      "prediction": "Ava",
+      "cleaned_prediction": "ava"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_376.png",
+      "ground_truth": "Mastering",
+      "prediction": "WESTERN",
+      "cleaned_prediction": "western"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_377.png",
+      "ground_truth": "the",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_378.png",
+      "ground_truth": "JFC",
+      "prediction": "UFO",
+      "cleaned_prediction": "ufo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_379.png",
+      "ground_truth": "3RD",
+      "prediction": "BREAK",
+      "cleaned_prediction": "break"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_380.png",
+      "ground_truth": "EDITION",
+      "prediction": "ASSISTT",
+      "cleaned_prediction": "assistt"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_381.png",
+      "ground_truth": "TM",
+      "prediction": "TM",
+      "cleaned_prediction": "tm"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_382.png",
+      "ground_truth": "2",
+      "prediction": "2",
+      "cleaned_prediction": "2"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_383.png",
+      "ground_truth": "WRIGLEY'S",
+      "prediction": "Big G",
+      "cleaned_prediction": "big g"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_384.png",
+      "ground_truth": "DOUBLEMINT",
+      "prediction": "TELLE",
+      "cleaned_prediction": "telle"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_385.png",
+      "ground_truth": "CHEWING",
+      "prediction": "WW",
+      "cleaned_prediction": "ww"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_386.png",
+      "ground_truth": "GUM",
+      "prediction": "U",
+      "cleaned_prediction": "u"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_387.png",
+      "ground_truth": "Kenco",
+      "prediction": "Eno",
+      "cleaned_prediction": "eno"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_388.png",
+      "ground_truth": "R",
+      "prediction": "CCO",
+      "cleaned_prediction": "cco"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_389.png",
+      "ground_truth": "FIRE",
+      "prediction": "AIR",
+      "cleaned_prediction": "air"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_390.png",
+      "ground_truth": "HOSE",
+      "prediction": "ASSO",
+      "cleaned_prediction": "asso"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_391.png",
+      "ground_truth": "REEL",
+      "prediction": "Free",
+      "cleaned_prediction": "free"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_392.png",
+      "ground_truth": "EXCLUSIVELY",
+      "prediction": "US",
+      "cleaned_prediction": "us"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_393.png",
+      "ground_truth": "FOR",
+      "prediction": "FORD",
+      "cleaned_prediction": "ford"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_394.png",
+      "ground_truth": "WHEELCHAIR",
+      "prediction": "ELO",
+      "cleaned_prediction": "elo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_395.png",
+      "ground_truth": "USERS",
+      "prediction": "ASSER",
+      "cleaned_prediction": "asser"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_396.png",
+      "ground_truth": "Metool",
+      "prediction": "Petro",
+      "cleaned_prediction": "petro"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_397.png",
+      "ground_truth": "Gallery",
+      "prediction": "Vallee",
+      "cleaned_prediction": "vallee"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_398.png",
+      "ground_truth": "1",
+      "prediction": "T",
+      "cleaned_prediction": "t"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_399.png",
+      "ground_truth": "Please",
+      "prediction": "EAR",
+      "cleaned_prediction": "ear"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_400.png",
+      "ground_truth": "Enter",
+      "prediction": "Light",
+      "cleaned_prediction": "light"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_401.png",
+      "ground_truth": "SIZE",
+      "prediction": "Biz",
+      "cleaned_prediction": "biz"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_402.png",
+      "ground_truth": "QUEEN",
+      "prediction": "JEJE",
+      "cleaned_prediction": "jeje"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_403.png",
+      "ground_truth": "LITTER",
+      "prediction": "Batter",
+      "cleaned_prediction": "batter"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_404.png",
+      "ground_truth": "COLCHESTER",
+      "prediction": "HER",
+      "cleaned_prediction": "her"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_405.png",
+      "ground_truth": "BOROUGH",
+      "prediction": "OOOOOOOOOOOOOOOOOOOO",
+      "cleaned_prediction": "oooooooooooooooooooo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_406.png",
+      "ground_truth": "DEBENHAMS",
+      "prediction": "N",
+      "cleaned_prediction": "n"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_407.png",
+      "ground_truth": "BRITAIN'S",
+      "prediction": "TA",
+      "cleaned_prediction": "ta"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_408.png",
+      "ground_truth": "FAVOURITE",
+      "prediction": "DUO",
+      "cleaned_prediction": "duo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_409.png",
+      "ground_truth": "DEPARTMENT",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_410.png",
+      "ground_truth": "STORE",
+      "prediction": "Too many requests in 1 hour. Try again later.",
+      "cleaned_prediction": "too many requests in 1 hour try again later"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_411.png",
+      "ground_truth": "www.debenhams.com",
+      "prediction": "Genen",
+      "cleaned_prediction": "genen"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_412.png",
+      "ground_truth": "Videos",
+      "prediction": "Ideal",
+      "cleaned_prediction": "ideal"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_413.png",
+      "ground_truth": "available",
+      "prediction": "Iaia",
+      "cleaned_prediction": "iaia"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_414.png",
+      "ground_truth": "here",
+      "prediction": "Quer",
+      "cleaned_prediction": "quer"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_415.png",
+      "ground_truth": "All",
+      "prediction": "ASSAL",
+      "cleaned_prediction": "assal"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_416.png",
+      "ground_truth": "our",
+      "prediction": "Old",
+      "cleaned_prediction": "old"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_417.png",
+      "ground_truth": "videos",
+      "prediction": "Gander",
+      "cleaned_prediction": "gander"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_418.png",
+      "ground_truth": "are",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_419.png",
+      "ground_truth": "loaned",
+      "prediction": "\"Hana\"",
+      "cleaned_prediction": "hana"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_420.png",
+      "ground_truth": "for",
+      "prediction": "For",
+      "cleaned_prediction": "for"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_421.png",
+      "ground_truth": "one",
+      "prediction": "OHIO",
+      "cleaned_prediction": "ohio"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_422.png",
+      "ground_truth": "week",
+      "prediction": "Queen",
+      "cleaned_prediction": "queen"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_423.png",
+      "ground_truth": "2",
+      "prediction": "2",
+      "cleaned_prediction": "2"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_424.png",
+      "ground_truth": "NatWest",
+      "prediction": "W",
+      "cleaned_prediction": "w"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_425.png",
+      "ground_truth": "PAST",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_426.png",
+      "ground_truth": "TIMES",
+      "prediction": "M",
+      "cleaned_prediction": "m"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_427.png",
+      "ground_truth": "Essex",
+      "prediction": "ASSSE",
+      "cleaned_prediction": "assse"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_428.png",
+      "ground_truth": "County",
+      "prediction": "Boundary",
+      "cleaned_prediction": "boundary"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_429.png",
+      "ground_truth": "Council",
+      "prediction": "Boundary",
+      "cleaned_prediction": "boundary"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_430.png",
+      "ground_truth": "Colchester",
+      "prediction": "The exact text shown in this image is \"he\".",
+      "cleaned_prediction": "the exact text shown in this image is he"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_431.png",
+      "ground_truth": "Library",
+      "prediction": "Corona",
+      "cleaned_prediction": "corona"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_432.png",
+      "ground_truth": "Library",
+      "prediction": "CORPORATE",
+      "cleaned_prediction": "corporate"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_433.png",
+      "ground_truth": "Open",
+      "prediction": "Open",
+      "cleaned_prediction": "open"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_434.png",
+      "ground_truth": "Essex",
+      "prediction": "ASSSESS",
+      "cleaned_prediction": "asssess"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_435.png",
+      "ground_truth": "County",
+      "prediction": "Sound",
+      "cleaned_prediction": "sound"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_436.png",
+      "ground_truth": "Council",
+      "prediction": "Sound",
+      "cleaned_prediction": "sound"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_437.png",
+      "ground_truth": "Libraries",
+      "prediction": "GARRIARI",
+      "cleaned_prediction": "garriari"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_438.png",
+      "ground_truth": "FORUM",
+      "prediction": "RR",
+      "cleaned_prediction": "rr"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_439.png",
+      "ground_truth": "trinity",
+      "prediction": "Nunni",
+      "cleaned_prediction": "nunni"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_440.png",
+      "ground_truth": "street",
+      "prediction": "Re",
+      "cleaned_prediction": "re"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_441.png",
+      "ground_truth": "studios",
+      "prediction": "HUD",
+      "cleaned_prediction": "hud"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_442.png",
+      "ground_truth": "WHILE",
+      "prediction": "HI",
+      "cleaned_prediction": "hi"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_443.png",
+      "ground_truth": "YOU",
+      "prediction": "O",
+      "cleaned_prediction": "o"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_444.png",
+      "ground_truth": "WAIT",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_445.png",
+      "ground_truth": "SHOE",
+      "prediction": "HO",
+      "cleaned_prediction": "ho"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_446.png",
+      "ground_truth": "REPAIRS",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_447.png",
+      "ground_truth": "AVAILABLE",
+      "prediction": "LAL",
+      "cleaned_prediction": "lal"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_448.png",
+      "ground_truth": "GRAHAMS",
+      "prediction": "AH",
+      "cleaned_prediction": "ah"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_449.png",
+      "ground_truth": "AFA",
+      "prediction": "AFA",
+      "cleaned_prediction": "afa"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_450.png",
+      "ground_truth": "KEY",
+      "prediction": "EE",
+      "cleaned_prediction": "ee"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_451.png",
+      "ground_truth": "WEST",
+      "prediction": "WEST",
+      "cleaned_prediction": "west"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_452.png",
+      "ground_truth": "Zone",
+      "prediction": "CONTINENT",
+      "cleaned_prediction": "continent"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_453.png",
+      "ground_truth": "ENDS",
+      "prediction": "ND",
+      "cleaned_prediction": "nd"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_454.png",
+      "ground_truth": "Videos",
+      "prediction": "Videod",
+      "cleaned_prediction": "videod"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_455.png",
+      "ground_truth": "Here",
+      "prediction": "HERDER",
+      "cleaned_prediction": "herder"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_456.png",
+      "ground_truth": "QUEEN",
+      "prediction": "JUEL",
+      "cleaned_prediction": "juel"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_457.png",
+      "ground_truth": "STREET",
+      "prediction": "READ",
+      "cleaned_prediction": "read"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_458.png",
+      "ground_truth": "FORMERLY",
+      "prediction": "MER",
+      "cleaned_prediction": "mer"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_459.png",
+      "ground_truth": "SOUTHGATE",
+      "prediction": "The exact text shown in this image is \"Thigh\".",
+      "cleaned_prediction": "the exact text shown in this image is thigh"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_460.png",
+      "ground_truth": "STREET",
+      "prediction": "READ",
+      "cleaned_prediction": "read"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_461.png",
+      "ground_truth": "ROUTE",
+      "prediction": "DUO",
+      "cleaned_prediction": "duo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_462.png",
+      "ground_truth": "BUS",
+      "prediction": "U",
+      "cleaned_prediction": "u"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_463.png",
+      "ground_truth": "Tourist",
+      "prediction": "Curve",
+      "cleaned_prediction": "curve"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_464.png",
+      "ground_truth": "information",
+      "prediction": "Mama",
+      "cleaned_prediction": "mama"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_465.png",
+      "ground_truth": "Castle",
+      "prediction": "AST",
+      "cleaned_prediction": "ast"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_466.png",
+      "ground_truth": "i",
+      "prediction": "1",
+      "cleaned_prediction": "1"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_467.png",
+      "ground_truth": "hills",
+      "prediction": "GILI",
+      "cleaned_prediction": "gili"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_468.png",
+      "ground_truth": "RESIDENTIAL",
+      "prediction": "Dodge",
+      "cleaned_prediction": "dodge"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_469.png",
+      "ground_truth": "hills",
+      "prediction": "1111111111111111111",
+      "cleaned_prediction": "1111111111111111111"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_470.png",
+      "ground_truth": "&",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_471.png",
+      "ground_truth": "es",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_472.png",
+      "ground_truth": "eve",
+      "prediction": "EVE",
+      "cleaned_prediction": "eve"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_473.png",
+      "ground_truth": "ROGERS",
+      "prediction": "GEORGIA",
+      "cleaned_prediction": "georgia"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_474.png",
+      "ground_truth": "CARTER",
+      "prediction": "RT",
+      "cleaned_prediction": "rt"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_475.png",
+      "ground_truth": "BUILDER",
+      "prediction": "Build",
+      "cleaned_prediction": "build"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_476.png",
+      "ground_truth": "COLCHESTER",
+      "prediction": "Cheer",
+      "cleaned_prediction": "cheer"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_477.png",
+      "ground_truth": "794455",
+      "prediction": "14",
+      "cleaned_prediction": "14"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_478.png",
+      "ground_truth": "10",
+      "prediction": "10",
+      "cleaned_prediction": "10"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_479.png",
+      "ground_truth": "HARWICH",
+      "prediction": "WRW",
+      "cleaned_prediction": "wrw"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_480.png",
+      "ground_truth": "COURT",
+      "prediction": "DUO",
+      "cleaned_prediction": "duo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_481.png",
+      "ground_truth": "HOUSE",
+      "prediction": "DUO",
+      "cleaned_prediction": "duo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_482.png",
+      "ground_truth": "11",
+      "prediction": "111",
+      "cleaned_prediction": "111"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_483.png",
+      "ground_truth": "GAS",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_484.png",
+      "ground_truth": "GAS",
+      "prediction": "AAA",
+      "cleaned_prediction": "aaa"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_485.png",
+      "ground_truth": "GAS",
+      "prediction": "GA",
+      "cleaned_prediction": "ga"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_486.png",
+      "ground_truth": "GAS",
+      "prediction": "GA",
+      "cleaned_prediction": "ga"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_487.png",
+      "ground_truth": "GAS",
+      "prediction": "AAA",
+      "cleaned_prediction": "aaa"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_488.png",
+      "ground_truth": "Fire",
+      "prediction": "Fire",
+      "cleaned_prediction": "fire"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_489.png",
+      "ground_truth": "door",
+      "prediction": "Facebook",
+      "cleaned_prediction": "facebook"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_490.png",
+      "ground_truth": "keep",
+      "prediction": "Freeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "cleaned_prediction": "freeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_491.png",
+      "ground_truth": "locked",
+      "prediction": "Ticket",
+      "cleaned_prediction": "ticket"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_492.png",
+      "ground_truth": "LION",
+      "prediction": "HOMO",
+      "cleaned_prediction": "homo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_493.png",
+      "ground_truth": "WALK",
+      "prediction": "AI",
+      "cleaned_prediction": "ai"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_494.png",
+      "ground_truth": "PLANT",
+      "prediction": "LAND",
+      "cleaned_prediction": "land"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_495.png",
+      "ground_truth": "ROOM",
+      "prediction": "1000",
+      "cleaned_prediction": "1000"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_496.png",
+      "ground_truth": "No",
+      "prediction": "No",
+      "cleaned_prediction": "no"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_497.png",
+      "ground_truth": "unauthorised",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_498.png",
+      "ground_truth": "entry",
+      "prediction": "Continuent",
+      "cleaned_prediction": "continuent"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_499.png",
+      "ground_truth": "into",
+      "prediction": "Interior",
+      "cleaned_prediction": "interior"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_500.png",
+      "ground_truth": "this",
+      "prediction": "This is a text.",
+      "cleaned_prediction": "this is a text"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_501.png",
+      "ground_truth": "area!",
+      "prediction": "REAL",
+      "cleaned_prediction": "real"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_502.png",
+      "ground_truth": "Permit",
+      "prediction": "\"Kermer\"",
+      "cleaned_prediction": "kermer"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_503.png",
+      "ground_truth": "to",
+      "prediction": "Too many requests in 1 hour. Try again later.",
+      "cleaned_prediction": "too many requests in 1 hour try again later"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_504.png",
+      "ground_truth": "work",
+      "prediction": "World",
+      "cleaned_prediction": "world"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_505.png",
+      "ground_truth": "system",
+      "prediction": "Master",
+      "cleaned_prediction": "master"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_506.png",
+      "ground_truth": "in",
+      "prediction": "In",
+      "cleaned_prediction": "in"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_507.png",
+      "ground_truth": "operation",
+      "prediction": "Generator",
+      "cleaned_prediction": "generator"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_508.png",
+      "ground_truth": "Estates",
+      "prediction": "Stat",
+      "cleaned_prediction": "stat"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_509.png",
+      "ground_truth": "Management",
+      "prediction": "\"Change\"",
+      "cleaned_prediction": "change"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_510.png",
+      "ground_truth": "Section",
+      "prediction": "ACTIVITIES",
+      "cleaned_prediction": "activities"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_511.png",
+      "ground_truth": "Coach",
+      "prediction": "Road",
+      "cleaned_prediction": "road"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_512.png",
+      "ground_truth": "Stop",
+      "prediction": "Stop",
+      "cleaned_prediction": "stop"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_513.png",
+      "ground_truth": "NATIONAL",
+      "prediction": "ASSIATION",
+      "cleaned_prediction": "assiation"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_514.png",
+      "ground_truth": "EXPRESS",
+      "prediction": "PRICE",
+      "cleaned_prediction": "price"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_515.png",
+      "ground_truth": "First",
+      "prediction": "First",
+      "cleaned_prediction": "first"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_516.png",
+      "ground_truth": "Used",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_517.png",
+      "ground_truth": "tickets",
+      "prediction": "Wicket",
+      "cleaned_prediction": "wicket"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_518.png",
+      "ground_truth": "Alarm",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_519.png",
+      "ground_truth": "Fitted",
+      "prediction": "Letter",
+      "cleaned_prediction": "letter"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_520.png",
+      "ground_truth": "FIRE",
+      "prediction": "R",
+      "cleaned_prediction": "r"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_521.png",
+      "ground_truth": "EXTINGUISHER",
+      "prediction": "GUUG",
+      "cleaned_prediction": "guug"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_522.png",
+      "ground_truth": "BREAK",
+      "prediction": "AEAD",
+      "cleaned_prediction": "aead"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_523.png",
+      "ground_truth": "GLASS",
+      "prediction": "ASSA",
+      "cleaned_prediction": "assa"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_524.png",
+      "ground_truth": "CASUAL",
+      "prediction": "ASSU",
+      "cleaned_prediction": "assu"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_525.png",
+      "ground_truth": "PLUS",
+      "prediction": "PLUS",
+      "cleaned_prediction": "plus"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_526.png",
+      "ground_truth": "002101",
+      "prediction": "122",
+      "cleaned_prediction": "122"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_527.png",
+      "ground_truth": "NEW",
+      "prediction": "New",
+      "cleaned_prediction": "new"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_528.png",
+      "ground_truth": "SUPERKINGS",
+      "prediction": "RK",
+      "cleaned_prediction": "rk"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_529.png",
+      "ground_truth": "Meet",
+      "prediction": "MEDICAL",
+      "cleaned_prediction": "medical"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_530.png",
+      "ground_truth": "the",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_531.png",
+      "ground_truth": "big",
+      "prediction": "Big",
+      "cleaned_prediction": "big"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_532.png",
+      "ground_truth": "three.",
+      "prediction": "Care",
+      "cleaned_prediction": "care"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_533.png",
+      "ground_truth": "In",
+      "prediction": "Infinity",
+      "cleaned_prediction": "infinity"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_534.png",
+      "ground_truth": "the",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_535.png",
+      "ground_truth": "interest",
+      "prediction": "Verse",
+      "cleaned_prediction": "verse"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_536.png",
+      "ground_truth": "of",
+      "prediction": "Of",
+      "cleaned_prediction": "of"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_537.png",
+      "ground_truth": "Health",
+      "prediction": "The exact text shown in this image is \"beautiful\".",
+      "cleaned_prediction": "the exact text shown in this image is beautiful"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_538.png",
+      "ground_truth": "and",
+      "prediction": "FANAN",
+      "cleaned_prediction": "fanan"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_539.png",
+      "ground_truth": "Hygiene",
+      "prediction": "Maggie",
+      "cleaned_prediction": "maggie"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_540.png",
+      "ground_truth": "PLEASE",
+      "prediction": "The exact text shown in this image is \"beach\".",
+      "cleaned_prediction": "the exact text shown in this image is beach"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_541.png",
+      "ground_truth": "DO",
+      "prediction": "Google",
+      "cleaned_prediction": "google"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_542.png",
+      "ground_truth": "NOT",
+      "prediction": "Nikon",
+      "cleaned_prediction": "nikon"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_543.png",
+      "ground_truth": "FEED",
+      "prediction": "BEE",
+      "cleaned_prediction": "bee"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_544.png",
+      "ground_truth": "THE",
+      "prediction": "HH",
+      "cleaned_prediction": "hh"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_545.png",
+      "ground_truth": "PIGEONS",
+      "prediction": "CEO",
+      "cleaned_prediction": "ceo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_546.png",
+      "ground_truth": "JOHN",
+      "prediction": "John",
+      "cleaned_prediction": "john"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_547.png",
+      "ground_truth": "REVETT",
+      "prediction": "REVELATION",
+      "cleaned_prediction": "revelation"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_548.png",
+      "ground_truth": "(Builders)",
+      "prediction": "Builders",
+      "cleaned_prediction": "builders"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_549.png",
+      "ground_truth": "Limted",
+      "prediction": "Unknown",
+      "cleaned_prediction": "unknown"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_550.png",
+      "ground_truth": "CELCON",
+      "prediction": "LOL",
+      "cleaned_prediction": "lol"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_551.png",
+      "ground_truth": "www.celcon.co.uk",
+      "prediction": "Welcome",
+      "cleaned_prediction": "welcome"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_552.png",
+      "ground_truth": "No",
+      "prediction": "No",
+      "cleaned_prediction": "no"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_553.png",
+      "ground_truth": "cycling",
+      "prediction": "Climb",
+      "cleaned_prediction": "climb"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_554.png",
+      "ground_truth": "COSTA",
+      "prediction": "OO",
+      "cleaned_prediction": "oo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_555.png",
+      "ground_truth": "MED",
+      "prediction": "HER",
+      "cleaned_prediction": "her"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_556.png",
+      "ground_truth": "mediterranean",
+      "prediction": "Terrer",
+      "cleaned_prediction": "terrer"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_557.png",
+      "ground_truth": "cuisine",
+      "prediction": "Visible",
+      "cleaned_prediction": "visible"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_558.png",
+      "ground_truth": "FIRED",
+      "prediction": "REFERENCE",
+      "cleaned_prediction": "reference"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_559.png",
+      "ground_truth": "EARTH",
+      "prediction": "Art",
+      "cleaned_prediction": "art"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_560.png",
+      "ground_truth": "lowns-uk.co",
+      "prediction": "Trans-uk",
+      "cleaned_prediction": "trans-uk"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_561.png",
+      "ground_truth": "HOME",
+      "prediction": "OM",
+      "cleaned_prediction": "om"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_562.png",
+      "ground_truth": "ENTERTAINMENT",
+      "prediction": "Captain",
+      "cleaned_prediction": "captain"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_563.png",
+      "ground_truth": "HFC",
+      "prediction": "TFF",
+      "cleaned_prediction": "tff"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_564.png",
+      "ground_truth": "BANK",
+      "prediction": "Nana",
+      "cleaned_prediction": "nana"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_565.png",
+      "ground_truth": "STAR",
+      "prediction": "TA",
+      "cleaned_prediction": "ta"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_566.png",
+      "ground_truth": "WARS",
+      "prediction": "AWESOME",
+      "cleaned_prediction": "awesome"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_567.png",
+      "ground_truth": "EPISODE",
+      "prediction": "SCOT",
+      "cleaned_prediction": "scot"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_568.png",
+      "ground_truth": "II:",
+      "prediction": "11:11",
+      "cleaned_prediction": "1111"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_569.png",
+      "ground_truth": "ATTACK",
+      "prediction": "Tata",
+      "cleaned_prediction": "tata"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_570.png",
+      "ground_truth": "OF",
+      "prediction": "Of",
+      "cleaned_prediction": "of"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_571.png",
+      "ground_truth": "THE",
+      "prediction": "The exact text shown in this image is \"The\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_572.png",
+      "ground_truth": "CLONES",
+      "prediction": "Onion",
+      "cleaned_prediction": "onion"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_573.png",
+      "ground_truth": "STAR",
+      "prediction": "FADE",
+      "cleaned_prediction": "fade"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_574.png",
+      "ground_truth": "WARS",
+      "prediction": "AWAL",
+      "cleaned_prediction": "awal"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_575.png",
+      "ground_truth": "SPIDER-MAN",
+      "prediction": "RER",
+      "cleaned_prediction": "rer"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_576.png",
+      "ground_truth": "TRANSFORMERS",
+      "prediction": "FXF",
+      "cleaned_prediction": "fxf"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_577.png",
+      "ground_truth": "ARMADA",
+      "prediction": "A1",
+      "cleaned_prediction": "a1"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_578.png",
+      "ground_truth": "NATURAL",
+      "prediction": "TU",
+      "cleaned_prediction": "tu"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_579.png",
+      "ground_truth": "HISTORY",
+      "prediction": "TOTO",
+      "cleaned_prediction": "toto"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_580.png",
+      "ground_truth": "MUSEUM",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_581.png",
+      "ground_truth": "CLOSING",
+      "prediction": "\"os\"",
+      "cleaned_prediction": "os"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_582.png",
+      "ground_truth": "DOWN",
+      "prediction": "Now",
+      "cleaned_prediction": "now"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_583.png",
+      "ground_truth": "SALE",
+      "prediction": "Sale",
+      "cleaned_prediction": "sale"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_584.png",
+      "ground_truth": "one",
+      "prediction": "\"on\"",
+      "cleaned_prediction": "on"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_585.png",
+      "ground_truth": "hour",
+      "prediction": "Out",
+      "cleaned_prediction": "out"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_586.png",
+      "ground_truth": "the",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_587.png",
+      "ground_truth": "eyecare",
+      "prediction": "Recac",
+      "cleaned_prediction": "recac"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_588.png",
+      "ground_truth": "clinic",
+      "prediction": "Clinic",
+      "cleaned_prediction": "clinic"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_589.png",
+      "ground_truth": "contact",
+      "prediction": "\"Pentatonic\"",
+      "cleaned_prediction": "pentatonic"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_590.png",
+      "ground_truth": "lens",
+      "prediction": "ASSENS",
+      "cleaned_prediction": "assens"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_591.png",
+      "ground_truth": "centre",
+      "prediction": "\"Central\"",
+      "cleaned_prediction": "central"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_592.png",
+      "ground_truth": "act",
+      "prediction": "C",
+      "cleaned_prediction": "c"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_593.png",
+      "ground_truth": "one",
+      "prediction": "MOR",
+      "cleaned_prediction": "mor"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_594.png",
+      "ground_truth": "bar.co.uk",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_595.png",
+      "ground_truth": "FUN",
+      "prediction": "FUN",
+      "cleaned_prediction": "fun"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_596.png",
+      "ground_truth": "FASHION",
+      "prediction": "Ship",
+      "cleaned_prediction": "ship"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_597.png",
+      "ground_truth": "LADIES",
+      "prediction": "CINEMA",
+      "cleaned_prediction": "cinema"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_598.png",
+      "ground_truth": "LINGERIE",
+      "prediction": "GE",
+      "cleaned_prediction": "ge"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_599.png",
+      "ground_truth": "SHOP",
+      "prediction": "HOCH",
+      "cleaned_prediction": "hoch"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_600.png",
+      "ground_truth": "01206368166",
+      "prediction": "33",
+      "cleaned_prediction": "33"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_601.png",
+      "ground_truth": "FUNFASHION@HOTMAIL.COM",
+      "prediction": "HH",
+      "cleaned_prediction": "hh"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_602.png",
+      "ground_truth": "S",
+      "prediction": "SSS",
+      "cleaned_prediction": "sss"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_603.png",
+      "ground_truth": "3",
+      "prediction": "3",
+      "cleaned_prediction": "3"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_604.png",
+      "ground_truth": "P",
+      "prediction": "P",
+      "cleaned_prediction": "p"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_605.png",
+      "ground_truth": "Counselling",
+      "prediction": "Dense",
+      "cleaned_prediction": "dense"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_606.png",
+      "ground_truth": "Helpline",
+      "prediction": "Apl",
+      "cleaned_prediction": "apl"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_607.png",
+      "ground_truth": "Lifelines",
+      "prediction": "LINE",
+      "cleaned_prediction": "line"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_608.png",
+      "ground_truth": "Family",
+      "prediction": "Amin",
+      "cleaned_prediction": "amin"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_609.png",
+      "ground_truth": "Support",
+      "prediction": "ASSAP",
+      "cleaned_prediction": "assap"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_610.png",
+      "ground_truth": "UK",
+      "prediction": "UK",
+      "cleaned_prediction": "uk"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_611.png",
+      "ground_truth": "DANCE",
+      "prediction": "ANA",
+      "cleaned_prediction": "ana"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_612.png",
+      "ground_truth": "PROTOTYPE",
+      "prediction": "Toto",
+      "cleaned_prediction": "toto"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_613.png",
+      "ground_truth": "&",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_614.png",
+      "ground_truth": "INSPIRED",
+      "prediction": "PIP",
+      "cleaned_prediction": "pip"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_615.png",
+      "ground_truth": "RECORDS",
+      "prediction": "COR",
+      "cleaned_prediction": "cor"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_616.png",
+      "ground_truth": "First",
+      "prediction": "First",
+      "cleaned_prediction": "first"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_617.png",
+      "ground_truth": "Eastern",
+      "prediction": "Master",
+      "cleaned_prediction": "master"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_618.png",
+      "ground_truth": "National",
+      "prediction": "ASSIATION",
+      "cleaned_prediction": "assiation"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_619.png",
+      "ground_truth": "Bus",
+      "prediction": "BUS",
+      "cleaned_prediction": "bus"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_620.png",
+      "ground_truth": "Times",
+      "prediction": "M",
+      "cleaned_prediction": "m"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_621.png",
+      "ground_truth": "Next",
+      "prediction": "AX",
+      "cleaned_prediction": "ax"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_622.png",
+      "ground_truth": "Departure",
+      "prediction": "Part",
+      "cleaned_prediction": "part"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_623.png",
+      "ground_truth": "12:31",
+      "prediction": "12:00",
+      "cleaned_prediction": "1200"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_624.png",
+      "ground_truth": "GENE",
+      "prediction": "Open",
+      "cleaned_prediction": "open"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_625.png",
+      "ground_truth": "2C",
+      "prediction": "2012",
+      "cleaned_prediction": "2012"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_626.png",
+      "ground_truth": "FIRST",
+      "prediction": "RSRS",
+      "cleaned_prediction": "rsrs"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_627.png",
+      "ground_truth": "EA",
+      "prediction": "12:00",
+      "cleaned_prediction": "1200"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_628.png",
+      "ground_truth": "KNOW",
+      "prediction": "No",
+      "cleaned_prediction": "no"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_629.png",
+      "ground_truth": "YOUR",
+      "prediction": "Out",
+      "cleaned_prediction": "out"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_630.png",
+      "ground_truth": "First",
+      "prediction": "First",
+      "cleaned_prediction": "first"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_631.png",
+      "ground_truth": "TICKET!",
+      "prediction": "HICK",
+      "cleaned_prediction": "hick"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_632.png",
+      "ground_truth": "London",
+      "prediction": "London",
+      "cleaned_prediction": "london"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_633.png",
+      "ground_truth": "Ipswich",
+      "prediction": "ASSW",
+      "cleaned_prediction": "assw"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_634.png",
+      "ground_truth": "(A12)",
+      "prediction": "A1212",
+      "cleaned_prediction": "a1212"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_635.png",
+      "ground_truth": "Town",
+      "prediction": "Town",
+      "cleaned_prediction": "town"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_636.png",
+      "ground_truth": "Centre",
+      "prediction": "Centr",
+      "cleaned_prediction": "centr"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_637.png",
+      "ground_truth": "Longridge",
+      "prediction": "ANGRIGID",
+      "cleaned_prediction": "angrigid"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_638.png",
+      "ground_truth": "Park",
+      "prediction": "Park",
+      "cleaned_prediction": "park"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_639.png",
+      "ground_truth": "PREMIER",
+      "prediction": "Em",
+      "cleaned_prediction": "em"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_640.png",
+      "ground_truth": "TEAM",
+      "prediction": "READ",
+      "cleaned_prediction": "read"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_641.png",
+      "ground_truth": "Famous",
+      "prediction": "Mom",
+      "cleaned_prediction": "mom"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_642.png",
+      "ground_truth": "for",
+      "prediction": "For bacon",
+      "cleaned_prediction": "for bacon"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_643.png",
+      "ground_truth": "our",
+      "prediction": "BLOOD",
+      "cleaned_prediction": "blood"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_644.png",
+      "ground_truth": "fish",
+      "prediction": "Fish",
+      "cleaned_prediction": "fish"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_645.png",
+      "ground_truth": "&",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_646.png",
+      "ground_truth": "chips",
+      "prediction": "Ship",
+      "cleaned_prediction": "ship"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_647.png",
+      "ground_truth": "BUFFETT",
+      "prediction": "FEFF",
+      "cleaned_prediction": "feff"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_648.png",
+      "ground_truth": "WAY",
+      "prediction": "WAVE",
+      "cleaned_prediction": "wave"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_649.png",
+      "ground_truth": "CUL",
+      "prediction": "CUUC",
+      "cleaned_prediction": "cuuc"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_650.png",
+      "ground_truth": "-",
+      "prediction": "The exact text shown in this image is \"The sky is blue and clear.\"",
+      "cleaned_prediction": "the exact text shown in this image is the sky is blue and clear"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_651.png",
+      "ground_truth": "DE",
+      "prediction": "DED",
+      "cleaned_prediction": "ded"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_652.png",
+      "ground_truth": "-",
+      "prediction": "The exact text shown in this image is \"The sky is blue\".",
+      "cleaned_prediction": "the exact text shown in this image is the sky is blue"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_653.png",
+      "ground_truth": "SAC",
+      "prediction": "BAG",
+      "cleaned_prediction": "bag"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_654.png",
+      "ground_truth": "University",
+      "prediction": "Overview",
+      "cleaned_prediction": "overview"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_655.png",
+      "ground_truth": "of",
+      "prediction": "Of",
+      "cleaned_prediction": "of"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_656.png",
+      "ground_truth": "Essex",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_657.png",
+      "ground_truth": "1",
+      "prediction": "1",
+      "cleaned_prediction": "1"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_658.png",
+      "ground_truth": "leading",
+      "prediction": "Reading",
+      "cleaned_prediction": "reading"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_659.png",
+      "ground_truth": "to",
+      "prediction": "To",
+      "cleaned_prediction": "to"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_660.png",
+      "ground_truth": "Wivenhoe",
+      "prediction": "GREENENENENENENENENENENENENENENENENENEN",
+      "cleaned_prediction": "greenenenenenenenenenenenenenenenenenen"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_661.png",
+      "ground_truth": "Trail",
+      "prediction": "Train",
+      "cleaned_prediction": "train"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_662.png",
+      "ground_truth": "114",
+      "prediction": "1111111111111111111",
+      "cleaned_prediction": "1111111111111111111"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_663.png",
+      "ground_truth": "Greenstead",
+      "prediction": "ASSENSTEIN",
+      "cleaned_prediction": "assenstein"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_664.png",
+      "ground_truth": "centre",
+      "prediction": "Centent",
+      "cleaned_prediction": "centent"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_665.png",
+      "ground_truth": "12",
+      "prediction": "I1b2",
+      "cleaned_prediction": "i1b2"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_666.png",
+      "ground_truth": "2",
+      "prediction": "2",
+      "cleaned_prediction": "2"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_667.png",
+      "ground_truth": "DANGER",
+      "prediction": "King",
+      "cleaned_prediction": "king"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_668.png",
+      "ground_truth": "KEEP",
+      "prediction": "Freeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "cleaned_prediction": "freeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_669.png",
+      "ground_truth": "OUT",
+      "prediction": "Out",
+      "cleaned_prediction": "out"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_670.png",
+      "ground_truth": "BMC",
+      "prediction": "BMI",
+      "cleaned_prediction": "bmi"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_671.png",
+      "ground_truth": "P.O.",
+      "prediction": "POP",
+      "cleaned_prediction": "pop"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_672.png",
+      "ground_truth": "75",
+      "prediction": "75",
+      "cleaned_prediction": "75"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_673.png",
+      "ground_truth": "No25",
+      "prediction": "1922",
+      "cleaned_prediction": "1922"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_674.png",
+      "ground_truth": "S",
+      "prediction": "S",
+      "cleaned_prediction": "s"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_675.png",
+      "ground_truth": "University",
+      "prediction": "Overview",
+      "cleaned_prediction": "overview"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_676.png",
+      "ground_truth": "of",
+      "prediction": "Of",
+      "cleaned_prediction": "of"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_677.png",
+      "ground_truth": "Essex",
+      "prediction": "ASSSESS",
+      "cleaned_prediction": "asssess"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_678.png",
+      "ground_truth": "34",
+      "prediction": "34",
+      "cleaned_prediction": "34"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_679.png",
+      "ground_truth": "leading",
+      "prediction": "Leading",
+      "cleaned_prediction": "leading"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_680.png",
+      "ground_truth": "to",
+      "prediction": "Too many requests in 1 hour. Try again later.",
+      "cleaned_prediction": "too many requests in 1 hour try again later"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_681.png",
+      "ground_truth": "Wivenhoe",
+      "prediction": "Venlo",
+      "cleaned_prediction": "venlo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_682.png",
+      "ground_truth": "Trail",
+      "prediction": "Trail",
+      "cleaned_prediction": "trail"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_683.png",
+      "ground_truth": "1",
+      "prediction": "1",
+      "cleaned_prediction": "1"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_684.png",
+      "ground_truth": "Greenstead",
+      "prediction": "Assenster",
+      "cleaned_prediction": "assenster"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_685.png",
+      "ground_truth": "centre",
+      "prediction": "\"eventent\"",
+      "cleaned_prediction": "eventent"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_686.png",
+      "ground_truth": "12",
+      "prediction": "12",
+      "cleaned_prediction": "12"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_687.png",
+      "ground_truth": "Shit",
+      "prediction": "Shi",
+      "cleaned_prediction": "shi"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_688.png",
+      "ground_truth": "University",
+      "prediction": "Overview",
+      "cleaned_prediction": "overview"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_689.png",
+      "ground_truth": "of",
+      "prediction": "The exact text shown in this image is \"The\"",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_690.png",
+      "ground_truth": "Essex",
+      "prediction": "666",
+      "cleaned_prediction": "666"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_691.png",
+      "ground_truth": "Day",
+      "prediction": "Day",
+      "cleaned_prediction": "day"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_692.png",
+      "ground_truth": "Nursery",
+      "prediction": "Course",
+      "cleaned_prediction": "course"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_693.png",
+      "ground_truth": "The",
+      "prediction": "The",
+      "cleaned_prediction": "the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_694.png",
+      "ground_truth": "Houses",
+      "prediction": "Bus",
+      "cleaned_prediction": "bus"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_695.png",
+      "ground_truth": "Keynes",
+      "prediction": "Keyne",
+      "cleaned_prediction": "keyne"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_696.png",
+      "ground_truth": "Rayleigh",
+      "prediction": "Kyleen",
+      "cleaned_prediction": "kyleen"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_697.png",
+      "ground_truth": "Tawney",
+      "prediction": "DOWNWARD",
+      "cleaned_prediction": "downward"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_698.png",
+      "ground_truth": "and",
+      "prediction": "Land and sea",
+      "cleaned_prediction": "land and sea"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_699.png",
+      "ground_truth": "William",
+      "prediction": "Willilliam",
+      "cleaned_prediction": "willilliam"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_700.png",
+      "ground_truth": "Morris",
+      "prediction": "\"morror\"",
+      "cleaned_prediction": "morror"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_701.png",
+      "ground_truth": "Towers",
+      "prediction": "Power",
+      "cleaned_prediction": "power"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_702.png",
+      "ground_truth": "Wolfson",
+      "prediction": "wolves",
+      "cleaned_prediction": "wolves"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_703.png",
+      "ground_truth": "Court",
+      "prediction": "County",
+      "cleaned_prediction": "county"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_704.png",
+      "ground_truth": "Buses",
+      "prediction": "Use",
+      "cleaned_prediction": "use"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_705.png",
+      "ground_truth": "and",
+      "prediction": "And",
+      "cleaned_prediction": "and"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_706.png",
+      "ground_truth": "Cycles",
+      "prediction": "Cycle",
+      "cleaned_prediction": "cycle"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_707.png",
+      "ground_truth": "Only",
+      "prediction": "Only",
+      "cleaned_prediction": "only"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_708.png",
+      "ground_truth": "CONFERENCE",
+      "prediction": "ERERERERERERERERERERERERERERERERERERERER",
+      "cleaned_prediction": "erererererererererererererererererererer"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_709.png",
+      "ground_truth": "CAR",
+      "prediction": "CANADA",
+      "cleaned_prediction": "canada"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_710.png",
+      "ground_truth": "PARK",
+      "prediction": "ARA",
+      "cleaned_prediction": "ara"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_711.png",
+      "ground_truth": "Entrance",
+      "prediction": "Transparent",
+      "cleaned_prediction": "transparent"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_712.png",
+      "ground_truth": "4",
+      "prediction": "4",
+      "cleaned_prediction": "4"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_713.png",
+      "ground_truth": "STOP",
+      "prediction": "TOTO",
+      "cleaned_prediction": "toto"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_714.png",
+      "ground_truth": "AUSTRALIA",
+      "prediction": "R",
+      "cleaned_prediction": "r"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_715.png",
+      "ground_truth": "FIRE",
+      "prediction": "Fire",
+      "cleaned_prediction": "fire"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_716.png",
+      "ground_truth": "EXIT",
+      "prediction": "EXIT",
+      "cleaned_prediction": "exit"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_717.png",
+      "ground_truth": "Keep",
+      "prediction": "GEE",
+      "cleaned_prediction": "gee"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_718.png",
+      "ground_truth": "clear",
+      "prediction": "Idea",
+      "cleaned_prediction": "idea"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_719.png",
+      "ground_truth": "Roland",
+      "prediction": "LULA",
+      "cleaned_prediction": "lula"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_720.png",
+      "ground_truth": "DIGITAL",
+      "prediction": "GIT",
+      "cleaned_prediction": "git"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_721.png",
+      "ground_truth": "GROUP",
+      "prediction": "O",
+      "cleaned_prediction": "o"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_722.png",
+      "ground_truth": "571",
+      "prediction": "571",
+      "cleaned_prediction": "571"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_723.png",
+      "ground_truth": "TESTED",
+      "prediction": "WILDLIFE",
+      "cleaned_prediction": "wildlife"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_724.png",
+      "ground_truth": "TESTED",
+      "prediction": "JESTED",
+      "cleaned_prediction": "jested"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_725.png",
+      "ground_truth": "4B.532",
+      "prediction": "3.5",
+      "cleaned_prediction": "35"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_726.png",
+      "ground_truth": "MONDO",
+      "prediction": "ON",
+      "cleaned_prediction": "on"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_727.png",
+      "ground_truth": "CAFE",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_728.png",
+      "ground_truth": "-",
+      "prediction": "The exact text shown in this image is \"The sky is black\".",
+      "cleaned_prediction": "the exact text shown in this image is the sky is black"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_729.png",
+      "ground_truth": "BAR",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_730.png",
+      "ground_truth": "-",
+      "prediction": "The exact text shown in this image is \"The sky is black\".",
+      "cleaned_prediction": "the exact text shown in this image is the sky is black"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_731.png",
+      "ground_truth": "VENUE",
+      "prediction": "N",
+      "cleaned_prediction": "n"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_732.png",
+      "ground_truth": "food",
+      "prediction": "000",
+      "cleaned_prediction": "000"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_733.png",
+      "ground_truth": "Sports",
+      "prediction": "Sport",
+      "cleaned_prediction": "sport"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_734.png",
+      "ground_truth": "Centre",
+      "prediction": "Entrance",
+      "cleaned_prediction": "entrance"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_735.png",
+      "ground_truth": "ark",
+      "prediction": "Dark",
+      "cleaned_prediction": "dark"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_736.png",
+      "ground_truth": "Conference",
+      "prediction": "FUFUERERERERERERERERERERERERERERERER",
+      "cleaned_prediction": "fufuerererererererererererererererer"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_737.png",
+      "ground_truth": "Centre",
+      "prediction": "Centert",
+      "cleaned_prediction": "centert"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_738.png",
+      "ground_truth": "Car",
+      "prediction": "Car",
+      "cleaned_prediction": "car"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_739.png",
+      "ground_truth": "Parks",
+      "prediction": "Park",
+      "cleaned_prediction": "park"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_740.png",
+      "ground_truth": "UDX",
+      "prediction": "LUDX",
+      "cleaned_prediction": "ludx"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_741.png",
+      "ground_truth": "MAYFAIR",
+      "prediction": "Paypal",
+      "cleaned_prediction": "paypal"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_742.png",
+      "ground_truth": "MINI",
+      "prediction": "MINI",
+      "cleaned_prediction": "mini"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_743.png",
+      "ground_truth": "PEUGEOT",
+      "prediction": "G",
+      "cleaned_prediction": "g"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_744.png",
+      "ground_truth": "EXIT",
+      "prediction": "EXIT",
+      "cleaned_prediction": "exit"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_745.png",
+      "ground_truth": "EMERGENCY",
+      "prediction": "GER",
+      "cleaned_prediction": "ger"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_746.png",
+      "ground_truth": "SERVICE",
+      "prediction": "RV",
+      "cleaned_prediction": "rv"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_747.png",
+      "ground_truth": "VEHICLES",
+      "prediction": "Music",
+      "cleaned_prediction": "music"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_748.png",
+      "ground_truth": "ONLY",
+      "prediction": "NL",
+      "cleaned_prediction": "nl"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_749.png",
+      "ground_truth": "CHALLENGE",
+      "prediction": "Hull",
+      "cleaned_prediction": "hull"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_750.png",
+      "ground_truth": "RESTAURANT",
+      "prediction": "AU",
+      "cleaned_prediction": "au"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_751.png",
+      "ground_truth": "FLATS",
+      "prediction": "LAT",
+      "cleaned_prediction": "lat"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_752.png",
+      "ground_truth": "61to69",
+      "prediction": "Hito",
+      "cleaned_prediction": "hito"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_753.png",
+      "ground_truth": "1",
+      "prediction": "The exact text shown in this image is \"The black pole is long.\"",
+      "cleaned_prediction": "the exact text shown in this image is the black pole is long"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_754.png",
+      "ground_truth": "2",
+      "prediction": "2",
+      "cleaned_prediction": "2"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_755.png",
+      "ground_truth": "3",
+      "prediction": "3",
+      "cleaned_prediction": "3"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_756.png",
+      "ground_truth": "4",
+      "prediction": "4",
+      "cleaned_prediction": "4"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_757.png",
+      "ground_truth": "5",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_758.png",
+      "ground_truth": "6",
+      "prediction": "6",
+      "cleaned_prediction": "6"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_759.png",
+      "ground_truth": "7",
+      "prediction": "7",
+      "cleaned_prediction": "7"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_760.png",
+      "ground_truth": "8",
+      "prediction": "8",
+      "cleaned_prediction": "8"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_761.png",
+      "ground_truth": "9",
+      "prediction": "9",
+      "cleaned_prediction": "9"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_762.png",
+      "ground_truth": "the",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_763.png",
+      "ground_truth": "one-line",
+      "prediction": "E-lite",
+      "cleaned_prediction": "e-lite"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_764.png",
+      "ground_truth": "guide",
+      "prediction": "Juice",
+      "cleaned_prediction": "juice"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_765.png",
+      "ground_truth": "go",
+      "prediction": "Go",
+      "cleaned_prediction": "go"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_766.png",
+      "ground_truth": "Post",
+      "prediction": "Pos",
+      "cleaned_prediction": "pos"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_767.png",
+      "ground_truth": "Office",
+      "prediction": "Offico",
+      "cleaned_prediction": "offico"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_768.png",
+      "ground_truth": "99",
+      "prediction": "99",
+      "cleaned_prediction": "99"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_769.png",
+      "ground_truth": "5",
+      "prediction": "5",
+      "cleaned_prediction": "5"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_770.png",
+      "ground_truth": "SPRINKLER",
+      "prediction": "BANK",
+      "cleaned_prediction": "bank"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_771.png",
+      "ground_truth": "VALVE",
+      "prediction": "Valve",
+      "cleaned_prediction": "valve"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_772.png",
+      "ground_truth": "CHAMBER",
+      "prediction": "AMA",
+      "cleaned_prediction": "ama"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_773.png",
+      "ground_truth": "ION",
+      "prediction": "Monet",
+      "cleaned_prediction": "monet"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_774.png",
+      "ground_truth": "The",
+      "prediction": "The exact text shown in this image is \"The\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_775.png",
+      "ground_truth": "Linen",
+      "prediction": "WINE",
+      "cleaned_prediction": "wine"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_776.png",
+      "ground_truth": "Factory",
+      "prediction": "ACTOR",
+      "cleaned_prediction": "actor"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_777.png",
+      "ground_truth": "ICE",
+      "prediction": "ACE",
+      "cleaned_prediction": "ace"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_778.png",
+      "ground_truth": "CREAM",
+      "prediction": "REAL",
+      "cleaned_prediction": "real"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_779.png",
+      "ground_truth": "PHARMACY",
+      "prediction": "RM",
+      "cleaned_prediction": "rm"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_780.png",
+      "ground_truth": "camouflage",
+      "prediction": "12:12",
+      "cleaned_prediction": "1212"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_781.png",
+      "ground_truth": "CO",
+      "prediction": "Coco",
+      "cleaned_prediction": "coco"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_782.png",
+      "ground_truth": "-",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_783.png",
+      "ground_truth": "OPERATIVE",
+      "prediction": "Ratatat",
+      "cleaned_prediction": "ratatat"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_784.png",
+      "ground_truth": "JACKS",
+      "prediction": "ASSA CORP",
+      "cleaned_prediction": "assa corp"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_785.png",
+      "ground_truth": "FAMOUS",
+      "prediction": "MOM",
+      "cleaned_prediction": "mom"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_786.png",
+      "ground_truth": "SUPPLIES",
+      "prediction": "Apple",
+      "cleaned_prediction": "apple"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_787.png",
+      "ground_truth": "EST.",
+      "prediction": "Westest",
+      "cleaned_prediction": "westest"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_788.png",
+      "ground_truth": "1946",
+      "prediction": "91446656",
+      "cleaned_prediction": "91446656"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_789.png",
+      "ground_truth": "PLAY",
+      "prediction": "LAL",
+      "cleaned_prediction": "lal"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_790.png",
+      "ground_truth": "THUNDERBALL",
+      "prediction": "HANDICAP",
+      "cleaned_prediction": "handicap"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_791.png",
+      "ground_truth": "HERE",
+      "prediction": "EER",
+      "cleaned_prediction": "eer"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_792.png",
+      "ground_truth": "NATIONAL",
+      "prediction": "National Gallery of Art",
+      "cleaned_prediction": "national gallery of art"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_793.png",
+      "ground_truth": "20P",
+      "prediction": "20%",
+      "cleaned_prediction": "20%"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_794.png",
+      "ground_truth": "A",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_795.png",
+      "ground_truth": "RIDE",
+      "prediction": "RIDE",
+      "cleaned_prediction": "ride"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_796.png",
+      "ground_truth": "Peacocks",
+      "prediction": "TACOCO",
+      "cleaned_prediction": "tacoco"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_797.png",
+      "ground_truth": "SLUSH",
+      "prediction": "RUSH",
+      "cleaned_prediction": "rush"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_798.png",
+      "ground_truth": "PUPPiE",
+      "prediction": "PEPSI",
+      "cleaned_prediction": "pepsi"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_799.png",
+      "ground_truth": "AS",
+      "prediction": "ASSA",
+      "cleaned_prediction": "assa"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_800.png",
+      "ground_truth": "COOL",
+      "prediction": "0000000000000000000",
+      "cleaned_prediction": "0000000000000000000"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_801.png",
+      "ground_truth": "AS",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_802.png",
+      "ground_truth": "IT",
+      "prediction": "TT",
+      "cleaned_prediction": "tt"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_803.png",
+      "ground_truth": "GETS",
+      "prediction": "ASSISTT",
+      "cleaned_prediction": "assistt"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_804.png",
+      "ground_truth": "Cheques",
+      "prediction": "Equeques",
+      "cleaned_prediction": "equeques"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_805.png",
+      "ground_truth": "GALORE",
+      "prediction": "Palolo",
+      "cleaned_prediction": "palolo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_806.png",
+      "ground_truth": "PIZZA",
+      "prediction": "Buzz",
+      "cleaned_prediction": "buzz"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_807.png",
+      "ground_truth": "The",
+      "prediction": "The",
+      "cleaned_prediction": "the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_808.png",
+      "ground_truth": "Adult",
+      "prediction": "Adult",
+      "cleaned_prediction": "adult"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_809.png",
+      "ground_truth": "Community",
+      "prediction": "Immunity",
+      "cleaned_prediction": "immunity"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_810.png",
+      "ground_truth": "College",
+      "prediction": "College",
+      "cleaned_prediction": "college"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_811.png",
+      "ground_truth": "11",
+      "prediction": "11",
+      "cleaned_prediction": "11"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_812.png",
+      "ground_truth": "Fire",
+      "prediction": "Fire",
+      "cleaned_prediction": "fire"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_813.png",
+      "ground_truth": "up",
+      "prediction": "Up",
+      "cleaned_prediction": "up"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_814.png",
+      "ground_truth": "your",
+      "prediction": "You",
+      "cleaned_prediction": "you"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_815.png",
+      "ground_truth": "senses",
+      "prediction": "Transcendence",
+      "cleaned_prediction": "transcendence"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_816.png",
+      "ground_truth": "Save",
+      "prediction": "AWAVE",
+      "cleaned_prediction": "awave"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_817.png",
+      "ground_truth": "family",
+      "prediction": "Family",
+      "cleaned_prediction": "family"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_818.png",
+      "ground_truth": "day",
+      "prediction": "Day",
+      "cleaned_prediction": "day"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_819.png",
+      "ground_truth": "trip",
+      "prediction": "Tript",
+      "cleaned_prediction": "tript"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_820.png",
+      "ground_truth": "4",
+      "prediction": "4",
+      "cleaned_prediction": "4"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_821.png",
+      "ground_truth": "SECOM",
+      "prediction": "Eco",
+      "cleaned_prediction": "eco"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_822.png",
+      "ground_truth": "CULVER",
+      "prediction": "ASSISTance",
+      "cleaned_prediction": "assistance"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_823.png",
+      "ground_truth": "STREET",
+      "prediction": "PRE",
+      "cleaned_prediction": "pre"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_824.png",
+      "ground_truth": "Except",
+      "prediction": "EXCEPT",
+      "cleaned_prediction": "except"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_825.png",
+      "ground_truth": "for",
+      "prediction": "For",
+      "cleaned_prediction": "for"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_826.png",
+      "ground_truth": "access",
+      "prediction": "ASSCEED",
+      "cleaned_prediction": "assceed"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_827.png",
+      "ground_truth": "and",
+      "prediction": "Land and sea",
+      "cleaned_prediction": "land and sea"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_828.png",
+      "ground_truth": "buses",
+      "prediction": "USED",
+      "cleaned_prediction": "used"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_829.png",
+      "ground_truth": "priory",
+      "prediction": "Vigorior",
+      "cleaned_prediction": "vigorior"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_830.png",
+      "ground_truth": "galleries",
+      "prediction": "Bender",
+      "cleaned_prediction": "bender"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_831.png",
+      "ground_truth": "at",
+      "prediction": "At",
+      "cleaned_prediction": "at"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_832.png",
+      "ground_truth": "the",
+      "prediction": "The",
+      "cleaned_prediction": "the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_833.png",
+      "ground_truth": "ship",
+      "prediction": "Fellowship",
+      "cleaned_prediction": "fellowship"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_834.png",
+      "ground_truth": "priory",
+      "prediction": "\"MORIOR\"",
+      "cleaned_prediction": "morior"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_835.png",
+      "ground_truth": "galleries",
+      "prediction": "Gallerie",
+      "cleaned_prediction": "gallerie"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_836.png",
+      "ground_truth": "at",
+      "prediction": "G",
+      "cleaned_prediction": "g"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_837.png",
+      "ground_truth": "the",
+      "prediction": "The exact text shown in this image is \"the\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_838.png",
+      "ground_truth": "ship",
+      "prediction": "Ship",
+      "cleaned_prediction": "ship"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_839.png",
+      "ground_truth": "TANFORDS",
+      "prediction": "FCC",
+      "cleaned_prediction": "fcc"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_840.png",
+      "ground_truth": "NO",
+      "prediction": "No",
+      "cleaned_prediction": "no"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_841.png",
+      "ground_truth": "SMOKING",
+      "prediction": "OK",
+      "cleaned_prediction": "ok"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_842.png",
+      "ground_truth": "MAXIMUM",
+      "prediction": "King",
+      "cleaned_prediction": "king"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_843.png",
+      "ground_truth": "PENALTY",
+      "prediction": "Nana",
+      "cleaned_prediction": "nana"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_844.png",
+      "ground_truth": "100",
+      "prediction": "00:00:00",
+      "cleaned_prediction": "000000"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_845.png",
+      "ground_truth": "Colchester",
+      "prediction": "\"Bachelor\"",
+      "cleaned_prediction": "bachelor"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_846.png",
+      "ground_truth": "Insurance",
+      "prediction": "\"CARA\"",
+      "cleaned_prediction": "cara"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_847.png",
+      "ground_truth": "Centre",
+      "prediction": "\"centenary\"",
+      "cleaned_prediction": "centenary"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_848.png",
+      "ground_truth": "EAST",
+      "prediction": "East",
+      "cleaned_prediction": "east"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_849.png",
+      "ground_truth": "HILL",
+      "prediction": "Philly",
+      "cleaned_prediction": "philly"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_850.png",
+      "ground_truth": "chips",
+      "prediction": "Chip",
+      "cleaned_prediction": "chip"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_851.png",
+      "ground_truth": "cut",
+      "prediction": "CUT",
+      "cleaned_prediction": "cut"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_852.png",
+      "ground_truth": "over",
+      "prediction": "Overview",
+      "cleaned_prediction": "overview"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_853.png",
+      "ground_truth": "prices",
+      "prediction": "Prices",
+      "cleaned_prediction": "prices"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_854.png",
+      "ground_truth": "chopped",
+      "prediction": "Shop",
+      "cleaned_prediction": "shop"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_855.png",
+      "ground_truth": "4,000",
+      "prediction": "4,000",
+      "cleaned_prediction": "4000"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_856.png",
+      "ground_truth": "ANTIQUES",
+      "prediction": "QUI",
+      "cleaned_prediction": "qui"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_857.png",
+      "ground_truth": "MILL",
+      "prediction": "JULIA",
+      "cleaned_prediction": "julia"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_858.png",
+      "ground_truth": "ION",
+      "prediction": "Condemn",
+      "cleaned_prediction": "condemn"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_859.png",
+      "ground_truth": "RT",
+      "prediction": "TT",
+      "cleaned_prediction": "tt"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_860.png",
+      "ground_truth": "ER",
+      "prediction": "Water",
+      "cleaned_prediction": "water"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_861.png",
+      "ground_truth": "4447",
+      "prediction": "4444",
+      "cleaned_prediction": "4444"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_862.png",
+      "ground_truth": "HAMBLION",
+      "prediction": "LAMBLEE",
+      "cleaned_prediction": "lamblee"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_863.png",
+      "ground_truth": "TRANSPORT",
+      "prediction": "Transport",
+      "cleaned_prediction": "transport"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_864.png",
+      "ground_truth": "STORAGE",
+      "prediction": "Storage",
+      "cleaned_prediction": "storage"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_865.png",
+      "ground_truth": "&",
+      "prediction": "8",
+      "cleaned_prediction": "8"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_866.png",
+      "ground_truth": "DISTRIBUTION",
+      "prediction": "Contribution",
+      "cleaned_prediction": "contribution"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_867.png",
+      "ground_truth": "COLCHESTER",
+      "prediction": "Waltham",
+      "cleaned_prediction": "waltham"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_868.png",
+      "ground_truth": "794447",
+      "prediction": "1944",
+      "cleaned_prediction": "1944"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_869.png",
+      "ground_truth": "6",
+      "prediction": "6",
+      "cleaned_prediction": "6"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_870.png",
+      "ground_truth": "University",
+      "prediction": "Overview",
+      "cleaned_prediction": "overview"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_871.png",
+      "ground_truth": "of",
+      "prediction": "The exact text shown in this image is \"The End Of The World\".",
+      "cleaned_prediction": "the exact text shown in this image is the end of the world"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_872.png",
+      "ground_truth": "Essex",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_873.png",
+      "ground_truth": "Gas",
+      "prediction": "Gas",
+      "cleaned_prediction": "gas"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_874.png",
+      "ground_truth": "Station",
+      "prediction": "\"Gravitation\"",
+      "cleaned_prediction": "gravitation"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_875.png",
+      "ground_truth": "No",
+      "prediction": "No",
+      "cleaned_prediction": "no"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_876.png",
+      "ground_truth": "M",
+      "prediction": "Mcdonald's",
+      "cleaned_prediction": "mcdonalds"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_877.png",
+      "ground_truth": "Dry",
+      "prediction": "Dry",
+      "cleaned_prediction": "dry"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_878.png",
+      "ground_truth": "riser",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_879.png",
+      "ground_truth": "Department",
+      "prediction": "Part",
+      "cleaned_prediction": "part"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_880.png",
+      "ground_truth": "of",
+      "prediction": "Of",
+      "cleaned_prediction": "of"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_881.png",
+      "ground_truth": "Psychology",
+      "prediction": "Choice",
+      "cleaned_prediction": "choice"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_882.png",
+      "ground_truth": "Second",
+      "prediction": "CORPORATION",
+      "cleaned_prediction": "corporation"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_883.png",
+      "ground_truth": "Year",
+      "prediction": "Year",
+      "cleaned_prediction": "year"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_884.png",
+      "ground_truth": "3",
+      "prediction": "3",
+      "cleaned_prediction": "3"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_885.png",
+      "ground_truth": "FLOOR",
+      "prediction": "Blood",
+      "cleaned_prediction": "blood"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_886.png",
+      "ground_truth": "POST",
+      "prediction": "GOSTOS",
+      "cleaned_prediction": "gostos"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_887.png",
+      "ground_truth": "OFFICE",
+      "prediction": "Office",
+      "cleaned_prediction": "office"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_888.png",
+      "ground_truth": "NATIONAL",
+      "prediction": "Radio",
+      "cleaned_prediction": "radio"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_889.png",
+      "ground_truth": "EXPRESS",
+      "prediction": "PRIDE",
+      "cleaned_prediction": "pride"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_890.png",
+      "ground_truth": "POSTPAK",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_891.png",
+      "ground_truth": "POSTPAK",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_892.png",
+      "ground_truth": "POST",
+      "prediction": "OSS",
+      "cleaned_prediction": "oss"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_893.png",
+      "ground_truth": "OFFICE",
+      "prediction": "Huff",
+      "cleaned_prediction": "huff"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_894.png",
+      "ground_truth": "the",
+      "prediction": "The exact text shown in this image is \"The\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_895.png",
+      "ground_truth": "copy",
+      "prediction": "OPTION",
+      "cleaned_prediction": "option"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_896.png",
+      "ground_truth": "centre",
+      "prediction": "Entent",
+      "cleaned_prediction": "entent"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_897.png",
+      "ground_truth": "COPIES",
+      "prediction": "PIPE",
+      "cleaned_prediction": "pipe"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_898.png",
+      "ground_truth": "LASER",
+      "prediction": "SSS",
+      "cleaned_prediction": "sss"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_899.png",
+      "ground_truth": "COLOUR",
+      "prediction": "LUUUUUUUUUUUUUUUUUUU",
+      "cleaned_prediction": "luuuuuuuuuuuuuuuuuuu"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_900.png",
+      "ground_truth": "U",
+      "prediction": "U",
+      "cleaned_prediction": "u"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_901.png",
+      "ground_truth": "Tetley",
+      "prediction": "BETTELEE",
+      "cleaned_prediction": "bettelee"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_902.png",
+      "ground_truth": "To",
+      "prediction": "TOM",
+      "cleaned_prediction": "tom"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_903.png",
+      "ground_truth": "find",
+      "prediction": "Wine",
+      "cleaned_prediction": "wine"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_904.png",
+      "ground_truth": "out",
+      "prediction": "Out",
+      "cleaned_prediction": "out"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_905.png",
+      "ground_truth": "just",
+      "prediction": "Just",
+      "cleaned_prediction": "just"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_906.png",
+      "ground_truth": "hellmann",
+      "prediction": "IMA",
+      "cleaned_prediction": "ima"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_907.png",
+      "ground_truth": "parcel",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_908.png",
+      "ground_truth": "systems",
+      "prediction": "ASSOCIATES",
+      "cleaned_prediction": "associates"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_909.png",
+      "ground_truth": "Free",
+      "prediction": "Free",
+      "cleaned_prediction": "free"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_910.png",
+      "ground_truth": "Travel",
+      "prediction": "Travel",
+      "cleaned_prediction": "travel"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_911.png",
+      "ground_truth": "Please",
+      "prediction": "Ideas",
+      "cleaned_prediction": "ideas"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_912.png",
+      "ground_truth": "wait",
+      "prediction": "Wait",
+      "cleaned_prediction": "wait"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_913.png",
+      "ground_truth": "here",
+      "prediction": "Here",
+      "cleaned_prediction": "here"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_914.png",
+      "ground_truth": "until",
+      "prediction": "Unintended",
+      "cleaned_prediction": "unintended"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_915.png",
+      "ground_truth": "a",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_916.png",
+      "ground_truth": "cashier",
+      "prediction": "Fashion",
+      "cleaned_prediction": "fashion"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_917.png",
+      "ground_truth": "is",
+      "prediction": "I is",
+      "cleaned_prediction": "i is"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_918.png",
+      "ground_truth": "available",
+      "prediction": "Talilal",
+      "cleaned_prediction": "talilal"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_919.png",
+      "ground_truth": "SHOP",
+      "prediction": "HO",
+      "cleaned_prediction": "ho"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_920.png",
+      "ground_truth": "TO",
+      "prediction": "TC",
+      "cleaned_prediction": "tc"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_921.png",
+      "ground_truth": "LET",
+      "prediction": "Net",
+      "cleaned_prediction": "net"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_922.png",
+      "ground_truth": "Oxfam",
+      "prediction": "Xiaofa",
+      "cleaned_prediction": "xiaofa"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_923.png",
+      "ground_truth": "Bookshop",
+      "prediction": "Books",
+      "cleaned_prediction": "books"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_924.png",
+      "ground_truth": "No",
+      "prediction": "No",
+      "cleaned_prediction": "no"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_925.png",
+      "ground_truth": "smoking",
+      "prediction": "Book",
+      "cleaned_prediction": "book"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_926.png",
+      "ground_truth": "beyond",
+      "prediction": "Beyond",
+      "cleaned_prediction": "beyond"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_927.png",
+      "ground_truth": "this",
+      "prediction": "This",
+      "cleaned_prediction": "this"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_928.png",
+      "ground_truth": "point",
+      "prediction": "Join",
+      "cleaned_prediction": "join"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_929.png",
+      "ground_truth": "High",
+      "prediction": "Digital",
+      "cleaned_prediction": "digital"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_930.png",
+      "ground_truth": "Fidelity",
+      "prediction": "Delil",
+      "cleaned_prediction": "delil"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_931.png",
+      "ground_truth": "NICK",
+      "prediction": "ICE",
+      "cleaned_prediction": "ice"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_932.png",
+      "ground_truth": "HORNBY",
+      "prediction": "RM",
+      "cleaned_prediction": "rm"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_933.png",
+      "ground_truth": "Mark",
+      "prediction": "WALNUT",
+      "cleaned_prediction": "walnut"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_934.png",
+      "ground_truth": "Z.",
+      "prediction": "Z",
+      "cleaned_prediction": "z"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_935.png",
+      "ground_truth": "Danielewski's",
+      "prediction": "Elele",
+      "cleaned_prediction": "elele"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_936.png",
+      "ground_truth": "HOUSE",
+      "prediction": "Out",
+      "cleaned_prediction": "out"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_937.png",
+      "ground_truth": "OF",
+      "prediction": "OOF",
+      "cleaned_prediction": "oof"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_938.png",
+      "ground_truth": "LEAVES",
+      "prediction": "CAVE",
+      "cleaned_prediction": "cave"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_939.png",
+      "ground_truth": "John",
+      "prediction": "Johohohohohohohohohohohohohohohohohohohoh",
+      "cleaned_prediction": "johohohohohohohohohohohohohohohohohohohoh"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_940.png",
+      "ground_truth": "Stein",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_941.png",
+      "ground_truth": "beck",
+      "prediction": "Select",
+      "cleaned_prediction": "select"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_942.png",
+      "ground_truth": "The",
+      "prediction": "The exact text shown in this image is \"The\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_943.png",
+      "ground_truth": "Grapes",
+      "prediction": "Grape",
+      "cleaned_prediction": "grape"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_944.png",
+      "ground_truth": "of",
+      "prediction": "The exact text shown in this image is \"The\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_945.png",
+      "ground_truth": "Wrath",
+      "prediction": "Vrat",
+      "cleaned_prediction": "vrat"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_946.png",
+      "ground_truth": "HEART",
+      "prediction": "The exact text shown in this image is \"The earth\".",
+      "cleaned_prediction": "the exact text shown in this image is the earth"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_947.png",
+      "ground_truth": "OF",
+      "prediction": "Of",
+      "cleaned_prediction": "of"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_948.png",
+      "ground_truth": "DARKNESS",
+      "prediction": "Darkness",
+      "cleaned_prediction": "darkness"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_949.png",
+      "ground_truth": "JOSEPH",
+      "prediction": "Serenity",
+      "cleaned_prediction": "serenity"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_950.png",
+      "ground_truth": "CONRAD",
+      "prediction": "NORRIS",
+      "cleaned_prediction": "norris"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_951.png",
+      "ground_truth": "Truman",
+      "prediction": "\"man\"",
+      "cleaned_prediction": "man"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_952.png",
+      "ground_truth": "Capote",
+      "prediction": "\"Papapapapapapapapapapapapapapapapapap",
+      "cleaned_prediction": "papapapapapapapapapapapapapapapapapap"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_953.png",
+      "ground_truth": "Breakfast",
+      "prediction": "BREAKFAST",
+      "cleaned_prediction": "breakfast"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_954.png",
+      "ground_truth": "at",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_955.png",
+      "ground_truth": "Tiffany's",
+      "prediction": "Family",
+      "cleaned_prediction": "family"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_956.png",
+      "ground_truth": "NAD",
+      "prediction": "HAHN",
+      "cleaned_prediction": "hahn"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_957.png",
+      "ground_truth": "PHONES",
+      "prediction": "Onion",
+      "cleaned_prediction": "onion"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_958.png",
+      "ground_truth": "IR",
+      "prediction": "IRIR",
+      "cleaned_prediction": "irir"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_959.png",
+      "ground_truth": "EAST",
+      "prediction": "ASS",
+      "cleaned_prediction": "ass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_960.png",
+      "ground_truth": "COURT",
+      "prediction": "DURHAM",
+      "cleaned_prediction": "durham"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_961.png",
+      "ground_truth": "HOUSE",
+      "prediction": "The exact text shown in this image is \"House\".",
+      "cleaned_prediction": "the exact text shown in this image is house"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_962.png",
+      "ground_truth": "Student",
+      "prediction": "AUDITOR",
+      "cleaned_prediction": "auditor"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_963.png",
+      "ground_truth": "Accounts",
+      "prediction": "Count",
+      "cleaned_prediction": "count"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_964.png",
+      "ground_truth": "Do",
+      "prediction": "DOD",
+      "cleaned_prediction": "dod"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_965.png",
+      "ground_truth": "you",
+      "prediction": "You",
+      "cleaned_prediction": "you"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_966.png",
+      "ground_truth": "know",
+      "prediction": "Nikon",
+      "cleaned_prediction": "nikon"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_967.png",
+      "ground_truth": "anyone",
+      "prediction": "YOYO",
+      "cleaned_prediction": "yoyo"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_968.png",
+      "ground_truth": "starting",
+      "prediction": "AARTI",
+      "cleaned_prediction": "aarti"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_969.png",
+      "ground_truth": "university",
+      "prediction": "Overview",
+      "cleaned_prediction": "overview"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_970.png",
+      "ground_truth": "this",
+      "prediction": "This",
+      "cleaned_prediction": "this"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_971.png",
+      "ground_truth": "year?",
+      "prediction": "Bear",
+      "cleaned_prediction": "bear"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_972.png",
+      "ground_truth": "TESCO",
+      "prediction": "Tesco",
+      "cleaned_prediction": "tesco"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_973.png",
+      "ground_truth": "EXIT",
+      "prediction": "X",
+      "cleaned_prediction": "x"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_974.png",
+      "ground_truth": "SERVICE",
+      "prediction": "RV",
+      "cleaned_prediction": "rv"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_975.png",
+      "ground_truth": "VEHICLES",
+      "prediction": "Ionic",
+      "cleaned_prediction": "ionic"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_976.png",
+      "ground_truth": "YOU",
+      "prediction": "You",
+      "cleaned_prediction": "you"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_977.png",
+      "ground_truth": "ARE",
+      "prediction": "ARI",
+      "cleaned_prediction": "ari"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_978.png",
+      "ground_truth": "HERE",
+      "prediction": "EER",
+      "cleaned_prediction": "eer"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_979.png",
+      "ground_truth": "Student",
+      "prediction": "AUDUD",
+      "cleaned_prediction": "audud"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_980.png",
+      "ground_truth": "Residence",
+      "prediction": "Side",
+      "cleaned_prediction": "side"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_981.png",
+      "ground_truth": "2",
+      "prediction": "2",
+      "cleaned_prediction": "2"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_982.png",
+      "ground_truth": "Anti",
+      "prediction": "Anti-Anti-Anti-Anti-Anti-Anti-Anti-",
+      "cleaned_prediction": "anti-anti-anti-anti-anti-anti-anti-"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_983.png",
+      "ground_truth": "Nazi",
+      "prediction": "Nazi",
+      "cleaned_prediction": "nazi"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_984.png",
+      "ground_truth": "League",
+      "prediction": "ASSOUGU",
+      "cleaned_prediction": "assougu"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_985.png",
+      "ground_truth": "Black",
+      "prediction": "Black",
+      "cleaned_prediction": "black"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_986.png",
+      "ground_truth": "&",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_987.png",
+      "ground_truth": "White",
+      "prediction": "White",
+      "cleaned_prediction": "white"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_988.png",
+      "ground_truth": "Unite",
+      "prediction": "Infinite",
+      "cleaned_prediction": "infinite"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_989.png",
+      "ground_truth": "HSBC",
+      "prediction": "LSBSB",
+      "cleaned_prediction": "lsbsb"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_990.png",
+      "ground_truth": "citigroup",
+      "prediction": "TOTO",
+      "cleaned_prediction": "toto"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_991.png",
+      "ground_truth": "THE",
+      "prediction": "The exact text shown in this image is \"The\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_992.png",
+      "ground_truth": "SOUTH",
+      "prediction": "Out",
+      "cleaned_prediction": "out"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_993.png",
+      "ground_truth": "COLONNADE",
+      "prediction": "ON",
+      "cleaned_prediction": "on"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_994.png",
+      "ground_truth": "E14",
+      "prediction": "E14",
+      "cleaned_prediction": "e14"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_995.png",
+      "ground_truth": "CABOT",
+      "prediction": "ABC",
+      "cleaned_prediction": "abc"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_996.png",
+      "ground_truth": "PLACE",
+      "prediction": "AGA",
+      "cleaned_prediction": "aga"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_997.png",
+      "ground_truth": "Meditative",
+      "prediction": "ASSISTDITO",
+      "cleaned_prediction": "assistdito"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_998.png",
+      "ground_truth": "Rose",
+      "prediction": "LOSOSE",
+      "cleaned_prediction": "losose"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_999.png",
+      "ground_truth": "(1958)",
+      "prediction": "599",
+      "cleaned_prediction": "599"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1000.png",
+      "ground_truth": "CANARY",
+      "prediction": "NANA",
+      "cleaned_prediction": "nana"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1001.png",
+      "ground_truth": "WHARF",
+      "prediction": "HAH",
+      "cleaned_prediction": "hah"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1002.png",
+      "ground_truth": "STATION",
+      "prediction": "IGNITATION",
+      "cleaned_prediction": "ignitation"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1003.png",
+      "ground_truth": "Mews",
+      "prediction": "Newswire",
+      "cleaned_prediction": "newswire"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1004.png",
+      "ground_truth": "Exmouth",
+      "prediction": "Mom",
+      "cleaned_prediction": "mom"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1005.png",
+      "ground_truth": "Camden",
+      "prediction": "MOM",
+      "cleaned_prediction": "mom"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1006.png",
+      "ground_truth": "BREAK",
+      "prediction": "REAL",
+      "cleaned_prediction": "real"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1007.png",
+      "ground_truth": "GLASS",
+      "prediction": "Glass",
+      "cleaned_prediction": "glass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1008.png",
+      "ground_truth": "FOR",
+      "prediction": "TORONTO",
+      "cleaned_prediction": "toronto"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1009.png",
+      "ground_truth": "KEY",
+      "prediction": "Key",
+      "cleaned_prediction": "key"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1010.png",
+      "ground_truth": "CAUTION",
+      "prediction": "UT",
+      "cleaned_prediction": "ut"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1011.png",
+      "ground_truth": "SITE",
+      "prediction": "The exact text shown in this image is \"The\".",
+      "cleaned_prediction": "the exact text shown in this image is the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1012.png",
+      "ground_truth": "TRAFFIC",
+      "prediction": "AFF",
+      "cleaned_prediction": "aff"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1013.png",
+      "ground_truth": "CROSSING",
+      "prediction": "Ross",
+      "cleaned_prediction": "ross"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1014.png",
+      "ground_truth": "DRIVERS",
+      "prediction": "Driven",
+      "cleaned_prediction": "driven"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1015.png",
+      "ground_truth": "BEWARE!",
+      "prediction": "WARNER BROS.",
+      "cleaned_prediction": "warner bros"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1016.png",
+      "ground_truth": "CONTRACTOR'S",
+      "prediction": "RACIST",
+      "cleaned_prediction": "racist"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1017.png",
+      "ground_truth": "VEHICLES",
+      "prediction": "Chicken",
+      "cleaned_prediction": "chicken"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1018.png",
+      "ground_truth": "ROSE",
+      "prediction": "OS",
+      "cleaned_prediction": "os"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1019.png",
+      "ground_truth": "Builders",
+      "prediction": "Wild",
+      "cleaned_prediction": "wild"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1020.png",
+      "ground_truth": "&",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1021.png",
+      "ground_truth": "Contractors",
+      "prediction": "Graffiti",
+      "cleaned_prediction": "graffiti"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1022.png",
+      "ground_truth": "U",
+      "prediction": "11",
+      "cleaned_prediction": "11"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1023.png",
+      "ground_truth": "OF",
+      "prediction": "1111111111111111111",
+      "cleaned_prediction": "1111111111111111111"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1024.png",
+      "ground_truth": "E",
+      "prediction": "1",
+      "cleaned_prediction": "1"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1025.png",
+      "ground_truth": "4",
+      "prediction": "4",
+      "cleaned_prediction": "4"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1026.png",
+      "ground_truth": "Accommodation",
+      "prediction": "WAM",
+      "cleaned_prediction": "wam"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1027.png",
+      "ground_truth": "Office",
+      "prediction": "Office",
+      "cleaned_prediction": "office"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1028.png",
+      "ground_truth": "South",
+      "prediction": "BUT",
+      "cleaned_prediction": "but"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1029.png",
+      "ground_truth": "Campus",
+      "prediction": "IMPERFECT",
+      "cleaned_prediction": "imperfect"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1030.png",
+      "ground_truth": "2076",
+      "prediction": "719",
+      "cleaned_prediction": "719"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1031.png",
+      "ground_truth": "CANS",
+      "prediction": "CANS",
+      "cleaned_prediction": "cans"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1032.png",
+      "ground_truth": "ONLY",
+      "prediction": "Only",
+      "cleaned_prediction": "only"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1033.png",
+      "ground_truth": "BROW",
+      "prediction": "Row",
+      "cleaned_prediction": "row"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1034.png",
+      "ground_truth": "GLASS",
+      "prediction": "Glass",
+      "cleaned_prediction": "glass"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1035.png",
+      "ground_truth": "ONLY",
+      "prediction": "LV",
+      "cleaned_prediction": "lv"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1036.png",
+      "ground_truth": "BEWARE",
+      "prediction": "Wawawawawawawawawawawawawawawawawawawaw",
+      "cleaned_prediction": "wawawawawawawawawawawawawawawawawawawaw"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1037.png",
+      "ground_truth": "ALLIGATOR",
+      "prediction": "GAYA",
+      "cleaned_prediction": "gaya"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1038.png",
+      "ground_truth": "TEETH",
+      "prediction": "Sweet",
+      "cleaned_prediction": "sweet"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1039.png",
+      "ground_truth": "SV",
+      "prediction": "SW",
+      "cleaned_prediction": "sw"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1040.png",
+      "ground_truth": "GAS",
+      "prediction": "Giga",
+      "cleaned_prediction": "giga"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1041.png",
+      "ground_truth": "180",
+      "prediction": "880",
+      "cleaned_prediction": "880"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1042.png",
+      "ground_truth": "T",
+      "prediction": "T",
+      "cleaned_prediction": "t"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1043.png",
+      "ground_truth": "2",
+      "prediction": "2",
+      "cleaned_prediction": "2"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1044.png",
+      "ground_truth": "moto",
+      "prediction": "O",
+      "cleaned_prediction": "o"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1045.png",
+      "ground_truth": "jeanswear",
+      "prediction": "ASSW",
+      "cleaned_prediction": "assw"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1046.png",
+      "ground_truth": "BANK",
+      "prediction": "\"The rock is brown in color.\"",
+      "cleaned_prediction": "the rock is brown in color"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1047.png",
+      "ground_truth": "9.-12",
+      "prediction": "ASSIST",
+      "cleaned_prediction": "assist"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1048.png",
+      "ground_truth": "September",
+      "prediction": "Temperature",
+      "cleaned_prediction": "temperature"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1049.png",
+      "ground_truth": "2002",
+      "prediction": "1000000",
+      "cleaned_prediction": "1000000"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1050.png",
+      "ground_truth": "Oldenburg",
+      "prediction": "Greenbelt",
+      "cleaned_prediction": "greenbelt"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1051.png",
+      "ground_truth": "Germ",
+      "prediction": "137",
+      "cleaned_prediction": "137"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1052.png",
+      "ground_truth": "FTRTFT",
+      "prediction": "Art",
+      "cleaned_prediction": "art"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1053.png",
+      "ground_truth": "2002",
+      "prediction": "1000",
+      "cleaned_prediction": "1000"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1054.png",
+      "ground_truth": "ESPRESSO",
+      "prediction": "READ",
+      "cleaned_prediction": "read"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1055.png",
+      "ground_truth": "ESPRESSOCHOC",
+      "prediction": "ASSOSS",
+      "cleaned_prediction": "assoss"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1056.png",
+      "ground_truth": "HOTMILK",
+      "prediction": "TM",
+      "cleaned_prediction": "tm"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1057.png",
+      "ground_truth": "CHOCOMILK",
+      "prediction": "CCO",
+      "cleaned_prediction": "cco"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1058.png",
+      "ground_truth": "52",
+      "prediction": "552",
+      "cleaned_prediction": "552"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1059.png",
+      "ground_truth": "53",
+      "prediction": "353",
+      "cleaned_prediction": "353"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1060.png",
+      "ground_truth": "54",
+      "prediction": "544",
+      "cleaned_prediction": "544"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1061.png",
+      "ground_truth": "55",
+      "prediction": "555",
+      "cleaned_prediction": "555"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1062.png",
+      "ground_truth": "20p",
+      "prediction": "20p",
+      "cleaned_prediction": "20p"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1063.png",
+      "ground_truth": "20p",
+      "prediction": "20p",
+      "cleaned_prediction": "20p"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1064.png",
+      "ground_truth": "20p",
+      "prediction": "200",
+      "cleaned_prediction": "200"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1065.png",
+      "ground_truth": "20p",
+      "prediction": "20p",
+      "cleaned_prediction": "20p"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1066.png",
+      "ground_truth": "Metool",
+      "prediction": "Petro",
+      "cleaned_prediction": "petro"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1067.png",
+      "ground_truth": "STANLEY",
+      "prediction": "HANDS",
+      "cleaned_prediction": "hands"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1068.png",
+      "ground_truth": "KUBRICK'S",
+      "prediction": "AFRICAN",
+      "cleaned_prediction": "african"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1069.png",
+      "ground_truth": "THE",
+      "prediction": "The",
+      "cleaned_prediction": "the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1070.png",
+      "ground_truth": "SHINING",
+      "prediction": "Wine",
+      "cleaned_prediction": "wine"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1071.png",
+      "ground_truth": "MEMENTO",
+      "prediction": "E",
+      "cleaned_prediction": "e"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1072.png",
+      "ground_truth": "Research",
+      "prediction": "Research",
+      "cleaned_prediction": "research"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1073.png",
+      "ground_truth": "Organization",
+      "prediction": "Zaniz",
+      "cleaned_prediction": "zaniz"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1074.png",
+      "ground_truth": "for",
+      "prediction": "For",
+      "cleaned_prediction": "for"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1075.png",
+      "ground_truth": "the",
+      "prediction": "The",
+      "cleaned_prediction": "the"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1076.png",
+      "ground_truth": "21st",
+      "prediction": "21st",
+      "cleaned_prediction": "21st"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1077.png",
+      "ground_truth": "Century",
+      "prediction": "Adventure",
+      "cleaned_prediction": "adventure"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1078.png",
+      "ground_truth": "ASDA",
+      "prediction": "DSD",
+      "cleaned_prediction": "dsd"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1079.png",
+      "ground_truth": "Price",
+      "prediction": "Drydr",
+      "cleaned_prediction": "drydr"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1080.png",
+      "ground_truth": "PROMISE",
+      "prediction": "Dm",
+      "cleaned_prediction": "dm"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1081.png",
+      "ground_truth": "Permanently",
+      "prediction": "ANA",
+      "cleaned_prediction": "ana"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1082.png",
+      "ground_truth": "Low",
+      "prediction": "LOL",
+      "cleaned_prediction": "lol"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1083.png",
+      "ground_truth": "Prices",
+      "prediction": "\"MICHAEL\"",
+      "cleaned_prediction": "michael"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1084.png",
+      "ground_truth": "Forever",
+      "prediction": "EE",
+      "cleaned_prediction": "ee"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1085.png",
+      "ground_truth": "e",
+      "prediction": "E",
+      "cleaned_prediction": "e"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1086.png",
+      "ground_truth": "g",
+      "prediction": "G",
+      "cleaned_prediction": "g"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1087.png",
+      "ground_truth": "intelligent",
+      "prediction": "Illiglig",
+      "cleaned_prediction": "illiglig"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1088.png",
+      "ground_truth": "inhabited",
+      "prediction": "A",
+      "cleaned_prediction": "a"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1089.png",
+      "ground_truth": "environments",
+      "prediction": "Mononucleosis",
+      "cleaned_prediction": "mononucleosis"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1090.png",
+      "ground_truth": "group",
+      "prediction": "Outlook",
+      "cleaned_prediction": "outlook"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1091.png",
+      "ground_truth": "0.00",
+      "prediction": "1",
+      "cleaned_prediction": "1"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1092.png",
+      "ground_truth": "EUR",
+      "prediction": "JUJU",
+      "cleaned_prediction": "juju"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1093.png",
+      "ground_truth": "BETRIEBSBEREIT",
+      "prediction": "188",
+      "cleaned_prediction": "188"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1094.png",
+      "ground_truth": "Room",
+      "prediction": "000",
+      "cleaned_prediction": "000"
+    },
+    {
+      "img_path": "../datasets/icdar2013/images/word_1095.png",
+      "ground_truth": "St.Helena",
+      "prediction": "HEL",
+      "cleaned_prediction": "hel"
+    }
+  ]
+}

@@ -12,6 +12,8 @@ datasets/IIIT5K/train/*
 
 datasets/cute80/CUTE80/*
 
+datasets/WordArt/images/*
+
 *.mat
 LLaMA-7B/*
 weights_old
@@ -19,3 +21,4 @@ weights_old
 *.benv
 *huggingface_cache
 *.penv
+*.lenv
