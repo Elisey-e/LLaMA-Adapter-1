@@ -1,0 +1,6 @@
+{
+  "metrics": {
+    "total_samples": 3000,
+    "word_accuracy": 0.101
+  }
+}
