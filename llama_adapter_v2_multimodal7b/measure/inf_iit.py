@@ -47,12 +47,12 @@ def run_inference_on_dataset(dataset_dir, model, preprocess, device, num_samples
             img = Image.fromarray(cv2.imread(img_path))
             img_tensor = preprocess(img).unsqueeze(0).to(device)
             
-            prompt = llama.format_prompt('Transcribe all and only text in this image. Write only one word: nothing else')
+            # prompt = llama.format_prompt('Transcribe all and only text in this image. Write only one word: nothing else')
 
-#             prompt = llama.format_prompt('Extract and transcribe all visible text from this image exactly as it appears.  \
-# - Include all words, numbers, and symbols in their original form.  \
-# - Preserve line breaks and spacing where relevant.  \
-# - Skip any non-text elements, artifacts, or image noise. - Output only the extracted text, without additional comments or formatting.  ')
+            prompt = llama.format_prompt('Extract and transcribe all visible text from this image exactly as it appears.  \
+- Include all words, numbers, and symbols in their original form.  \
+- Preserve line breaks and spacing where relevant.  \
+- Skip any non-text elements, artifacts, or image noise. - Output only the extracted text, without additional comments or formatting.  ')
 
             prediction = model.generate(img_tensor, [prompt])[0]
             
@@ -83,21 +83,7 @@ def clean_prediction(prediction):
     return ' '.join(candidate_words)
 
 def calculate_word_accuracy(results):
-    total_words = 0
-    correct_words = 0
-    
-    for result in results:
-        gt = result['ground_truth'].strip()
-        pred = clean_prediction(result['prediction'])
-        
-        print(gt.lower(), pred.lower(), sep='//')
-        pred = pred.lower().split()
-        total_words += len(gt.lower().split())
-        for i in gt.lower().split():
-            if i in pred:
-                correct_words += 1
-
-    # total_words = len(results)
+    # total_words = 0
     # correct_words = 0
     
     # for result in results:
@@ -105,8 +91,22 @@ def calculate_word_accuracy(results):
     #     pred = clean_prediction(result['prediction'])
         
     #     print(gt.lower(), pred.lower(), sep='//')
-    #     if gt.lower() == pred.lower():
-    #         correct_words += 1
+    #     pred = pred.lower().split()
+    #     total_words += len(gt.lower().split())
+    #     for i in gt.lower().split():
+    #         if i in pred:
+    #             correct_words += 1
+
+    total_words = len(results)
+    correct_words = 0
+    
+    for result in results:
+        gt = result['ground_truth'].strip()
+        pred = clean_prediction(result['prediction'])
+        
+        print(gt.lower(), pred.lower(), sep='//')
+        if gt.lower() == pred.lower():
+            correct_words += 1
     
     word_accuracy = correct_words / total_words
     

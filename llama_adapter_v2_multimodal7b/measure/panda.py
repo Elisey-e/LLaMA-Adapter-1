@@ -1,20 +1,13 @@
 import sys
 from pathlib import Path
-
-# Получаем путь к родительской директории текущего файла
-parent_dir = str(Path(__file__).parent.parent)  # На два уровня выше: .parent.parent
-
-# Добавляем путь в sys.path
-sys.path.append(parent_dir)
-
-
 import os
 import cv2
-import llama
 import torch
 import numpy as np
 from PIL import Image
 from tqdm import tqdm
+import json
+from pandagpt import PandaGPT
 
 def load_icdar2013_test_data(gt_file_path):
     """
@@ -50,16 +43,15 @@ def load_icdar2013_test_data(gt_file_path):
     
     return dataset
 
-def run_inference_on_icdar2013(dataset_dir, gt_file_path, image_dir, model, preprocess, device, num_samples=None):
+def run_inference_on_icdar2013(dataset_dir, gt_file_path, image_dir, model, device, num_samples=None):
     """
-    Run inference on the ICDAR2013 dataset
+    Run inference on the ICDAR2013 dataset using PandaGPT
     
     Args:
         dataset_dir (str): Directory containing the dataset
         gt_file_path (str): Path to the ground truth file
         image_dir (str): Directory containing images
-        model: The LLaMA model
-        preprocess: Image preprocessing function
+        model: The PandaGPT model
         device: Device to run inference on
         num_samples (int, optional): Number of samples to process. If None, process all.
     
@@ -78,18 +70,18 @@ def run_inference_on_icdar2013(dataset_dir, gt_file_path, image_dir, model, prep
         img_path = os.path.join(image_dir, sample['img_name'])
         
         try:
-            # Read and preprocess the image
-            img = Image.fromarray(cv2.imread(img_path))
-            img_tensor = preprocess(img).unsqueeze(0).to(device)
+            # Read the image
+            img = Image.open(img_path).convert('RGB')
             
             # Create prompt for the model
-            prompt = llama.format_prompt('Extract and transcribe all visible text from this image exactly as it appears.  \
-- Include all words, numbers, and symbols in their original form.  \
-- Preserve line breaks and spacing where relevant.  \
-- Skip any non-text elements, artifacts, or image noise. - Output only the extracted text, without additional comments or formatting.  ')
-
+            prompt = "Extract and transcribe all visible text from this image exactly as it appears. " \
+                    "- Include all words, numbers, and symbols in their original form. " \
+                    "- Preserve line breaks and spacing where relevant. " \
+                    "- Skip any non-text elements, artifacts, or image noise. " \
+                    "- Output only the extracted text, without additional comments or formatting."
+            
             # Generate prediction
-            prediction = model.generate(img_tensor, [prompt])[0]
+            prediction = model.generate(img, prompt)
             
             # Store results
             results.append({
@@ -103,38 +95,27 @@ def run_inference_on_icdar2013(dataset_dir, gt_file_path, image_dir, model, prep
     
     return results
 
-
 def clean_prediction(prediction):
     """
-    Extract the actual word from the model's prediction
+    Clean the model's prediction by removing extra formatting and keeping only the text content
     """
-    # First try to find the word directly
-    pred_words = prediction.strip().split()
-    if not pred_words:
-        return ""
+    # Remove common artifacts and formatting
+    prediction = prediction.strip()
     
-    candidate_words = [word.strip(',.?!:;"\'()[]{}') for word in pred_words]
-    candidate_words = [word for word in candidate_words if word]  # Remove empty strings
+    # Remove quotation marks if present
+    if prediction.startswith('"') and prediction.endswith('"'):
+        prediction = prediction[1:-1]
     
+    # Remove any remaining special formatting tokens
+    for token in ['<s>', '</s>', '[IMG]', '[/IMG]']:
+        prediction = prediction.replace(token, '')
     
-    return ' '.join(candidate_words)
-
+    # Normalize whitespace
+    prediction = ' '.join(prediction.split())
+    
+    return prediction
 
 def calculate_word_accuracy(results):
-    # total_words = 0
-    # correct_words = 0
-    
-    # for result in results:
-    #     gt = result['ground_truth'].strip()
-    #     pred = clean_prediction(result['prediction'])
-        
-    #     print(gt.lower(), pred.lower(), sep='//')
-    #     pred = pred.lower().split()
-    #     total_words += len(gt.lower().split())
-    #     for i in gt.lower().split():
-    #         if i in pred:
-    #             correct_words += 1
-
     total_words = len(results)
     correct_words = 0
     
@@ -142,11 +123,11 @@ def calculate_word_accuracy(results):
         gt = result['ground_truth'].strip()
         pred = clean_prediction(result['prediction'])
         
-        print(gt.lower(), pred.lower(), sep='//')
+        print(f"GT: {gt.lower()} || PRED: {pred.lower()}")
         if gt.lower() == pred.lower():
             correct_words += 1
     
-    word_accuracy = correct_words / total_words
+    word_accuracy = correct_words / total_words if total_words > 0 else 0.0
     
     return {
         'total_words': total_words,
@@ -165,35 +146,33 @@ def evaluate_results(results):
     
     return metrics
 
-
 def main():
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Using device: {device}")
     
+    # Configuration paths
     dataset_dir = "../datasets/icdar2013"
-    llama_dir = "../LLaMA-7B"
     gt_file_path = os.path.join(dataset_dir, "Challenge2_Test_Task3_GT.txt")
     image_dir = os.path.join(dataset_dir, "images")
-    model_name = "CAPTION-7B"  # choose from BIAS-7B, LORA-BIAS-7B, CAPTION-7B.pth
-    res_json = "../datasets/icdar2013/generate_markup_adv.json"
-    stat_json = "../datasets/icdar2013/statistic_adv.json"
+    res_json = "../datasets/icdar2013/pandagpt_results.json"
+    stat_json = "../datasets/icdar2013/pandagpt_statistics.json"
     
-    print(f"Loading model: {model_name}...")
-    model, preprocess = llama.load(model_name, llama_dir, device)
-    model.eval()
+    # Initialize PandaGPT model
+    print("Loading PandaGPT model...")
+    model = PandaGPT(device=device)
     
-    print("Running inference on IIIT5K dataset...")
-    results = run_inference_on_icdar2013(dataset_dir, gt_file_path, image_dir, model, preprocess, device)
+    print("Running inference on ICDAR2013 dataset...")
+    results = run_inference_on_icdar2013(dataset_dir, gt_file_path, image_dir, model, device)
     metrics = evaluate_results(results)
     word_acc = metrics['word_accuracy_metrics']
 
-    print("\nBasic Results:")
+    print("\nEvaluation Results:")
     print(f"Total samples: {metrics['total_samples']}")
     print("\nWord Accuracy Metrics:")
     print(f"Total words: {word_acc['total_words']}")
     print(f"Word accuracy: {word_acc['word_accuracy']:.4f}")
     
-    import json
+    # Save results
     output_results = [{
         'img_path': r['img_path'],
         'ground_truth': r['ground_truth'],

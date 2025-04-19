@@ -15,3 +15,7 @@ datasets/cute80/CUTE80/*
 *.mat
 LLaMA-7B/*
 weights_old
+
+*.benv
+*huggingface_cache
+*.penv
