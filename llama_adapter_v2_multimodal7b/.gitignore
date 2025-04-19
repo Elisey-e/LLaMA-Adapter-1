@@ -1,0 +1,17 @@
+.denv
+datasets/icdar2013/images/*
+datasets/icdar2015/images/*
+
+datasets/icdar2013/gt/*
+datasets/icdar2015/gt/*
+
+datasets/IIIT5K/test/*
+datasets/IIIT5K/train/*
+
+*ckpts
+
+datasets/cute80/CUTE80/*
+
+*.mat
+LLaMA-7B/*
+weights_old

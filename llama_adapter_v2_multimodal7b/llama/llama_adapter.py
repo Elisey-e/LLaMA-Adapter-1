@@ -85,7 +85,8 @@ class LLaMA_adapter(nn.Module):
 
         for name, param in self.named_parameters():
             if param.requires_grad:
-               print(f"Trainable param: {name}, {param.shape}, {param.dtype}")
+                pass
+                # print(f"Trainable param: {name}, {param.shape}, {param.dtype}")
 
     def get_trainable_params(self, phase='finetune'):
         for name, para in self.named_parameters():

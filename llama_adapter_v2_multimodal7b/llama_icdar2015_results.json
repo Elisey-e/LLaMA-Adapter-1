@@ -1,0 +1,2837 @@
+{
+  "results": [
+    {
+      "img_path": "datasets/icdar2015/images/img_1.jpg",
+      "gt_words": [
+        "PROPER",
+        "FOOD",
+        "PRONTO"
+      ],
+      "prediction": "Proper Food Pronto"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_10.jpg",
+      "gt_words": [
+        "PROFESSIONAL",
+        "XML",
+        "2nd",
+        "Edition"
+      ],
+      "prediction": "Professional XML 2nd Edition"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_100.jpg",
+      "gt_words": [
+        "Verbandstoffe",
+        "HEPP"
+      ],
+      "prediction": "HEPP Versandhandel"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_101.jpg",
+      "gt_words": [
+        "WHSmith",
+        "Summer",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "WHSmith - 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_102.jpg",
+      "gt_words": [
+        "ARENA",
+        "COLCHESTER",
+        "###",
+        "THE",
+        "HEART",
+        "###",
+        "THE",
+        "TOWN!"
+      ],
+      "prediction": "Arena Colchester"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_103.jpg",
+      "gt_words": [
+        "Station",
+        "car",
+        "park"
+      ],
+      "prediction": "Station Car Park"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_104.jpg",
+      "gt_words": [
+        "CLOCK",
+        "MUSEUM",
+        "TYMPERLEYS",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Clock Museum"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_105.jpg",
+      "gt_words": [
+        "RESERVED",
+        "FOR",
+        "REGULAR",
+        "HIWIS",
+        "Thank",
+        "you!",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Reserved for Regular Hiwis"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_106.jpg",
+      "gt_words": [
+        "###",
+        "invent",
+        "###"
+      ],
+      "prediction": "HP Invent logo"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_107.jpg",
+      "gt_words": [
+        "###",
+        "Java",
+        "Language",
+        "Guide",
+        "###",
+        "Guy",
+        "Steele",
+        "###"
+      ],
+      "prediction": "The Java Language Guide"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_108.jpg",
+      "gt_words": [
+        "DENTAL",
+        "SURGERY"
+      ],
+      "prediction": "Dental Surgery Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_109.jpg",
+      "gt_words": [
+        "ARENA",
+        "LEISURE",
+        "SERVICES",
+        "LIMITED",
+        "Registered",
+        "Office"
+      ],
+      "prediction": "TNA Leisure Service Limited Registered Office"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_11.jpg",
+      "gt_words": [
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "self-adhesive",
+        "address",
+        "labels",
+        "250",
+        "###",
+        "###",
+        "roll"
+      ],
+      "prediction": "Self-adhesive Address Labels"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_110.jpg",
+      "gt_words": [
+        "NHS"
+      ],
+      "prediction": "NHS logo on a white van"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_111.jpg",
+      "gt_words": [
+        "Stationery",
+        "Box",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Stationery Box"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_112.jpg",
+      "gt_words": [
+        "OPERATING",
+        "SYSTEM",
+        "Fifth",
+        "Edition",
+        "SILBERSCHATZ",
+        "GALVIN",
+        "###",
+        "ONCEPTS"
+      ],
+      "prediction": "Operating System Concepts by Gilbert H. Steigerhaz"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_113.jpg",
+      "gt_words": [
+        "ORDER",
+        "YOUR",
+        "ISUZU"
+      ],
+      "prediction": "Isuzu Dealership in Birmingham"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_114.jpg",
+      "gt_words": [
+        "Constantine",
+        "Room"
+      ],
+      "prediction": "Constantine Room Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_115.jpg",
+      "gt_words": [
+        "###",
+        "mobile",
+        "phones"
+      ],
+      "prediction": "No Mobile Phones Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_116.jpg",
+      "gt_words": [
+        "Need",
+        "###",
+        "Brolly?",
+        "###",
+        "Just",
+        "Ask!"
+      ],
+      "prediction": "Need a Broly? Just Ask!"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_117.jpg",
+      "gt_words": [
+        "RESERVED",
+        "FOR",
+        "CLUB",
+        "SECRETARY"
+      ],
+      "prediction": "Reserved for Club Secretary"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_118.jpg",
+      "gt_words": [
+        "Miralejo"
+      ],
+      "prediction": "Miracle Garden"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_119.jpg",
+      "gt_words": [
+        "NatWest"
+      ],
+      "prediction": "NatWest Bank"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_12.jpg",
+      "gt_words": [
+        "###",
+        "###"
+      ],
+      "prediction": "Ouch! The Pain of a Broken Window"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_120.jpg",
+      "gt_words": [
+        "HSBC",
+        "The",
+        "world's",
+        "local",
+        "bank"
+      ],
+      "prediction": "HSBC Bank logo"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_121.jpg",
+      "gt_words": [
+        "Customer",
+        "Freephone",
+        "Private",
+        "Hire",
+        "Service"
+      ],
+      "prediction": "Customer Freephone Private Hire Service"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_122.jpg",
+      "gt_words": [
+        "PEDESTRIANS"
+      ],
+      "prediction": "Pedestrians sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_123.jpg",
+      "gt_words": [
+        "SUMMER",
+        "2002"
+      ],
+      "prediction": "O Magazine Summer 2002"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_124.jpg",
+      "gt_words": [
+        "HAIR",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Hair Salon Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_125.jpg",
+      "gt_words": [
+        "###",
+        "Panaso",
+        "###"
+      ],
+      "prediction": "Panasonic Microwave"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_126.jpg",
+      "gt_words": [
+        "BEWARE",
+        "ALLIGATOR",
+        "TEETH"
+      ],
+      "prediction": "Alligator Teeth"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_127.jpg",
+      "gt_words": [
+        "SORRY",
+        "TOILET",
+        "OUT",
+        "###",
+        "ORDER"
+      ],
+      "prediction": "Sorry Toilet Out Of Order"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_128.jpg",
+      "gt_words": [
+        "genie"
+      ],
+      "prediction": "Genie 1000 Series Garage Door Opener"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_129.jpg",
+      "gt_words": [
+        "Essex",
+        "County",
+        "Council",
+        "Libraries"
+      ],
+      "prediction": "Essex County Council Libraries"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_13.jpg",
+      "gt_words": [
+        "J2SE",
+        "###",
+        "###"
+      ],
+      "prediction": "U2SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE - U2 SE -"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_130.jpg",
+      "gt_words": [
+        "LISTERINE",
+        "###",
+        "COOLMINT"
+      ],
+      "prediction": "OLMER TERRY"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_131.jpg",
+      "gt_words": [
+        "Time/system",
+        "2006",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Time/System 2006"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_132.jpg",
+      "gt_words": [
+        "###",
+        "###",
+        "Cable",
+        "DLR-3P",
+        "A4382",
+        "Nokia",
+        "6210",
+        "DLR-3P",
+        "Data",
+        "Cable",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "KIA",
+        "apter"
+      ],
+      "prediction": "Nokia 3310 Dual Sim 3G 4G Dual Sim Mobile Phone"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_133.jpg",
+      "gt_words": [
+        "66/1E",
+        "ESSER"
+      ],
+      "prediction": "Essential Fire Alarm Control Panel"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_134.jpg",
+      "gt_words": [
+        "###",
+        "###",
+        "22.",
+        "03.",
+        "###",
+        "DFKI",
+        "###",
+        "###",
+        "Anrufliste",
+        "###",
+        "###"
+      ],
+      "prediction": "Digital Phone Caller ID"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_135.jpg",
+      "gt_words": [
+        "Rayleigh"
+      ],
+      "prediction": "Rayleigh sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_136.jpg",
+      "gt_words": [
+        "NEW",
+        "TRAFFIC",
+        "SIGNALS",
+        "AHEAD"
+      ],
+      "prediction": "New Traffic Signals Ahead"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_137.jpg",
+      "gt_words": [
+        "Leisure",
+        "Ipswich",
+        "Road",
+        "Greenstead",
+        "Centre"
+      ],
+      "prediction": "Ipswich Road, Leisure Centre, Greens Road, Ipswich, Suffolk, IP3 9JA"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_138.jpg",
+      "gt_words": [
+        "LOUNGE"
+      ],
+      "prediction": "Lounge Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_139.jpg",
+      "gt_words": [
+        "ROYAL",
+        "MAIL",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "E11R",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Royal Mail red post box"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_14.jpg",
+      "gt_words": [
+        "###",
+        "make",
+        "sure",
+        "nothing",
+        "###",
+        "###",
+        "and",
+        "the",
+        "equipment",
+        "you",
+        "need.",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Make sure nothing stands in the way of the equipment you need."
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_140.jpg",
+      "gt_words": [
+        "Overseas",
+        "Relations",
+        "Office"
+      ],
+      "prediction": "Overseas Relations Office"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_141.jpg",
+      "gt_words": [
+        "###",
+        "ENTRY",
+        "WHEN",
+        "RED",
+        "LIGHT",
+        "###",
+        "FLASHING",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "No Entry When Red Light Is Flashing"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_142.jpg",
+      "gt_words": [
+        "BARCLAYS"
+      ],
+      "prediction": "Barclays Bank"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_143.jpg",
+      "gt_words": [
+        "Building",
+        "Web",
+        "Services",
+        "with",
+        "Making",
+        "Sense",
+        "###",
+        "and",
+        "UDDI",
+        "Java",
+        "###",
+        "XML,",
+        "SOAP,",
+        "WSDL,"
+      ],
+      "prediction": "Building Web Services with Java"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_144.jpg",
+      "gt_words": [
+        "HALL",
+        "###",
+        "HEROES"
+      ],
+      "prediction": "Hall of Heroes"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_145.jpg",
+      "gt_words": [
+        "###",
+        "###",
+        "TIFICIAL",
+        "NTELLIGENCE",
+        "###",
+        "MODERN",
+        "APPROACH",
+        "STUART",
+        "RUSSELL",
+        "PETER",
+        "NORVIG"
+      ],
+      "prediction": "Artificial Intelligence: A Modern Approach"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_146.jpg",
+      "gt_words": [
+        "SALOON"
+      ],
+      "prediction": "Saloon Window"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_147.jpg",
+      "gt_words": [
+        "8000",
+        "DELL",
+        "INSPIRON",
+        "###"
+      ],
+      "prediction": "Dell Inspiron 8000"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_148.jpg",
+      "gt_words": [
+        "TESCO",
+        "RACE",
+        "FOR",
+        "LIFE",
+        "CANCER",
+        "RESEARCH",
+        "###"
+      ],
+      "prediction": "Tesco Race for Life"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_149.jpg",
+      "gt_words": [
+        "TOYOTA"
+      ],
+      "prediction": "Toyota Logo"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_15.jpg",
+      "gt_words": [
+        "###",
+        "###",
+        "WAVEDOM",
+        "###"
+      ],
+      "prediction": "WaveDom - Wave Domination"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_150.jpg",
+      "gt_words": [
+        "LADIES"
+      ],
+      "prediction": "Ladies sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_151.jpg",
+      "gt_words": [
+        "Canon",
+        "PowerShot"
+      ],
+      "prediction": "Canon PowerShot G1 X Mark II"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_152.jpg",
+      "gt_words": [
+        "WATERSTONE'S",
+        "The",
+        "last",
+        "word",
+        "###",
+        "books"
+      ],
+      "prediction": "The First Word: A Novel"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_153.jpg",
+      "gt_words": [
+        "Canon"
+      ],
+      "prediction": "Canon 50mm f/1.8 STM Lens"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_154.jpg",
+      "gt_words": [
+        "Software",
+        "Design",
+        "for",
+        "Real-time",
+        "Systems",
+        "J.E.",
+        "COOLING"
+      ],
+      "prediction": "Software Design for Real-Time Systems"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_155.jpg",
+      "gt_words": [
+        ":Hansol"
+      ],
+      "prediction": "Hansol 100% Cotton T-Shirt"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_156.jpg",
+      "gt_words": [
+        "Infections",
+        "###",
+        "Africa",
+        "Hypertension:",
+        "who",
+        "###",
+        "###",
+        "risk?",
+        "Gut",
+        "genomics",
+        "International",
+        "Cooperation",
+        "###",
+        "EU-funded",
+        "Health",
+        "Research",
+        "###",
+        "###"
+      ],
+      "prediction": "International Cooperation in EU-funded research"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_157.jpg",
+      "gt_words": [
+        "Way",
+        "out"
+      ],
+      "prediction": "Way Out"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_158.jpg",
+      "gt_words": [
+        "Nightline"
+      ],
+      "prediction": "Nightline Purple Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_159.jpg",
+      "gt_words": [
+        "RAF",
+        "CAREERS"
+      ],
+      "prediction": "RAF Careers"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_16.jpg",
+      "gt_words": [
+        "WAVEDOM",
+        "###"
+      ],
+      "prediction": "Dishwasher Door Handle"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_160.jpg",
+      "gt_words": [
+        "VINCES"
+      ],
+      "prediction": "VINCES - VINCES - VINCES"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_161.jpg",
+      "gt_words": [
+        "###",
+        "4B.522",
+        "Marisa",
+        "Bostock",
+        "Jenny",
+        "Dixon",
+        "GRADUATE",
+        "OFFICE",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Bostock's office door"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_162.jpg",
+      "gt_words": [
+        "Colchester"
+      ],
+      "prediction": "Colchester Station"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_163.jpg",
+      "gt_words": [
+        "FIVE",
+        "FOURS",
+        "544444",
+        "###",
+        "Arthur",
+        "###",
+        "Colchester",
+        "LICENSED",
+        "PRIVATE",
+        "HIRE",
+        "VEHICLE",
+        "###",
+        "###"
+      ],
+      "prediction": "Five Fours 20th Anniversary"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_164.jpg",
+      "gt_words": [
+        "STOP",
+        "###"
+      ],
+      "prediction": "Bus Stop Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_165.jpg",
+      "gt_words": [
+        "TAXI"
+      ],
+      "prediction": "Taxi sign on the roof of a bus"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_166.jpg",
+      "gt_words": [
+        "PanaSyncE70"
+      ],
+      "prediction": "Panasonic E70"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_167.jpg",
+      "gt_words": [
+        "Panasonic",
+        "NE-1027"
+      ],
+      "prediction": "Panasonic NE-1027"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_168.jpg",
+      "gt_words": [
+        "CONSTANTINE",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Stanley Steamer"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_169.jpg",
+      "gt_words": [
+        "LLOYDS",
+        "BANK"
+      ],
+      "prediction": "Lloyds Bank"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_17.jpg",
+      "gt_words": [
+        "Footpath",
+        "###",
+        "Colchester",
+        "and",
+        "Greenstead"
+      ],
+      "prediction": "Footpath to Colchester and Greenslade"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_170.jpg",
+      "gt_words": [
+        "1.21",
+        "###",
+        "floor",
+        "RICOH",
+        "IESE",
+        "###"
+      ],
+      "prediction": "Ricoh - 100% recycled paper"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_171.jpg",
+      "gt_words": [
+        "MultiSync",
+        "LCD2470WVX"
+      ],
+      "prediction": "MultiSync LCD2420WXW"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_172.jpg",
+      "gt_words": [
+        "Oleg",
+        "Rostanin",
+        "Asif",
+        "Shahab",
+        "2.10"
+      ],
+      "prediction": "Oleg Rostinin, Asif Shahab"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_173.jpg",
+      "gt_words": [
+        "autumn/winter",
+        "2001",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Autumn/Winter 2016"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_174.jpg",
+      "gt_words": [
+        "WEST",
+        "BURNSIDE",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside, Westburnside,"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_175.jpg",
+      "gt_words": [
+        "BAE",
+        "SYSTEMS"
+      ],
+      "prediction": "Bae Systems Logo"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_176.jpg",
+      "gt_words": [
+        "GYM"
+      ],
+      "prediction": "Red Lettering on a White Background"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_177.jpg",
+      "gt_words": [
+        "School"
+      ],
+      "prediction": "School Crossing Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_178.jpg",
+      "gt_words": [
+        "###",
+        "Health",
+        "Centre",
+        "Greenwood",
+        "House"
+      ],
+      "prediction": "Greenwood House Health Centre"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_179.jpg",
+      "gt_words": [
+        "Henry"
+      ],
+      "prediction": "Henry's logo on the side of the truck."
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_18.jpg",
+      "gt_words": [
+        "DELL"
+      ],
+      "prediction": "Dell logo on a silver background"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_180.jpg",
+      "gt_words": [
+        "The",
+        "Photo",
+        "Specialists"
+      ],
+      "prediction": "The Photo Specialist"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_181.jpg",
+      "gt_words": [
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "STUDIO"
+      ],
+      "prediction": "Studio 101 sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_182.jpg",
+      "gt_words": [
+        "plan",
+        "art",
+        "V03",
+        "###"
+      ],
+      "prediction": "Plan art"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_183.jpg",
+      "gt_words": [
+        "Refill"
+      ],
+      "prediction": "Refill sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_184.jpg",
+      "gt_words": [
+        "WELCOME",
+        "###",
+        "MARKS",
+        "###",
+        "SPENCER",
+        "COLLECT",
+        "###",
+        "CAR"
+      ],
+      "prediction": "Welcome to M&S"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_185.jpg",
+      "gt_words": [
+        "###",
+        "###",
+        "CIGAR",
+        "###",
+        "PLEASE",
+        "###",
+        "PAPER"
+      ],
+      "prediction": "Cigarettes Only Please No"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_186.jpg",
+      "gt_words": [
+        "ASDA",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Asda truck"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_187.jpg",
+      "gt_words": [
+        "Constructa",
+        "Made",
+        "Germany",
+        "###"
+      ],
+      "prediction": "Constructa - Made in Germany"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_188.jpg",
+      "gt_words": [
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "RESERVED",
+        "FOR",
+        "REGULAR",
+        "HIWIS",
+        "Thank",
+        "you!"
+      ],
+      "prediction": "Reserved for Regular Hiwis"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_189.jpg",
+      "gt_words": [
+        "Fire",
+        "alarm",
+        "call",
+        "point"
+      ],
+      "prediction": "Fire alarm call point"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_19.jpg",
+      "gt_words": [
+        "STIRLING",
+        "CASTLE",
+        "ARGYLL'S",
+        "LODGINGS"
+      ],
+      "prediction": "Stirling Castle and Argyll's Lodgings"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_190.jpg",
+      "gt_words": [
+        "###",
+        "###",
+        "###",
+        "process",
+        "your",
+        "process",
+        "Dez.",
+        "2010",
+        "Januar",
+        "Februar",
+        "###",
+        "###",
+        "###",
+        "Neujahr",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "We process your data"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_191.jpg",
+      "gt_words": [
+        "###",
+        "###",
+        "###",
+        "###",
+        "Homogenic"
+      ],
+      "prediction": "J\u00f6rg Homogeneous T-Shirt"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_192.jpg",
+      "gt_words": [
+        "Microsoft"
+      ],
+      "prediction": "Microsoft Arc Touch Mouse"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_193.jpg",
+      "gt_words": [
+        "savers"
+      ],
+      "prediction": "Savers in the UK"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_194.jpg",
+      "gt_words": [
+        "ZANUSSI"
+      ],
+      "prediction": "Zanussi Washing Machine"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_195.jpg",
+      "gt_words": [
+        "TAN"
+      ],
+      "prediction": "Tan - The Taste of Summer"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_196.jpg",
+      "gt_words": [
+        "MultiSync",
+        "LCD2470WVX"
+      ],
+      "prediction": "MultiSync LCD2470WX-BK"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_197.jpg",
+      "gt_words": [
+        "BEER",
+        "GARDEN"
+      ],
+      "prediction": "Beer Garden Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_198.jpg",
+      "gt_words": [
+        "Cycleway",
+        "Closed",
+        "Ahead"
+      ],
+      "prediction": "Cycleway Closed Ahead"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_199.jpg",
+      "gt_words": [
+        "Boundary",
+        "Road"
+      ],
+      "prediction": "Boundary Road"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_2.jpg",
+      "gt_words": [
+        "professional",
+        "Java",
+        "Web",
+        "Services"
+      ],
+      "prediction": "Professional Java Web Services"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_20.jpg",
+      "gt_words": [
+        "GOOD",
+        "HOME",
+        "MADE",
+        "FOOD",
+        "CASK",
+        "CONDITIONED",
+        "ALES",
+        "GARDEN"
+      ],
+      "prediction": "Good Home Made Food"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_200.jpg",
+      "gt_words": [
+        "HSBC"
+      ],
+      "prediction": "HSBC Holdings PLC (HSBC)"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_201.jpg",
+      "gt_words": [
+        "DIGItaL",
+        "muLtImeDIa",
+        "Nigel",
+        "Chapman",
+        "and",
+        "Jenny",
+        "Chapman",
+        "WILEY",
+        "###",
+        "###"
+      ],
+      "prediction": "Digital Multimedia"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_202.jpg",
+      "gt_words": [
+        "###",
+        "wear.",
+        "###"
+      ],
+      "prediction": "Snow White Wears"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_203.jpg",
+      "gt_words": [
+        "Oleg",
+        "Rostanin",
+        "Asif",
+        "Shahab",
+        "2.10"
+      ],
+      "prediction": "Oleg Rostinin, Asif Shahab"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_204.jpg",
+      "gt_words": [
+        "DOLLAR",
+        "GLEN",
+        "AND",
+        "CASTLE",
+        "CAMPBELL"
+      ],
+      "prediction": "Dollar Glen and Castle Campbell"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_205.jpg",
+      "gt_words": [
+        "privileg",
+        "8017"
+      ],
+      "prediction": "Privilege 8017"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_206.jpg",
+      "gt_words": [
+        "Beardwell",
+        "Construction",
+        "Limited",
+        "construction",
+        "refurbishment",
+        "maintenance",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Beardwell Construction Ltd"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_207.jpg",
+      "gt_words": [
+        "C.C.T.V.",
+        "###",
+        "OPERATION"
+      ],
+      "prediction": "CCTV in Operation"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_208.jpg",
+      "gt_words": [
+        "Sun",
+        "microsystems"
+      ],
+      "prediction": "Sun Microsystems logo on a laptop"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_209.jpg",
+      "gt_words": [
+        "Connells"
+      ],
+      "prediction": "Connells Estate Agents"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_21.jpg",
+      "gt_words": [
+        "SCOTTISH",
+        "NATIONAL",
+        "GALLERY",
+        "MODERN",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "National Gallery of Art"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_210.jpg",
+      "gt_words": [
+        "conditions"
+      ],
+      "prediction": "Conditions by Sara Bareilles"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_211.jpg",
+      "gt_words": [
+        "ntl:",
+        "###"
+      ],
+      "prediction": "NTL logo on a remote control"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_212.jpg",
+      "gt_words": [
+        "Osborne",
+        "Garages",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Osborne Garages"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_213.jpg",
+      "gt_words": [
+        "RED",
+        "LION",
+        "YARD",
+        "SHOPS",
+        "HIGH",
+        "STREET"
+      ],
+      "prediction": "Red Lion Yard Shop"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_214.jpg",
+      "gt_words": [
+        "VOLVO",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Volvo Cars to open new plant in China"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_215.jpg",
+      "gt_words": [
+        "GENTLEMEN"
+      ],
+      "prediction": "Gentlemen's Club"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_216.jpg",
+      "gt_words": [
+        "FAX"
+      ],
+      "prediction": "Fax Machine"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_217.jpg",
+      "gt_words": [
+        "iMac",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Apple IIc keyboard"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_218.jpg",
+      "gt_words": [
+        "Ford"
+      ],
+      "prediction": "Ford Motor Company"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_219.jpg",
+      "gt_words": [
+        "THE",
+        "DOLLAR",
+        "ARMS"
+      ],
+      "prediction": "The Dollar Arms"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_22.jpg",
+      "gt_words": [
+        "Information",
+        "Tickets",
+        "Trains"
+      ],
+      "prediction": "Information Tickets Trains"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_220.jpg",
+      "gt_words": [
+        "PULL"
+      ],
+      "prediction": "Pull Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_221.jpg",
+      "gt_words": [
+        "NIGHT",
+        "EXIT",
+        "###",
+        "FLOOR",
+        "###"
+      ],
+      "prediction": "Night Exit Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_222.jpg",
+      "gt_words": [
+        "Sainsbury's",
+        "ECONOMY",
+        "LONG",
+        "LIFE",
+        "ORANGE",
+        "JUICE"
+      ],
+      "prediction": "Sainsbury's Economy Orange Juice"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_223.jpg",
+      "gt_words": [
+        "###",
+        "Park",
+        "###",
+        "Ride",
+        "Sats.",
+        "only"
+      ],
+      "prediction": "Park and Ride Sats only"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_224.jpg",
+      "gt_words": [
+        "Guidex",
+        "Folders"
+      ],
+      "prediction": "Guidex Folders"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_225.jpg",
+      "gt_words": [
+        "ANCIENT",
+        "MONUMENT",
+        "CASTLE",
+        "CAMPBELL",
+        "###",
+        "###"
+      ],
+      "prediction": "Castle Campbell sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_226.jpg",
+      "gt_words": [
+        "FAIRY",
+        "EXPERT"
+      ],
+      "prediction": "Fairy Expert"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_227.jpg",
+      "gt_words": [
+        "iiyama"
+      ],
+      "prediction": "Iiyama 24 Inch LED Monitor"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_228.jpg",
+      "gt_words": [
+        "Canon",
+        "COMPACT",
+        "POWER",
+        "ADAPTER",
+        "CA-PS100"
+      ],
+      "prediction": "Canon Compact Power Adapter CA-PS100"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_229.jpg",
+      "gt_words": [
+        "Info@serviplus.de",
+        "www.serviplus.de",
+        "Geld",
+        "einwerfen",
+        "Betriebsbereit",
+        "###"
+      ],
+      "prediction": "Elevator display"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_23.jpg",
+      "gt_words": [
+        "DANGER",
+        "CONSTRUCTION",
+        "SITE",
+        "Risk",
+        "###",
+        "Serious",
+        "Injury",
+        "KEEP",
+        "OUT",
+        "AND",
+        "KEEP",
+        "YOUR",
+        "CHILDREN",
+        "OUT!",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Danger Construction Site Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_24.jpg",
+      "gt_words": [
+        "###",
+        "arlboro",
+        "LIGHTS"
+      ],
+      "prediction": "Harbor Lights"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_25.jpg",
+      "gt_words": [
+        "SyncMaster",
+        "213T"
+      ],
+      "prediction": "SyncMaster 213T"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_26.jpg",
+      "gt_words": [
+        "COLCHESTER"
+      ],
+      "prediction": "A sign for the University of Chicago's newest dining hall, the Dining Commons, is seen on the wall of the new dining hall on the University of Chicago campus in Chicago, Illinois, on Tuesday, September 18, 2018. (Photo by Yalonda M. James/Chicago Sun-Times)"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_27.jpg",
+      "gt_words": [
+        "###"
+      ],
+      "prediction": "D - Letter - Aluminium - 100mm x 100mm"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_28.jpg",
+      "gt_words": [
+        "4B.528",
+        "4B.526",
+        "4B.524",
+        "4B.522",
+        "YOU",
+        "ARE",
+        "HERE"
+      ],
+      "prediction": "You Are Here"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_29.jpg",
+      "gt_words": [
+        "CARLING"
+      ],
+      "prediction": "Carling Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_3.jpg",
+      "gt_words": [
+        "###",
+        "SONY",
+        "create",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Sony Go Creative"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_30.jpg",
+      "gt_words": [
+        "RYANAIR",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Ryanair plane"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_31.jpg",
+      "gt_words": [
+        "MultiSync",
+        "LCD2470WVX"
+      ],
+      "prediction": "LG 24LG2440-B 24-Inch LED-LCD Monitor"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_32.jpg",
+      "gt_words": [
+        "CORAL"
+      ],
+      "prediction": "Coral sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_33.jpg",
+      "gt_words": [
+        "Proceed",
+        "with",
+        "caution.",
+        "Height",
+        "when",
+        "raised",
+        "115mm",
+        "(412\")"
+      ],
+      "prediction": "Proceed with caution sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_34.jpg",
+      "gt_words": [
+        "USE",
+        "ONLY",
+        "DRI-WIPE",
+        "MARKERS",
+        "###",
+        "THESE",
+        "BOARDS"
+      ],
+      "prediction": "Only Dri Wipe Markets In These Boards"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_35.jpg",
+      "gt_words": [
+        "Central",
+        "Tyre",
+        "M.O.T.",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Central Tyres, 1960s"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_36.jpg",
+      "gt_words": [
+        "COLCHESTER",
+        "POST",
+        "OFFICE"
+      ],
+      "prediction": "Colchester Post Office"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_37.jpg",
+      "gt_words": [
+        "Knowledge",
+        "Management",
+        "(KM)",
+        "2.10",
+        "Oleg",
+        "Rostanin",
+        "Asif",
+        "Shahab"
+      ],
+      "prediction": "Oleg Rostanin's office door"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_38.jpg",
+      "gt_words": [
+        "INVESTMENTS",
+        "PENSIONS",
+        "MORTGAGES"
+      ],
+      "prediction": "Investments Pensions Mortgages"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_39.jpg",
+      "gt_words": [
+        "PUSH"
+      ],
+      "prediction": "Push Button"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_4.jpg",
+      "gt_words": [
+        "Professional",
+        "Issues",
+        "###",
+        "Software",
+        "Engineering",
+        "frank",
+        "bott",
+        "allison",
+        "coleman",
+        "jack",
+        "eaton",
+        "diane",
+        "rowland",
+        "###"
+      ],
+      "prediction": "Professional Issues in Engineering"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_40.jpg",
+      "gt_words": [
+        "ESP",
+        "###",
+        "Experience",
+        "the",
+        "Revolution",
+        "with",
+        "Orange",
+        "###",
+        "order",
+        "your",
+        "v70e",
+        "###",
+        "Orange",
+        "please",
+        "call",
+        "150",
+        "and",
+        "press",
+        "###",
+        "###",
+        "###",
+        "###",
+        "orange",
+        "###"
+      ],
+      "prediction": "ESPMOTO - Experience the Revolution to order your Orange on Orange"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_41.jpg",
+      "gt_words": [
+        "Philips",
+        "fisio",
+        "820e"
+      ],
+      "prediction": "Philips Fisio 820"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_42.jpg",
+      "gt_words": [
+        "SyncMaster",
+        "213T"
+      ],
+      "prediction": "SyncMaster 213T"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_43.jpg",
+      "gt_words": [
+        "POCKET",
+        "FLASH",
+        "UPGRADE",
+        "YOUR",
+        "DIGITAL",
+        "LIFE!",
+        "SAMSUNG"
+      ],
+      "prediction": "Samsung Pocket Flash"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_44.jpg",
+      "gt_words": [
+        "The",
+        "Albert",
+        "Beefeater"
+      ],
+      "prediction": "The Albert Beefeater"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_45.jpg",
+      "gt_words": [
+        "###",
+        "make",
+        "sure",
+        "nothing",
+        "stands",
+        "and",
+        "the",
+        "equipment",
+        "you",
+        "need.",
+        "###"
+      ],
+      "prediction": "Nothing Stops the Equipment You Need"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_46.jpg",
+      "gt_words": [
+        "Num",
+        "Lock",
+        "Caps",
+        "Lock",
+        "Scroll",
+        "Lock",
+        "Viglen"
+      ],
+      "prediction": "Viglen 19 inch LCD Monitor"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_47.jpg",
+      "gt_words": [
+        "Argos"
+      ],
+      "prediction": "Argos - The Home of Great Brands"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_48.jpg",
+      "gt_words": [
+        "FREEDOM",
+        "###"
+      ],
+      "prediction": "Freedom Sculpture"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_49.jpg",
+      "gt_words": [
+        "ESTATE",
+        "AGENTS",
+        "SAXONS",
+        "SAXONS",
+        "ESTATE",
+        "AGENTS",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Saxons Estate Agents"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_5.jpg",
+      "gt_words": [
+        "ESPANOL-INGLES",
+        "INGLES-ESPANOL",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Anoling-les-Espana"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_50.jpg",
+      "gt_words": [
+        "SMIRNOFF",
+        "###"
+      ],
+      "prediction": "Smirnoff Vodka"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_51.jpg",
+      "gt_words": [
+        "###",
+        "ROUGH",
+        "GUIDE",
+        "Website",
+        "Directory",
+        "Angus",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Website Directory"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_52.jpg",
+      "gt_words": [
+        "FCA",
+        "Foster",
+        "Care",
+        "Associates",
+        "###"
+      ],
+      "prediction": "Foster Care Associates"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_53.jpg",
+      "gt_words": [
+        "Portakabin"
+      ],
+      "prediction": "Portakabin - Portakabin"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_54.jpg",
+      "gt_words": [
+        "15'",
+        "###"
+      ],
+      "prediction": "15m3 triangle sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_55.jpg",
+      "gt_words": [
+        "2.17",
+        "Knowledge",
+        "Management",
+        "(KM)",
+        "Dr.",
+        "Faisal",
+        "Shafait",
+        "Multimedia",
+        "Analysis",
+        "and",
+        "Data",
+        "Mining",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Dr. Faisal Shafaita's office door"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_56.jpg",
+      "gt_words": [
+        "Break",
+        "glass",
+        "###",
+        "case",
+        "###",
+        "fire"
+      ],
+      "prediction": "Break glass in case of fire"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_57.jpg",
+      "gt_words": [
+        "DISCOVER",
+        "THE",
+        "DARK",
+        "SIDE"
+      ],
+      "prediction": "Discover the Dark Side"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_58.jpg",
+      "gt_words": [
+        "iiyama"
+      ],
+      "prediction": "Iliya Miniature - 100% Cotton - 100% Organic - 100% Fairtrade - 100% GOTS Certified - 100% Made in Germany - 100% Made in Europe - 100% Made in the EU - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100% Made in Europe - 100%"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_59.jpg",
+      "gt_words": [
+        "ZUBROWKA",
+        "BISON",
+        "VODKA",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Zubrowka Bison Vodka"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_6.jpg",
+      "gt_words": [
+        "Colgate",
+        "Fluoride",
+        "Toothpaste"
+      ],
+      "prediction": "Alga Fluor 1000 mg 100 Tablets"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_60.jpg",
+      "gt_words": [
+        "ASDA",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Asda to open 100 new stores in next five years"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_61.jpg",
+      "gt_words": [
+        "BAR"
+      ],
+      "prediction": "Bar Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_62.jpg",
+      "gt_words": [
+        "Drivers",
+        "stop",
+        "here",
+        "and",
+        "report",
+        "###",
+        "Warehouse",
+        "Office.",
+        "###"
+      ],
+      "prediction": "Warehouse Office"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_63.jpg",
+      "gt_words": [
+        "essence",
+        "###",
+        "computing",
+        "THE",
+        "ESSENCE",
+        "###",
+        "ARTIFICIAL",
+        "INTELLIGENCE"
+      ],
+      "prediction": "The Essence of Computing: Artificial Intelligence"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_64.jpg",
+      "gt_words": [
+        "213T",
+        "SyncMaster"
+      ],
+      "prediction": "SyncMaster 213T"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_65.jpg",
+      "gt_words": [
+        "British",
+        "Red",
+        "Cross",
+        "Shop",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "British Red Cross Shop"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_66.jpg",
+      "gt_words": [
+        "BEAVER84",
+        "TEL:",
+        "01268",
+        "530888"
+      ],
+      "prediction": "Beaver 84 sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_67.jpg",
+      "gt_words": [
+        "4.513B",
+        "###",
+        "Computing",
+        "Service",
+        "HELP",
+        "DESK"
+      ],
+      "prediction": "Help Desk Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_68.jpg",
+      "gt_words": [
+        "Campus"
+      ],
+      "prediction": "Campus sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_69.jpg",
+      "gt_words": [
+        "CASTLE",
+        "CAMPBELL",
+        "###"
+      ],
+      "prediction": "Castle Camps Hotel"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_7.jpg",
+      "gt_words": [
+        "###",
+        "FOSTER'S",
+        "FOSTER'S",
+        "FOSTER'S",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "FOSTER'S",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Foster's sign at the Daytona International Speedway"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_70.jpg",
+      "gt_words": [
+        "Accommodation",
+        "Office",
+        "Nightline"
+      ],
+      "prediction": "Accommodation Office Nightline"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_71.jpg",
+      "gt_words": [
+        "B&H"
+      ],
+      "prediction": "B&H Photo Video"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_72.jpg",
+      "gt_words": [
+        "GEORGE",
+        "ORWELL",
+        "ANIMAL",
+        "FARM"
+      ],
+      "prediction": "Animal Farm by George Orwell"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_73.jpg",
+      "gt_words": [
+        "MIDDLEBOROUGH"
+      ],
+      "prediction": "Middleborough sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_74.jpg",
+      "gt_words": [
+        "###",
+        "admittance",
+        "Authorised",
+        "Personnel",
+        "only"
+      ],
+      "prediction": "No admittance authorised personnel only"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_75.jpg",
+      "gt_words": [
+        "HEALTH"
+      ],
+      "prediction": "Health sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_76.jpg",
+      "gt_words": [
+        "Town",
+        "Centre",
+        "Clacton",
+        "133",
+        "London",
+        "Chelmsford",
+        "Ipswich",
+        "Gt.",
+        "Yarmouth",
+        "Harwich",
+        "###",
+        "Leisure",
+        "World",
+        "Rollerworld",
+        "(A120)",
+        "(A12)",
+        "(A12)"
+      ],
+      "prediction": "Town Centre Crossroads"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_77.jpg",
+      "gt_words": [
+        "Electrolux"
+      ],
+      "prediction": "Electrolux Washing Machine"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_78.jpg",
+      "gt_words": [
+        "Panasonic"
+      ],
+      "prediction": "Panasonic Microwave Oven"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_79.jpg",
+      "gt_words": [
+        "fresh",
+        "semi",
+        "skimmed",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Hai Skim - Green"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_8.jpg",
+      "gt_words": [
+        "The",
+        "SAD",
+        "SACK",
+        "Cafe",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "The Sad Sack Cafe"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_80.jpg",
+      "gt_words": [
+        "RENAULT"
+      ],
+      "prediction": "Renault Logo"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_81.jpg",
+      "gt_words": [
+        "HOTEL",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Hotel sign in a flower pot"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_82.jpg",
+      "gt_words": [
+        "DOLLAR",
+        "GOLF",
+        "CLUB",
+        "###"
+      ],
+      "prediction": "Dollar Golf Club"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_83.jpg",
+      "gt_words": [
+        "www.b4valu",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B4Va - B"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_84.jpg",
+      "gt_words": [
+        "###",
+        "footway",
+        "for",
+        "450",
+        "yds"
+      ],
+      "prediction": "No Footway for 450 Yards"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_85.jpg",
+      "gt_words": [
+        "Seatrade",
+        "House",
+        "Seatrade",
+        "Communications",
+        "Ltd",
+        "Registered",
+        "Office"
+      ],
+      "prediction": "Seatrade House"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_86.jpg",
+      "gt_words": [
+        "EXIT"
+      ],
+      "prediction": "Exit Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_87.jpg",
+      "gt_words": [
+        "WARNING!",
+        "LOW",
+        "FLYING",
+        "AND",
+        "AIRCRAFT",
+        "BLAST",
+        "CAUSE",
+        "PHYSICAL",
+        "INJURY",
+        "CAN",
+        "DEPARTING",
+        "###",
+        "###",
+        "###",
+        "###"
+      ],
+      "prediction": "Airplane warning sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_88.jpg",
+      "gt_words": [
+        "WHATEVER",
+        "THE",
+        "WEATHER",
+        "SUMMER",
+        "###"
+      ],
+      "prediction": "Summer Whatever the Weather"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_89.jpg",
+      "gt_words": [
+        "PLEASE",
+        "###",
+        "NOT",
+        "DISTURB",
+        "...IM",
+        "RECOVERING!!"
+      ],
+      "prediction": "Please do not disturb"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_9.jpg",
+      "gt_words": [
+        "ACCESS",
+        "###",
+        "KNOW",
+        "BAGGAGE"
+      ],
+      "prediction": "Access to Knowledge"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_90.jpg",
+      "gt_words": [
+        "PROFESSIONAL",
+        "Java",
+        "SOAP",
+        "Henry",
+        "Bequet",
+        "###",
+        "###",
+        "###",
+        "wrox"
+      ],
+      "prediction": "Professional Java SOA"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_91.jpg",
+      "gt_words": [
+        "YOU",
+        "ARE",
+        "HERE"
+      ],
+      "prediction": "The map of the park, showing the location of the tower."
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_92.jpg",
+      "gt_words": [
+        "Unterschrift",
+        "Architekt",
+        "###",
+        "den",
+        "29.04.09",
+        "Kaiserslautern"
+      ],
+      "prediction": "Architectural Drawings"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_93.jpg",
+      "gt_words": [
+        "PANTENE",
+        "PRO-V"
+      ],
+      "prediction": "Pantene Pro-V"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_94.jpg",
+      "gt_words": [
+        "ESSEX"
+      ],
+      "prediction": "Essex Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_95.jpg",
+      "gt_words": [
+        "FREE",
+        "DELIVERY"
+      ],
+      "prediction": "Free Delivery Sign"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_96.jpg",
+      "gt_words": [
+        "Please",
+        "lock",
+        "the",
+        "gate"
+      ],
+      "prediction": "Please Lock the Gate"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_97.jpg",
+      "gt_words": [
+        "###",
+        "POCKET",
+        "FLASH"
+      ],
+      "prediction": "Pocket Flags"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_98.jpg",
+      "gt_words": [
+        "WALLACE",
+        "MONUMENT"
+      ],
+      "prediction": "Wallace Castle"
+    },
+    {
+      "img_path": "datasets/icdar2015/images/img_99.jpg",
+      "gt_words": [
+        "SANYO",
+        "PROxtraX",
+        "MULTIMEDIA",
+        "PROJECTOR"
+      ],
+      "prediction": "Sanyo Pro Xtra XM-1000 Multimedia Projector"
+    }
+  ],
+  "metrics": {
+    "word_accuracy": 0.3134020618556701,
+    "strict_word_accuracy": 0.29896907216494845
+  }
+}

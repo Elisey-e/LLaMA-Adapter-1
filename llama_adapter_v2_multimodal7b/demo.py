@@ -5,10 +5,10 @@ from PIL import Image
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
-llama_dir = "/path/to/LLaMA/"
+llama_dir = "LLaMA-7B"
 
 # choose from BIAS-7B, LORA-BIAS-7B, CAPTION-7B.pth
-model, preprocess = llama.load("BIAS-7B", llama_dir, device)
+model, preprocess = llama.load("LORA-BIAS-7B", llama_dir, device)
 model.eval()
 
 prompt = llama.format_prompt('Please introduce this painting.')
@@ -17,4 +17,6 @@ img = preprocess(img).unsqueeze(0).to(device)
 
 result = model.generate(img, [prompt])[0]
 
+print("---------------")
 print(result)
+print("---------------")

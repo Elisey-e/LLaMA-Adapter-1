@@ -1,0 +1,124 @@
+{
+  "results": [
+    {
+      "img_path": "../datasets/IIIT5K/test/1002_1.png",
+      "ground_truth": "PRIVATE",
+      "prediction": "Va.gov",
+      "cleaned_prediction": "Va.gov"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/1002_2.png",
+      "ground_truth": "PARKING",
+      "prediction": "Rock Logo",
+      "cleaned_prediction": "Rock Logo"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/1009_1.png",
+      "ground_truth": "SALUTES",
+      "prediction": " I'm not sure what you mean by 'gluten free' but I'm not a fan of gluten.  I'm not sure if it's a food allergy or just a preference.  I'm not a fan of wheat in general.  I'm not sure if it's a food allergy or just a preference.  I'm not a fan of wheat in general.  I'm not sure if it's a food allergy or just a preference.  I'm not a fan of wheat in general.  I'm not sure if it's a food allergy or just a preference.  I'm not a fan of wheat in general.  I'm not sure if it's a food allergy or just a preference.  I'm not a fan of wheat in general.  I'm not sure if it's a food allergy or just a preference.  I'm not a fan of wheat in general.  I'm not sure if it's a food allergy or just a preference.  I'm not a fan of wheat in general.  I'm not sure",
+      "cleaned_prediction": "I'm not sure what you mean by gluten free but I'm not a fan of gluten I'm not sure if it's a food allergy or just a preference I'm not a fan of wheat in general I'm not sure if it's a food allergy or just a preference I'm not a fan of wheat in general I'm not sure if it's a food allergy or just a preference I'm not a fan of wheat in general I'm not sure if it's a food allergy or just a preference I'm not a fan of wheat in general I'm not sure if it's a food allergy or just a preference I'm not a fan of wheat in general I'm not sure if it's a food allergy or just a preference I'm not a fan of wheat in general I'm not sure if it's a food allergy or just a preference I'm not a fan of wheat in general I'm not sure"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/100_1.png",
+      "ground_truth": "DOLCE",
+      "prediction": "The word 'College' is written in white on a black background.",
+      "cleaned_prediction": "The word College is written in white on a black background"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/100_2.png",
+      "ground_truth": "GABBANA",
+      "prediction": "Bbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "cleaned_prediction": "Bbabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/100_3.png",
+      "ground_truth": "REGENCY",
+      "prediction": "Genesis 3:15",
+      "cleaned_prediction": "Genesis 3:15"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/1016_1.png",
+      "ground_truth": "STATE",
+      "prediction": "The text on the license plate is a bit blurry, but it says: STATE OF MISSOURI",
+      "cleaned_prediction": "The text on the license plate is a bit blurry but it says STATE OF MISSOURI"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/1016_2.png",
+      "ground_truth": "BANK",
+      "prediction": "BANK",
+      "cleaned_prediction": "BANK"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/1016_3.png",
+      "ground_truth": "OF",
+      "prediction": "The text is a part of the signage of the building.",
+      "cleaned_prediction": "The text is a part of the signage of the building"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/1016_4.png",
+      "ground_truth": "INDIA",
+      "prediction": "India",
+      "cleaned_prediction": "India"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/1017_3.png",
+      "ground_truth": "KINGFISHER",
+      "prediction": "FISH",
+      "cleaned_prediction": "FISH"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/101_1.png",
+      "ground_truth": "CLEAR",
+      "prediction": "Clean",
+      "cleaned_prediction": "Clean"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/101_2.png",
+      "ground_truth": "CHANNEL",
+      "prediction": "Hannan, John, 1897-1980",
+      "cleaned_prediction": "Hannan John 1897-1980"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/101_3.png",
+      "ground_truth": "UNIVERSAL",
+      "prediction": "Verizon",
+      "cleaned_prediction": "Verizon"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/101_4.png",
+      "ground_truth": "STUDIOS",
+      "prediction": "Audubon Society",
+      "cleaned_prediction": "Audubon Society"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/101_5.png",
+      "ground_truth": "HOLLYWOOD",
+      "prediction": "Hollywood",
+      "cleaned_prediction": "Hollywood"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/101_6.png",
+      "ground_truth": "COM",
+      "prediction": "Coming Soon",
+      "cleaned_prediction": "Coming Soon"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/1021_2.png",
+      "ground_truth": "LOAN",
+      "prediction": "Loan",
+      "cleaned_prediction": "Loan"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/1021_3.png",
+      "ground_truth": "THAT",
+      "prediction": "That's what I'm talking about!",
+      "cleaned_prediction": "That's what I'm talking about"
+    },
+    {
+      "img_path": "../datasets/IIIT5K/test/1021_4.png",
+      "ground_truth": "HOME",
+      "prediction": "Home",
+      "cleaned_prediction": "Home"
+    }
+  ]
+}
