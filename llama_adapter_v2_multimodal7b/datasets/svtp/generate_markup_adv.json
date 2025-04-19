@@ -1,0 +1,5164 @@
+{
+  "results": [
+    {
+      "img_path": "../datasets/svtp/images/1.jpg",
+      "ground_truth": [
+        "W,Y,N,D,H,A,M"
+      ],
+      "prediction": "Wyndham Hotels & Resorts",
+      "cleaned_prediction": "wyndham hotels & resorts"
+    },
+    {
+      "img_path": "../datasets/svtp/images/10.jpg",
+      "ground_truth": [
+        "B,a,n,k"
+      ],
+      "prediction": "Bank",
+      "cleaned_prediction": "bank"
+    },
+    {
+      "img_path": "../datasets/svtp/images/100.jpg",
+      "ground_truth": [
+        "K,F,C"
+      ],
+      "prediction": "KFC logo",
+      "cleaned_prediction": "kfc logo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/101.jpg",
+      "ground_truth": [
+        "A,l,l,e,n"
+      ],
+      "prediction": "Allen",
+      "cleaned_prediction": "allen"
+    },
+    {
+      "img_path": "../datasets/svtp/images/102.jpg",
+      "ground_truth": [
+        "C,e,n,t,e,r"
+      ],
+      "prediction": "Center for the Study of the American South",
+      "cleaned_prediction": "center for the study of the american south"
+    },
+    {
+      "img_path": "../datasets/svtp/images/103.jpg",
+      "ground_truth": [
+        "H,E,S,S"
+      ],
+      "prediction": "Hess Sign",
+      "cleaned_prediction": "hess sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/104.jpg",
+      "ground_truth": [
+        "E,V,E,R,E,S,T"
+      ],
+      "prediction": "The word 'SERES' is written in black on a white background.",
+      "cleaned_prediction": "the word seres is written in black on a white background"
+    },
+    {
+      "img_path": "../datasets/svtp/images/105.jpg",
+      "ground_truth": [
+        "C,O,L,L,E,G,E"
+      ],
+      "prediction": "College Sign",
+      "cleaned_prediction": "college sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/106.jpg",
+      "ground_truth": [
+        "T,R,I,D,E,N,T"
+      ],
+      "prediction": "Deutsche Bank",
+      "cleaned_prediction": "deutsche bank"
+    },
+    {
+      "img_path": "../datasets/svtp/images/107.jpg",
+      "ground_truth": [
+        "I,n,d,i,a,n,a"
+      ],
+      "prediction": "Alien 3 (1992)",
+      "cleaned_prediction": "alien 3 1992"
+    },
+    {
+      "img_path": "../datasets/svtp/images/108.jpg",
+      "ground_truth": [
+        "R,e,p,e,r,t,o,r,y"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/109.jpg",
+      "ground_truth": [
+        "T,h,e,a,t,r,e"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/11.jpg",
+      "ground_truth": [
+        "T,h,e"
+      ],
+      "prediction": "The text is a string of numbers and letters.",
+      "cleaned_prediction": "the text is a string of numbers and letters"
+    },
+    {
+      "img_path": "../datasets/svtp/images/110.jpg",
+      "ground_truth": [
+        "P,A,R,A,M,O,U,N,T"
+      ],
+      "prediction": "Famous Sign",
+      "cleaned_prediction": "famous sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/111.jpg",
+      "ground_truth": [
+        "M,U,Z,E,O"
+      ],
+      "prediction": "Muzee - Free Music Player",
+      "cleaned_prediction": "muzee - free music player"
+    },
+    {
+      "img_path": "../datasets/svtp/images/112.jpg",
+      "ground_truth": [
+        "A,N,A,H,E,I,M"
+      ],
+      "prediction": "SAFE",
+      "cleaned_prediction": "safe"
+    },
+    {
+      "img_path": "../datasets/svtp/images/113.jpg",
+      "ground_truth": [
+        "P,U,B,L,I,C"
+      ],
+      "prediction": "The text is a part of the building's name.",
+      "cleaned_prediction": "the text is a part of the buildings name"
+    },
+    {
+      "img_path": "../datasets/svtp/images/114.jpg",
+      "ground_truth": [
+        "M,A,R,K,E,T"
+      ],
+      "prediction": "Market",
+      "cleaned_prediction": "market"
+    },
+    {
+      "img_path": "../datasets/svtp/images/115.jpg",
+      "ground_truth": [
+        "M,E,A,T"
+      ],
+      "prediction": "MEASURES - Include all words, numbers, and symbols in their original form.  - Preserve line breaks and spacing where relevant.  - Skip any non-text elements, artifacts, or image noise.  - Output only the extracted text, without additional comments or formatting.  ",
+      "cleaned_prediction": "measures - include all words numbers and symbols in their original form - preserve line breaks and spacing where relevant - skip any non-text elements artifacts or image noise - output only the extracted text without additional comments or formatting"
+    },
+    {
+      "img_path": "../datasets/svtp/images/116.jpg",
+      "ground_truth": [
+        "M,I,C,H,O,A,C,A,N,A"
+      ],
+      "prediction": "The logo of the Home Depot store in the United States.",
+      "cleaned_prediction": "the logo of the home depot store in the united states"
+    },
+    {
+      "img_path": "../datasets/svtp/images/117.jpg",
+      "ground_truth": [
+        "T,A,Q,U,E,R,I,A"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/118.jpg",
+      "ground_truth": [
+        "H,E,R,I,T,A,G,E"
+      ],
+      "prediction": "Heritage",
+      "cleaned_prediction": "heritage"
+    },
+    {
+      "img_path": "../datasets/svtp/images/119.jpg",
+      "ground_truth": [
+        "F,O,R,U,M"
+      ],
+      "prediction": "Forum",
+      "cleaned_prediction": "forum"
+    },
+    {
+      "img_path": "../datasets/svtp/images/12.jpg",
+      "ground_truth": [
+        "M,O,S,S,E,R"
+      ],
+      "prediction": "The text on the book is a quote from the book.",
+      "cleaned_prediction": "the text on the book is a quote from the book"
+    },
+    {
+      "img_path": "../datasets/svtp/images/120.jpg",
+      "ground_truth": [
+        "B,A,R"
+      ],
+      "prediction": "BARF",
+      "cleaned_prediction": "barf"
+    },
+    {
+      "img_path": "../datasets/svtp/images/121.jpg",
+      "ground_truth": [
+        "G,R,I,L,L"
+      ],
+      "prediction": "GRILLA",
+      "cleaned_prediction": "grilla"
+    },
+    {
+      "img_path": "../datasets/svtp/images/122.jpg",
+      "ground_truth": [
+        "J,U,K,E"
+      ],
+      "prediction": "Whitney Houston - I Will Always Love You",
+      "cleaned_prediction": "whitney houston - i will always love you"
+    },
+    {
+      "img_path": "../datasets/svtp/images/123.jpg",
+      "ground_truth": [
+        "J,O,I,N,T"
+      ],
+      "prediction": "The text is extracted from the image.",
+      "cleaned_prediction": "the text is extracted from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/124.jpg",
+      "ground_truth": [
+        "M,I,L,L,S"
+      ],
+      "prediction": "Mills Auto Sales",
+      "cleaned_prediction": "mills auto sales"
+    },
+    {
+      "img_path": "../datasets/svtp/images/125.jpg",
+      "ground_truth": [
+        "S,U,B"
+      ],
+      "prediction": "Subscribe to our newsletter",
+      "cleaned_prediction": "subscribe to our newsletter"
+    },
+    {
+      "img_path": "../datasets/svtp/images/126.jpg",
+      "ground_truth": [
+        "P,u,b,l,i,c"
+      ],
+      "prediction": "Public",
+      "cleaned_prediction": "public"
+    },
+    {
+      "img_path": "../datasets/svtp/images/127.jpg",
+      "ground_truth": [
+        "S,t,o,r,a,g,e"
+      ],
+      "prediction": "Storage",
+      "cleaned_prediction": "storage"
+    },
+    {
+      "img_path": "../datasets/svtp/images/128.jpg",
+      "ground_truth": [
+        "S,h,e,l,l"
+      ],
+      "prediction": "The Heat",
+      "cleaned_prediction": "the heat"
+    },
+    {
+      "img_path": "../datasets/svtp/images/129.jpg",
+      "ground_truth": [
+        "r,e,n,t"
+      ],
+      "prediction": "Rent Sign",
+      "cleaned_prediction": "rent sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/13.jpg",
+      "ground_truth": [
+        "T,h,e"
+      ],
+      "prediction": "The Tie",
+      "cleaned_prediction": "the tie"
+    },
+    {
+      "img_path": "../datasets/svtp/images/130.jpg",
+      "ground_truth": [
+        "c,a,r"
+      ],
+      "prediction": "Car Text Extractor",
+      "cleaned_prediction": "car text extractor"
+    },
+    {
+      "img_path": "../datasets/svtp/images/131.jpg",
+      "ground_truth": [
+        "e,n,t,e,r,p,r,i,s,e, ,r,e,n,t,-,a,-,c,a,r"
+      ],
+      "prediction": "Enterprise Rent-A-Car",
+      "cleaned_prediction": "enterprise rent-a-car"
+    },
+    {
+      "img_path": "../datasets/svtp/images/132.jpg",
+      "ground_truth": [
+        "P,A,U"
+      ],
+      "prediction": "Paula Deen's Family Recipes",
+      "cleaned_prediction": "paula deens family recipes"
+    },
+    {
+      "img_path": "../datasets/svtp/images/133.jpg",
+      "ground_truth": [
+        "L,A,U,R,E,N,C,E"
+      ],
+      "prediction": "Laurence Family History",
+      "cleaned_prediction": "laurence family history"
+    },
+    {
+      "img_path": "../datasets/svtp/images/134.jpg",
+      "ground_truth": [
+        "D,U,N,B,A,R"
+      ],
+      "prediction": "Sunbelt Rentals",
+      "cleaned_prediction": "sunbelt rentals"
+    },
+    {
+      "img_path": "../datasets/svtp/images/135.jpg",
+      "ground_truth": [
+        "H,I,G,H"
+      ],
+      "prediction": "High",
+      "cleaned_prediction": "high"
+    },
+    {
+      "img_path": "../datasets/svtp/images/136.jpg",
+      "ground_truth": [
+        "S,C,H,O,O,L"
+      ],
+      "prediction": "Chocolate",
+      "cleaned_prediction": "chocolate"
+    },
+    {
+      "img_path": "../datasets/svtp/images/137.jpg",
+      "ground_truth": [
+        "O,R,L,E,A,N,S"
+      ],
+      "prediction": "LEAD",
+      "cleaned_prediction": "lead"
+    },
+    {
+      "img_path": "../datasets/svtp/images/138.jpg",
+      "ground_truth": [
+        "C,h,a,s,e"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/139.jpg",
+      "ground_truth": [
+        "B,r,e,x,t,o,n"
+      ],
+      "prediction": "Extract all visible text from this image exactly as it appears.  - Include all words, numbers, and symbols in their original form.  - Preserve line breaks and spacing where relevant.  - Skip any non-text elements, artifacts, or image noise.  - Output only the extracted text, without additional comments or formatting.  ",
+      "cleaned_prediction": "extract all visible text from this image exactly as it appears - include all words numbers and symbols in their original form - preserve line breaks and spacing where relevant - skip any non-text elements artifacts or image noise - output only the extracted text without additional comments or formatting"
+    },
+    {
+      "img_path": "../datasets/svtp/images/14.jpg",
+      "ground_truth": [
+        "M,O,S,S,E,R"
+      ],
+      "prediction": "Crossed Out",
+      "cleaned_prediction": "crossed out"
+    },
+    {
+      "img_path": "../datasets/svtp/images/140.jpg",
+      "ground_truth": [
+        "C,h,a,s,e"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/141.jpg",
+      "ground_truth": [
+        "B,r,e,x,t,o,n"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/142.jpg",
+      "ground_truth": [
+        "F,I,R,S,T"
+      ],
+      "prediction": "SRS",
+      "cleaned_prediction": "srs"
+    },
+    {
+      "img_path": "../datasets/svtp/images/143.jpg",
+      "ground_truth": [
+        "U,N,I,T,E,D"
+      ],
+      "prediction": "United States",
+      "cleaned_prediction": "united states"
+    },
+    {
+      "img_path": "../datasets/svtp/images/144.jpg",
+      "ground_truth": [
+        "M,E,T,H,O,D,I,S,T"
+      ],
+      "prediction": "Hoodie",
+      "cleaned_prediction": "hoodie"
+    },
+    {
+      "img_path": "../datasets/svtp/images/145.jpg",
+      "ground_truth": [
+        "C,H,U,R,C,H"
+      ],
+      "prediction": "Urban",
+      "cleaned_prediction": "urban"
+    },
+    {
+      "img_path": "../datasets/svtp/images/146.jpg",
+      "ground_truth": [
+        "M,o,b,i,l,e"
+      ],
+      "prediction": "Mobile",
+      "cleaned_prediction": "mobile"
+    },
+    {
+      "img_path": "../datasets/svtp/images/147.jpg",
+      "ground_truth": [
+        "m,o,b,i,l,e"
+      ],
+      "prediction": "The text is a bit blurry, but it's readable.",
+      "cleaned_prediction": "the text is a bit blurry but its readable"
+    },
+    {
+      "img_path": "../datasets/svtp/images/148.jpg",
+      "ground_truth": [
+        "M,o,o,n"
+      ],
+      "prediction": "Blood Type",
+      "cleaned_prediction": "blood type"
+    },
+    {
+      "img_path": "../datasets/svtp/images/149.jpg",
+      "ground_truth": [
+        "P,a,l,a,c,e"
+      ],
+      "prediction": "Sulaco",
+      "cleaned_prediction": "sulaco"
+    },
+    {
+      "img_path": "../datasets/svtp/images/15.jpg",
+      "ground_truth": [
+        "T,h,e"
+      ],
+      "prediction": "The",
+      "cleaned_prediction": "the"
+    },
+    {
+      "img_path": "../datasets/svtp/images/150.jpg",
+      "ground_truth": [
+        "M,o,o,n"
+      ],
+      "prediction": "Bloom - 100% Cotton, 4.3 oz, 4.5\" x 4.5\"",
+      "cleaned_prediction": "bloom - 100% cotton 43 oz 45 x 45"
+    },
+    {
+      "img_path": "../datasets/svtp/images/151.jpg",
+      "ground_truth": [
+        "P,a,l,a,c,e"
+      ],
+      "prediction": "Palace Hotel",
+      "cleaned_prediction": "palace hotel"
+    },
+    {
+      "img_path": "../datasets/svtp/images/152.jpg",
+      "ground_truth": [
+        "M,o,o,n"
+      ],
+      "prediction": "Moopoo",
+      "cleaned_prediction": "moopoo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/153.jpg",
+      "ground_truth": [
+        "P,a,l,a,c,e"
+      ],
+      "prediction": "Palmer, John, 1804-1882.  The American dictionary of the English language: in which the words are deduced from their originals, and illustrated in their different significations by examples from the best writers.  New York: Harper & Brothers, 1847.",
+      "cleaned_prediction": "palmer john 1804-1882 the american dictionary of the english language in which the words are deduced from their originals and illustrated in their different significations by examples from the best writers new york harper & brothers 1847"
+    },
+    {
+      "img_path": "../datasets/svtp/images/154.jpg",
+      "ground_truth": [
+        "W,O,R,L,D"
+      ],
+      "prediction": "Walmart logo",
+      "cleaned_prediction": "walmart logo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/155.jpg",
+      "ground_truth": [
+        "M,A,R,K,E,T"
+      ],
+      "prediction": "Market Basket",
+      "cleaned_prediction": "market basket"
+    },
+    {
+      "img_path": "../datasets/svtp/images/156.jpg",
+      "ground_truth": [
+        "F,I,T,N,E,S,S"
+      ],
+      "prediction": "Fitness Center",
+      "cleaned_prediction": "fitness center"
+    },
+    {
+      "img_path": "../datasets/svtp/images/157.jpg",
+      "ground_truth": [
+        "M,i,c,h,a,e,l,s"
+      ],
+      "prediction": "Michael Kors Outlet Online",
+      "cleaned_prediction": "michael kors outlet online"
+    },
+    {
+      "img_path": "../datasets/svtp/images/158.jpg",
+      "ground_truth": [
+        "T,H,R,E,E"
+      ],
+      "prediction": "The text is a bit blurry, but it's readable.",
+      "cleaned_prediction": "the text is a bit blurry but its readable"
+    },
+    {
+      "img_path": "../datasets/svtp/images/159.jpg",
+      "ground_truth": [
+        "H,A,P,P,I,N,E,S,S"
+      ],
+      "prediction": "The Philippines is a sovereign island country in Southeast Asia situated in the western Pacific Ocean. It is an archipelago consisting of 7,107 islands. Its name is derived from the Spanish word Filipinas, which is a name derived from the name of King Philip II of Spain. The Philippines is the only ASEAN country with a Spanish name.",
+      "cleaned_prediction": "the philippines is a sovereign island country in southeast asia situated in the western pacific ocean it is an archipelago consisting of 7107 islands its name is derived from the spanish word filipinas which is a name derived from the name of king philip ii of spain the philippines is the only asean country with a spanish name"
+    },
+    {
+      "img_path": "../datasets/svtp/images/16.jpg",
+      "ground_truth": [
+        "M,O,S,S,E,R"
+      ],
+      "prediction": "Mossberg 500",
+      "cleaned_prediction": "mossberg 500"
+    },
+    {
+      "img_path": "../datasets/svtp/images/160.jpg",
+      "ground_truth": [
+        "T,H,R,E,E"
+      ],
+      "prediction": "ARS",
+      "cleaned_prediction": "ars"
+    },
+    {
+      "img_path": "../datasets/svtp/images/161.jpg",
+      "ground_truth": [
+        "H,A,P,P,I,N,E,S,S"
+      ],
+      "prediction": "PINNING",
+      "cleaned_prediction": "pinning"
+    },
+    {
+      "img_path": "../datasets/svtp/images/162.jpg",
+      "ground_truth": [
+        "D,A,L,L,A,S"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/163.jpg",
+      "ground_truth": [
+        "T,H,E,O,L,O,G,I,C,A,L"
+      ],
+      "prediction": "LOL",
+      "cleaned_prediction": "lol"
+    },
+    {
+      "img_path": "../datasets/svtp/images/164.jpg",
+      "ground_truth": [
+        "S,E,M,I,N,A,R,Y"
+      ],
+      "prediction": "Extracted text from a newspaper article",
+      "cleaned_prediction": "extracted text from a newspaper article"
+    },
+    {
+      "img_path": "../datasets/svtp/images/165.jpg",
+      "ground_truth": [
+        "W,I,L,L,I,A,M,S"
+      ],
+      "prediction": "Aliana",
+      "cleaned_prediction": "aliana"
+    },
+    {
+      "img_path": "../datasets/svtp/images/166.jpg",
+      "ground_truth": [
+        "T,A,V,E,R,N"
+      ],
+      "prediction": "AVERAGE - Average",
+      "cleaned_prediction": "average - average"
+    },
+    {
+      "img_path": "../datasets/svtp/images/167.jpg",
+      "ground_truth": [
+        "T,W,O"
+      ],
+      "prediction": "Twitter",
+      "cleaned_prediction": "twitter"
+    },
+    {
+      "img_path": "../datasets/svtp/images/168.jpg",
+      "ground_truth": [
+        "S,H,E,L,L"
+      ],
+      "prediction": "HELP",
+      "cleaned_prediction": "help"
+    },
+    {
+      "img_path": "../datasets/svtp/images/169.jpg",
+      "ground_truth": [
+        "P,L,A,Z,A"
+      ],
+      "prediction": "Lazarus",
+      "cleaned_prediction": "lazarus"
+    },
+    {
+      "img_path": "../datasets/svtp/images/17.jpg",
+      "ground_truth": [
+        "S,I,M,O,N"
+      ],
+      "prediction": "Mom Sign",
+      "cleaned_prediction": "mom sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/170.jpg",
+      "ground_truth": [
+        "M,A,G,N,O,L,I,A"
+      ],
+      "prediction": "G",
+      "cleaned_prediction": "g"
+    },
+    {
+      "img_path": "../datasets/svtp/images/171.jpg",
+      "ground_truth": [
+        "S,A,N,D,W,I,C,H"
+      ],
+      "prediction": "Wendy's",
+      "cleaned_prediction": "wendys"
+    },
+    {
+      "img_path": "../datasets/svtp/images/172.jpg",
+      "ground_truth": [
+        "S,H,O,P"
+      ],
+      "prediction": "Shop",
+      "cleaned_prediction": "shop"
+    },
+    {
+      "img_path": "../datasets/svtp/images/173.jpg",
+      "ground_truth": [
+        "J,e,a,n"
+      ],
+      "prediction": "Jean-Jacques Rousseau",
+      "cleaned_prediction": "jean-jacques rousseau"
+    },
+    {
+      "img_path": "../datasets/svtp/images/174.jpg",
+      "ground_truth": [
+        "L,o,u,i,s"
+      ],
+      "prediction": "The text is: 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1",
+      "cleaned_prediction": "the text is 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1999-2000 1"
+    },
+    {
+      "img_path": "../datasets/svtp/images/175.jpg",
+      "ground_truth": [
+        "D,a,v,i,d"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/176.jpg",
+      "ground_truth": [
+        "A,R,M,Y"
+      ],
+      "prediction": "Army Sign",
+      "cleaned_prediction": "army sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/177.jpg",
+      "ground_truth": [
+        "S,T,O,R,E"
+      ],
+      "prediction": "Stores",
+      "cleaned_prediction": "stores"
+    },
+    {
+      "img_path": "../datasets/svtp/images/178.jpg",
+      "ground_truth": [
+        "P,a,r,l,i,a,m,e,n,t"
+      ],
+      "prediction": "Parliament House",
+      "cleaned_prediction": "parliament house"
+    },
+    {
+      "img_path": "../datasets/svtp/images/179.jpg",
+      "ground_truth": [
+        "H,o,u,s,e"
+      ],
+      "prediction": "House - 100% Cotton T-Shirt",
+      "cleaned_prediction": "house - 100% cotton t-shirt"
+    },
+    {
+      "img_path": "../datasets/svtp/images/18.jpg",
+      "ground_truth": [
+        "S,A,N"
+      ],
+      "prediction": "AM",
+      "cleaned_prediction": "am"
+    },
+    {
+      "img_path": "../datasets/svtp/images/180.jpg",
+      "ground_truth": [
+        "R,E,S,O,R,T"
+      ],
+      "prediction": "Essay Writing Service",
+      "cleaned_prediction": "essay writing service"
+    },
+    {
+      "img_path": "../datasets/svtp/images/181.jpg",
+      "ground_truth": [
+        "C,o,l,o,n,i,a,l"
+      ],
+      "prediction": "Love - 100% Cotton, 4.3 oz, 30/1, 44/44, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x1 Rib, 1x",
+      "cleaned_prediction": "love - 100% cotton 43 oz 30/1 44/44 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x1 rib 1x"
+    },
+    {
+      "img_path": "../datasets/svtp/images/182.jpg",
+      "ground_truth": [
+        "P,H,O,T,O"
+      ],
+      "prediction": "Hotel",
+      "cleaned_prediction": "hotel"
+    },
+    {
+      "img_path": "../datasets/svtp/images/183.jpg",
+      "ground_truth": [
+        "H,O,B,B,Y"
+      ],
+      "prediction": "Robbie",
+      "cleaned_prediction": "robbie"
+    },
+    {
+      "img_path": "../datasets/svtp/images/184.jpg",
+      "ground_truth": [
+        "I,N,C"
+      ],
+      "prediction": "Incident Report",
+      "cleaned_prediction": "incident report"
+    },
+    {
+      "img_path": "../datasets/svtp/images/185.jpg",
+      "ground_truth": [
+        "C,h,i,n,a"
+      ],
+      "prediction": "Chinese",
+      "cleaned_prediction": "chinese"
+    },
+    {
+      "img_path": "../datasets/svtp/images/186.jpg",
+      "ground_truth": [
+        "D,o,l,l,a,r"
+      ],
+      "prediction": "Mulligan's",
+      "cleaned_prediction": "mulligans"
+    },
+    {
+      "img_path": "../datasets/svtp/images/187.jpg",
+      "ground_truth": [
+        "C,h,i,n,a"
+      ],
+      "prediction": "Chinese",
+      "cleaned_prediction": "chinese"
+    },
+    {
+      "img_path": "../datasets/svtp/images/188.jpg",
+      "ground_truth": [
+        "D,o,l,l,a,r"
+      ],
+      "prediction": "The text is extracted from the image.",
+      "cleaned_prediction": "the text is extracted from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/189.jpg",
+      "ground_truth": [
+        "D,o,l,l,a,r"
+      ],
+      "prediction": "Dillard University",
+      "cleaned_prediction": "dillard university"
+    },
+    {
+      "img_path": "../datasets/svtp/images/19.jpg",
+      "ground_truth": [
+        "J,O,S,E"
+      ],
+      "prediction": "Our logo is a simple, elegant, and timeless design.  It is a combination of the letters O and S.  The O is a circle with a line through it.  The S is a circle with a line through it.  The line through the O is a straight line.  The line through the S is a curved line.  The line through the O is a straight line.  The line through the S is a curved line.  The line through the O is a straight line.  The line through the S is a curved line.  The line through the O is a straight line.  The line through the S is a curved line.  The line through the O is a straight line.  The line through the S is a curved line.  The line through the O is a straight line.  The line through the S is a curved line.  The line through the O is a straight line.  The line through the S is a curved line.  The line through the O is a straight line.  The line through the S is a curved line.  The line through the O is a straight line.  The line through the S is a curved line",
+      "cleaned_prediction": "our logo is a simple elegant and timeless design it is a combination of the letters o and s the o is a circle with a line through it the s is a circle with a line through it the line through the o is a straight line the line through the s is a curved line the line through the o is a straight line the line through the s is a curved line the line through the o is a straight line the line through the s is a curved line the line through the o is a straight line the line through the s is a curved line the line through the o is a straight line the line through the s is a curved line the line through the o is a straight line the line through the s is a curved line the line through the o is a straight line the line through the s is a curved line the line through the o is a straight line the line through the s is a curved line the line through the o is a straight line the line through the s is a curved line"
+    },
+    {
+      "img_path": "../datasets/svtp/images/190.jpg",
+      "ground_truth": [
+        "M,a,r,r,i,o,t,t"
+      ],
+      "prediction": "Natty Light Neon Sign",
+      "cleaned_prediction": "natty light neon sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/191.jpg",
+      "ground_truth": [
+        "M,a,r,r,i,o,t,t"
+      ],
+      "prediction": "Swindon Town",
+      "cleaned_prediction": "swindon town"
+    },
+    {
+      "img_path": "../datasets/svtp/images/192.jpg",
+      "ground_truth": [
+        "C,i,n,e,m,a"
+      ],
+      "prediction": "Snowflakes on a blue background",
+      "cleaned_prediction": "snowflakes on a blue background"
+    },
+    {
+      "img_path": "../datasets/svtp/images/193.jpg",
+      "ground_truth": [
+        "P,a,r,k"
+      ],
+      "prediction": "Park",
+      "cleaned_prediction": "park"
+    },
+    {
+      "img_path": "../datasets/svtp/images/194.jpg",
+      "ground_truth": [
+        "K,i,t,c,h,e,n"
+      ],
+      "prediction": "Kitchen",
+      "cleaned_prediction": "kitchen"
+    },
+    {
+      "img_path": "../datasets/svtp/images/195.jpg",
+      "ground_truth": [
+        "P,A,R,K"
+      ],
+      "prediction": "ARISE",
+      "cleaned_prediction": "arise"
+    },
+    {
+      "img_path": "../datasets/svtp/images/196.jpg",
+      "ground_truth": [
+        "K,I,T,C,H,E,N"
+      ],
+      "prediction": "Chicago, Illinois, United States",
+      "cleaned_prediction": "chicago illinois united states"
+    },
+    {
+      "img_path": "../datasets/svtp/images/197.jpg",
+      "ground_truth": [
+        "M,a,r,r,i,o,t,t"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/198.jpg",
+      "ground_truth": [
+        "T,H,E, ,C,a,s,b,a,h"
+      ],
+      "prediction": "A close up of the text on the side of the bus.",
+      "cleaned_prediction": "a close up of the text on the side of the bus"
+    },
+    {
+      "img_path": "../datasets/svtp/images/199.jpg",
+      "ground_truth": [
+        "F,I,R,S,T"
+      ],
+      "prediction": "The text is a bit blurry, but it's readable.",
+      "cleaned_prediction": "the text is a bit blurry but its readable"
+    },
+    {
+      "img_path": "../datasets/svtp/images/2.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "Home Depot",
+      "cleaned_prediction": "home depot"
+    },
+    {
+      "img_path": "../datasets/svtp/images/20.jpg",
+      "ground_truth": [
+        "M,U,S,E,U,M"
+      ],
+      "prediction": "SEO",
+      "cleaned_prediction": "seo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/200.jpg",
+      "ground_truth": [
+        "C,R,U,S,H"
+      ],
+      "prediction": "The text is a bit blurry, but it's readable.",
+      "cleaned_prediction": "the text is a bit blurry but its readable"
+    },
+    {
+      "img_path": "../datasets/svtp/images/201.jpg",
+      "ground_truth": [
+        "F,I,R,S,T"
+      ],
+      "prediction": "The text on the back of the shirt is a quote from the movie.",
+      "cleaned_prediction": "the text on the back of the shirt is a quote from the movie"
+    },
+    {
+      "img_path": "../datasets/svtp/images/202.jpg",
+      "ground_truth": [
+        "C,R,U,S"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/203.jpg",
+      "ground_truth": [
+        "F,I,R,S,T"
+      ],
+      "prediction": "Firsts",
+      "cleaned_prediction": "firsts"
+    },
+    {
+      "img_path": "../datasets/svtp/images/204.jpg",
+      "ground_truth": [
+        "C,R,U,S,H"
+      ],
+      "prediction": "Russia",
+      "cleaned_prediction": "russia"
+    },
+    {
+      "img_path": "../datasets/svtp/images/205.jpg",
+      "ground_truth": [
+        "F,I,R,S,T"
+      ],
+      "prediction": "FIRST",
+      "cleaned_prediction": "first"
+    },
+    {
+      "img_path": "../datasets/svtp/images/206.jpg",
+      "ground_truth": [
+        "C,R,U,S,H"
+      ],
+      "prediction": "Russians",
+      "cleaned_prediction": "russians"
+    },
+    {
+      "img_path": "../datasets/svtp/images/207.jpg",
+      "ground_truth": [
+        "F,I,R,S,T"
+      ],
+      "prediction": "Firms",
+      "cleaned_prediction": "firms"
+    },
+    {
+      "img_path": "../datasets/svtp/images/208.jpg",
+      "ground_truth": [
+        "C,R,U,S,H"
+      ],
+      "prediction": "Russia",
+      "cleaned_prediction": "russia"
+    },
+    {
+      "img_path": "../datasets/svtp/images/209.jpg",
+      "ground_truth": [
+        "T,A,R,A"
+      ],
+      "prediction": "Caramelized Onion and Goat Cheese Pizza",
+      "cleaned_prediction": "caramelized onion and goat cheese pizza"
+    },
+    {
+      "img_path": "../datasets/svtp/images/21.jpg",
+      "ground_truth": [
+        "A, ,R, ,T"
+      ],
+      "prediction": "R",
+      "cleaned_prediction": "r"
+    },
+    {
+      "img_path": "../datasets/svtp/images/210.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "Restaurant Sign",
+      "cleaned_prediction": "restaurant sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/211.jpg",
+      "ground_truth": [
+        "P,I,N,E"
+      ],
+      "prediction": "Pink Floyd - The Wall",
+      "cleaned_prediction": "pink floyd - the wall"
+    },
+    {
+      "img_path": "../datasets/svtp/images/212.jpg",
+      "ground_truth": [
+        "C,R,E,S,T"
+      ],
+      "prediction": "Research",
+      "cleaned_prediction": "research"
+    },
+    {
+      "img_path": "../datasets/svtp/images/213.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "JURA",
+      "cleaned_prediction": "jura"
+    },
+    {
+      "img_path": "../datasets/svtp/images/214.jpg",
+      "ground_truth": [
+        "S,A,I,N,T"
+      ],
+      "prediction": "SANTA CLAUS",
+      "cleaned_prediction": "santa claus"
+    },
+    {
+      "img_path": "../datasets/svtp/images/215.jpg",
+      "ground_truth": [
+        "F,R,A,N,C,I,S"
+      ],
+      "prediction": "Francisco",
+      "cleaned_prediction": "francisco"
+    },
+    {
+      "img_path": "../datasets/svtp/images/216.jpg",
+      "ground_truth": [
+        "M,E,M,O,R,I,A,L"
+      ],
+      "prediction": "Memorial",
+      "cleaned_prediction": "memorial"
+    },
+    {
+      "img_path": "../datasets/svtp/images/217.jpg",
+      "ground_truth": [
+        "H,O,S,P,I,T,A,L"
+      ],
+      "prediction": "Hospital",
+      "cleaned_prediction": "hospital"
+    },
+    {
+      "img_path": "../datasets/svtp/images/218.jpg",
+      "ground_truth": [
+        "l,i,q,u,i,d"
+      ],
+      "prediction": "Liquid",
+      "cleaned_prediction": "liquid"
+    },
+    {
+      "img_path": "../datasets/svtp/images/219.jpg",
+      "ground_truth": [
+        "L,I,Q,U,I,D"
+      ],
+      "prediction": "Quique",
+      "cleaned_prediction": "quique"
+    },
+    {
+      "img_path": "../datasets/svtp/images/22.jpg",
+      "ground_truth": [
+        "S,A,N"
+      ],
+      "prediction": "San Nguyen",
+      "cleaned_prediction": "san nguyen"
+    },
+    {
+      "img_path": "../datasets/svtp/images/220.jpg",
+      "ground_truth": [
+        "A,G,E,N,C,Y"
+      ],
+      "prediction": "Genesis 2019-07-10 15:00:00 2019-07-10 15:00:00 2019-07-10 15:00:00 2019-07-10 15:00:00 2019-07-10 15:00:00 2019-07-10 15:00:00 2019-07-10 15:00:00 2019-07-10 15:00:00 2019-07-10 15:00:00 2019-07-10 15:00:00 2019-07-10 15:00:00 2019-07-10 15:00:00 2019-07-10 15",
+      "cleaned_prediction": "genesis 2019-07-10 150000 2019-07-10 150000 2019-07-10 150000 2019-07-10 150000 2019-07-10 150000 2019-07-10 150000 2019-07-10 150000 2019-07-10 150000 2019-07-10 150000 2019-07-10 150000 2019-07-10 150000 2019-07-10 150000 2019-07-10 15"
+    },
+    {
+      "img_path": "../datasets/svtp/images/221.jpg",
+      "ground_truth": [
+        "S,I,X,T,H"
+      ],
+      "prediction": "Sixth",
+      "cleaned_prediction": "sixth"
+    },
+    {
+      "img_path": "../datasets/svtp/images/222.jpg",
+      "ground_truth": [
+        "A,V,E,N,U,E"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/223.jpg",
+      "ground_truth": [
+        "B,A,R"
+      ],
+      "prediction": "Barbara",
+      "cleaned_prediction": "barbara"
+    },
+    {
+      "img_path": "../datasets/svtp/images/224.jpg",
+      "ground_truth": [
+        "G,R,I,L,L"
+      ],
+      "prediction": "RIP",
+      "cleaned_prediction": "rip"
+    },
+    {
+      "img_path": "../datasets/svtp/images/225.jpg",
+      "ground_truth": [
+        "B,A,R, ,&, ,C"
+      ],
+      "prediction": "AR & Associates",
+      "cleaned_prediction": "ar & associates"
+    },
+    {
+      "img_path": "../datasets/svtp/images/226.jpg",
+      "ground_truth": [
+        "G,R,I,L,L"
+      ],
+      "prediction": "RIP",
+      "cleaned_prediction": "rip"
+    },
+    {
+      "img_path": "../datasets/svtp/images/227.jpg",
+      "ground_truth": [
+        "A,V,E,N,U,E"
+      ],
+      "prediction": "Venue - 100% Cotton T-Shirt",
+      "cleaned_prediction": "venue - 100% cotton t-shirt"
+    },
+    {
+      "img_path": "../datasets/svtp/images/228.jpg",
+      "ground_truth": [
+        "S,I,X,T,H, ,B,A,R"
+      ],
+      "prediction": "Sixth Bar & Grill",
+      "cleaned_prediction": "sixth bar & grill"
+    },
+    {
+      "img_path": "../datasets/svtp/images/229.jpg",
+      "ground_truth": [
+        "s,t,e,w,a,r,t"
+      ],
+      "prediction": "I'm sorry, I don't understand.",
+      "cleaned_prediction": "im sorry i dont understand"
+    },
+    {
+      "img_path": "../datasets/svtp/images/23.jpg",
+      "ground_truth": [
+        "J,O,S,E"
+      ],
+      "prediction": "Jose",
+      "cleaned_prediction": "jose"
+    },
+    {
+      "img_path": "../datasets/svtp/images/230.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "Laura's Signature",
+      "cleaned_prediction": "lauras signature"
+    },
+    {
+      "img_path": "../datasets/svtp/images/231.jpg",
+      "ground_truth": [
+        "B,o,o,k,s"
+      ],
+      "prediction": "Book",
+      "cleaned_prediction": "book"
+    },
+    {
+      "img_path": "../datasets/svtp/images/232.jpg",
+      "ground_truth": [
+        "f,o,r"
+      ],
+      "prediction": "Forum for the Future",
+      "cleaned_prediction": "forum for the future"
+    },
+    {
+      "img_path": "../datasets/svtp/images/233.jpg",
+      "ground_truth": [
+        "A,m,e,r,i,c,a"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/234.jpg",
+      "ground_truth": [
+        "m,e,t"
+      ],
+      "prediction": "The image is a photograph of a white wall with a white door and a white window. There is a white light shining through the window.",
+      "cleaned_prediction": "the image is a photograph of a white wall with a white door and a white window there is a white light shining through the window"
+    },
+    {
+      "img_path": "../datasets/svtp/images/235.jpg",
+      "ground_truth": [
+        "c,a,f,\u00e9"
+      ],
+      "prediction": "cafe - 100%",
+      "cleaned_prediction": "cafe - 100%"
+    },
+    {
+      "img_path": "../datasets/svtp/images/236.jpg",
+      "ground_truth": [
+        "m,e,t"
+      ],
+      "prediction": "MENS",
+      "cleaned_prediction": "mens"
+    },
+    {
+      "img_path": "../datasets/svtp/images/237.jpg",
+      "ground_truth": [
+        "c,a,f,\u00e9"
+      ],
+      "prediction": "cafe-logo-text-transparent-gray-100x100",
+      "cleaned_prediction": "cafe-logo-text-transparent-gray-100x100"
+    },
+    {
+      "img_path": "../datasets/svtp/images/238.jpg",
+      "ground_truth": [
+        "Z,u,l,a"
+      ],
+      "prediction": "Zula",
+      "cleaned_prediction": "zula"
+    },
+    {
+      "img_path": "../datasets/svtp/images/239.jpg",
+      "ground_truth": [
+        "Z,u,l,a"
+      ],
+      "prediction": "Zula",
+      "cleaned_prediction": "zula"
+    },
+    {
+      "img_path": "../datasets/svtp/images/24.jpg",
+      "ground_truth": [
+        "M,U,S,E,U,M"
+      ],
+      "prediction": "Museum of the American Revolution",
+      "cleaned_prediction": "museum of the american revolution"
+    },
+    {
+      "img_path": "../datasets/svtp/images/240.jpg",
+      "ground_truth": [
+        "S,H,O,G,U,N"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/241.jpg",
+      "ground_truth": [
+        "S,U,S,H,I"
+      ],
+      "prediction": "Sushi",
+      "cleaned_prediction": "sushi"
+    },
+    {
+      "img_path": "../datasets/svtp/images/242.jpg",
+      "ground_truth": [
+        "S,U,S,H,I"
+      ],
+      "prediction": "Usher",
+      "cleaned_prediction": "usher"
+    },
+    {
+      "img_path": "../datasets/svtp/images/243.jpg",
+      "ground_truth": [
+        "S,H,O,G,U,N"
+      ],
+      "prediction": "Og\u00f3lnopolski Zwi\u0105zek Kombatant\u00f3w",
+      "cleaned_prediction": "og\u00f3lnopolski zwi\u0105zek kombatant\u00f3w"
+    },
+    {
+      "img_path": "../datasets/svtp/images/244.jpg",
+      "ground_truth": [
+        "C,L,E,A,N,E,R,S"
+      ],
+      "prediction": "Leaning on the Wall",
+      "cleaned_prediction": "leaning on the wall"
+    },
+    {
+      "img_path": "../datasets/svtp/images/245.jpg",
+      "ground_truth": [
+        "C,L,E,A,N,E,R,S"
+      ],
+      "prediction": "Leave a Reply",
+      "cleaned_prediction": "leave a reply"
+    },
+    {
+      "img_path": "../datasets/svtp/images/246.jpg",
+      "ground_truth": [
+        "G,L,E,N,O,A,K,S"
+      ],
+      "prediction": "The sign reads:  Enoah, the firstborn of Ishmael, the son of Abraham, was the father of a mighty nation, the Edomites.",
+      "cleaned_prediction": "the sign reads enoah the firstborn of ishmael the son of abraham was the father of a mighty nation the edomites"
+    },
+    {
+      "img_path": "../datasets/svtp/images/247.jpg",
+      "ground_truth": [
+        "A,V,E,N,U,E"
+      ],
+      "prediction": "Venue Name",
+      "cleaned_prediction": "venue name"
+    },
+    {
+      "img_path": "../datasets/svtp/images/248.jpg",
+      "ground_truth": [
+        "T,H,E,A,T,E,R"
+      ],
+      "prediction": "Amazon.com: The Art of the Deal: The Ultimate Deal Maker: Donald J. Trump, Tony Schwartz: 9780316254227: Books",
+      "cleaned_prediction": "amazoncom the art of the deal the ultimate deal maker donald j trump tony schwartz 9780316254227 books"
+    },
+    {
+      "img_path": "../datasets/svtp/images/249.jpg",
+      "ground_truth": [
+        "A,V,E,N,U,E"
+      ],
+      "prediction": "Venue: 1000 Words",
+      "cleaned_prediction": "venue 1000 words"
+    },
+    {
+      "img_path": "../datasets/svtp/images/25.jpg",
+      "ground_truth": [
+        "A,R,T"
+      ],
+      "prediction": "The two men are standing in front of a large white building.  The man on the left is wearing a dark suit and the man on the right is wearing a white shirt and dark pants.  The man on the left is holding a white cane.  The man on the right is holding a white cane.  The man on the left is holding a white cane.  The man on the right is holding a white cane.  The man on the left is holding a white cane.  The man on the right is holding a white cane.  The man on the left is holding a white cane.  The man on the right is holding a white cane.  The man on the left is holding a white cane.  The man on the right is holding a white cane.  The man on the left is holding a white cane.  The man on the right is holding a white cane.  The man on the left is holding a white cane.  The man on the right is holding a white cane.  The man on the left is holding a white cane.  The man on the right is holding a white cane.  The man on the",
+      "cleaned_prediction": "the two men are standing in front of a large white building the man on the left is wearing a dark suit and the man on the right is wearing a white shirt and dark pants the man on the left is holding a white cane the man on the right is holding a white cane the man on the left is holding a white cane the man on the right is holding a white cane the man on the left is holding a white cane the man on the right is holding a white cane the man on the left is holding a white cane the man on the right is holding a white cane the man on the left is holding a white cane the man on the right is holding a white cane the man on the left is holding a white cane the man on the right is holding a white cane the man on the left is holding a white cane the man on the right is holding a white cane the man on the left is holding a white cane the man on the right is holding a white cane the man on the"
+    },
+    {
+      "img_path": "../datasets/svtp/images/250.jpg",
+      "ground_truth": [
+        "t,h,e,a,t,e,r"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/251.jpg",
+      "ground_truth": [
+        "B,L,A,C,K"
+      ],
+      "prediction": "Black Friday",
+      "cleaned_prediction": "black friday"
+    },
+    {
+      "img_path": "../datasets/svtp/images/252.jpg",
+      "ground_truth": [
+        "B,O,T,T,L,E"
+      ],
+      "prediction": "Bottle",
+      "cleaned_prediction": "bottle"
+    },
+    {
+      "img_path": "../datasets/svtp/images/253.jpg",
+      "ground_truth": [
+        "B,O,T,T,L,E"
+      ],
+      "prediction": "Bottle Logic Brewing",
+      "cleaned_prediction": "bottle logic brewing"
+    },
+    {
+      "img_path": "../datasets/svtp/images/254.jpg",
+      "ground_truth": [
+        "V,i,n,e"
+      ],
+      "prediction": "Vine Street",
+      "cleaned_prediction": "vine street"
+    },
+    {
+      "img_path": "../datasets/svtp/images/255.jpg",
+      "ground_truth": [
+        "A,n,g,e,l,a"
+      ],
+      "prediction": "Angelina Jolie",
+      "cleaned_prediction": "angelina jolie"
+    },
+    {
+      "img_path": "../datasets/svtp/images/256.jpg",
+      "ground_truth": [
+        "H,A,M,B,U,R,G,E,R,S"
+      ],
+      "prediction": "Burgers and Beer",
+      "cleaned_prediction": "burgers and beer"
+    },
+    {
+      "img_path": "../datasets/svtp/images/257.jpg",
+      "ground_truth": [
+        "A,n,g,e,l,o"
+      ],
+      "prediction": "Angie's Pizza",
+      "cleaned_prediction": "angies pizza"
+    },
+    {
+      "img_path": "../datasets/svtp/images/258.jpg",
+      "ground_truth": [
+        "B,u,d,g,e,t"
+      ],
+      "prediction": "Budget",
+      "cleaned_prediction": "budget"
+    },
+    {
+      "img_path": "../datasets/svtp/images/259.jpg",
+      "ground_truth": [
+        "B,u,d,g,e,t"
+      ],
+      "prediction": "Budget 2016: What's in it for you?",
+      "cleaned_prediction": "budget 2016 whats in it for you"
+    },
+    {
+      "img_path": "../datasets/svtp/images/26.jpg",
+      "ground_truth": [
+        "M,U,S,E,U,M"
+      ],
+      "prediction": "Museum Text",
+      "cleaned_prediction": "museum text"
+    },
+    {
+      "img_path": "../datasets/svtp/images/260.jpg",
+      "ground_truth": [
+        "B,E,A,D,S"
+      ],
+      "prediction": "Beads",
+      "cleaned_prediction": "beads"
+    },
+    {
+      "img_path": "../datasets/svtp/images/261.jpg",
+      "ground_truth": [
+        "B,E,A,D,S"
+      ],
+      "prediction": "Beads",
+      "cleaned_prediction": "beads"
+    },
+    {
+      "img_path": "../datasets/svtp/images/262.jpg",
+      "ground_truth": [
+        "B,E,A,D,S"
+      ],
+      "prediction": "Beads",
+      "cleaned_prediction": "beads"
+    },
+    {
+      "img_path": "../datasets/svtp/images/263.jpg",
+      "ground_truth": [
+        "B,E,A,D,S"
+      ],
+      "prediction": "Beads",
+      "cleaned_prediction": "beads"
+    },
+    {
+      "img_path": "../datasets/svtp/images/264.jpg",
+      "ground_truth": [
+        "F,o,x"
+      ],
+      "prediction": "Airbus A380",
+      "cleaned_prediction": "airbus a380"
+    },
+    {
+      "img_path": "../datasets/svtp/images/265.jpg",
+      "ground_truth": [
+        "n,a,n,',s, ,S,o, ,F,A,B,R,I,C,S"
+      ],
+      "prediction": "Extracted text from sign",
+      "cleaned_prediction": "extracted text from sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/266.jpg",
+      "ground_truth": [
+        "F,i,s,h,m,a,n"
+      ],
+      "prediction": "Ahmad Tea",
+      "cleaned_prediction": "ahmad tea"
+    },
+    {
+      "img_path": "../datasets/svtp/images/267.jpg",
+      "ground_truth": [
+        "I,n,k"
+      ],
+      "prediction": "Airbus A320-200 of Air France at the gate at Paris-Charles de Gaulle Airport",
+      "cleaned_prediction": "airbus a320-200 of air france at the gate at paris-charles de gaulle airport"
+    },
+    {
+      "img_path": "../datasets/svtp/images/268.jpg",
+      "ground_truth": [
+        "G,a,m,e,S,t,o,p"
+      ],
+      "prediction": "Home Depot",
+      "cleaned_prediction": "home depot"
+    },
+    {
+      "img_path": "../datasets/svtp/images/269.jpg",
+      "ground_truth": [
+        "P,O,M,P,F,I"
+      ],
+      "prediction": "The sign for the Olive Garden restaurant in the Westfield Mall in Culver City, California.",
+      "cleaned_prediction": "the sign for the olive garden restaurant in the westfield mall in culver city california"
+    },
+    {
+      "img_path": "../datasets/svtp/images/27.jpg",
+      "ground_truth": [
+        "C, ,I, ,T, ,Y"
+      ],
+      "prediction": "IT IS WRITTEN",
+      "cleaned_prediction": "it is written"
+    },
+    {
+      "img_path": "../datasets/svtp/images/270.jpg",
+      "ground_truth": [
+        "D,o,n,a,l,d"
+      ],
+      "prediction": "Don't be a dick",
+      "cleaned_prediction": "dont be a dick"
+    },
+    {
+      "img_path": "../datasets/svtp/images/271.jpg",
+      "ground_truth": [
+        "D,O,N,A,L,D"
+      ],
+      "prediction": "Text Extraction",
+      "cleaned_prediction": "text extraction"
+    },
+    {
+      "img_path": "../datasets/svtp/images/272.jpg",
+      "ground_truth": [
+        "C,L,E,A,N,E,R,S"
+      ],
+      "prediction": "Extracted text from a photograph of a sign.",
+      "cleaned_prediction": "extracted text from a photograph of a sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/273.jpg",
+      "ground_truth": [
+        "F,i,v,e"
+      ],
+      "prediction": "The text is: 100% Organic. 100% Pure. 100% Natural. 100% Vegan. 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100% Free of: 100%",
+      "cleaned_prediction": "the text is 100% organic 100% pure 100% natural 100% vegan 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100% free of 100%"
+    },
+    {
+      "img_path": "../datasets/svtp/images/274.jpg",
+      "ground_truth": [
+        "S,t,a,r"
+      ],
+      "prediction": "Stonewall Jackson",
+      "cleaned_prediction": "stonewall jackson"
+    },
+    {
+      "img_path": "../datasets/svtp/images/275.jpg",
+      "ground_truth": [
+        "D,O,N,G"
+      ],
+      "prediction": "Dongguan",
+      "cleaned_prediction": "dongguan"
+    },
+    {
+      "img_path": "../datasets/svtp/images/276.jpg",
+      "ground_truth": [
+        "M,A,R,K,E,T"
+      ],
+      "prediction": "Arkansas",
+      "cleaned_prediction": "arkansas"
+    },
+    {
+      "img_path": "../datasets/svtp/images/277.jpg",
+      "ground_truth": [
+        "D,O,N,G"
+      ],
+      "prediction": "The text is a brownish color and is written in a font that is similar to the font used in the 1960s.",
+      "cleaned_prediction": "the text is a brownish color and is written in a font that is similar to the font used in the 1960s"
+    },
+    {
+      "img_path": "../datasets/svtp/images/278.jpg",
+      "ground_truth": [
+        "T,R,A,D,E,R"
+      ],
+      "prediction": "Kadar Sign",
+      "cleaned_prediction": "kadar sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/279.jpg",
+      "ground_truth": [
+        "J,O,E"
+      ],
+      "prediction": "Norwood, MA",
+      "cleaned_prediction": "norwood ma"
+    },
+    {
+      "img_path": "../datasets/svtp/images/28.jpg",
+      "ground_truth": [
+        "L,I,G,H,T,S"
+      ],
+      "prediction": "GH",
+      "cleaned_prediction": "gh"
+    },
+    {
+      "img_path": "../datasets/svtp/images/280.jpg",
+      "ground_truth": [
+        "B,O,D,Y"
+      ],
+      "prediction": "ODOD",
+      "cleaned_prediction": "odod"
+    },
+    {
+      "img_path": "../datasets/svtp/images/281.jpg",
+      "ground_truth": [
+        "S,H,O,P"
+      ],
+      "prediction": "HCG",
+      "cleaned_prediction": "hcg"
+    },
+    {
+      "img_path": "../datasets/svtp/images/282.jpg",
+      "ground_truth": [
+        "L,i,n,e"
+      ],
+      "prediction": "Lincoln, NE",
+      "cleaned_prediction": "lincoln ne"
+    },
+    {
+      "img_path": "../datasets/svtp/images/283.jpg",
+      "ground_truth": [
+        "B,o,d,y"
+      ],
+      "prediction": "Body Text",
+      "cleaned_prediction": "body text"
+    },
+    {
+      "img_path": "../datasets/svtp/images/284.jpg",
+      "ground_truth": [
+        "S,h,o,p"
+      ],
+      "prediction": "Shop",
+      "cleaned_prediction": "shop"
+    },
+    {
+      "img_path": "../datasets/svtp/images/285.jpg",
+      "ground_truth": [
+        "L,i,n,e"
+      ],
+      "prediction": "The text is a logo for a company called Line.",
+      "cleaned_prediction": "the text is a logo for a company called line"
+    },
+    {
+      "img_path": "../datasets/svtp/images/286.jpg",
+      "ground_truth": [
+        "E,R,N,S,T"
+      ],
+      "prediction": "Ernst & Young",
+      "cleaned_prediction": "ernst & young"
+    },
+    {
+      "img_path": "../datasets/svtp/images/287.jpg",
+      "ground_truth": [
+        "Y,O,U,N,G"
+      ],
+      "prediction": "Young",
+      "cleaned_prediction": "young"
+    },
+    {
+      "img_path": "../datasets/svtp/images/288.jpg",
+      "ground_truth": [
+        "V,I,A"
+      ],
+      "prediction": "Via",
+      "cleaned_prediction": "via"
+    },
+    {
+      "img_path": "../datasets/svtp/images/289.jpg",
+      "ground_truth": [
+        "T,R,I,B,U,N,A,L,I"
+      ],
+      "prediction": "Bunny",
+      "cleaned_prediction": "bunny"
+    },
+    {
+      "img_path": "../datasets/svtp/images/29.jpg",
+      "ground_truth": [
+        "C,I,T,Y"
+      ],
+      "prediction": "City of Birmingham",
+      "cleaned_prediction": "city of birmingham"
+    },
+    {
+      "img_path": "../datasets/svtp/images/290.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "OTT - OTT",
+      "cleaned_prediction": "ott - ott"
+    },
+    {
+      "img_path": "../datasets/svtp/images/291.jpg",
+      "ground_truth": [
+        "M,A,X"
+      ],
+      "prediction": "Amazon.com: Red Letter Days: The Story of the World's First Modern Supermarket: Books: John Grant",
+      "cleaned_prediction": "amazoncom red letter days the story of the worlds first modern supermarket books john grant"
+    },
+    {
+      "img_path": "../datasets/svtp/images/292.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/293.jpg",
+      "ground_truth": [
+        "M,A,X"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/294.jpg",
+      "ground_truth": [
+        "F,O,X"
+      ],
+      "prediction": "Fox News Channel",
+      "cleaned_prediction": "fox news channel"
+    },
+    {
+      "img_path": "../datasets/svtp/images/295.jpg",
+      "ground_truth": [
+        "C,L,E,A,N,E,R,S"
+      ],
+      "prediction": "The sign is located on the side of a building on the corner of 12th and 13th Streets.",
+      "cleaned_prediction": "the sign is located on the side of a building on the corner of 12th and 13th streets"
+    },
+    {
+      "img_path": "../datasets/svtp/images/296.jpg",
+      "ground_truth": [
+        "C,H,A,N,T,E,R,E,L,L,E"
+      ],
+      "prediction": "Canterbury, New Hampshire",
+      "cleaned_prediction": "canterbury new hampshire"
+    },
+    {
+      "img_path": "../datasets/svtp/images/297.jpg",
+      "ground_truth": [
+        "G,O,O,D,W,I,L,L"
+      ],
+      "prediction": "Woodwork",
+      "cleaned_prediction": "woodwork"
+    },
+    {
+      "img_path": "../datasets/svtp/images/298.jpg",
+      "ground_truth": [
+        "G,O,O,D,W,I,L,L"
+      ],
+      "prediction": "ODWV",
+      "cleaned_prediction": "odwv"
+    },
+    {
+      "img_path": "../datasets/svtp/images/299.jpg",
+      "ground_truth": [
+        "G,R,A,N,D"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/3.jpg",
+      "ground_truth": [
+        "U,N,I,T,E,D"
+      ],
+      "prediction": "United Airlines",
+      "cleaned_prediction": "united airlines"
+    },
+    {
+      "img_path": "../datasets/svtp/images/30.jpg",
+      "ground_truth": [
+        "L,I,G,H,T,S"
+      ],
+      "prediction": "Lights Out",
+      "cleaned_prediction": "lights out"
+    },
+    {
+      "img_path": "../datasets/svtp/images/300.jpg",
+      "ground_truth": [
+        "C,E,N,T,R,A,L"
+      ],
+      "prediction": "Extracted text from a sign",
+      "cleaned_prediction": "extracted text from a sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/301.jpg",
+      "ground_truth": [
+        "G,R,A,N,D"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/302.jpg",
+      "ground_truth": [
+        "E,A,G,E,R"
+      ],
+      "prediction": "AZZA - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 10",
+      "cleaned_prediction": "azza - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 10"
+    },
+    {
+      "img_path": "../datasets/svtp/images/303.jpg",
+      "ground_truth": [
+        "R,E,D,W,O,O,D"
+      ],
+      "prediction": "Downtown Sign",
+      "cleaned_prediction": "downtown sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/304.jpg",
+      "ground_truth": [
+        "a,p,a,r,t,m,e,n,t,s"
+      ],
+      "prediction": "The Department of Homeland Security (DHS) is the United States government department responsible for protecting the country from terrorist attacks and enforcing U.S. immigration laws.",
+      "cleaned_prediction": "the department of homeland security dhs is the united states government department responsible for protecting the country from terrorist attacks and enforcing us immigration laws"
+    },
+    {
+      "img_path": "../datasets/svtp/images/305.jpg",
+      "ground_truth": [
+        "H,o,t,e,l"
+      ],
+      "prediction": "Hotel logo",
+      "cleaned_prediction": "hotel logo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/306.jpg",
+      "ground_truth": [
+        "V,e,r,n,o,n"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/307.jpg",
+      "ground_truth": [
+        "V,e,r,n,o,n"
+      ],
+      "prediction": "Venocor",
+      "cleaned_prediction": "venocor"
+    },
+    {
+      "img_path": "../datasets/svtp/images/308.jpg",
+      "ground_truth": [
+        "H,o,t,e,l"
+      ],
+      "prediction": "Hotel",
+      "cleaned_prediction": "hotel"
+    },
+    {
+      "img_path": "../datasets/svtp/images/309.jpg",
+      "ground_truth": [
+        "B,U,R,B,A,N,K"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/31.jpg",
+      "ground_truth": [
+        "C,I,T,Y"
+      ],
+      "prediction": "Clayton",
+      "cleaned_prediction": "clayton"
+    },
+    {
+      "img_path": "../datasets/svtp/images/310.jpg",
+      "ground_truth": [
+        "F,L,O,R,I,S,T"
+      ],
+      "prediction": "The word 'OR' is extracted from the image.",
+      "cleaned_prediction": "the word or is extracted from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/311.jpg",
+      "ground_truth": [
+        "G,I,F,T,S"
+      ],
+      "prediction": "Gift",
+      "cleaned_prediction": "gift"
+    },
+    {
+      "img_path": "../datasets/svtp/images/312.jpg",
+      "ground_truth": [
+        "C,H,E,C,K"
+      ],
+      "prediction": "The Heights",
+      "cleaned_prediction": "the heights"
+    },
+    {
+      "img_path": "../datasets/svtp/images/313.jpg",
+      "ground_truth": [
+        "S,P,E,E,D"
+      ],
+      "prediction": "Peep Show",
+      "cleaned_prediction": "peep show"
+    },
+    {
+      "img_path": "../datasets/svtp/images/314.jpg",
+      "ground_truth": [
+        "Z,O,N,E"
+      ],
+      "prediction": "Zone 10000",
+      "cleaned_prediction": "zone 10000"
+    },
+    {
+      "img_path": "../datasets/svtp/images/315.jpg",
+      "ground_truth": [
+        "A,C,C,O,U,N,T,A,N,C,Y"
+      ],
+      "prediction": "Mountain View, CA",
+      "cleaned_prediction": "mountain view ca"
+    },
+    {
+      "img_path": "../datasets/svtp/images/316.jpg",
+      "ground_truth": [
+        "A,C,C,O,U,N,T,A,N,C,Y"
+      ],
+      "prediction": "Mountain",
+      "cleaned_prediction": "mountain"
+    },
+    {
+      "img_path": "../datasets/svtp/images/317.jpg",
+      "ground_truth": [
+        "T,A,R,G,E,T"
+      ],
+      "prediction": "Target logo",
+      "cleaned_prediction": "target logo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/318.jpg",
+      "ground_truth": [
+        "F,O,O,D"
+      ],
+      "prediction": "The text is a bit blurry, but it's readable.",
+      "cleaned_prediction": "the text is a bit blurry but its readable"
+    },
+    {
+      "img_path": "../datasets/svtp/images/319.jpg",
+      "ground_truth": [
+        "J,I,M,M,Y, ,F,O,O,D, ,S,T,O"
+      ],
+      "prediction": "Immigration Food Store",
+      "cleaned_prediction": "immigration food store"
+    },
+    {
+      "img_path": "../datasets/svtp/images/32.jpg",
+      "ground_truth": [
+        "L,I,G,H,T,S"
+      ],
+      "prediction": "Lights Out",
+      "cleaned_prediction": "lights out"
+    },
+    {
+      "img_path": "../datasets/svtp/images/320.jpg",
+      "ground_truth": [
+        "S,T,O,R,E"
+      ],
+      "prediction": "The text is a bit blurry, but it's readable.",
+      "cleaned_prediction": "the text is a bit blurry but its readable"
+    },
+    {
+      "img_path": "../datasets/svtp/images/321.jpg",
+      "ground_truth": [
+        "S,T,A,R,B,U,C,K,S"
+      ],
+      "prediction": "Starbucks Coffee",
+      "cleaned_prediction": "starbucks coffee"
+    },
+    {
+      "img_path": "../datasets/svtp/images/322.jpg",
+      "ground_truth": [
+        "c,e,l,l,a,r,s"
+      ],
+      "prediction": "Cellar Door",
+      "cleaned_prediction": "cellar door"
+    },
+    {
+      "img_path": "../datasets/svtp/images/323.jpg",
+      "ground_truth": [
+        "t,e,n"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/324.jpg",
+      "ground_truth": [
+        "t,i,m,e,s"
+      ],
+      "prediction": "Times New Roman",
+      "cleaned_prediction": "times new roman"
+    },
+    {
+      "img_path": "../datasets/svtp/images/325.jpg",
+      "ground_truth": [
+        "W,I,N,B,R,O"
+      ],
+      "prediction": "NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - NBR - N",
+      "cleaned_prediction": "nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - nbr - n"
+    },
+    {
+      "img_path": "../datasets/svtp/images/326.jpg",
+      "ground_truth": [
+        "U,P,T,O,W,N"
+      ],
+      "prediction": "TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO - TOTO -",
+      "cleaned_prediction": "toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto - toto -"
+    },
+    {
+      "img_path": "../datasets/svtp/images/327.jpg",
+      "ground_truth": [
+        "V,I,L,L,A,G,E"
+      ],
+      "prediction": "Amazon.com: 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential Oil - Lavender, 100% Pure Essential O",
+      "cleaned_prediction": "amazoncom 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential oil - lavender 100% pure essential o"
+    },
+    {
+      "img_path": "../datasets/svtp/images/328.jpg",
+      "ground_truth": [
+        "Q,u,i,z,n,o,',s"
+      ],
+      "prediction": "Gulzap - 100% Free Text to Speech",
+      "cleaned_prediction": "gulzap - 100% free text to speech"
+    },
+    {
+      "img_path": "../datasets/svtp/images/329.jpg",
+      "ground_truth": [
+        "Q,u,i,z,n,o,',s"
+      ],
+      "prediction": "Zynga Inc. (NASDAQ:ZNGA)",
+      "cleaned_prediction": "zynga inc nasdaqznga"
+    },
+    {
+      "img_path": "../datasets/svtp/images/33.jpg",
+      "ground_truth": [
+        "C,I,T,Y"
+      ],
+      "prediction": "I'm not sure what you mean by 'the text' but I'm pretty sure that's not the text.  I'm pretty sure that's a picture of a text.  I'm pretty sure that's a picture of a text.  I'm pretty sure that's a picture of a text.  I'm pretty sure that's a picture of a text.  I'm pretty sure that's a picture of a text.  I'm pretty sure that's a picture of a text.  I'm pretty sure that's a picture of a text.  I'm pretty sure that's a picture of a text.  I'm pretty sure that's a picture of a text.  I'm pretty sure that's a picture of a text.  I'm pretty sure that's a picture of a text.  I'm pretty sure that's a picture of a text.  I'm pretty sure that's a picture of a text.  I'm pretty sure that's a picture of a text.  I'm pretty sure that's a picture of a text.  I'm pretty",
+      "cleaned_prediction": "im not sure what you mean by the text but im pretty sure thats not the text im pretty sure thats a picture of a text im pretty sure thats a picture of a text im pretty sure thats a picture of a text im pretty sure thats a picture of a text im pretty sure thats a picture of a text im pretty sure thats a picture of a text im pretty sure thats a picture of a text im pretty sure thats a picture of a text im pretty sure thats a picture of a text im pretty sure thats a picture of a text im pretty sure thats a picture of a text im pretty sure thats a picture of a text im pretty sure thats a picture of a text im pretty sure thats a picture of a text im pretty sure thats a picture of a text im pretty"
+    },
+    {
+      "img_path": "../datasets/svtp/images/330.jpg",
+      "ground_truth": [
+        "H,O,U,L,I,H,A,N"
+      ],
+      "prediction": "Southern Illinois University Carbondale",
+      "cleaned_prediction": "southern illinois university carbondale"
+    },
+    {
+      "img_path": "../datasets/svtp/images/331.jpg",
+      "ground_truth": [
+        "H,O,U,L,I,H,A,N"
+      ],
+      "prediction": "Julie's Bicycle",
+      "cleaned_prediction": "julies bicycle"
+    },
+    {
+      "img_path": "../datasets/svtp/images/332.jpg",
+      "ground_truth": [
+        "L,E,O,N"
+      ],
+      "prediction": "Leonard Cohen",
+      "cleaned_prediction": "leonard cohen"
+    },
+    {
+      "img_path": "../datasets/svtp/images/333.jpg",
+      "ground_truth": [
+        "B,O,H,E,M,I,A,N"
+      ],
+      "prediction": "Hemingway Editor",
+      "cleaned_prediction": "hemingway editor"
+    },
+    {
+      "img_path": "../datasets/svtp/images/334.jpg",
+      "ground_truth": [
+        "G,R,A,N,D"
+      ],
+      "prediction": "KANSAS",
+      "cleaned_prediction": "kansas"
+    },
+    {
+      "img_path": "../datasets/svtp/images/335.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "MOTEK - Motion Control",
+      "cleaned_prediction": "motek - motion control"
+    },
+    {
+      "img_path": "../datasets/svtp/images/336.jpg",
+      "ground_truth": [
+        "K,Y,L,E,'"
+      ],
+      "prediction": "Skyler - 100% Cotton T-Shirt",
+      "cleaned_prediction": "skyler - 100% cotton t-shirt"
+    },
+    {
+      "img_path": "../datasets/svtp/images/337.jpg",
+      "ground_truth": [
+        "B,I,K,E"
+      ],
+      "prediction": "Bike - 1970s",
+      "cleaned_prediction": "bike - 1970s"
+    },
+    {
+      "img_path": "../datasets/svtp/images/338.jpg",
+      "ground_truth": [
+        "S,H,O,P"
+      ],
+      "prediction": "Shop",
+      "cleaned_prediction": "shop"
+    },
+    {
+      "img_path": "../datasets/svtp/images/339.jpg",
+      "ground_truth": [
+        "C,O,L,O,N,I,A,L"
+      ],
+      "prediction": "Lowest Price Guarantee",
+      "cleaned_prediction": "lowest price guarantee"
+    },
+    {
+      "img_path": "../datasets/svtp/images/34.jpg",
+      "ground_truth": [
+        "L,I,G,H,T,S"
+      ],
+      "prediction": "The text is a part of the image.",
+      "cleaned_prediction": "the text is a part of the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/340.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "Taubman Centers Inc.",
+      "cleaned_prediction": "taubman centers inc"
+    },
+    {
+      "img_path": "../datasets/svtp/images/341.jpg",
+      "ground_truth": [
+        "S,C,I,E,N,T,O,L,O,G,Y"
+      ],
+      "prediction": "Extentology",
+      "cleaned_prediction": "extentology"
+    },
+    {
+      "img_path": "../datasets/svtp/images/342.jpg",
+      "ground_truth": [
+        "C,H,U,R,C,H"
+      ],
+      "prediction": "Text Extraction",
+      "cleaned_prediction": "text extraction"
+    },
+    {
+      "img_path": "../datasets/svtp/images/343.jpg",
+      "ground_truth": [
+        "J,O,N,E,S"
+      ],
+      "prediction": "Jon's Steakhouse",
+      "cleaned_prediction": "jons steakhouse"
+    },
+    {
+      "img_path": "../datasets/svtp/images/344.jpg",
+      "ground_truth": [
+        "J,O,N,E,S"
+      ],
+      "prediction": "Joneses",
+      "cleaned_prediction": "joneses"
+    },
+    {
+      "img_path": "../datasets/svtp/images/345.jpg",
+      "ground_truth": [
+        "J,O,N,E,S"
+      ],
+      "prediction": "Jones & Sons",
+      "cleaned_prediction": "jones & sons"
+    },
+    {
+      "img_path": "../datasets/svtp/images/346.jpg",
+      "ground_truth": [
+        "Q,u,i,z,n,o,s"
+      ],
+      "prediction": "Zizzi logo",
+      "cleaned_prediction": "zizzi logo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/347.jpg",
+      "ground_truth": [
+        "S,U,B"
+      ],
+      "prediction": "Subscribe to the podcast",
+      "cleaned_prediction": "subscribe to the podcast"
+    },
+    {
+      "img_path": "../datasets/svtp/images/348.jpg",
+      "ground_truth": [
+        "s,p,a,c,e"
+      ],
+      "prediction": "Space - 100% Cotton T-Shirt",
+      "cleaned_prediction": "space - 100% cotton t-shirt"
+    },
+    {
+      "img_path": "../datasets/svtp/images/349.jpg",
+      "ground_truth": [
+        "a,r,t,s"
+      ],
+      "prediction": "Extract text from a PDF document",
+      "cleaned_prediction": "extract text from a pdf document"
+    },
+    {
+      "img_path": "../datasets/svtp/images/35.jpg",
+      "ground_truth": [
+        "B,O,O,K,S,T,O,R,E"
+      ],
+      "prediction": "Bookstore",
+      "cleaned_prediction": "bookstore"
+    },
+    {
+      "img_path": "../datasets/svtp/images/350.jpg",
+      "ground_truth": [
+        "m,o,d,i,f,i,e,d"
+      ],
+      "prediction": "Extracted text from a document",
+      "cleaned_prediction": "extracted text from a document"
+    },
+    {
+      "img_path": "../datasets/svtp/images/351.jpg",
+      "ground_truth": [
+        "a,r,t,s"
+      ],
+      "prediction": "The text is a bit blurry, but it's readable.",
+      "cleaned_prediction": "the text is a bit blurry but its readable"
+    },
+    {
+      "img_path": "../datasets/svtp/images/352.jpg",
+      "ground_truth": [
+        "m,o,d,i,f,i,e,d"
+      ],
+      "prediction": "The text is a quote from the book, The Gift of Fear by Gavin de Becker.",
+      "cleaned_prediction": "the text is a quote from the book the gift of fear by gavin de becker"
+    },
+    {
+      "img_path": "../datasets/svtp/images/353.jpg",
+      "ground_truth": [
+        "D,A,N"
+      ],
+      "prediction": "DANGER",
+      "cleaned_prediction": "danger"
+    },
+    {
+      "img_path": "../datasets/svtp/images/354.jpg",
+      "ground_truth": [
+        "L,O,U,I,S"
+      ],
+      "prediction": "Southern California",
+      "cleaned_prediction": "southern california"
+    },
+    {
+      "img_path": "../datasets/svtp/images/355.jpg",
+      "ground_truth": [
+        "B,A,R"
+      ],
+      "prediction": "117",
+      "cleaned_prediction": "117"
+    },
+    {
+      "img_path": "../datasets/svtp/images/356.jpg",
+      "ground_truth": [
+        "O,Y,S,T,E,R"
+      ],
+      "prediction": "Osteria",
+      "cleaned_prediction": "osteria"
+    },
+    {
+      "img_path": "../datasets/svtp/images/357.jpg",
+      "ground_truth": [
+        "M,i,s,s,i,o,n"
+      ],
+      "prediction": "Mission Statement",
+      "cleaned_prediction": "mission statement"
+    },
+    {
+      "img_path": "../datasets/svtp/images/358.jpg",
+      "ground_truth": [
+        "T,h,e,a,t,e,r"
+      ],
+      "prediction": "Theatre",
+      "cleaned_prediction": "theatre"
+    },
+    {
+      "img_path": "../datasets/svtp/images/359.jpg",
+      "ground_truth": [
+        "L,i,n,c,o,l,n"
+      ],
+      "prediction": "Lincoln, Abraham",
+      "cleaned_prediction": "lincoln abraham"
+    },
+    {
+      "img_path": "../datasets/svtp/images/36.jpg",
+      "ground_truth": [
+        "P,I,C,K,L,E,S"
+      ],
+      "prediction": "Huckleberry Green Sign",
+      "cleaned_prediction": "huckleberry green sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/360.jpg",
+      "ground_truth": [
+        "H,i,g,h"
+      ],
+      "prediction": "High",
+      "cleaned_prediction": "high"
+    },
+    {
+      "img_path": "../datasets/svtp/images/361.jpg",
+      "ground_truth": [
+        "S,c,h,o,o,l"
+      ],
+      "prediction": "School of Medicine",
+      "cleaned_prediction": "school of medicine"
+    },
+    {
+      "img_path": "../datasets/svtp/images/362.jpg",
+      "ground_truth": [
+        "L,I,N,C,O,L,N"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/363.jpg",
+      "ground_truth": [
+        "S,C,H,O,O,L"
+      ],
+      "prediction": "HOW TO USE THIS IMAGE",
+      "cleaned_prediction": "how to use this image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/364.jpg",
+      "ground_truth": [
+        "D,I,E,G,O"
+      ],
+      "prediction": "San Diego Comic-Con 2019: 10 Things We Learned From the SDCC 2019 Exclusives Reveal",
+      "cleaned_prediction": "san diego comic-con 2019 10 things we learned from the sdcc 2019 exclusives reveal"
+    },
+    {
+      "img_path": "../datasets/svtp/images/365.jpg",
+      "ground_truth": [
+        "H,A,R,B,O,R"
+      ],
+      "prediction": "Carbohydrate",
+      "cleaned_prediction": "carbohydrate"
+    },
+    {
+      "img_path": "../datasets/svtp/images/366.jpg",
+      "ground_truth": [
+        "S,A,N"
+      ],
+      "prediction": "San Francisco",
+      "cleaned_prediction": "san francisco"
+    },
+    {
+      "img_path": "../datasets/svtp/images/367.jpg",
+      "ground_truth": [
+        "E,X,C,U,R,S,I,O,N"
+      ],
+      "prediction": "Eurysics - 1984 - 12'' - Vinyl - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 12'' - 1",
+      "cleaned_prediction": "eurysics - 1984 - 12 - vinyl - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 12 - 1"
+    },
+    {
+      "img_path": "../datasets/svtp/images/368.jpg",
+      "ground_truth": [
+        "A,r,t"
+      ],
+      "prediction": "Art",
+      "cleaned_prediction": "art"
+    },
+    {
+      "img_path": "../datasets/svtp/images/369.jpg",
+      "ground_truth": [
+        "M,u,s,e,u,m"
+      ],
+      "prediction": "Blue Muse",
+      "cleaned_prediction": "blue muse"
+    },
+    {
+      "img_path": "../datasets/svtp/images/37.jpg",
+      "ground_truth": [
+        "P,U,B"
+      ],
+      "prediction": "Dunkin' Donuts",
+      "cleaned_prediction": "dunkin donuts"
+    },
+    {
+      "img_path": "../datasets/svtp/images/370.jpg",
+      "ground_truth": [
+        "T,i,m,k,e,n"
+      ],
+      "prediction": "Tim Kaine",
+      "cleaned_prediction": "tim kaine"
+    },
+    {
+      "img_path": "../datasets/svtp/images/371.jpg",
+      "ground_truth": [
+        "A,I,R"
+      ],
+      "prediction": "Air Conditioning",
+      "cleaned_prediction": "air conditioning"
+    },
+    {
+      "img_path": "../datasets/svtp/images/372.jpg",
+      "ground_truth": [
+        "S,P,A,C,E"
+      ],
+      "prediction": "PACIFIC",
+      "cleaned_prediction": "pacific"
+    },
+    {
+      "img_path": "../datasets/svtp/images/373.jpg",
+      "ground_truth": [
+        "M,U,S,E,U,M"
+      ],
+      "prediction": "Museum of the City of New York",
+      "cleaned_prediction": "museum of the city of new york"
+    },
+    {
+      "img_path": "../datasets/svtp/images/374.jpg",
+      "ground_truth": [
+        "A,M,E,R,I,C,A"
+      ],
+      "prediction": "The text is extracted from the image.",
+      "cleaned_prediction": "the text is extracted from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/375.jpg",
+      "ground_truth": [
+        "P,L,A,Z,A"
+      ],
+      "prediction": "The 100-year-old building is a landmark in the city.",
+      "cleaned_prediction": "the 100-year-old building is a landmark in the city"
+    },
+    {
+      "img_path": "../datasets/svtp/images/376.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "Hotel logo",
+      "cleaned_prediction": "hotel logo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/377.jpg",
+      "ground_truth": [
+        "W,H,I,T,C,O,M,B"
+      ],
+      "prediction": "Britcoms",
+      "cleaned_prediction": "britcoms"
+    },
+    {
+      "img_path": "../datasets/svtp/images/378.jpg",
+      "ground_truth": [
+        "I,N,N"
+      ],
+      "prediction": "INN",
+      "cleaned_prediction": "inn"
+    },
+    {
+      "img_path": "../datasets/svtp/images/379.jpg",
+      "ground_truth": [
+        "S,Q,U,A,R,E"
+      ],
+      "prediction": "Square",
+      "cleaned_prediction": "square"
+    },
+    {
+      "img_path": "../datasets/svtp/images/38.jpg",
+      "ground_truth": [
+        "P,I,C,K,L,E,S"
+      ],
+      "prediction": "Text Extraction",
+      "cleaned_prediction": "text extraction"
+    },
+    {
+      "img_path": "../datasets/svtp/images/380.jpg",
+      "ground_truth": [
+        "W,A,S,H,I,N,G,T,O,N"
+      ],
+      "prediction": "Washington",
+      "cleaned_prediction": "washington"
+    },
+    {
+      "img_path": "../datasets/svtp/images/381.jpg",
+      "ground_truth": [
+        "W,A,S,H,I,N,G,T,O,N"
+      ],
+      "prediction": "Shining - Fishing",
+      "cleaned_prediction": "shining - fishing"
+    },
+    {
+      "img_path": "../datasets/svtp/images/382.jpg",
+      "ground_truth": [
+        "S,Q,U,A,R,E"
+      ],
+      "prediction": "SQUARE",
+      "cleaned_prediction": "square"
+    },
+    {
+      "img_path": "../datasets/svtp/images/383.jpg",
+      "ground_truth": [
+        "I,N,N"
+      ],
+      "prediction": "Inn",
+      "cleaned_prediction": "inn"
+    },
+    {
+      "img_path": "../datasets/svtp/images/384.jpg",
+      "ground_truth": [
+        "O,R,P,H,E,U,M"
+      ],
+      "prediction": "Sphinx - 100% Organic, 100% Natural, 100% Vegan, 100% Pure, 100% Sphinx",
+      "cleaned_prediction": "sphinx - 100% organic 100% natural 100% vegan 100% pure 100% sphinx"
+    },
+    {
+      "img_path": "../datasets/svtp/images/385.jpg",
+      "ground_truth": [
+        "T,H,E,A,T,R,E"
+      ],
+      "prediction": "Eat",
+      "cleaned_prediction": "eat"
+    },
+    {
+      "img_path": "../datasets/svtp/images/386.jpg",
+      "ground_truth": [
+        "D,o,n,a,l,d"
+      ],
+      "prediction": "Donald Trump",
+      "cleaned_prediction": "donald trump"
+    },
+    {
+      "img_path": "../datasets/svtp/images/387.jpg",
+      "ground_truth": [
+        "F,L,O,R,I,S,T"
+      ],
+      "prediction": "Avante Florist",
+      "cleaned_prediction": "avante florist"
+    },
+    {
+      "img_path": "../datasets/svtp/images/388.jpg",
+      "ground_truth": [
+        "A,v,a,n,t,e"
+      ],
+      "prediction": "Avant\u00e9",
+      "cleaned_prediction": "avant\u00e9"
+    },
+    {
+      "img_path": "../datasets/svtp/images/389.jpg",
+      "ground_truth": [
+        "G,a,r,d,e,n,s"
+      ],
+      "prediction": "Gardener - Include all words, numbers, and symbols in their original form.  - Preserve line breaks and spacing where relevant.  - Skip any non-text elements, artifacts, or image noise.  - Output only the extracted text, without additional comments or formatting.  ",
+      "cleaned_prediction": "gardener - include all words numbers and symbols in their original form - preserve line breaks and spacing where relevant - skip any non-text elements artifacts or image noise - output only the extracted text without additional comments or formatting"
+    },
+    {
+      "img_path": "../datasets/svtp/images/39.jpg",
+      "ground_truth": [
+        "F,Z,U"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/390.jpg",
+      "ground_truth": [
+        "S,C,H,O,O,L"
+      ],
+      "prediction": "Chocolate",
+      "cleaned_prediction": "chocolate"
+    },
+    {
+      "img_path": "../datasets/svtp/images/391.jpg",
+      "ground_truth": [
+        "D,E,S,I,G,N"
+      ],
+      "prediction": "Design - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100% Cotton - 100%",
+      "cleaned_prediction": "design - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100% cotton - 100%"
+    },
+    {
+      "img_path": "../datasets/svtp/images/392.jpg",
+      "ground_truth": [
+        "F,L,O,R,A,L"
+      ],
+      "prediction": "Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, Lora, L",
+      "cleaned_prediction": "lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora lora l"
+    },
+    {
+      "img_path": "../datasets/svtp/images/393.jpg",
+      "ground_truth": [
+        "A,N,A,H,E,I,M"
+      ],
+      "prediction": "Nahed Eltantawy",
+      "cleaned_prediction": "nahed eltantawy"
+    },
+    {
+      "img_path": "../datasets/svtp/images/394.jpg",
+      "ground_truth": [
+        "B,A,N,D"
+      ],
+      "prediction": "Bandana",
+      "cleaned_prediction": "bandana"
+    },
+    {
+      "img_path": "../datasets/svtp/images/395.jpg",
+      "ground_truth": [
+        "I,N,S,T,R,U,M,E,N,T,S"
+      ],
+      "prediction": "Drummer - 100%",
+      "cleaned_prediction": "drummer - 100%"
+    },
+    {
+      "img_path": "../datasets/svtp/images/396.jpg",
+      "ground_truth": [
+        "A,N,A,H,E,I,M"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/397.jpg",
+      "ground_truth": [
+        "B,A,N,D"
+      ],
+      "prediction": "Airport security checkpoint",
+      "cleaned_prediction": "airport security checkpoint"
+    },
+    {
+      "img_path": "../datasets/svtp/images/398.jpg",
+      "ground_truth": [
+        "C,o,m,f,o,r,t"
+      ],
+      "prediction": "Comfort Inn & Suites",
+      "cleaned_prediction": "comfort inn & suites"
+    },
+    {
+      "img_path": "../datasets/svtp/images/399.jpg",
+      "ground_truth": [
+        "I,N,N"
+      ],
+      "prediction": "Inninne",
+      "cleaned_prediction": "inninne"
+    },
+    {
+      "img_path": "../datasets/svtp/images/4.jpg",
+      "ground_truth": [
+        "S,T,A,T,E,S"
+      ],
+      "prediction": "US States",
+      "cleaned_prediction": "us states"
+    },
+    {
+      "img_path": "../datasets/svtp/images/40.jpg",
+      "ground_truth": [
+        "Z,O,U"
+      ],
+      "prediction": "Wildflower Wedding Invitations",
+      "cleaned_prediction": "wildflower wedding invitations"
+    },
+    {
+      "img_path": "../datasets/svtp/images/400.jpg",
+      "ground_truth": [
+        "E,M,B,A,S,S,Y"
+      ],
+      "prediction": "Bank of America",
+      "cleaned_prediction": "bank of america"
+    },
+    {
+      "img_path": "../datasets/svtp/images/401.jpg",
+      "ground_truth": [
+        "H,e,r,t,z"
+      ],
+      "prediction": "Heritage Signs",
+      "cleaned_prediction": "heritage signs"
+    },
+    {
+      "img_path": "../datasets/svtp/images/402.jpg",
+      "ground_truth": [
+        "G,A,L,L,E,R,Y"
+      ],
+      "prediction": "Bellevue University",
+      "cleaned_prediction": "bellevue university"
+    },
+    {
+      "img_path": "../datasets/svtp/images/403.jpg",
+      "ground_truth": [
+        "G,A,L,L,E,R,Y"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/404.jpg",
+      "ground_truth": [
+        "B,o,o,t"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/405.jpg",
+      "ground_truth": [
+        "F,i,t,t,i,n,g"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/406.jpg",
+      "ground_truth": [
+        "A,N,T,H,R,O,P,O,L,O,G,I,E"
+      ],
+      "prediction": "The text is a bit blurry, but it's readable.",
+      "cleaned_prediction": "the text is a bit blurry but its readable"
+    },
+    {
+      "img_path": "../datasets/svtp/images/407.jpg",
+      "ground_truth": [
+        "C,O,M,M,O,N"
+      ],
+      "prediction": "Extracted text from a photograph of a sign.",
+      "cleaned_prediction": "extracted text from a photograph of a sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/408.jpg",
+      "ground_truth": [
+        "T,H,R,E,A,D,S"
+      ],
+      "prediction": "RE: 1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "cleaned_prediction": "re 1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "img_path": "../datasets/svtp/images/409.jpg",
+      "ground_truth": [
+        "B,R,A,S,S,E,R,I,E"
+      ],
+      "prediction": "Sassi",
+      "cleaned_prediction": "sassi"
+    },
+    {
+      "img_path": "../datasets/svtp/images/41.jpg",
+      "ground_truth": [
+        "Z,O,U"
+      ],
+      "prediction": "100% Pure",
+      "cleaned_prediction": "100% pure"
+    },
+    {
+      "img_path": "../datasets/svtp/images/410.jpg",
+      "ground_truth": [
+        "T,E,N"
+      ],
+      "prediction": "Extract Text",
+      "cleaned_prediction": "extract text"
+    },
+    {
+      "img_path": "../datasets/svtp/images/411.jpg",
+      "ground_truth": [
+        "T,E,N"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/412.jpg",
+      "ground_truth": [
+        "B,R,A,S,S,E,R,I,E"
+      ],
+      "prediction": "65536",
+      "cleaned_prediction": "65536"
+    },
+    {
+      "img_path": "../datasets/svtp/images/413.jpg",
+      "ground_truth": [
+        "T,E,N"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/414.jpg",
+      "ground_truth": [
+        "T,E,N"
+      ],
+      "prediction": "Extract Text",
+      "cleaned_prediction": "extract text"
+    },
+    {
+      "img_path": "../datasets/svtp/images/415.jpg",
+      "ground_truth": [
+        "H,I,M,A,L,A,Y,A,S"
+      ],
+      "prediction": "The text is a logo for the company.",
+      "cleaned_prediction": "the text is a logo for the company"
+    },
+    {
+      "img_path": "../datasets/svtp/images/416.jpg",
+      "ground_truth": [
+        "B,A,R,N,S,L,E,Y"
+      ],
+      "prediction": "NSF",
+      "cleaned_prediction": "nsf"
+    },
+    {
+      "img_path": "../datasets/svtp/images/417.jpg",
+      "ground_truth": [
+        "T,I,R,E"
+      ],
+      "prediction": "IRS",
+      "cleaned_prediction": "irs"
+    },
+    {
+      "img_path": "../datasets/svtp/images/418.jpg",
+      "ground_truth": [
+        "D,E,L,I"
+      ],
+      "prediction": "Delft",
+      "cleaned_prediction": "delft"
+    },
+    {
+      "img_path": "../datasets/svtp/images/419.jpg",
+      "ground_truth": [
+        "K,O,T,A,Y,K"
+      ],
+      "prediction": "Motay, Inc.",
+      "cleaned_prediction": "motay inc"
+    },
+    {
+      "img_path": "../datasets/svtp/images/42.jpg",
+      "ground_truth": [
+        "Z,O,U"
+      ],
+      "prediction": "Zoo",
+      "cleaned_prediction": "zoo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/420.jpg",
+      "ground_truth": [
+        "K,A,B,O,B"
+      ],
+      "prediction": "Abc Signs",
+      "cleaned_prediction": "abc signs"
+    },
+    {
+      "img_path": "../datasets/svtp/images/421.jpg",
+      "ground_truth": [
+        "E,A,G,L,E"
+      ],
+      "prediction": "Eagle and Agile",
+      "cleaned_prediction": "eagle and agile"
+    },
+    {
+      "img_path": "../datasets/svtp/images/422.jpg",
+      "ground_truth": [
+        "M,E,D,I,C,A,L"
+      ],
+      "prediction": "Red Cedar",
+      "cleaned_prediction": "red cedar"
+    },
+    {
+      "img_path": "../datasets/svtp/images/423.jpg",
+      "ground_truth": [
+        "E,A,G,L,E"
+      ],
+      "prediction": "AGR",
+      "cleaned_prediction": "agr"
+    },
+    {
+      "img_path": "../datasets/svtp/images/424.jpg",
+      "ground_truth": [
+        "M,E,D,I,C,A,L"
+      ],
+      "prediction": "DICO",
+      "cleaned_prediction": "dico"
+    },
+    {
+      "img_path": "../datasets/svtp/images/425.jpg",
+      "ground_truth": [
+        "M,o,b,i,l"
+      ],
+      "prediction": "Mobi - 100% Free Texting App",
+      "cleaned_prediction": "mobi - 100% free texting app"
+    },
+    {
+      "img_path": "../datasets/svtp/images/426.jpg",
+      "ground_truth": [
+        "M,o,b,i,l"
+      ],
+      "prediction": "Mobil Gas Station Sign",
+      "cleaned_prediction": "mobil gas station sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/427.jpg",
+      "ground_truth": [
+        "S,o,t,t,o"
+      ],
+      "prediction": "Sott.net",
+      "cleaned_prediction": "sottnet"
+    },
+    {
+      "img_path": "../datasets/svtp/images/428.jpg",
+      "ground_truth": [
+        "S,o,p,r,a"
+      ],
+      "prediction": "Sophron",
+      "cleaned_prediction": "sophron"
+    },
+    {
+      "img_path": "../datasets/svtp/images/429.jpg",
+      "ground_truth": [
+        "W,H,I,T,E"
+      ],
+      "prediction": "HITS",
+      "cleaned_prediction": "hits"
+    },
+    {
+      "img_path": "../datasets/svtp/images/43.jpg",
+      "ground_truth": [
+        "Z,O,U"
+      ],
+      "prediction": "Zou",
+      "cleaned_prediction": "zou"
+    },
+    {
+      "img_path": "../datasets/svtp/images/430.jpg",
+      "ground_truth": [
+        "P,A,L,A,C,E"
+      ],
+      "prediction": "Palas",
+      "cleaned_prediction": "palas"
+    },
+    {
+      "img_path": "../datasets/svtp/images/431.jpg",
+      "ground_truth": [
+        "W,h,i,t,e"
+      ],
+      "prediction": "White House",
+      "cleaned_prediction": "white house"
+    },
+    {
+      "img_path": "../datasets/svtp/images/432.jpg",
+      "ground_truth": [
+        "C,a,s,t,l,e"
+      ],
+      "prediction": "Astrology",
+      "cleaned_prediction": "astrology"
+    },
+    {
+      "img_path": "../datasets/svtp/images/433.jpg",
+      "ground_truth": [
+        "M,a,r,t,i,n"
+      ],
+      "prediction": "The text is a response to a question.",
+      "cleaned_prediction": "the text is a response to a question"
+    },
+    {
+      "img_path": "../datasets/svtp/images/434.jpg",
+      "ground_truth": [
+        "C,o,r,n,e,r"
+      ],
+      "prediction": "The text is a bit blurry, but it's readable.",
+      "cleaned_prediction": "the text is a bit blurry but its readable"
+    },
+    {
+      "img_path": "../datasets/svtp/images/435.jpg",
+      "ground_truth": [
+        "B,a,r"
+      ],
+      "prediction": "Bailey",
+      "cleaned_prediction": "bailey"
+    },
+    {
+      "img_path": "../datasets/svtp/images/436.jpg",
+      "ground_truth": [
+        "S,A,L,L,E"
+      ],
+      "prediction": "Allen & Heath ZED-10",
+      "cleaned_prediction": "allen & heath zed-10"
+    },
+    {
+      "img_path": "../datasets/svtp/images/437.jpg",
+      "ground_truth": [
+        "P,A,S,A,D,A"
+      ],
+      "prediction": "S.A.",
+      "cleaned_prediction": "sa"
+    },
+    {
+      "img_path": "../datasets/svtp/images/438.jpg",
+      "ground_truth": [
+        "p,a,s,a,d,a"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/439.jpg",
+      "ground_truth": [
+        "J,e,w,e,l"
+      ],
+      "prediction": "A new logo for the New York Times.",
+      "cleaned_prediction": "a new logo for the new york times"
+    },
+    {
+      "img_path": "../datasets/svtp/images/44.jpg",
+      "ground_truth": [
+        "H,I,G,G,I,N,S"
+      ],
+      "prediction": "Golden Gate Bridge",
+      "cleaned_prediction": "golden gate bridge"
+    },
+    {
+      "img_path": "../datasets/svtp/images/440.jpg",
+      "ground_truth": [
+        "O,s,c,o"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/441.jpg",
+      "ground_truth": [
+        "S,T,A,R,B,U,C,K,S"
+      ],
+      "prediction": "Airbus A320-200",
+      "cleaned_prediction": "airbus a320-200"
+    },
+    {
+      "img_path": "../datasets/svtp/images/442.jpg",
+      "ground_truth": [
+        "S,T,A,R,B,U,C,K,S"
+      ],
+      "prediction": "Rubber",
+      "cleaned_prediction": "rubber"
+    },
+    {
+      "img_path": "../datasets/svtp/images/443.jpg",
+      "ground_truth": [
+        "L,U,C,K,Y"
+      ],
+      "prediction": "Buckle up!",
+      "cleaned_prediction": "buckle up"
+    },
+    {
+      "img_path": "../datasets/svtp/images/444.jpg",
+      "ground_truth": [
+        "F,O,R,T,U,N,E"
+      ],
+      "prediction": "Extracted text from a sign in the background of a photo.",
+      "cleaned_prediction": "extracted text from a sign in the background of a photo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/445.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/446.jpg",
+      "ground_truth": [
+        "H,O,L,L,Y,W,O,O,D"
+      ],
+      "prediction": "Hollywood",
+      "cleaned_prediction": "hollywood"
+    },
+    {
+      "img_path": "../datasets/svtp/images/447.jpg",
+      "ground_truth": [
+        "P,O,S,T,E,R,S"
+      ],
+      "prediction": "Extracted text from the image.",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/448.jpg",
+      "ground_truth": [
+        "J,I,M,M,Y"
+      ],
+      "prediction": "M&M's",
+      "cleaned_prediction": "m&ms"
+    },
+    {
+      "img_path": "../datasets/svtp/images/449.jpg",
+      "ground_truth": [
+        "J,O,H,N"
+      ],
+      "prediction": "The sign for the restaurant is a large red sign with the name of the restaurant in white letters.",
+      "cleaned_prediction": "the sign for the restaurant is a large red sign with the name of the restaurant in white letters"
+    },
+    {
+      "img_path": "../datasets/svtp/images/45.jpg",
+      "ground_truth": [
+        "I,N,D,U,S,T,R,I,A,L"
+      ],
+      "prediction": "Industrial Sign",
+      "cleaned_prediction": "industrial sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/450.jpg",
+      "ground_truth": [
+        "M,a,s,s,a"
+      ],
+      "prediction": "Massage",
+      "cleaned_prediction": "massage"
+    },
+    {
+      "img_path": "../datasets/svtp/images/451.jpg",
+      "ground_truth": [
+        "Q,u,i,z,n,o,s"
+      ],
+      "prediction": "Quiznos Sign",
+      "cleaned_prediction": "quiznos sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/452.jpg",
+      "ground_truth": [
+        "S,P,A,G,H,E,T,T,I"
+      ],
+      "prediction": "Spaghetti House",
+      "cleaned_prediction": "spaghetti house"
+    },
+    {
+      "img_path": "../datasets/svtp/images/453.jpg",
+      "ground_truth": [
+        "W,A,R,E,H,O,U,S,E"
+      ],
+      "prediction": "Warehouse",
+      "cleaned_prediction": "warehouse"
+    },
+    {
+      "img_path": "../datasets/svtp/images/454.jpg",
+      "ground_truth": [
+        "S,P,A,G,H,E,T,T,I"
+      ],
+      "prediction": "HUMAN RESOURCES",
+      "cleaned_prediction": "human resources"
+    },
+    {
+      "img_path": "../datasets/svtp/images/455.jpg",
+      "ground_truth": [
+        "W,A,R,E,H,O,U,S,E"
+      ],
+      "prediction": "Extracted text from a photograph of a newspaper article.",
+      "cleaned_prediction": "extracted text from a photograph of a newspaper article"
+    },
+    {
+      "img_path": "../datasets/svtp/images/456.jpg",
+      "ground_truth": [
+        "C,I,R,C,L,E"
+      ],
+      "prediction": "Rio Grande",
+      "cleaned_prediction": "rio grande"
+    },
+    {
+      "img_path": "../datasets/svtp/images/457.jpg",
+      "ground_truth": [
+        "C,E,N,T,R,E"
+      ],
+      "prediction": "Extracted text from a sign",
+      "cleaned_prediction": "extracted text from a sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/458.jpg",
+      "ground_truth": [
+        "Z,E,S,C,O"
+      ],
+      "prediction": "Vesco, Inc.",
+      "cleaned_prediction": "vesco inc"
+    },
+    {
+      "img_path": "../datasets/svtp/images/459.jpg",
+      "ground_truth": [
+        "Z,E,S,C,O"
+      ],
+      "prediction": "ZESCO",
+      "cleaned_prediction": "zesco"
+    },
+    {
+      "img_path": "../datasets/svtp/images/46.jpg",
+      "ground_truth": [
+        "A,N,O,D,I,Z,I,N,G"
+      ],
+      "prediction": "Dizzy Gillespie",
+      "cleaned_prediction": "dizzy gillespie"
+    },
+    {
+      "img_path": "../datasets/svtp/images/460.jpg",
+      "ground_truth": [
+        "S,h,e,r,a,t,o,n"
+      ],
+      "prediction": "Gerbera",
+      "cleaned_prediction": "gerbera"
+    },
+    {
+      "img_path": "../datasets/svtp/images/461.jpg",
+      "ground_truth": [
+        "S,h,e,r,a,t,o,n"
+      ],
+      "prediction": "Cherate",
+      "cleaned_prediction": "cherate"
+    },
+    {
+      "img_path": "../datasets/svtp/images/462.jpg",
+      "ground_truth": [
+        "P,A,K"
+      ],
+      "prediction": "Pakistan",
+      "cleaned_prediction": "pakistan"
+    },
+    {
+      "img_path": "../datasets/svtp/images/463.jpg",
+      "ground_truth": [
+        "T,E,A"
+      ],
+      "prediction": "TEAM",
+      "cleaned_prediction": "team"
+    },
+    {
+      "img_path": "../datasets/svtp/images/464.jpg",
+      "ground_truth": [
+        "H,O,U,S,E"
+      ],
+      "prediction": "Douse - 100% Cotton T-Shirt",
+      "cleaned_prediction": "douse - 100% cotton t-shirt"
+    },
+    {
+      "img_path": "../datasets/svtp/images/465.jpg",
+      "ground_truth": [
+        "P,A,K"
+      ],
+      "prediction": "Pain",
+      "cleaned_prediction": "pain"
+    },
+    {
+      "img_path": "../datasets/svtp/images/466.jpg",
+      "ground_truth": [
+        "T,E,A"
+      ],
+      "prediction": "Tea",
+      "cleaned_prediction": "tea"
+    },
+    {
+      "img_path": "../datasets/svtp/images/467.jpg",
+      "ground_truth": [
+        "H,O,U,S,E"
+      ],
+      "prediction": "Dusty",
+      "cleaned_prediction": "dusty"
+    },
+    {
+      "img_path": "../datasets/svtp/images/468.jpg",
+      "ground_truth": [
+        "F,O,S,S,I,L"
+      ],
+      "prediction": "OSS",
+      "cleaned_prediction": "oss"
+    },
+    {
+      "img_path": "../datasets/svtp/images/469.jpg",
+      "ground_truth": [
+        "F,O,S,S,I,L"
+      ],
+      "prediction": "Text Extraction",
+      "cleaned_prediction": "text extraction"
+    },
+    {
+      "img_path": "../datasets/svtp/images/47.jpg",
+      "ground_truth": [
+        "c,a,p, ,G,I,R,O"
+      ],
+      "prediction": "Gallery of G-Artis",
+      "cleaned_prediction": "gallery of g-artis"
+    },
+    {
+      "img_path": "../datasets/svtp/images/470.jpg",
+      "ground_truth": [
+        "S,U,S,H,I"
+      ],
+      "prediction": "Sushi",
+      "cleaned_prediction": "sushi"
+    },
+    {
+      "img_path": "../datasets/svtp/images/471.jpg",
+      "ground_truth": [
+        "H,A,T,S,U"
+      ],
+      "prediction": "Hatsu - Hatsu is a Japanese word meaning 'first'.  It is also the name of a Japanese restaurant in the city of Leeds, England.  The restaurant is owned by the Japanese chef, Hatsu Yamamoto.  The restaurant is located in the city centre, on the corner of Albion Street and Great George Street.  The restaurant is a popular destination for Japanese food in the city.  The restaurant is open from 12pm to 10pm, Monday to Saturday.  The restaurant is closed on Sundays.  The restaurant is a small, cosy restaurant.  The restaurant has a small, intimate atmosphere.  The restaurant has a friendly, welcoming atmosphere.  The restaurant has a friendly, welcoming atmosphere.  The restaurant has a friendly, welcoming atmosphere.  The restaurant has a friendly, welcoming atmosphere.  The restaurant has a friendly, welcoming atmosphere.  The restaurant has a friendly, welcoming atmosphere.  The restaurant has a friendly, welcoming atmosphere.  The restaurant has a friendly, welcoming atmosphere.  The restaurant has a friendly, welcoming atmosphere.  The restaurant has a friendly, welcoming atmosphere.  The restaurant has a friendly, wel",
+      "cleaned_prediction": "hatsu - hatsu is a japanese word meaning first it is also the name of a japanese restaurant in the city of leeds england the restaurant is owned by the japanese chef hatsu yamamoto the restaurant is located in the city centre on the corner of albion street and great george street the restaurant is a popular destination for japanese food in the city the restaurant is open from 12pm to 10pm monday to saturday the restaurant is closed on sundays the restaurant is a small cosy restaurant the restaurant has a small intimate atmosphere the restaurant has a friendly welcoming atmosphere the restaurant has a friendly welcoming atmosphere the restaurant has a friendly welcoming atmosphere the restaurant has a friendly welcoming atmosphere the restaurant has a friendly welcoming atmosphere the restaurant has a friendly welcoming atmosphere the restaurant has a friendly welcoming atmosphere the restaurant has a friendly welcoming atmosphere the restaurant has a friendly welcoming atmosphere the restaurant has a friendly welcoming atmosphere the restaurant has a friendly wel"
+    },
+    {
+      "img_path": "../datasets/svtp/images/472.jpg",
+      "ground_truth": [
+        "C,E,N,T,R,A,L"
+      ],
+      "prediction": "Ate",
+      "cleaned_prediction": "ate"
+    },
+    {
+      "img_path": "../datasets/svtp/images/473.jpg",
+      "ground_truth": [
+        "S,T,A,T,I,O,N"
+      ],
+      "prediction": "ATI Technologies Inc.",
+      "cleaned_prediction": "ati technologies inc"
+    },
+    {
+      "img_path": "../datasets/svtp/images/474.jpg",
+      "ground_truth": [
+        "B,A,R"
+      ],
+      "prediction": "Airport Code",
+      "cleaned_prediction": "airport code"
+    },
+    {
+      "img_path": "../datasets/svtp/images/475.jpg",
+      "ground_truth": [
+        "C,E,N,T,R,A,L"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/476.jpg",
+      "ground_truth": [
+        "S,T,A,T,I,O,N"
+      ],
+      "prediction": "Aerial view of the city of New Orleans, Louisiana, USA",
+      "cleaned_prediction": "aerial view of the city of new orleans louisiana usa"
+    },
+    {
+      "img_path": "../datasets/svtp/images/477.jpg",
+      "ground_truth": [
+        "D,A,N"
+      ],
+      "prediction": "Extracted text from a dollar bill",
+      "cleaned_prediction": "extracted text from a dollar bill"
+    },
+    {
+      "img_path": "../datasets/svtp/images/478.jpg",
+      "ground_truth": [
+        "T,a,b,u"
+      ],
+      "prediction": "Tobu - 2012 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03.12 - 12.03",
+      "cleaned_prediction": "tobu - 2012 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 120312 - 1203"
+    },
+    {
+      "img_path": "../datasets/svtp/images/479.jpg",
+      "ground_truth": [
+        "S,U,I,T,E,S"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/48.jpg",
+      "ground_truth": [
+        "S,T,A,R,B,U,C,K,S"
+      ],
+      "prediction": "Starbucks",
+      "cleaned_prediction": "starbucks"
+    },
+    {
+      "img_path": "../datasets/svtp/images/480.jpg",
+      "ground_truth": [
+        "E,M,B,A,S,S,Y"
+      ],
+      "prediction": "Ambassador Hotel",
+      "cleaned_prediction": "ambassador hotel"
+    },
+    {
+      "img_path": "../datasets/svtp/images/481.jpg",
+      "ground_truth": [
+        "P,A,R,K,I,N,G"
+      ],
+      "prediction": "Parker, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031, 2032, 2033, 2034, 2035,",
+      "cleaned_prediction": "parker 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035"
+    },
+    {
+      "img_path": "../datasets/svtp/images/482.jpg",
+      "ground_truth": [
+        "S,h,e,r,a,t,o,n"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/483.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "Laura",
+      "cleaned_prediction": "laura"
+    },
+    {
+      "img_path": "../datasets/svtp/images/484.jpg",
+      "ground_truth": [
+        "U,N,I,V,E,R,S,I,T,Y"
+      ],
+      "prediction": "The text is extracted from the image.",
+      "cleaned_prediction": "the text is extracted from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/485.jpg",
+      "ground_truth": [
+        "C,E,N,T,E,R"
+      ],
+      "prediction": "The sign reads: 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "cleaned_prediction": "the sign reads 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "img_path": "../datasets/svtp/images/486.jpg",
+      "ground_truth": [
+        "U,N,I,V,E,R,S,I,T,Y"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/487.jpg",
+      "ground_truth": [
+        "A,S,U"
+      ],
+      "prediction": "Astrology Signs",
+      "cleaned_prediction": "astrology signs"
+    },
+    {
+      "img_path": "../datasets/svtp/images/488.jpg",
+      "ground_truth": [
+        "A,S,U"
+      ],
+      "prediction": "Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley, Ashley,",
+      "cleaned_prediction": "ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley ashley"
+    },
+    {
+      "img_path": "../datasets/svtp/images/489.jpg",
+      "ground_truth": [
+        "E,n,t,e,r,p,r,i,s,e"
+      ],
+      "prediction": "Enterprise Rent-A-Car",
+      "cleaned_prediction": "enterprise rent-a-car"
+    },
+    {
+      "img_path": "../datasets/svtp/images/49.jpg",
+      "ground_truth": [
+        "C,O,F,F,E,E"
+      ],
+      "prediction": "Coffee",
+      "cleaned_prediction": "coffee"
+    },
+    {
+      "img_path": "../datasets/svtp/images/490.jpg",
+      "ground_truth": [
+        "C,H,E,U,V,R,O,N,T"
+      ],
+      "prediction": "JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVENILE JUVEN",
+      "cleaned_prediction": "juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juvenile juven"
+    },
+    {
+      "img_path": "../datasets/svtp/images/491.jpg",
+      "ground_truth": [
+        "C,H,E,U,V,R,O,N,T"
+      ],
+      "prediction": "UV4",
+      "cleaned_prediction": "uv4"
+    },
+    {
+      "img_path": "../datasets/svtp/images/492.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "Taut",
+      "cleaned_prediction": "taut"
+    },
+    {
+      "img_path": "../datasets/svtp/images/493.jpg",
+      "ground_truth": [
+        "S,a,n"
+      ],
+      "prediction": "San Francisco",
+      "cleaned_prediction": "san francisco"
+    },
+    {
+      "img_path": "../datasets/svtp/images/494.jpg",
+      "ground_truth": [
+        "D,i,e,g,o"
+      ],
+      "prediction": "Diego",
+      "cleaned_prediction": "diego"
+    },
+    {
+      "img_path": "../datasets/svtp/images/495.jpg",
+      "ground_truth": [
+        "A,u,t,o,m,o,t,i,v,e"
+      ],
+      "prediction": "Automotive Logo",
+      "cleaned_prediction": "automotive logo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/496.jpg",
+      "ground_truth": [
+        "M,u,s,e,u,m"
+      ],
+      "prediction": "Museum of Modern Art",
+      "cleaned_prediction": "museum of modern art"
+    },
+    {
+      "img_path": "../datasets/svtp/images/497.jpg",
+      "ground_truth": [
+        "C,O,U,R,T,Y,A,R,D"
+      ],
+      "prediction": "The text is a green background with the word Party in white.",
+      "cleaned_prediction": "the text is a green background with the word party in white"
+    },
+    {
+      "img_path": "../datasets/svtp/images/498.jpg",
+      "ground_truth": [
+        "H,o,l,i,d,a,y"
+      ],
+      "prediction": "Holiday Inn Express & Suites",
+      "cleaned_prediction": "holiday inn express & suites"
+    },
+    {
+      "img_path": "../datasets/svtp/images/499.jpg",
+      "ground_truth": [
+        "I,n,n"
+      ],
+      "prediction": "Inn 100% Cotton 100% Linen 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 1",
+      "cleaned_prediction": "inn 100% cotton 100% linen 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 1"
+    },
+    {
+      "img_path": "../datasets/svtp/images/5.jpg",
+      "ground_truth": [
+        "M,I,N,T"
+      ],
+      "prediction": "Saint Louis University",
+      "cleaned_prediction": "saint louis university"
+    },
+    {
+      "img_path": "../datasets/svtp/images/50.jpg",
+      "ground_truth": [
+        "G,R,A,N,D,S,T,A,N,D"
+      ],
+      "prediction": "DOS",
+      "cleaned_prediction": "dos"
+    },
+    {
+      "img_path": "../datasets/svtp/images/500.jpg",
+      "ground_truth": [
+        "C,a,f,e"
+      ],
+      "prediction": "Cafe",
+      "cleaned_prediction": "cafe"
+    },
+    {
+      "img_path": "../datasets/svtp/images/501.jpg",
+      "ground_truth": [
+        "S,o,l,e,i,l"
+      ],
+      "prediction": "Soleil 100% Cotton 100% Linen 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester 100% Polyester ",
+      "cleaned_prediction": "soleil 100% cotton 100% linen 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester 100% polyester"
+    },
+    {
+      "img_path": "../datasets/svtp/images/502.jpg",
+      "ground_truth": [
+        "B,a,r"
+      ],
+      "prediction": "Bank of America",
+      "cleaned_prediction": "bank of america"
+    },
+    {
+      "img_path": "../datasets/svtp/images/503.jpg",
+      "ground_truth": [
+        "R,e,s,t,a,u,r,a,n,t"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/504.jpg",
+      "ground_truth": [
+        "C,V,S"
+      ],
+      "prediction": "Cvs Red Text",
+      "cleaned_prediction": "cvs red text"
+    },
+    {
+      "img_path": "../datasets/svtp/images/505.jpg",
+      "ground_truth": [
+        "p,h,a,r,m,a,c,y"
+      ],
+      "prediction": "Harma",
+      "cleaned_prediction": "harma"
+    },
+    {
+      "img_path": "../datasets/svtp/images/506.jpg",
+      "ground_truth": [
+        "C,V,S"
+      ],
+      "prediction": "Cvs Logo",
+      "cleaned_prediction": "cvs logo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/507.jpg",
+      "ground_truth": [
+        "L,O,U,N,G,E"
+      ],
+      "prediction": "Boutique Logo",
+      "cleaned_prediction": "boutique logo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/508.jpg",
+      "ground_truth": [
+        "C,H,O,C,O,L,A,T,E"
+      ],
+      "prediction": "DOCOMO",
+      "cleaned_prediction": "docomo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/509.jpg",
+      "ground_truth": [
+        "M,O,O,S,E"
+      ],
+      "prediction": "005",
+      "cleaned_prediction": "005"
+    },
+    {
+      "img_path": "../datasets/svtp/images/51.jpg",
+      "ground_truth": [
+        "G,R,A,N,D,S,T,A,N,D, ,S,P,O,R,T,S"
+      ],
+      "prediction": "Handstand Sports",
+      "cleaned_prediction": "handstand sports"
+    },
+    {
+      "img_path": "../datasets/svtp/images/510.jpg",
+      "ground_truth": [
+        "R,E,D"
+      ],
+      "prediction": "The text is a quote from the book, and the image is a picture of the book.",
+      "cleaned_prediction": "the text is a quote from the book and the image is a picture of the book"
+    },
+    {
+      "img_path": "../datasets/svtp/images/511.jpg",
+      "ground_truth": [
+        "B,E,L,V,E,D,E,R,E"
+      ],
+      "prediction": "Sweden",
+      "cleaned_prediction": "sweden"
+    },
+    {
+      "img_path": "../datasets/svtp/images/512.jpg",
+      "ground_truth": [
+        "G,R,I,L,L"
+      ],
+      "prediction": "The Grill",
+      "cleaned_prediction": "the grill"
+    },
+    {
+      "img_path": "../datasets/svtp/images/513.jpg",
+      "ground_truth": [
+        "K,Y,R,O"
+      ],
+      "prediction": "Kyrox",
+      "cleaned_prediction": "kyrox"
+    },
+    {
+      "img_path": "../datasets/svtp/images/514.jpg",
+      "ground_truth": [
+        "P,I,Z,Z,A"
+      ],
+      "prediction": "Pizza Hut",
+      "cleaned_prediction": "pizza hut"
+    },
+    {
+      "img_path": "../datasets/svtp/images/515.jpg",
+      "ground_truth": [
+        "K,Y,R,O"
+      ],
+      "prediction": "Skyrocketing",
+      "cleaned_prediction": "skyrocketing"
+    },
+    {
+      "img_path": "../datasets/svtp/images/516.jpg",
+      "ground_truth": [
+        "P,I,Z,Z,A"
+      ],
+      "prediction": "Pizza",
+      "cleaned_prediction": "pizza"
+    },
+    {
+      "img_path": "../datasets/svtp/images/517.jpg",
+      "ground_truth": [
+        "F,O,R"
+      ],
+      "prediction": "FORD",
+      "cleaned_prediction": "ford"
+    },
+    {
+      "img_path": "../datasets/svtp/images/518.jpg",
+      "ground_truth": [
+        "E,Y,E,S"
+      ],
+      "prediction": "Yes, I'm a yes man.",
+      "cleaned_prediction": "yes im a yes man"
+    },
+    {
+      "img_path": "../datasets/svtp/images/519.jpg",
+      "ground_truth": [
+        "F,O,R"
+      ],
+      "prediction": "Forex",
+      "cleaned_prediction": "forex"
+    },
+    {
+      "img_path": "../datasets/svtp/images/52.jpg",
+      "ground_truth": [
+        "C,I,N,E,R,A,M,A"
+      ],
+      "prediction": "Theater Sign",
+      "cleaned_prediction": "theater sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/520.jpg",
+      "ground_truth": [
+        "E,Y,E,S"
+      ],
+      "prediction": "Yes",
+      "cleaned_prediction": "yes"
+    },
+    {
+      "img_path": "../datasets/svtp/images/521.jpg",
+      "ground_truth": [
+        "P,O,L,I,S,H"
+      ],
+      "prediction": "Polis Signage",
+      "cleaned_prediction": "polis signage"
+    },
+    {
+      "img_path": "../datasets/svtp/images/522.jpg",
+      "ground_truth": [
+        "s,c,o,o,t,e,r,s"
+      ],
+      "prediction": "Red Text on White Background",
+      "cleaned_prediction": "red text on white background"
+    },
+    {
+      "img_path": "../datasets/svtp/images/523.jpg",
+      "ground_truth": [
+        "S,P,R,U,C,E"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/524.jpg",
+      "ground_truth": [
+        "S,p,o,r,t,i,q,u,e"
+      ],
+      "prediction": "Extracted text from a handwritten note.",
+      "cleaned_prediction": "extracted text from a handwritten note"
+    },
+    {
+      "img_path": "../datasets/svtp/images/525.jpg",
+      "ground_truth": [
+        "J,E,R,O,M,E"
+      ],
+      "prediction": "The text is the name of the company.",
+      "cleaned_prediction": "the text is the name of the company"
+    },
+    {
+      "img_path": "../datasets/svtp/images/526.jpg",
+      "ground_truth": [
+        "S,C,H,O,O,L"
+      ],
+      "prediction": "HGH",
+      "cleaned_prediction": "hgh"
+    },
+    {
+      "img_path": "../datasets/svtp/images/527.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/528.jpg",
+      "ground_truth": [
+        "W,A,R,W,I,C,K"
+      ],
+      "prediction": "The text is a part of the image.",
+      "cleaned_prediction": "the text is a part of the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/529.jpg",
+      "ground_truth": [
+        "W,A,R,W,I,C,K"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/53.jpg",
+      "ground_truth": [
+        "C,I,N,E,R,A,M,A"
+      ],
+      "prediction": "The text is a part of the image.",
+      "cleaned_prediction": "the text is a part of the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/530.jpg",
+      "ground_truth": [
+        "W,A,R,W,I,C,K"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/531.jpg",
+      "ground_truth": [
+        "D,o,m,i,n,o,'"
+      ],
+      "prediction": "comi - comi",
+      "cleaned_prediction": "comi - comi"
+    },
+    {
+      "img_path": "../datasets/svtp/images/532.jpg",
+      "ground_truth": [
+        "J,O,B,S,I,T,E"
+      ],
+      "prediction": "BSBS",
+      "cleaned_prediction": "bsbs"
+    },
+    {
+      "img_path": "../datasets/svtp/images/533.jpg",
+      "ground_truth": [
+        "S,U,P,P,L,Y"
+      ],
+      "prediction": "SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY:  SUPPLIED BY: ",
+      "cleaned_prediction": "supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by supplied by"
+    },
+    {
+      "img_path": "../datasets/svtp/images/534.jpg",
+      "ground_truth": [
+        "W,O,R,K"
+      ],
+      "prediction": "NORMAL",
+      "cleaned_prediction": "normal"
+    },
+    {
+      "img_path": "../datasets/svtp/images/535.jpg",
+      "ground_truth": [
+        "L,E,N,S,C,R,A,F,T,E,R,S"
+      ],
+      "prediction": "Craft",
+      "cleaned_prediction": "craft"
+    },
+    {
+      "img_path": "../datasets/svtp/images/536.jpg",
+      "ground_truth": [
+        "L,E,N,S,C,R,A,F,T,E,R,S"
+      ],
+      "prediction": "InsCraft",
+      "cleaned_prediction": "inscraft"
+    },
+    {
+      "img_path": "../datasets/svtp/images/537.jpg",
+      "ground_truth": [
+        "O,r,l,a,n,d,o"
+      ],
+      "prediction": "The text is extracted from the image.",
+      "cleaned_prediction": "the text is extracted from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/538.jpg",
+      "ground_truth": [
+        "S,e,n,t,i,n,e,l"
+      ],
+      "prediction": "A group of people sit on a bench in front of a wall of books.",
+      "cleaned_prediction": "a group of people sit on a bench in front of a wall of books"
+    },
+    {
+      "img_path": "../datasets/svtp/images/539.jpg",
+      "ground_truth": [
+        "C,I,T,Y,A,R,T,S"
+      ],
+      "prediction": "Yard",
+      "cleaned_prediction": "yard"
+    },
+    {
+      "img_path": "../datasets/svtp/images/54.jpg",
+      "ground_truth": [
+        "I,m,p,o,r,t,s,,"
+      ],
+      "prediction": "Important text",
+      "cleaned_prediction": "important text"
+    },
+    {
+      "img_path": "../datasets/svtp/images/540.jpg",
+      "ground_truth": [
+        "P,A,R,C"
+      ],
+      "prediction": "A sign for the Arrowhead Restaurant in the 1950s.",
+      "cleaned_prediction": "a sign for the arrowhead restaurant in the 1950s"
+    },
+    {
+      "img_path": "../datasets/svtp/images/541.jpg",
+      "ground_truth": [
+        "P,A,R,C"
+      ],
+      "prediction": "Extracted text from a sign in the background of a photo.",
+      "cleaned_prediction": "extracted text from a sign in the background of a photo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/542.jpg",
+      "ground_truth": [
+        "e,y,e"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/543.jpg",
+      "ground_truth": [
+        "l,o,u,n,g,e"
+      ],
+      "prediction": "The text is a bit blurry, but it's readable.",
+      "cleaned_prediction": "the text is a bit blurry but its readable"
+    },
+    {
+      "img_path": "../datasets/svtp/images/544.jpg",
+      "ground_truth": [
+        "c,i,r,c,e,s"
+      ],
+      "prediction": "Circles logo",
+      "cleaned_prediction": "circles logo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/545.jpg",
+      "ground_truth": [
+        "t,a,p,e,s"
+      ],
+      "prediction": "Hopes",
+      "cleaned_prediction": "hopes"
+    },
+    {
+      "img_path": "../datasets/svtp/images/546.jpg",
+      "ground_truth": [
+        "S,O,U,T,H"
+      ],
+      "prediction": "Outfit",
+      "cleaned_prediction": "outfit"
+    },
+    {
+      "img_path": "../datasets/svtp/images/547.jpg",
+      "ground_truth": [
+        "F,I,R,S,T"
+      ],
+      "prediction": "Firestarter",
+      "cleaned_prediction": "firestarter"
+    },
+    {
+      "img_path": "../datasets/svtp/images/548.jpg",
+      "ground_truth": [
+        "B,I,L,L,I,A,R,D,S"
+      ],
+      "prediction": "Liar, Liar, Pants on Fire",
+      "cleaned_prediction": "liar liar pants on fire"
+    },
+    {
+      "img_path": "../datasets/svtp/images/549.jpg",
+      "ground_truth": [
+        "L,I,N,C,O,L,N"
+      ],
+      "prediction": "C - 100% Cotton, 100% Soft, 100% Comfortable, 100% Sweatshop Free, 100% Fair Trade, 100% Organic, 100% GOTS Certified, 100% Made in the USA",
+      "cleaned_prediction": "c - 100% cotton 100% soft 100% comfortable 100% sweatshop free 100% fair trade 100% organic 100% gots certified 100% made in the usa"
+    },
+    {
+      "img_path": "../datasets/svtp/images/55.jpg",
+      "ground_truth": [
+        "P,h,i,l"
+      ],
+      "prediction": "Phil 615-555-1212",
+      "cleaned_prediction": "phil 615-555-1212"
+    },
+    {
+      "img_path": "../datasets/svtp/images/550.jpg",
+      "ground_truth": [
+        "H,I,G,H"
+      ],
+      "prediction": "GIG",
+      "cleaned_prediction": "gig"
+    },
+    {
+      "img_path": "../datasets/svtp/images/551.jpg",
+      "ground_truth": [
+        "S,C,H,O,O,L"
+      ],
+      "prediction": "The text is a bit blurry, but it looks like it says: 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999",
+      "cleaned_prediction": "the text is a bit blurry but it looks like it says 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 1999"
+    },
+    {
+      "img_path": "../datasets/svtp/images/552.jpg",
+      "ground_truth": [
+        "S,C,H,O,O,L"
+      ],
+      "prediction": "100% Cotton 100% Linen 100% Silk 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100% Wool 100%",
+      "cleaned_prediction": "100% cotton 100% linen 100% silk 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100% wool 100%"
+    },
+    {
+      "img_path": "../datasets/svtp/images/553.jpg",
+      "ground_truth": [
+        "S,C,H,O,O,L"
+      ],
+      "prediction": "Words",
+      "cleaned_prediction": "words"
+    },
+    {
+      "img_path": "../datasets/svtp/images/554.jpg",
+      "ground_truth": [
+        "C, ,A, ,L, ,I, ,F, ,O, ,R, ,N, ,I, ,A"
+      ],
+      "prediction": "The text is a bit blurry, but it's readable.",
+      "cleaned_prediction": "the text is a bit blurry but its readable"
+    },
+    {
+      "img_path": "../datasets/svtp/images/555.jpg",
+      "ground_truth": [
+        "S,a,n"
+      ],
+      "prediction": "Sleep",
+      "cleaned_prediction": "sleep"
+    },
+    {
+      "img_path": "../datasets/svtp/images/556.jpg",
+      "ground_truth": [
+        "J,o,s,e"
+      ],
+      "prediction": "Jesus Christ",
+      "cleaned_prediction": "jesus christ"
+    },
+    {
+      "img_path": "../datasets/svtp/images/557.jpg",
+      "ground_truth": [
+        "M,u,s,e,u,m"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/558.jpg",
+      "ground_truth": [
+        "Q,u,i,l,t,s"
+      ],
+      "prediction": "Quill",
+      "cleaned_prediction": "quill"
+    },
+    {
+      "img_path": "../datasets/svtp/images/559.jpg",
+      "ground_truth": [
+        "T,e,x,t,i,l,e,s"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/56.jpg",
+      "ground_truth": [
+        "N,E,U,M,O,S"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/560.jpg",
+      "ground_truth": [
+        "Q,u,i,l,t,s"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/561.jpg",
+      "ground_truth": [
+        "T,e,x,t,i,l,e,s"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/562.jpg",
+      "ground_truth": [
+        "G,O,O,D,W,I,L,L"
+      ],
+      "prediction": "Odyssey 2019-07-01 12.52.49.png",
+      "cleaned_prediction": "odyssey 2019-07-01 125249png"
+    },
+    {
+      "img_path": "../datasets/svtp/images/563.jpg",
+      "ground_truth": [
+        "F,A,H,R,E,N,H,E,I,T"
+      ],
+      "prediction": "Renewal",
+      "cleaned_prediction": "renewal"
+    },
+    {
+      "img_path": "../datasets/svtp/images/564.jpg",
+      "ground_truth": [
+        "M,O,O,R,E"
+      ],
+      "prediction": "The text is a close up of the number 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "cleaned_prediction": "the text is a close up of the number 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "img_path": "../datasets/svtp/images/565.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/566.jpg",
+      "ground_truth": [
+        "M,O,O,R,E"
+      ],
+      "prediction": "The text is a series of numbers and letters.",
+      "cleaned_prediction": "the text is a series of numbers and letters"
+    },
+    {
+      "img_path": "../datasets/svtp/images/567.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "Extracted text from a photograph of a sign.",
+      "cleaned_prediction": "extracted text from a photograph of a sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/568.jpg",
+      "ground_truth": [
+        "G,A,R,A,G,E"
+      ],
+      "prediction": "Amarillo, Texas",
+      "cleaned_prediction": "amarillo texas"
+    },
+    {
+      "img_path": "../datasets/svtp/images/569.jpg",
+      "ground_truth": [
+        "G,A,R,A,G,E"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/57.jpg",
+      "ground_truth": [
+        "P,I,O,N,E,E,R"
+      ],
+      "prediction": "Pioneer Building",
+      "cleaned_prediction": "pioneer building"
+    },
+    {
+      "img_path": "../datasets/svtp/images/570.jpg",
+      "ground_truth": [
+        "T,H,E"
+      ],
+      "prediction": "The The",
+      "cleaned_prediction": "the the"
+    },
+    {
+      "img_path": "../datasets/svtp/images/571.jpg",
+      "ground_truth": [
+        "S,A,I,N,T,E"
+      ],
+      "prediction": "Saint Thomas Health",
+      "cleaned_prediction": "saint thomas health"
+    },
+    {
+      "img_path": "../datasets/svtp/images/572.jpg",
+      "ground_truth": [
+        "C,L,A,I,R,E"
+      ],
+      "prediction": "Claire's",
+      "cleaned_prediction": "claires"
+    },
+    {
+      "img_path": "../datasets/svtp/images/573.jpg",
+      "ground_truth": [
+        "P,I,K,E"
+      ],
+      "prediction": "Spike",
+      "cleaned_prediction": "spike"
+    },
+    {
+      "img_path": "../datasets/svtp/images/574.jpg",
+      "ground_truth": [
+        "W,E,S,T,E,R,N"
+      ],
+      "prediction": "Stephen King",
+      "cleaned_prediction": "stephen king"
+    },
+    {
+      "img_path": "../datasets/svtp/images/575.jpg",
+      "ground_truth": [
+        "W,I,N,E"
+      ],
+      "prediction": "Wine",
+      "cleaned_prediction": "wine"
+    },
+    {
+      "img_path": "../datasets/svtp/images/576.jpg",
+      "ground_truth": [
+        "E,c,o,n,o"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/577.jpg",
+      "ground_truth": [
+        "L,o,d,g,e"
+      ],
+      "prediction": "Burgundy Text on White Background",
+      "cleaned_prediction": "burgundy text on white background"
+    },
+    {
+      "img_path": "../datasets/svtp/images/578.jpg",
+      "ground_truth": [
+        "T,I,N,Y"
+      ],
+      "prediction": "I'm not sure what you mean by 'tinny' but I'm not sure that's the right word.  I'm not sure what you mean by 'tinny' but I'm not sure that's the right word.  I'm not sure what you mean by 'tinny' but I'm not sure that's the right word.  I'm not sure what you mean by 'tinny' but I'm not sure that's the right word.  I'm not sure what you mean by 'tinny' but I'm not sure that's the right word.  I'm not sure what you mean by 'tinny' but I'm not sure that's the right word.  I'm not sure what you mean by 'tinny' but I'm not sure that's the right word.  I'm not sure what you mean by 'tinny' but I'm not sure that's the right word.  I'm not sure what you mean by 'tinny' but I'm not sure that's the right word.  I'm not",
+      "cleaned_prediction": "im not sure what you mean by tinny but im not sure thats the right word im not sure what you mean by tinny but im not sure thats the right word im not sure what you mean by tinny but im not sure thats the right word im not sure what you mean by tinny but im not sure thats the right word im not sure what you mean by tinny but im not sure thats the right word im not sure what you mean by tinny but im not sure thats the right word im not sure what you mean by tinny but im not sure thats the right word im not sure what you mean by tinny but im not sure thats the right word im not sure what you mean by tinny but im not sure thats the right word im not"
+    },
+    {
+      "img_path": "../datasets/svtp/images/579.jpg",
+      "ground_truth": [
+        "J,E,W,E,L"
+      ],
+      "prediction": "The text on the back of the truck reads: 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042",
+      "cleaned_prediction": "the text on the back of the truck reads 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042"
+    },
+    {
+      "img_path": "../datasets/svtp/images/58.jpg",
+      "ground_truth": [
+        "P,L,A,C,E"
+      ],
+      "prediction": "Plaice Sign",
+      "cleaned_prediction": "plaice sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/580.jpg",
+      "ground_truth": [
+        "B,O,X"
+      ],
+      "prediction": "Bonus - 100% of the time, you'll get a bonus.  - 100% of the time, you'll get a bonus.  - 100% of the time, you'll get a bonus.  - 100% of the time, you'll get a bonus.  - 100% of the time, you'll get a bonus.  - 100% of the time, you'll get a bonus.  - 100% of the time, you'll get a bonus.  - 100% of the time, you'll get a bonus.  - 100% of the time, you'll get a bonus.  - 100% of the time, you'll get a bonus.  - 100% of the time, you'll get a bonus.  - 100% of the time, you'll get a bonus.  - 100% of the time, you'll get a bonus.  - 100% of the time, you'll get a bonus.  -",
+      "cleaned_prediction": "bonus - 100% of the time youll get a bonus - 100% of the time youll get a bonus - 100% of the time youll get a bonus - 100% of the time youll get a bonus - 100% of the time youll get a bonus - 100% of the time youll get a bonus - 100% of the time youll get a bonus - 100% of the time youll get a bonus - 100% of the time youll get a bonus - 100% of the time youll get a bonus - 100% of the time youll get a bonus - 100% of the time youll get a bonus - 100% of the time youll get a bonus - 100% of the time youll get a bonus -"
+    },
+    {
+      "img_path": "../datasets/svtp/images/581.jpg",
+      "ground_truth": [
+        "F,I,R,E,P,L,A,C,E"
+      ],
+      "prediction": "Replay",
+      "cleaned_prediction": "replay"
+    },
+    {
+      "img_path": "../datasets/svtp/images/582.jpg",
+      "ground_truth": [
+        "C,A,R,R,O,L,L"
+      ],
+      "prediction": "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR",
+      "cleaned_prediction": "rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"
+    },
+    {
+      "img_path": "../datasets/svtp/images/583.jpg",
+      "ground_truth": [
+        "S,T,R,E,T"
+      ],
+      "prediction": "Treatment",
+      "cleaned_prediction": "treatment"
+    },
+    {
+      "img_path": "../datasets/svtp/images/584.jpg",
+      "ground_truth": [
+        "W,H,E,E,L,E,R"
+      ],
+      "prediction": "The Extended Edition",
+      "cleaned_prediction": "the extended edition"
+    },
+    {
+      "img_path": "../datasets/svtp/images/585.jpg",
+      "ground_truth": [
+        "M,I,S,S,I,O,N"
+      ],
+      "prediction": "Sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss",
+      "cleaned_prediction": "sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss"
+    },
+    {
+      "img_path": "../datasets/svtp/images/586.jpg",
+      "ground_truth": [
+        "A,I,R,W,A,Y,S"
+      ],
+      "prediction": "RW Banner",
+      "cleaned_prediction": "rw banner"
+    },
+    {
+      "img_path": "../datasets/svtp/images/587.jpg",
+      "ground_truth": [
+        "C,E,N,T,E,R"
+      ],
+      "prediction": "Bank of America logo",
+      "cleaned_prediction": "bank of america logo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/588.jpg",
+      "ground_truth": [
+        "F,U,D,D,R,U,C,K,E,R,S"
+      ],
+      "prediction": "Drucker, Peter F. (1999). The Age of Discontinuity. New York: HarperBusiness.",
+      "cleaned_prediction": "drucker peter f 1999 the age of discontinuity new york harperbusiness"
+    },
+    {
+      "img_path": "../datasets/svtp/images/589.jpg",
+      "ground_truth": [
+        "T,H,E"
+      ],
+      "prediction": "The HEB",
+      "cleaned_prediction": "the heb"
+    },
+    {
+      "img_path": "../datasets/svtp/images/59.jpg",
+      "ground_truth": [
+        "P,I,O,N,E,E,R"
+      ],
+      "prediction": "Extracted text from the sign on the front of the building",
+      "cleaned_prediction": "extracted text from the sign on the front of the building"
+    },
+    {
+      "img_path": "../datasets/svtp/images/590.jpg",
+      "ground_truth": [
+        "G,R,A,N,D"
+      ],
+      "prediction": "Horton Grand Hotel",
+      "cleaned_prediction": "horton grand hotel"
+    },
+    {
+      "img_path": "../datasets/svtp/images/591.jpg",
+      "ground_truth": [
+        "H,O,R,T,O,N"
+      ],
+      "prediction": "Horton Brand",
+      "cleaned_prediction": "horton brand"
+    },
+    {
+      "img_path": "../datasets/svtp/images/592.jpg",
+      "ground_truth": [
+        "G,R,A, ,H,O,T,E,L"
+      ],
+      "prediction": "Graffiti Hotel",
+      "cleaned_prediction": "graffiti hotel"
+    },
+    {
+      "img_path": "../datasets/svtp/images/593.jpg",
+      "ground_truth": [
+        "C,H,I,N,E,S,E"
+      ],
+      "prediction": "Shinnecock Indian Nation",
+      "cleaned_prediction": "shinnecock indian nation"
+    },
+    {
+      "img_path": "../datasets/svtp/images/594.jpg",
+      "ground_truth": [
+        "G,R,E,A,T"
+      ],
+      "prediction": "Great!",
+      "cleaned_prediction": "great"
+    },
+    {
+      "img_path": "../datasets/svtp/images/595.jpg",
+      "ground_truth": [
+        "W,A,L,L"
+      ],
+      "prediction": "Wall Street Journal",
+      "cleaned_prediction": "wall street journal"
+    },
+    {
+      "img_path": "../datasets/svtp/images/596.jpg",
+      "ground_truth": [
+        "M,O,T,I,F"
+      ],
+      "prediction": "Extracted text from the image",
+      "cleaned_prediction": "extracted text from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/597.jpg",
+      "ground_truth": [
+        "M,O,T,I,F"
+      ],
+      "prediction": "The text is extracted from the image.",
+      "cleaned_prediction": "the text is extracted from the image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/598.jpg",
+      "ground_truth": [
+        "P,i,z,z,a"
+      ],
+      "prediction": "Jazz",
+      "cleaned_prediction": "jazz"
+    },
+    {
+      "img_path": "../datasets/svtp/images/599.jpg",
+      "ground_truth": [
+        "H,u,t"
+      ],
+      "prediction": "HUH?",
+      "cleaned_prediction": "huh"
+    },
+    {
+      "img_path": "../datasets/svtp/images/6.jpg",
+      "ground_truth": [
+        "P,U,F,F"
+      ],
+      "prediction": "Puff the Magic Dragon",
+      "cleaned_prediction": "puff the magic dragon"
+    },
+    {
+      "img_path": "../datasets/svtp/images/60.jpg",
+      "ground_truth": [
+        "P, ,L, ,A, ,C, ,E"
+      ],
+      "prediction": "Black History Month",
+      "cleaned_prediction": "black history month"
+    },
+    {
+      "img_path": "../datasets/svtp/images/600.jpg",
+      "ground_truth": [
+        "d,o,o,r"
+      ],
+      "prediction": "Door Signs",
+      "cleaned_prediction": "door signs"
+    },
+    {
+      "img_path": "../datasets/svtp/images/601.jpg",
+      "ground_truth": [
+        "t,r,i,p,l,e"
+      ],
+      "prediction": "Triple M",
+      "cleaned_prediction": "triple m"
+    },
+    {
+      "img_path": "../datasets/svtp/images/602.jpg",
+      "ground_truth": [
+        "N,a,p,a,s,o,r,n"
+      ],
+      "prediction": "Extracted text from a sign on the side of a building.",
+      "cleaned_prediction": "extracted text from a sign on the side of a building"
+    },
+    {
+      "img_path": "../datasets/svtp/images/603.jpg",
+      "ground_truth": [
+        "N,A,P,A,S,O,R,N"
+      ],
+      "prediction": "AS",
+      "cleaned_prediction": "as"
+    },
+    {
+      "img_path": "../datasets/svtp/images/604.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/605.jpg",
+      "ground_truth": [
+        "M,A,G,I,C"
+      ],
+      "prediction": "Agency",
+      "cleaned_prediction": "agency"
+    },
+    {
+      "img_path": "../datasets/svtp/images/606.jpg",
+      "ground_truth": [
+        "A,U,T,O"
+      ],
+      "prediction": "AUTO",
+      "cleaned_prediction": "auto"
+    },
+    {
+      "img_path": "../datasets/svtp/images/607.jpg",
+      "ground_truth": [
+        "C,A,P,I,T,O,L"
+      ],
+      "prediction": "Capitol Hill, Washington, DC",
+      "cleaned_prediction": "capitol hill washington dc"
+    },
+    {
+      "img_path": "../datasets/svtp/images/608.jpg",
+      "ground_truth": [
+        "C,U,S,T,O,M"
+      ],
+      "prediction": "Text Extraction",
+      "cleaned_prediction": "text extraction"
+    },
+    {
+      "img_path": "../datasets/svtp/images/609.jpg",
+      "ground_truth": [
+        "T,A,I,L,O,R,S"
+      ],
+      "prediction": "Snowflake Texture 1",
+      "cleaned_prediction": "snowflake texture 1"
+    },
+    {
+      "img_path": "../datasets/svtp/images/61.jpg",
+      "ground_truth": [
+        "M,a,r,l,b,o,r,o"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/610.jpg",
+      "ground_truth": [
+        "J,E,W,E,L,R,Y"
+      ],
+      "prediction": "Sweet - 100% Cotton T-Shirt",
+      "cleaned_prediction": "sweet - 100% cotton t-shirt"
+    },
+    {
+      "img_path": "../datasets/svtp/images/611.jpg",
+      "ground_truth": [
+        "O,L,I,N"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/612.jpg",
+      "ground_truth": [
+        "M,U,R,P,H,Y"
+      ],
+      "prediction": "The sign for the Apothecary, a restaurant in the historic district of Savannah, Georgia.",
+      "cleaned_prediction": "the sign for the apothecary a restaurant in the historic district of savannah georgia"
+    },
+    {
+      "img_path": "../datasets/svtp/images/613.jpg",
+      "ground_truth": [
+        "E,X,E,C,U,T,I,V,E"
+      ],
+      "prediction": "Executive Inn",
+      "cleaned_prediction": "executive inn"
+    },
+    {
+      "img_path": "../datasets/svtp/images/614.jpg",
+      "ground_truth": [
+        "I,N,N"
+      ],
+      "prediction": "The Inn at the Crossroads",
+      "cleaned_prediction": "the inn at the crossroads"
+    },
+    {
+      "img_path": "../datasets/svtp/images/615.jpg",
+      "ground_truth": [
+        "B,e,s,t"
+      ],
+      "prediction": "Best Seller",
+      "cleaned_prediction": "best seller"
+    },
+    {
+      "img_path": "../datasets/svtp/images/616.jpg",
+      "ground_truth": [
+        "B,e,s,t, ,W,e,s,t,e,r,n"
+      ],
+      "prediction": "Best Western",
+      "cleaned_prediction": "best western"
+    },
+    {
+      "img_path": "../datasets/svtp/images/617.jpg",
+      "ground_truth": [
+        "T,O,W,N"
+      ],
+      "prediction": "Town Sign",
+      "cleaned_prediction": "town sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/618.jpg",
+      "ground_truth": [
+        "C,A,R,L,T,O,N"
+      ],
+      "prediction": "Carlton Hotel",
+      "cleaned_prediction": "carlton hotel"
+    },
+    {
+      "img_path": "../datasets/svtp/images/619.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "Hotel sign",
+      "cleaned_prediction": "hotel sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/62.jpg",
+      "ground_truth": [
+        "A,R,L,B,O,R,O"
+      ],
+      "prediction": "The logo of the National Lottery is displayed on a building in London, Britain, March 28, 2019. REUTERS/Hannah McKay",
+      "cleaned_prediction": "the logo of the national lottery is displayed on a building in london britain march 28 2019 reuters/hannah mckay"
+    },
+    {
+      "img_path": "../datasets/svtp/images/620.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "Extracted text from a sign",
+      "cleaned_prediction": "extracted text from a sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/621.jpg",
+      "ground_truth": [
+        "C,A,R,L,T,O,N"
+      ],
+      "prediction": "The RLT sign on the side of the building.",
+      "cleaned_prediction": "the rlt sign on the side of the building"
+    },
+    {
+      "img_path": "../datasets/svtp/images/622.jpg",
+      "ground_truth": [
+        "S,A,K,A,N,A"
+      ],
+      "prediction": "KAZA",
+      "cleaned_prediction": "kaza"
+    },
+    {
+      "img_path": "../datasets/svtp/images/623.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "Text Extraction",
+      "cleaned_prediction": "text extraction"
+    },
+    {
+      "img_path": "../datasets/svtp/images/624.jpg",
+      "ground_truth": [
+        "J,A,P,A,N,E,S,E"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/625.jpg",
+      "ground_truth": [
+        "C,a,n,t,o"
+      ],
+      "prediction": "Canto",
+      "cleaned_prediction": "canto"
+    },
+    {
+      "img_path": "../datasets/svtp/images/626.jpg",
+      "ground_truth": [
+        "R,E,S,T,A,U,R,A,N,T"
+      ],
+      "prediction": "Restaurant Sign",
+      "cleaned_prediction": "restaurant sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/627.jpg",
+      "ground_truth": [
+        "C,O,R,T,E,L"
+      ],
+      "prediction": "Sporty",
+      "cleaned_prediction": "sporty"
+    },
+    {
+      "img_path": "../datasets/svtp/images/628.jpg",
+      "ground_truth": [
+        "C,o,l,o,r,a,d,o"
+      ],
+      "prediction": "Colorado",
+      "cleaned_prediction": "colorado"
+    },
+    {
+      "img_path": "../datasets/svtp/images/629.jpg",
+      "ground_truth": [
+        "D,a,i,l,y"
+      ],
+      "prediction": "Daily - 100% Cotton, 100% Soft, 100% Comfortable, 100% Cool, 100% Breathable, 100% Washable, 100% Durable, 100% Stain Resistant, 100% Machine Washable, 100% Guaranteed, 100% Satisfaction, 100% Free Shipping, 100% Money Back Guarantee, 100% Risk Free, 100% Satisfaction Guaranteed, 100% Money Back Guarantee, 100% Risk Free, 100% Satisfaction Guaranteed, 100% Money Back Guarantee, 100% Risk Free, 100% Satisfaction Guaranteed, 100% Money Back Guarantee, 100% Risk Free, 100% Satisfaction Guaranteed, 100% Money Back Guarantee, 10",
+      "cleaned_prediction": "daily - 100% cotton 100% soft 100% comfortable 100% cool 100% breathable 100% washable 100% durable 100% stain resistant 100% machine washable 100% guaranteed 100% satisfaction 100% free shipping 100% money back guarantee 100% risk free 100% satisfaction guaranteed 100% money back guarantee 100% risk free 100% satisfaction guaranteed 100% money back guarantee 100% risk free 100% satisfaction guaranteed 100% money back guarantee 100% risk free 100% satisfaction guaranteed 100% money back guarantee 10"
+    },
+    {
+      "img_path": "../datasets/svtp/images/63.jpg",
+      "ground_truth": [
+        "M,a,r,l,b,o,r,o"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/630.jpg",
+      "ground_truth": [
+        "R,a,d,i,o"
+      ],
+      "prediction": "Radio",
+      "cleaned_prediction": "radio"
+    },
+    {
+      "img_path": "../datasets/svtp/images/631.jpg",
+      "ground_truth": [
+        "S,h,a,c,k"
+      ],
+      "prediction": "Shack sign",
+      "cleaned_prediction": "shack sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/632.jpg",
+      "ground_truth": [
+        "L,O,Y,A,L"
+      ],
+      "prediction": "Royal Blue",
+      "cleaned_prediction": "royal blue"
+    },
+    {
+      "img_path": "../datasets/svtp/images/633.jpg",
+      "ground_truth": [
+        "I,N,N"
+      ],
+      "prediction": "Innova",
+      "cleaned_prediction": "innova"
+    },
+    {
+      "img_path": "../datasets/svtp/images/634.jpg",
+      "ground_truth": [
+        "B,e,s,t"
+      ],
+      "prediction": "Best of the Best",
+      "cleaned_prediction": "best of the best"
+    },
+    {
+      "img_path": "../datasets/svtp/images/635.jpg",
+      "ground_truth": [
+        "W,e,s,t,e,r,n"
+      ],
+      "prediction": "Business Insider",
+      "cleaned_prediction": "business insider"
+    },
+    {
+      "img_path": "../datasets/svtp/images/636.jpg",
+      "ground_truth": [
+        "T,r,a,v,e,l,o,d,g,e"
+      ],
+      "prediction": "Travelodge",
+      "cleaned_prediction": "travelodge"
+    },
+    {
+      "img_path": "../datasets/svtp/images/637.jpg",
+      "ground_truth": [
+        "T,H,E, ,I,C,E,B,O,X"
+      ],
+      "prediction": "Graffiti on a wall in the city of New Orleans, Louisiana, USA",
+      "cleaned_prediction": "graffiti on a wall in the city of new orleans louisiana usa"
+    },
+    {
+      "img_path": "../datasets/svtp/images/638.jpg",
+      "ground_truth": [
+        "T,H,E"
+      ],
+      "prediction": "The Tile",
+      "cleaned_prediction": "the tile"
+    },
+    {
+      "img_path": "../datasets/svtp/images/639.jpg",
+      "ground_truth": [
+        "L,i,t,t,l,e"
+      ],
+      "prediction": "Burger King Logo",
+      "cleaned_prediction": "burger king logo"
+    },
+    {
+      "img_path": "../datasets/svtp/images/64.jpg",
+      "ground_truth": [
+        "M,a,r,l,b,o,r,o"
+      ],
+      "prediction": "Marlboro",
+      "cleaned_prediction": "marlboro"
+    },
+    {
+      "img_path": "../datasets/svtp/images/640.jpg",
+      "ground_truth": [
+        "S,A,I,G,O,N"
+      ],
+      "prediction": "Alcoholics Anonymous",
+      "cleaned_prediction": "alcoholics anonymous"
+    },
+    {
+      "img_path": "../datasets/svtp/images/641.jpg",
+      "ground_truth": [
+        "P,I,Z,Z,A"
+      ],
+      "prediction": "Pizza Hut",
+      "cleaned_prediction": "pizza hut"
+    },
+    {
+      "img_path": "../datasets/svtp/images/642.jpg",
+      "ground_truth": [
+        "J,A,S"
+      ],
+      "prediction": "A&A Auto Repair",
+      "cleaned_prediction": "a&a auto repair"
+    },
+    {
+      "img_path": "../datasets/svtp/images/643.jpg",
+      "ground_truth": [
+        "G,I,F,T,S"
+      ],
+      "prediction": "FT7000",
+      "cleaned_prediction": "ft7000"
+    },
+    {
+      "img_path": "../datasets/svtp/images/644.jpg",
+      "ground_truth": [
+        "H,O,M,E,W,O,O,D"
+      ],
+      "prediction": "Homewood Suites by Hilton",
+      "cleaned_prediction": "homewood suites by hilton"
+    },
+    {
+      "img_path": "../datasets/svtp/images/645.jpg",
+      "ground_truth": [
+        "S,U,I,T,E,S"
+      ],
+      "prediction": "Suite 100",
+      "cleaned_prediction": "suite 100"
+    },
+    {
+      "img_path": "../datasets/svtp/images/65.jpg",
+      "ground_truth": [
+        "D,a,y,s"
+      ],
+      "prediction": "Days",
+      "cleaned_prediction": "days"
+    },
+    {
+      "img_path": "../datasets/svtp/images/66.jpg",
+      "ground_truth": [
+        "I,n,n"
+      ],
+      "prediction": "Inn",
+      "cleaned_prediction": "inn"
+    },
+    {
+      "img_path": "../datasets/svtp/images/67.jpg",
+      "ground_truth": [
+        "C,H,E,R,R,Y"
+      ],
+      "prediction": "The Herring Run",
+      "cleaned_prediction": "the herring run"
+    },
+    {
+      "img_path": "../datasets/svtp/images/68.jpg",
+      "ground_truth": [
+        "C,H,E,R,R,Y"
+      ],
+      "prediction": "Extracted text from a sign",
+      "cleaned_prediction": "extracted text from a sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/69.jpg",
+      "ground_truth": [
+        "S,T,R,E,E,T"
+      ],
+      "prediction": "Extracted text from sign",
+      "cleaned_prediction": "extracted text from sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/7.jpg",
+      "ground_truth": [
+        "S,T,U,F,F"
+      ],
+      "prediction": "Stuff",
+      "cleaned_prediction": "stuff"
+    },
+    {
+      "img_path": "../datasets/svtp/images/70.jpg",
+      "ground_truth": [
+        "S,T,R,E,E,T"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/71.jpg",
+      "ground_truth": [
+        "C,H,I,N,E,S,E"
+      ],
+      "prediction": "Heritage Seed Library",
+      "cleaned_prediction": "heritage seed library"
+    },
+    {
+      "img_path": "../datasets/svtp/images/72.jpg",
+      "ground_truth": [
+        "C,H,I,N,E,S,E"
+      ],
+      "prediction": "The text is a logo for the company.",
+      "cleaned_prediction": "the text is a logo for the company"
+    },
+    {
+      "img_path": "../datasets/svtp/images/73.jpg",
+      "ground_truth": [
+        "V,E,G,E,T,A,R,I,A,N"
+      ],
+      "prediction": "Vegetarian Foods",
+      "cleaned_prediction": "vegetarian foods"
+    },
+    {
+      "img_path": "../datasets/svtp/images/74.jpg",
+      "ground_truth": [
+        "V,E,G,E,T,A,R,I,A,N"
+      ],
+      "prediction": "Titanium",
+      "cleaned_prediction": "titanium"
+    },
+    {
+      "img_path": "../datasets/svtp/images/75.jpg",
+      "ground_truth": [
+        "C,H,E,R,R,Y"
+      ],
+      "prediction": "Yellow background with white text",
+      "cleaned_prediction": "yellow background with white text"
+    },
+    {
+      "img_path": "../datasets/svtp/images/76.jpg",
+      "ground_truth": [
+        "C,o,n,v,e,n,t,i,o,n"
+      ],
+      "prediction": "Inventor 2017",
+      "cleaned_prediction": "inventor 2017"
+    },
+    {
+      "img_path": "../datasets/svtp/images/77.jpg",
+      "ground_truth": [
+        "C,e,n,t,e,r"
+      ],
+      "prediction": "Central Bank of the Republic of Turkey",
+      "cleaned_prediction": "central bank of the republic of turkey"
+    },
+    {
+      "img_path": "../datasets/svtp/images/78.jpg",
+      "ground_truth": [
+        "A,V,I,S"
+      ],
+      "prediction": "Avis Car Rental",
+      "cleaned_prediction": "avis car rental"
+    },
+    {
+      "img_path": "../datasets/svtp/images/79.jpg",
+      "ground_truth": [
+        "H,a,r,d"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/8.jpg",
+      "ground_truth": [
+        "B,I,C,Y,C,L,E"
+      ],
+      "prediction": "Bicycle",
+      "cleaned_prediction": "bicycle"
+    },
+    {
+      "img_path": "../datasets/svtp/images/80.jpg",
+      "ground_truth": [
+        "H,a,r,d"
+      ],
+      "prediction": "Hard Rock Cafe",
+      "cleaned_prediction": "hard rock cafe"
+    },
+    {
+      "img_path": "../datasets/svtp/images/81.jpg",
+      "ground_truth": [
+        "R,o,c,k"
+      ],
+      "prediction": "Sticky Notes for Windows 10",
+      "cleaned_prediction": "sticky notes for windows 10"
+    },
+    {
+      "img_path": "../datasets/svtp/images/82.jpg",
+      "ground_truth": [
+        "R,O,C,K"
+      ],
+      "prediction": "Rocky Mountain College",
+      "cleaned_prediction": "rocky mountain college"
+    },
+    {
+      "img_path": "../datasets/svtp/images/83.jpg",
+      "ground_truth": [
+        "H,r,d"
+      ],
+      "prediction": "The text is extracted from the image and saved as a text file.",
+      "cleaned_prediction": "the text is extracted from the image and saved as a text file"
+    },
+    {
+      "img_path": "../datasets/svtp/images/84.jpg",
+      "ground_truth": [
+        "R,o,c,k"
+      ],
+      "prediction": "Baidu",
+      "cleaned_prediction": "baidu"
+    },
+    {
+      "img_path": "../datasets/svtp/images/85.jpg",
+      "ground_truth": [
+        "C,A,F,E"
+      ],
+      "prediction": "Yellow background with text",
+      "cleaned_prediction": "yellow background with text"
+    },
+    {
+      "img_path": "../datasets/svtp/images/86.jpg",
+      "ground_truth": [
+        "C,A,F,E"
+      ],
+      "prediction": "Text Extraction",
+      "cleaned_prediction": "text extraction"
+    },
+    {
+      "img_path": "../datasets/svtp/images/87.jpg",
+      "ground_truth": [
+        "M,O,U,N,T,A,I,N"
+      ],
+      "prediction": "The text is a quote from the book, and is a part of the story.",
+      "cleaned_prediction": "the text is a quote from the book and is a part of the story"
+    },
+    {
+      "img_path": "../datasets/svtp/images/88.jpg",
+      "ground_truth": [
+        "S,U,N"
+      ],
+      "prediction": "Sun",
+      "cleaned_prediction": "sun"
+    },
+    {
+      "img_path": "../datasets/svtp/images/89.jpg",
+      "ground_truth": [
+        "S,I,X"
+      ],
+      "prediction": "SISK",
+      "cleaned_prediction": "sisk"
+    },
+    {
+      "img_path": "../datasets/svtp/images/9.jpg",
+      "ground_truth": [
+        "E,X,P,R,E,S,S"
+      ],
+      "prediction": "Express",
+      "cleaned_prediction": "express"
+    },
+    {
+      "img_path": "../datasets/svtp/images/90.jpg",
+      "ground_truth": [
+        "F,E,E,T"
+      ],
+      "prediction": "Text Extraction",
+      "cleaned_prediction": "text extraction"
+    },
+    {
+      "img_path": "../datasets/svtp/images/91.jpg",
+      "ground_truth": [
+        "U,N,D,E,R"
+      ],
+      "prediction": "Extract text from image",
+      "cleaned_prediction": "extract text from image"
+    },
+    {
+      "img_path": "../datasets/svtp/images/92.jpg",
+      "ground_truth": [
+        "R,A,M,A,D,A"
+      ],
+      "prediction": "Madison Square Garden",
+      "cleaned_prediction": "madison square garden"
+    },
+    {
+      "img_path": "../datasets/svtp/images/93.jpg",
+      "ground_truth": [
+        "C,H,A,S,E"
+      ],
+      "prediction": "Ashley Madison",
+      "cleaned_prediction": "ashley madison"
+    },
+    {
+      "img_path": "../datasets/svtp/images/94.jpg",
+      "ground_truth": [
+        "C,H,A,S,E"
+      ],
+      "prediction": "Chase",
+      "cleaned_prediction": "chase"
+    },
+    {
+      "img_path": "../datasets/svtp/images/95.jpg",
+      "ground_truth": [
+        "C,H,A,S,E"
+      ],
+      "prediction": "HAS",
+      "cleaned_prediction": "has"
+    },
+    {
+      "img_path": "../datasets/svtp/images/96.jpg",
+      "ground_truth": [
+        "H,O,T,E,L"
+      ],
+      "prediction": "Hotel Sign",
+      "cleaned_prediction": "hotel sign"
+    },
+    {
+      "img_path": "../datasets/svtp/images/97.jpg",
+      "ground_truth": [
+        "L,I,O,N"
+      ],
+      "prediction": "Lionsgate Entertainment Corp.",
+      "cleaned_prediction": "lionsgate entertainment corp"
+    },
+    {
+      "img_path": "../datasets/svtp/images/98.jpg",
+      "ground_truth": [
+        "R,E,D"
+      ],
+      "prediction": "Red Lobster",
+      "cleaned_prediction": "red lobster"
+    },
+    {
+      "img_path": "../datasets/svtp/images/99.jpg",
+      "ground_truth": [
+        "Y,M,C,A"
+      ],
+      "prediction": "The sign for the Museum of Modern Art in New York City.",
+      "cleaned_prediction": "the sign for the museum of modern art in new york city"
+    }
+  ]
+}

@@ -21,6 +21,8 @@ datasets/svt/images/*.jpg
 datasets/svtp/gt/*.txt
 datasets/svtp/images/*.jpg
 
+datasets/VQA/test_images/*.jpg
+
 *.mat
 LLaMA-7B/*
 weights_old

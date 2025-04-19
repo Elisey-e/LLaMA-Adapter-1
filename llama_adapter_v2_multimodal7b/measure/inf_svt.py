@@ -119,19 +119,12 @@ def run_inference_on_icdar2015(dataset_dir, model, preprocess, device, num_sampl
     return results
 
 def clean_prediction(prediction):
-    """
-    Extract the actual word from the model's prediction
-    """
-    # First try to find the word directly
-    pred_words = prediction.strip().split()
-    if not pred_words:
-        return ""
-    
-    candidate_words = [word.strip(',.?!:;"\'()[]{}') for word in pred_words]
-    candidate_words = [word for word in candidate_words if word]  # Remove empty strings
-    
-    
-    return ' '.join(candidate_words)
+    """Очистка предсказания для сравнения с GT"""
+    # Удаляем пунктуацию и лишние пробелы
+    prediction = prediction.strip().lower()
+    for punc in ',.?!:;"\'()[]{}':
+        prediction = prediction.replace(punc, '')
+    return ' '.join(prediction.split())
 
 
 def calculate_word_accuracy(results):
@@ -185,11 +178,11 @@ def main():
     print(f"Using device: {device}")
     
     # Define paths
-    dataset_dir = "../datasets/cute80"
+    dataset_dir = "../datasets/svtp"
     llama_dir = "../LLaMA-7B"
     model_name = "CAPTION-7B"  # choose from BIAS-7B, LORA-BIAS-7B, CAPTION-7B.pth
-    res_json = "../datasets/cute80/generate_markup_adv.json"
-    stat_json = "../datasets/cute80/statistic_adv.json"
+    res_json = "../datasets/svtp/generate_markup_adv.json"
+    stat_json = "../datasets/svtp/statistic_adv.json"
     
     # Load model
     print(f"Loading model: {model_name}...")
