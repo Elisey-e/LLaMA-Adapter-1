@@ -178,11 +178,11 @@ def main():
     print(f"Using device: {device}")
     
     # Define paths
-    dataset_dir = "../datasets/svtp"
+    dataset_dir = "../datasets/cute80"
     llama_dir = "../LLaMA-7B"
     model_name = "CAPTION-7B"  # choose from BIAS-7B, LORA-BIAS-7B, CAPTION-7B.pth
-    res_json = "../datasets/svtp/generate_markup_adv.json"
-    stat_json = "../datasets/svtp/statistic_adv.json"
+    res_json = "../datasets/cute80/generate_markup_adv.json"
+    stat_json = "../datasets/cute80/statistic_adv.json"
     
     # Load model
     print(f"Loading model: {model_name}...")
