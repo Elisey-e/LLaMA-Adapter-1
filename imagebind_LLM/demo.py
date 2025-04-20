@@ -2,7 +2,7 @@ import ImageBind.data as data
 import llama
 
 
-llama_dir = "/path/to/LLaMA"
+llama_dir = "../llama_adapter_v2_multimodal7b/LLaMA-7B"
 
 model = llama.load("7B", llama_dir, knn=True)
 model.eval()

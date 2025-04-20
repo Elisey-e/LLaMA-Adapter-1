@@ -1,7 +1,4 @@
 {
   "total_samples": 3289,
-  "correct_predictions": 17,
-  "partial_predictions": 1186,
-  "accuracy": 0.005168744299179082,
-  "partial_accuracy": 0.3657646701124962
+  "accuracy": 0.3657646701124962
 }

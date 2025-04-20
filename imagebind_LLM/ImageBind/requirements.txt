@@ -10,7 +10,7 @@ einops
 fvcore
 decord==0.6.0
 iopath
-numpy
+numpy==1.26.4
 matplotlib
 types-regex
 mayavi
