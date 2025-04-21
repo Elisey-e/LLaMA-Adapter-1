@@ -1,0 +1,10 @@
+{"metrics": {
+    "basic": {
+      "total_samples": 3000,
+      "exact_match_accuracy": 0.03266666666666666,
+      "case_insensitive_accuracy": 0.10466666666666667
+    },
+    "word_accuracy": 0.10766666666666666,
+    "small_lexicon_accuracy": 0.2733333333333333,
+    "medium_lexicon_accuracy": 0.163
+  }}
