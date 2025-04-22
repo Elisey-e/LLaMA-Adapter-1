@@ -1,12 +1,9 @@
 import sys
 from pathlib import Path
 
-# Получаем путь к родительской директории текущего файла
-parent_dir = str(Path(__file__).parent.parent)  # На два уровня выше: .parent.parent
-
-# Добавляем путь в sys.path
+# Get parent directory path
+parent_dir = str(Path(__file__).parent.parent)  # Two levels up: .parent.parent
 sys.path.append(parent_dir)
-
 
 import os
 import cv2
@@ -15,13 +12,17 @@ import torch
 import numpy as np
 from PIL import Image
 from tqdm import tqdm
+import json
 
 def load_icdar2013_test_data(gt_file_path):
     """
-    Load the ICDAR2013 test data from the GT text file
-    Format: word_1.png, "Tiredness"
-           word_2.png, "kills"
-           ...
+    Load ICDAR2013 test data from annotation file.
+    
+    Args:
+        gt_file_path: Path to ground truth file
+        
+    Returns:
+        List of dicts containing image names and ground truth text
     """
     dataset = []
     
@@ -33,7 +34,6 @@ def load_icdar2013_test_data(gt_file_path):
         if not line:  # Skip empty lines
             continue
             
-        # Each line has format: image_name, "ground_truth"
         parts = line.split(' ')
         if len(parts) != 2:
             print(f"Warning: Skipping malformed line: {line}")
@@ -52,21 +52,20 @@ def load_icdar2013_test_data(gt_file_path):
 
 def run_inference_on_icdar2013(dataset_dir, gt_file_path, image_dir, model, preprocess, device, num_samples=None):
     """
-    Run inference on the ICDAR2013 dataset
+    Run inference on ICDAR2013 dataset using LLaMA model.
     
     Args:
-        dataset_dir (str): Directory containing the dataset
-        gt_file_path (str): Path to the ground truth file
-        image_dir (str): Directory containing images
-        model: The LLaMA model
+        dataset_dir: Dataset directory path
+        gt_file_path: Ground truth file path
+        image_dir: Directory containing images
+        model: LLaMA model
         preprocess: Image preprocessing function
-        device: Device to run inference on
-        num_samples (int, optional): Number of samples to process. If None, process all.
-    
+        device: Device for inference (cuda/cpu)
+        num_samples: Number of samples to process (None for all)
+        
     Returns:
-        list: Results containing image paths, ground truths, and model predictions
+        List of inference results
     """
-    # Load test data
     test_data = load_icdar2013_test_data(gt_file_path)
     
     if num_samples is not None:
@@ -78,20 +77,19 @@ def run_inference_on_icdar2013(dataset_dir, gt_file_path, image_dir, model, prep
         img_path = os.path.join(image_dir, sample['img_name'])
         
         try:
-            # Read and preprocess the image
             img = Image.fromarray(cv2.imread(img_path))
             img_tensor = preprocess(img).unsqueeze(0).to(device)
             
-            # Create prompt for the model
-            prompt = llama.format_prompt('Extract and transcribe all visible text from this image exactly as it appears.  \
-- Include all words, numbers, and symbols in their original form.  \
-- Preserve line breaks and spacing where relevant.  \
-- Skip any non-text elements, artifacts, or image noise. - Output only the extracted text, without additional comments or formatting.  ')
+            prompt = llama.format_prompt(
+                'Extract and transcribe all visible text from this image exactly as it appears. '
+                '- Include all words, numbers, and symbols in their original form. '
+                '- Preserve line breaks and spacing where relevant. '
+                '- Skip any non-text elements, artifacts, or image noise. '
+                '- Output only the extracted text, without additional comments or formatting.'
+            )
 
-            # Generate prediction
             prediction = model.generate(img_tensor, [prompt])[0]
             
-            # Store results
             results.append({
                 'img_path': img_path,
                 'ground_truth': sample['ground_truth'],
@@ -103,12 +101,16 @@ def run_inference_on_icdar2013(dataset_dir, gt_file_path, image_dir, model, prep
     
     return results
 
-
 def clean_prediction(prediction):
     """
-    Extract the actual word from the model's prediction
+    Clean model prediction for comparison with ground truth.
+    
+    Args:
+        prediction: Raw model output
+        
+    Returns:
+        Cleaned text string
     """
-    # First try to find the word directly
     pred_words = prediction.strip().split()
     if not pred_words:
         return ""
@@ -116,25 +118,18 @@ def clean_prediction(prediction):
     candidate_words = [word.strip(',.?!:;"\'()[]{}') for word in pred_words]
     candidate_words = [word for word in candidate_words if word]  # Remove empty strings
     
-    
     return ' '.join(candidate_words)
 
-
 def calculate_word_accuracy(results):
-    # total_words = 0
-    # correct_words = 0
+    """
+    Calculate word-level accuracy metrics.
     
-    # for result in results:
-    #     gt = result['ground_truth'].strip()
-    #     pred = clean_prediction(result['prediction'])
+    Args:
+        results: List of inference results
         
-    #     print(gt.lower(), pred.lower(), sep='//')
-    #     pred = pred.lower().split()
-    #     total_words += len(gt.lower().split())
-    #     for i in gt.lower().split():
-    #         if i in pred:
-    #             correct_words += 1
-
+    Returns:
+        Dict containing accuracy metrics
+    """
     total_words = len(results)
     correct_words = 0
     
@@ -155,6 +150,15 @@ def calculate_word_accuracy(results):
     }
 
 def evaluate_results(results):
+    """
+    Evaluate and aggregate inference results.
+    
+    Args:
+        results: List of inference results
+        
+    Returns:
+        Dict containing evaluation metrics
+    """
     total = len(results)
     word_acc_metrics = calculate_word_accuracy(results)
     
@@ -165,7 +169,6 @@ def evaluate_results(results):
     
     return metrics
 
-
 def main():
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Using device: {device}")
@@ -174,7 +177,7 @@ def main():
     llama_dir = "../LLaMA-7B"
     gt_file_path = os.path.join(dataset_dir, "test_label.txt")
     image_dir = os.path.join(dataset_dir, "images")
-    model_name = "CAPTION-7B"  # choose from BIAS-7B, LORA-BIAS-7B, CAPTION-7B.pth
+    model_name = "CAPTION-7B"  # Options: BIAS-7B, LORA-BIAS-7B, CAPTION-7B.pth
     res_json = "../datasets/WordArt/generate_markup.json"
     stat_json = "../datasets/WordArt/statistic.json"
     
@@ -193,7 +196,6 @@ def main():
     print(f"Total words: {word_acc['total_words']}")
     print(f"Word accuracy: {word_acc['word_accuracy']:.4f}")
     
-    import json
     output_results = [{
         'img_path': r['img_path'],
         'ground_truth': r['ground_truth'],

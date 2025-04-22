@@ -26,6 +26,8 @@ The environment differs from the author's, so requirements are not stably instal
   python3 [model]_[dataset].py
   ```
 
+**Note**:
+Files named [dataset] = SVT are also usable with SVTP, cute 80 datasets
 
 ## Dataset brief overview
 
