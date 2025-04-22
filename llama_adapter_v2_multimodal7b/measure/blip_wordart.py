@@ -9,7 +9,7 @@ import json
 from transformers import Blip2Processor, Blip2ForConditionalGeneration
 
 # Set custom Hugging Face cache directory
-cache_dir = '/beta/projects/hyperflex/code/zhdanov/llm_test/LLaMA-Adapter/llama_adapter_v2_multimodal7b/measure/huggingface_cache'
+cache_dir = 'zhdanov/llm_test/LLaMA-Adapter/llama_adapter_v2_multimodal7b/measure/huggingface_cache'
 os.environ['HF_HOME'] = cache_dir
 os.environ['TRANSFORMERS_CACHE'] = os.path.join(cache_dir, 'transformers')
 

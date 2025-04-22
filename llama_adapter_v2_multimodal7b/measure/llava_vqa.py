@@ -9,13 +9,21 @@ import json
 import re
 from transformers import LlavaForConditionalGeneration, LlavaProcessor
 
-# Установка пользовательской директории для кеша Hugging Face
-cache_dir = '/beta/projects/hyperflex/code/zhdanov/llm_test/LLaMA-Adapter/llama_adapter_v2_multimodal7b/measure/huggingface_cache'
+# Set custom Hugging Face cache directory
+cache_dir = 'zhdanov/llm_test/LLaMA-Adapter/llama_adapter_v2_multimodal7b/measure/huggingface_cache'
 os.environ['HF_HOME'] = cache_dir
 os.environ['TRANSFORMERS_CACHE'] = os.path.join(cache_dir, 'transformers')
 
 def load_vqa_data(json_path):
-    """Загрузка данных VQA из JSON файла"""
+    """
+    Load VQA dataset from JSON file.
+    
+    Args:
+        json_path: Path to JSON annotation file
+        
+    Returns:
+        List of dicts containing image metadata and ground truth
+    """
     with open(json_path, 'r') as f:
         data = json.load(f)
     
@@ -25,13 +33,13 @@ def load_vqa_data(json_path):
     for item in data['data']:
         image_id = item['image_id']
         
-        # Берем только одно описание для каждого изображения
+        # Use only one description per image
         if image_id in processed_images:
             continue
             
         processed_images.add(image_id)
         
-        # Берем список классов как ground truth
+        # Use class list as ground truth
         ground_truth = ' '.join(item['image_classes'])
         
         entry = {
@@ -44,7 +52,20 @@ def load_vqa_data(json_path):
     return dataset
 
 def run_inference_on_vqa(dataset_dir, json_path, processor, model, device, num_samples=None):
-    """Инференс на данных VQA с использованием LLaVA"""
+    """
+    Run LLaVA inference on VQA dataset.
+    
+    Args:
+        dataset_dir: Dataset directory path
+        json_path: Path to JSON annotations
+        processor: LLaVA processor
+        model: LLaVA model
+        device: Device for inference
+        num_samples: Number of samples to process (None for all)
+        
+    Returns:
+        List of inference results
+    """
     test_data = load_vqa_data(json_path)
     
     if num_samples is not None:
@@ -58,7 +79,7 @@ def run_inference_on_vqa(dataset_dir, json_path, processor, model, device, num_s
         try:
             image = Image.open(img_path).convert("RGB")
             
-            # Оптимизированный промпт для LLaVA
+            # Optimized prompt for object detection
             prompt = "USER: <image>\nIdentify ONLY the two most prominent objects in this image. \
             List them separated by a single space, nothing else. Examples:\n\
             - For laptop and phone: 'laptop phone'\n\
@@ -67,7 +88,7 @@ def run_inference_on_vqa(dataset_dir, json_path, processor, model, device, num_s
             
             inputs = processor(text=prompt, images=image, return_tensors="pt").to(device)
             
-            # Параметры генерации, сбалансированные для LLaVA
+            # Generation parameters optimized for LLaVA
             with torch.no_grad():
                 output = model.generate(
                     **inputs,
@@ -80,7 +101,7 @@ def run_inference_on_vqa(dataset_dir, json_path, processor, model, device, num_s
                     length_penalty=-1.0
                 )
                 
-            # Извлекаем только ответ ассистента
+            # Extract only assistant's response
             full_output = processor.decode(output[0], skip_special_tokens=True)
             prediction = full_output.split("ASSISTANT:")[-1].strip()
             
@@ -96,35 +117,51 @@ def run_inference_on_vqa(dataset_dir, json_path, processor, model, device, num_s
     return results
 
 def clean_prediction(prediction):
-    """Улучшенная очистка предсказания"""
-    # Приводим к нижнему регистру
+    """
+    Clean and normalize prediction text.
+    
+    Args:
+        prediction: Raw model output
+        
+    Returns:
+        Normalized string of unique words
+    """
     prediction = prediction.lower().strip()
     
-    # Удаляем все кроме букв и пробелов
+    # Keep only letters and spaces
     prediction = re.sub(r'[^a-z\s]', '', prediction)
     
-    # Удаляем стоп-слова
+    # Remove common stop words
     stop_words = {'a', 'an', 'the', 'and', 'is', 'are', 'in', 'this', 'of', 'with'}
     words = [word for word in prediction.split() if word not in stop_words]
     
-    # Удаляем дубликаты и сортируем для единообразия
+    # Deduplicate and sort for consistency
     words = sorted(list(set(words)))
     
     return ' '.join(words)
 
 def calculate_accuracy(results):
+    """
+    Calculate accuracy metrics for VQA results.
+    
+    Args:
+        results: List of inference results
+        
+    Returns:
+        Dict containing accuracy metrics
+    """
     total_samples = len(results)
     correct_predictions = 0
-    partial_predictions = 0  # Для частично правильных ответов
+    partial_predictions = 0  # For partially correct answers
     
     for result in results:
         gt = set(result['ground_truth'].lower().split())
         pred = set(clean_prediction(result['prediction']).split())
         
-        # Полное совпадение
+        # Full match
         if gt == pred:
             correct_predictions += 1
-        # Частичное совпадение (хотя бы один объект угадан)
+        # Partial match (at least one correct object)
         elif not gt.isdisjoint(pred):
             partial_predictions += 1
     
@@ -140,9 +177,16 @@ def calculate_accuracy(results):
     }
 
 def evaluate_results(results):
-    metrics = calculate_accuracy(results)
+    """
+    Evaluate and aggregate VQA results.
     
-    return metrics
+    Args:
+        results: List of inference results
+        
+    Returns:
+        Dict containing evaluation metrics
+    """
+    return calculate_accuracy(results)
 
 def main():
     os.makedirs(cache_dir, exist_ok=True)
@@ -162,7 +206,6 @@ def main():
     model_name = "llava-hf/llava-1.5-7b-hf"
     
     processor = LlavaProcessor.from_pretrained(model_name, cache_dir=cache_dir)
-    
     model = LlavaForConditionalGeneration.from_pretrained(
         model_name,
         torch_dtype=torch.float16 if device == "cuda" else torch.float32,
@@ -171,7 +214,6 @@ def main():
     
     print("Running inference on VQA dataset...")
     results = run_inference_on_vqa(dataset_dir, json_path, processor, model, device)
-    
     metrics = evaluate_results(results)
 
     print("\nResults Summary:")
