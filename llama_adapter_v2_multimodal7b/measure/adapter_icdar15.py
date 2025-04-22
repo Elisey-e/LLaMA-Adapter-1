@@ -1,13 +1,5 @@
 import sys
 from pathlib import Path
-
-# Получаем путь к родительской директории текущего файла
-parent_dir = str(Path(__file__).parent.parent)  # На два уровня выше: .parent.parent
-
-# Добавляем путь в sys.path
-sys.path.append(parent_dir)
-
-
 import os
 import cv2
 import llama
@@ -16,11 +8,22 @@ import numpy as np
 from PIL import Image
 from tqdm import tqdm
 import glob
+import json
+
+# Add parent directory to system path
+parent_dir = str(Path(__file__).parent.parent)  # Two levels up: .parent.parent
+sys.path.append(parent_dir)
 
 def load_icdar2015_test_data(gt_dir, image_dir):
     """
-    Load the ICDAR2015 test data - words only
-    Ground truth format (per line): x1,y1,x2,y2,x3,y3,x4,y4,text
+    Load ICDAR2015 test data (words only).
+    
+    Args:
+        gt_dir: Directory containing ground truth text files
+        image_dir: Directory containing images
+        
+    Returns:
+        List of dictionaries containing image data and ground truth words
     """
     dataset = []
     word_count = 0
@@ -41,7 +44,7 @@ def load_icdar2015_test_data(gt_dir, image_dir):
         
         # Read ground truth file
         words = []
-        with open(gt_file, 'r') as f:
+        with open(gt_file, 'r', encoding='utf-8') as f:
             lines = f.readlines()
         
         for line in lines:
@@ -55,7 +58,7 @@ def load_icdar2015_test_data(gt_dir, image_dir):
                 print(f"Warning: Skipping malformed line: {line}")
                 continue
                 
-            # Extract text (everything after the 8 coordinates, joined by commas if text contains commas)
+            # Extract text (everything after the 8 coordinates)
             text = ','.join(parts[8:])
             words.append(text)
             word_count += 1
@@ -72,19 +75,18 @@ def load_icdar2015_test_data(gt_dir, image_dir):
 
 def run_inference_on_icdar2015(dataset_dir, model, preprocess, device, num_samples=None):
     """
-    Run inference on the ICDAR2015 dataset - whole images
+    Run LLaMA inference on ICDAR2015 dataset (whole images).
     
     Args:
-        dataset_dir (str): Directory containing the dataset
-        model: The LLaMA model
+        dataset_dir: Directory containing the dataset
+        model: LLaMA model
         preprocess: Image preprocessing function
-        device: Device to run inference on
-        num_samples (int, optional): Number of samples to process. If None, process all.
-    
+        device: Device for inference
+        num_samples: Number of samples to process (None for all)
+        
     Returns:
-        list: Results containing image paths, ground truths, and model predictions
+        List of inference results
     """
-    # Load test data
     gt_dir = os.path.join(dataset_dir, "gt")
     image_dir = os.path.join(dataset_dir, "images")
     test_data = load_icdar2015_test_data(gt_dir, image_dir)
@@ -100,16 +102,18 @@ def run_inference_on_icdar2015(dataset_dir, model, preprocess, device, num_sampl
             img = Image.fromarray(cv2.imread(sample['img_path']))
             img_tensor = preprocess(img).unsqueeze(0).to(device)
             
-            # Create prompt for the model
-            prompt = llama.format_prompt('Extract and transcribe all visible text from this image exactly as it appears.  \
-- Include all words, numbers, and symbols in their original form.  \
-- Preserve line breaks and spacing where relevant.  \
-- Skip any non-text elements, artifacts, or image noise. - Output only the extracted text, without additional comments or formatting.  ')
+            # Create optimized prompt for text extraction
+            prompt = llama.format_prompt(
+                'Extract and transcribe all visible text from this image exactly as it appears.\n'
+                '- Include all words, numbers, and symbols in their original form.\n'
+                '- Preserve line breaks and spacing where relevant.\n'
+                '- Skip any non-text elements, artifacts, or image noise.\n'
+                '- Output only the extracted text, without additional comments or formatting.'
+            )
 
             # Generate prediction
             prediction = model.generate(img_tensor, [prompt])[0]
             
-            # Store results
             results.append({
                 'img_path': sample['img_path'],
                 'ground_truth': sample['words'],
@@ -123,35 +127,34 @@ def run_inference_on_icdar2015(dataset_dir, model, preprocess, device, num_sampl
 
 def clean_prediction(prediction):
     """
-    Extract the actual word from the model's prediction
+    Clean prediction text for comparison with ground truth.
+    
+    Args:
+        prediction: Raw model output
+        
+    Returns:
+        Normalized text string
     """
-    # First try to find the word directly
     pred_words = prediction.strip().split()
     if not pred_words:
         return ""
     
+    # Remove punctuation and empty strings
     candidate_words = [word.strip(',.?!:;"\'()[]{}') for word in pred_words]
-    candidate_words = [word for word in candidate_words if word]  # Remove empty strings
-    
+    candidate_words = [word for word in candidate_words if word]
     
     return ' '.join(candidate_words)
 
-
 def calculate_word_accuracy(results):
-    # total_words = 0
-    # correct_words = 0
+    """
+    Calculate word-level accuracy metrics.
     
-    # for result in results:
-    #     gt = result['ground_truth'].strip()
-    #     pred = clean_prediction(result['prediction'])
+    Args:
+        results: List of inference results
         
-    #     print(gt.lower(), pred.lower(), sep='//')
-    #     pred = pred.lower().split()
-    #     total_words += len(gt.lower().split())
-    #     for i in gt.lower().split():
-    #         if i in pred:
-    #             correct_words += 1
-
+    Returns:
+        Dict containing accuracy metrics
+    """
     total_words = len(results)
     correct_words = 0
     
@@ -159,11 +162,10 @@ def calculate_word_accuracy(results):
         gt = clean_prediction(' '.join(result['ground_truth']))
         pred = clean_prediction(result['prediction'])
         
-        print(gt.lower(), pred.lower(), sep='//')
         if gt.lower() == pred.lower():
             correct_words += 1
     
-    word_accuracy = correct_words / total_words
+    word_accuracy = correct_words / total_words if total_words > 0 else 0
     
     return {
         'total_words': total_words,
@@ -172,6 +174,15 @@ def calculate_word_accuracy(results):
     }
 
 def evaluate_results(results):
+    """
+    Evaluate and aggregate inference results.
+    
+    Args:
+        results: List of inference results
+        
+    Returns:
+        Dict containing evaluation metrics
+    """
     total = len(results)
     word_acc_metrics = calculate_word_accuracy(results)
     
@@ -190,7 +201,7 @@ def main():
     # Define paths
     dataset_dir = "../datasets/icdar2015"
     llama_dir = "../LLaMA-7B"
-    model_name = "CAPTION-7B"  # choose from BIAS-7B, LORA-BIAS-7B, CAPTION-7B.pth
+    model_name = "CAPTION-7B"  # Options: BIAS-7B, LORA-BIAS-7B, CAPTION-7B.pth
     res_json = "../datasets/icdar2015/generate_markup_adv.json"
     stat_json = "../datasets/icdar2015/statistic_adv.json"
     
@@ -200,18 +211,19 @@ def main():
     model.eval()
     
     # Run inference
-    print("Running inference on IIIT5K dataset...")
+    print("Running inference on ICDAR2015 dataset...")
     results = run_inference_on_icdar2015(dataset_dir, model, preprocess, device)
     metrics = evaluate_results(results)
     word_acc = metrics['word_accuracy_metrics']
 
-    print("\nBasic Results:")
+    print("\nResults Summary:")
     print(f"Total samples: {metrics['total_samples']}")
     print("\nWord Accuracy Metrics:")
     print(f"Total words: {word_acc['total_words']}")
+    print(f"Correct words: {word_acc['correct_words']}")
     print(f"Word accuracy: {word_acc['word_accuracy']:.4f}")
     
-    import json
+    # Prepare and save results
     output_results = [{
         'img_path': r['img_path'],
         'ground_truth': r['ground_truth'],

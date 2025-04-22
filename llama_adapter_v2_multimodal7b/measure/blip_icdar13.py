@@ -8,16 +8,24 @@ from tqdm import tqdm
 import json
 from transformers import Blip2Processor, Blip2ForConditionalGeneration
 
-# Установка пользовательской директории для кеша Hugging Face
+# Set custom Hugging Face cache directory
 cache_dir = 'zhdanov/llm_test/LLaMA-Adapter/llama_adapter_v2_multimodal7b/measure/huggingface_cache'
 os.environ['HF_HOME'] = cache_dir
 os.environ['TRANSFORMERS_CACHE'] = os.path.join(cache_dir, 'transformers')
 
 def load_icdar2013_test_data(gt_file_path):
-    """Загрузка данных ICDAR2013 из файла с разметкой"""
+    """
+    Load ICDAR2013 test data from annotation file.
+    
+    Args:
+        gt_file_path: Path to ground truth file
+        
+    Returns:
+        List of dictionaries containing image names and ground truth text
+    """
     dataset = []
     
-    with open(gt_file_path, 'r') as f:
+    with open(gt_file_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     
     for line in lines:
@@ -25,12 +33,13 @@ def load_icdar2013_test_data(gt_file_path):
         if not line:
             continue
             
+        # Handle CSV-like format: "img_name","ground_truth"
         parts = line.split(', "')
         if len(parts) != 2:
             print(f"Warning: Skipping malformed line: {line}")
             continue
             
-        img_name = parts[0].strip()
+        img_name = parts[0].strip('"').strip()
         ground_truth = parts[1].strip('"').strip()
         
         entry = {
@@ -42,7 +51,21 @@ def load_icdar2013_test_data(gt_file_path):
     return dataset
 
 def run_inference_on_icdar2013(dataset_dir, gt_file_path, image_dir, processor, model, device, num_samples=None):
-    """Инференс на данных ICDAR2013 с модификациями для OCR"""
+    """
+    Run BLIP inference on ICDAR2013 dataset.
+    
+    Args:
+        dataset_dir: Dataset directory path
+        gt_file_path: Ground truth file path
+        image_dir: Image directory path
+        processor: BLIP processor
+        model: BLIP model
+        device: Device for inference
+        num_samples: Number of samples to process (None for all)
+        
+    Returns:
+        List of inference results
+    """
     test_data = load_icdar2013_test_data(gt_file_path)
     
     if num_samples is not None:
@@ -50,30 +73,30 @@ def run_inference_on_icdar2013(dataset_dir, gt_file_path, image_dir, processor, 
     
     results = []
     
-    for sample in tqdm(test_data, desc="Running inference"):
+    for sample in tqdm(test_data, desc="Processing images"):
         img_path = os.path.join(image_dir, sample['img_name'])
         
         try:
             image = Image.open(img_path).convert("RGB")
             
-            # Модифицируем промпт для получения только текста
+            # Optimized prompt for text extraction
             prompt = "Question: What is the written word. Answer:"
             
             inputs = processor(image, text=prompt, return_tensors="pt").to(device)
             
-            # Генерация с ограничением длины и температурой
+            # Generate with constrained parameters
             with torch.no_grad():
                 output = model.generate(
                     **inputs,
-                    max_new_tokens=20,  # Ограничиваем длину вывода
-                    num_beams=3,         # Используем beam search
-                    temperature=0.1,     # Понижаем температуру для детерминированности
+                    max_new_tokens=20,  # Limit output length
+                    num_beams=3,       # Beam search
+                    temperature=0.1,   # Low temperature for determinism
                     early_stopping=True
                 )
                 
             prediction = processor.decode(output[0], skip_special_tokens=True)
             
-            # Удаляем промпт из ответа
+            # Remove prompt from answer
             prediction = prediction.replace(prompt, "").strip()
             
             results.append({
@@ -83,19 +106,35 @@ def run_inference_on_icdar2013(dataset_dir, gt_file_path, image_dir, processor, 
             })
             
         except Exception as e:
-            print(f"Error processing {img_path}: {e}")
+            print(f"Error processing {img_path}: {str(e)}")
     
     return results
 
 def clean_prediction(prediction):
-    """Очистка предсказания для сравнения с GT"""
-    # Удаляем пунктуацию и лишние пробелы
+    """
+    Clean prediction text for comparison with ground truth.
+    
+    Args:
+        prediction: Raw model output
+        
+    Returns:
+        Normalized text string
+    """
     prediction = prediction.strip().lower()
     for punc in ',.?!:;"\'()[]{}':
         prediction = prediction.replace(punc, '')
     return ' '.join(prediction.split())
 
 def calculate_word_accuracy(results):
+    """
+    Calculate word-level accuracy metrics.
+    
+    Args:
+        results: List of inference results
+        
+    Returns:
+        Dict containing accuracy metrics
+    """
     total_words = len(results)
     correct_words = 0
     
@@ -115,6 +154,15 @@ def calculate_word_accuracy(results):
     }
 
 def evaluate_results(results):
+    """
+    Evaluate and aggregate inference results.
+    
+    Args:
+        results: List of inference results
+        
+    Returns:
+        Dict containing evaluation metrics
+    """
     total = len(results)
     word_acc_metrics = calculate_word_accuracy(results)
     
@@ -144,16 +192,14 @@ def main():
     model_name = "Salesforce/blip2-opt-2.7b"
     
     processor = Blip2Processor.from_pretrained(model_name, cache_dir=cache_dir)
-    
     model = Blip2ForConditionalGeneration.from_pretrained(
         model_name,
-        torch_dtype=torch.float16 if device == "cuda" else torch.float32,
+        torch_dtype=torch.float16 if device.startswith("cuda") else torch.float32,
         cache_dir=cache_dir
     ).to(device)
     
     print("Running inference on ICDAR2013 dataset...")
     results = run_inference_on_icdar2013(dataset_dir, gt_file_path, image_dir, processor, model, device)
-    
     metrics = evaluate_results(results)
     word_acc = metrics['word_accuracy_metrics']
 

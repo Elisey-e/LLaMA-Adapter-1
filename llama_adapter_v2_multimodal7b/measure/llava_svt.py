@@ -9,15 +9,21 @@ import json
 from transformers import LlavaForConditionalGeneration, LlavaProcessor
 import glob
 
-# Установка пользовательской директории для кеша Hugging Face
+# Set custom Hugging Face cache directory
 cache_dir = 'zhdanov/llm_test/LLaMA-Adapter/llama_adapter_v2_multimodal7b/measure/huggingface_cache'
 os.environ['HF_HOME'] = cache_dir
 os.environ['TRANSFORMERS_CACHE'] = os.path.join(cache_dir, 'transformers')
 
 def load_icdar2015_test_data(gt_dir, image_dir):
     """
-    Load the ICDAR2015 test data - words only
-    Ground truth format (per line): x1,y1,x2,y2,x3,y3,x4,y4,text
+    Load ICDAR2015 test data (words only).
+    
+    Args:
+        gt_dir: Directory containing ground truth text files
+        image_dir: Directory containing images
+        
+    Returns:
+        List of dictionaries containing image data and ground truth words
     """
     dataset = []
     word_count = 0
@@ -46,11 +52,8 @@ def load_icdar2015_test_data(gt_dir, image_dir):
             if not line:  # Skip empty lines
                 continue
                 
-            # Parse line: x1,y1,x2,y2,x3,y3,x4,y4,text
-            parts = line
-                
-            # Extract text (everything after the 8 coordinates, joined by commas if text contains commas)
-            text = ','.join(parts)
+            # Extract text (ground truth format: x1,y1,x2,y2,x3,y3,x4,y4,text)
+            text = line.split(',')[-1]  # Get text after coordinates
             words.append(text)
             word_count += 1
         
@@ -65,7 +68,19 @@ def load_icdar2015_test_data(gt_dir, image_dir):
     return dataset
 
 def run_inference_on_icdar2015(dataset_dir, processor, model, device, num_samples=None):
-    """Инференс на данных ICDAR2013 с использованием LLaVA"""
+    """
+    Run LLaVA inference on ICDAR2015 dataset.
+    
+    Args:
+        dataset_dir: Dataset directory path
+        processor: LLaVA processor
+        model: LLaVA model
+        device: Device for inference
+        num_samples: Number of samples to process (None for all)
+        
+    Returns:
+        List of inference results
+    """
     gt_dir = os.path.join(dataset_dir, "gt")
     image_dir = os.path.join(dataset_dir, "images")
     test_data = load_icdar2015_test_data(gt_dir, image_dir)
@@ -76,32 +91,33 @@ def run_inference_on_icdar2015(dataset_dir, processor, model, device, num_sample
     results = []
     
     for sample in tqdm(test_data, desc="Running inference"):
-        img_path = os.path.join(image_dir, sample['img_name'])
+        img_path = sample['img_path']
         
         try:
             image = Image.open(img_path).convert("RGB")
             
-            # Промпт для LLaVA, оптимизированный для OCR
-            prompt = "USER: <image>\nI need to extract text from this image. \
-          Here are examples of correct responses:\n\
-          - If image shows 'Hello', respond: Hello\n\
-          - If image shows '123', respond: 123\n\
-          Now read this image and provide JUST the text, nothing else.\nASSISTANT:"
+            # Optimized prompt for OCR
+            prompt = ("USER: <image>\nI need to extract text from this image. "
+                     "Here are examples of correct responses:\n"
+                     "- If image shows 'Hello', respond: Hello\n"
+                     "- If image shows '123', respond: 123\n"
+                     "Now read this image and provide JUST the text, nothing else.\nASSISTANT:")
+            
             inputs = processor(text=prompt, images=image, return_tensors="pt").to(device)
             
-            # Генерация с ограничением длины
+            # Generate with length constraints
             with torch.no_grad():
                 output = model.generate(
-    **inputs,
-    max_new_tokens=10,
-    num_beams=7,
-    early_stopping=True,
-    do_sample=False,
-    temperature=0.001,
-    length_penalty=-1.0,  # Штрафуем длинные ответы
-)
+                    **inputs,
+                    max_new_tokens=10,
+                    num_beams=7,
+                    early_stopping=True,
+                    do_sample=False,
+                    temperature=0.001,
+                    length_penalty=-1.0  # Penalize long answers
+                )
                 
-            # Декодируем только ответ ассистента
+            # Decode only the assistant's response
             full_output = processor.decode(output[0], skip_special_tokens=True)
             prediction = full_output.split("ASSISTANT:")[-1].strip()
             
@@ -117,14 +133,30 @@ def run_inference_on_icdar2015(dataset_dir, processor, model, device, num_sample
     return results
 
 def clean_prediction(prediction):
-    """Очистка предсказания для сравнения с GT"""
-    # Удаляем пунктуацию и лишние пробелы
+    """
+    Clean prediction text for comparison with ground truth.
+    
+    Args:
+        prediction: Raw model output
+        
+    Returns:
+        Normalized text string
+    """
     prediction = prediction.strip().lower()
     for punc in ',.?!:;"\'()[]{}':
         prediction = prediction.replace(punc, '')
     return ' '.join(prediction.split())
 
 def calculate_word_accuracy(results):
+    """
+    Calculate word-level accuracy metrics.
+    
+    Args:
+        results: List of inference results
+        
+    Returns:
+        Dict containing accuracy metrics
+    """
     total_words = len(results)
     correct_words = 0
     
@@ -144,6 +176,15 @@ def calculate_word_accuracy(results):
     }
 
 def evaluate_results(results):
+    """
+    Evaluate and aggregate inference results.
+    
+    Args:
+        results: List of inference results
+        
+    Returns:
+        Dict containing evaluation metrics
+    """
     total = len(results)
     word_acc_metrics = calculate_word_accuracy(results)
     
@@ -171,16 +212,14 @@ def main():
     model_name = "llava-hf/llava-1.5-7b-hf"
     
     processor = LlavaProcessor.from_pretrained(model_name, cache_dir=cache_dir)
-    
     model = LlavaForConditionalGeneration.from_pretrained(
         model_name,
         torch_dtype=torch.float16 if device == "cuda" else torch.float32,
         cache_dir=cache_dir
     ).to(device)
     
-    print("Running inference on ICDAR2013 dataset...")
+    print("Running inference on ICDAR2015 dataset...")
     results = run_inference_on_icdar2015(dataset_dir, processor, model, device)
-    
     metrics = evaluate_results(results)
     word_acc = metrics['word_accuracy_metrics']
 
