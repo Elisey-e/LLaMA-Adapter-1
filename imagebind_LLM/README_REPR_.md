@@ -1,6 +1,4 @@
-Here's the improved English translation with enhanced Markdown formatting:
 
-```markdown
 Currently, Image-Bind cannot be started due to an issue with CUDA drivers. Inference was only conducted for the LLama Adapter and other models.
 
 ## Setup
